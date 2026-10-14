@@ -1,0 +1,145 @@
+trait_id,raw_variable,canonical_trait,canonical_unit,category,description,data_type,observed_domains,observed_units,source_record_count,conversion_rule,mapping_status
+TF7A1BCEC2D,CLS,CLS,%,annual_report,Source variable retained; no semantic rename applied in this pass.,numeric,annual_report,%,1,,SOURCE_NAME_RETAINED
+T92E41878EE,DH_populations,DH_populations,populations,annual_report,Source variable retained; no semantic rename applied in this pass.,numeric,annual_report,populations,1,,SOURCE_NAME_RETAINED
+TD4983F928F,MLB,MLB,%,annual_report,Source variable retained; no semantic rename applied in this pass.,numeric,annual_report,%,1,,SOURCE_NAME_RETAINED
+T494F200C33,P.Rust,P.Rust,%,annual_report,Source variable retained; no semantic rename applied in this pass.,numeric,annual_report,%,1,,SOURCE_NAME_RETAINED
+T3FDB8141B3,PDI,PDI,%,annual_report,Source variable retained; no semantic rename applied in this pass.,numeric,annual_report,%,1,,SOURCE_NAME_RETAINED
+T9A5E14D873,PFSR,PFSR,%,annual_report,Source variable retained; no semantic rename applied in this pass.,numeric,annual_report,%,1,,SOURCE_NAME_RETAINED
+TB7C5C6AFA5,PG_research_supported_programs,PG_research_supported_programs,programs,annual_report,Source variable retained; no semantic rename applied in this pass.,numeric,annual_report,programs,1,,SOURCE_NAME_RETAINED
+T968AC645DC,RH_I,relative_humidity_I,%,weather,Relative humidity observation I,numeric,annual_report,%,12,,MAPPED
+T7562027751,RH_II,relative_humidity_II,%,weather,Relative humidity observation II,numeric,annual_report,%,12,,MAPPED
+TA21E2A09CB,SCSP_area,SCSP_area,acres,annual_report,Source variable retained; no semantic rename applied in this pass.,numeric,annual_report,acres,1,,SOURCE_NAME_RETAINED
+T2580CF9383,Sorghum Downy mildew,Sorghum Downy mildew,%,annual_report,Source variable retained; no semantic rename applied in this pass.,numeric,annual_report,%,1,,SOURCE_NAME_RETAINED
+TD3CEEA06F9,TLB,TLB,%,annual_report,Source variable retained; no semantic rename applied in this pass.,numeric,annual_report,%,1,,SOURCE_NAME_RETAINED
+T730629FEFF,TLB_disease_incidence,TLB_disease_incidence,%,annual_report,Source variable retained; no semantic rename applied in this pass.,numeric,annual_report,%,4,,SOURCE_NAME_RETAINED
+TDDA81E7E27,TLB_hotspot,TLB_hotspot,flag,annual_report,Source variable retained; no semantic rename applied in this pass.,categorical/text,annual_report,flag,3,,SOURCE_NAME_RETAINED
+T51E5417D58,TLB_incidence,TLB_incidence,%,annual_report,Source variable retained; no semantic rename applied in this pass.,numeric,annual_report,%,1,,SOURCE_NAME_RETAINED
+TE1694952A6,TLB_max_yield_loss,TLB_max_yield_loss,%,annual_report,Source variable retained; no semantic rename applied in this pass.,numeric,annual_report,%,1,,SOURCE_NAME_RETAINED
+T0B51BD834F,acceptability,acceptability,qualitative,annual_report,Source variable retained; no semantic rename applied in this pass.,categorical/text,annual_report,qualitative,3,,SOURCE_NAME_RETAINED
+T47CD772F3F,actual_rainfall,actual_rainfall,mm,weather,Actual rainfall,numeric,annual_report,mm,13,,MAPPED
+TAB45106045,actual_rainfall_mm,actual_rainfall,mm,weather,Actual rainfall,numeric,weather,mm,12,,MAPPED
+TD4D9148620,actual_rainy_days,actual_rainy_days,days,weather,Actual rainy days,numeric,annual_report|weather,days,25,,MAPPED
+T00F2390901,aggressive_virulent_isolate,aggressive_virulent_isolate,isolate,annual_report,Source variable retained; no semantic rename applied in this pass.,categorical/text,annual_report,isolate,2,,SOURCE_NAME_RETAINED
+T7BBC77E101,area_conducted,area_conducted,hectare,annual_report,Source variable retained; no semantic rename applied in this pass.,numeric,annual_report,hectare,2,,SOURCE_NAME_RETAINED
+T8EC3A56355,baby_corn_diameter_cm,baby_corn_diameter,cm,specialty_trait,Diameter of baby corn,numeric,yield,cm,13,,MAPPED
+T8C946AF51E,baby_corn_length_cm,baby_corn_length,cm,specialty_trait,Length of baby corn,numeric,yield,cm,13,,MAPPED
+T1CF2EAD93D,baby_corn_weight_with_husk_kg_per_ha,baby_corn_weight_with_husk,kg/ha,specialty_yield,Baby corn weight with husk,numeric,yield,kg/ha,12,,MAPPED
+T275450118D,calcium,calcium,mg,annual_report,Source variable retained; no semantic rename applied in this pass.,numeric,annual_report,mg,4,,SOURCE_NAME_RETAINED
+T5BDB8922BB,cob_girth_cm,cob_girth,cm,yield_component,Cob girth,numeric,yield,cm,35,,MAPPED
+T8085FA433A,cob_length_cm,cob_length,cm,yield_component,Cob length,numeric,yield,cm,35,,MAPPED
+T20BA658EB1,control_PDI,control_PDI,%,annual_report,Source variable retained; no semantic rename applied in this pass.,numeric,annual_report,%,1,,SOURCE_NAME_RETAINED
+T4BBD359AA0,control_grain_yield,control_grain_yield,q/ha,annual_report,Source variable retained; no semantic rename applied in this pass.,numeric,annual_report,q/ha,1,,SOURCE_NAME_RETAINED
+TFAEB5EDD51,coordinated_trials,coordinated_trials,trials,annual_report,Source variable retained; no semantic rename applied in this pass.,numeric,annual_report,trials,1,,SOURCE_NAME_RETAINED
+TA2E8FE5371,crude_fiber,crude_fiber,g,annual_report,Source variable retained; no semantic rename applied in this pass.,numeric,annual_report,g,8,,SOURCE_NAME_RETAINED
+TD2369F837B,days_50_flowering,days_to_50_percent_flowering,days,agronomic,Days to 50% flowering,numeric,yield,days,14,,MAPPED
+TE9C016F512,days_50_pollen_shedding,days_to_50_percent_pollen_shedding,days,agronomic,Days to 50% pollen shedding,numeric,yield,days,192,,MAPPED
+T5E12315639,days_50_silking,days_to_50_percent_silking,days,agronomic,Days to 50% silking,numeric,yield,days,207,,MAPPED
+T6DC4C93454,days_75_dry_husk,days_to_75_percent_dry_husk,days,agronomic,Days to 75% dry husk,numeric,yield,days,162,,MAPPED
+T615CD3F009,disease_control,disease_control,%,annual_report,Source variable retained; no semantic rename applied in this pass.,numeric,annual_report,%,1,,SOURCE_NAME_RETAINED
+T163DC141BE,duration_picking_days,duration_picking,days,specialty_trait,Picking duration,numeric,yield,days,12,,MAPPED
+T4AF19572E1,ear_height_cm,ear_height,cm,agronomic,Ear height,numeric,yield,cm,207,,MAPPED
+T77F843AF3F,farm_trials,farm_trials,trials,annual_report,Source variable retained; no semantic rename applied in this pass.,numeric,annual_report,trials,1,,SOURCE_NAME_RETAINED
+TD3FC52BFDF,farmer_fields,farmer_fields,fields,annual_report,Source variable retained; no semantic rename applied in this pass.,numeric,annual_report,fields,2,,SOURCE_NAME_RETAINED
+T5B5FB1C9D7,fat,fat,g,annual_report,Source variable retained; no semantic rename applied in this pass.,numeric,annual_report,g,4,,SOURCE_NAME_RETAINED
+TBBD42BE7C1,final_plant_value,final_plant_value,,source_specific,Source-specific variable; definition should be verified from the original table,numeric,yield,,13,,MAPPED
+TEAE292E075,first_picking_days_after_sowing,first_picking_days_after_sowing,days,specialty_trait,Days after sowing to first picking,numeric,yield,days,12,,MAPPED
+T2B22C68367,foliar_fungicide,foliar_fungicide,1 ml/L at 35 and 50 DAS,annual_report,Source variable retained; no semantic rename applied in this pass.,categorical/text,annual_report,1 ml/L at 35 and 50 DAS,1,,SOURCE_NAME_RETAINED
+T69E16EFCB5,front_line_demo_area,front_line_demo_area,acres,annual_report,Source variable retained; no semantic rename applied in this pass.,numeric,annual_report,acres,1,,SOURCE_NAME_RETAINED
+T3C6EEB3495,grain_yield,grain_yield,t/ha,yield,Grain yield; source unit may be q/ha and must be converted,numeric,annual_report,q/ha,1,t/ha:1;kg/ha:0.001;q/ha:0.1,MAPPED
+TC51A030233,grain_yield_kg_per_ha,grain_yield,t/ha,yield,Grain yield,numeric,yield,,29,t/ha:1;kg/ha:0.001;q/ha:0.1,MAPPED
+T03666D6BAB,green_cob_yield_with_husk_kg_per_ha,green_cob_yield_with_husk,kg/ha,specialty_yield,Green cob yield with husk,numeric,yield,kg/ha,11,,MAPPED
+T2B617D6026,green_cob_yield_without_husk_kg_per_ha,green_cob_yield_without_husk,kg/ha,specialty_yield,Green cob yield without husk,numeric,yield,kg/ha,11,,MAPPED
+T6EAD9B06B7,green_ear_weight_with_husk_kg_per_ha,green_ear_weight_with_husk,kg/ha,specialty_yield,Green ear weight with husk,numeric,yield,kg/ha,12,,MAPPED
+TF890E7671B,green_fodder_weight_kg_per_ha,green_fodder_weight,kg/ha,specialty_yield,Green fodder weight,numeric,yield,kg/ha,12,,MAPPED
+T034EEB9EC2,heterotic_normal_inbreds,heterotic_normal_inbreds,inbreds,annual_report,Source variable retained; no semantic rename applied in this pass.,numeric,annual_report,inbreds,1,,SOURCE_NAME_RETAINED
+TA1EFD58B34,heterotic_popcorn_inbreds,heterotic_popcorn_inbreds,inbreds,annual_report,Source variable retained; no semantic rename applied in this pass.,numeric,annual_report,inbreds,1,,SOURCE_NAME_RETAINED
+T3F7E829F16,heterotic_sweet_corn_inbreds,heterotic_sweet_corn_inbreds,inbreds,annual_report,Source variable retained; no semantic rename applied in this pass.,numeric,annual_report,inbreds,1,,SOURCE_NAME_RETAINED
+T48C58B1B1E,ingredient_ratio,ingredient_ratio,ratio,annual_report,Source variable retained; no semantic rename applied in this pass.,categorical/text,annual_report,ratio,3,,SOURCE_NAME_RETAINED
+T39979210A2,inter_institutional_collaborative_programs,inter_institutional_collaborative_programs,programs,annual_report,Source variable retained; no semantic rename applied in this pass.,numeric,annual_report,programs,1,,SOURCE_NAME_RETAINED
+TB6A8F89581,iron,iron,mg,annual_report,Source variable retained; no semantic rename applied in this pass.,numeric,annual_report,mg,4,,SOURCE_NAME_RETAINED
+TC254D695D6,kharif_affected_maize_area,kharif_affected_maize_area,%,annual_report,Source variable retained; no semantic rename applied in this pass.,numeric,annual_report,%,1,,SOURCE_NAME_RETAINED
+T61C4067C78,kharif_area,kharif_area,lakh ha,state_statistics,Kharif maize area,numeric,annual_report,lakh ha,5,,MAPPED
+T5ACC6AAAF4,kharif_area_lakh_ha,kharif_area,lakh ha,state_statistics,Kharif maize area,numeric,state_maize_statistics,lakh ha,5,,MAPPED
+TDE7969528F,kharif_deficit_rainfall,kharif_deficit_rainfall,%,annual_report,Source variable retained; no semantic rename applied in this pass.,numeric,annual_report,%,1,,SOURCE_NAME_RETAINED
+T594338E1EA,kharif_production,kharif_production,lakh tonnes,state_statistics,Kharif maize production,numeric,annual_report,lakh tonnes,5,,MAPPED
+T6C1DAEC952,kharif_production_lakh_tonnes,kharif_production,lakh tonnes,state_statistics,Kharif maize production,numeric,state_maize_statistics,lakh tonnes,5,,MAPPED
+T9AC2076643,kharif_productivity,kharif_productivity,kg/ha,state_statistics,Kharif maize productivity,numeric,annual_report,kg/ha,5,,MAPPED
+T54EA3F2112,kharif_productivity_kg_ha,kharif_productivity,kg/ha,state_statistics,Kharif maize productivity,numeric,state_maize_statistics,kg/ha,5,,MAPPED
+T2BD831FA10,last_picking_days_after_sowing,last_picking_days_after_sowing,days,specialty_trait,Days after sowing to last picking,numeric,yield,days,12,,MAPPED
+TA0317AB374,major_maize_area_affected,major_maize_area_affected,ha,drought,Major maize area affected,numeric,annual_report,ha,22,,MAPPED
+TD5988C788C,major_maize_area_affected_ha,major_maize_area_affected,ha,drought,Major maize area affected,numeric,drought,ha,23,,MAPPED
+TEDEE0D523F,max_temp,max_temperature,C,weather,Maximum temperature,numeric,annual_report,C,12,,MAPPED
+T5BF1197D8F,max_temp_c,max_temperature,C,weather,Maximum temperature,numeric,weather,C,12,,MAPPED
+T154F989F4C,max_tlb_score,max_tlb_score,1-9 scale,annual_report,Source variable retained; no semantic rename applied in this pass.,numeric,annual_report,1-9 scale,1,,SOURCE_NAME_RETAINED
+T908FAE06F7,min_temp,min_temperature,C,weather,Minimum temperature,numeric,annual_report,C,12,,MAPPED
+TC4FCDB44CE,min_temp_c,min_temperature,C,weather,Minimum temperature,numeric,weather,C,12,,MAPPED
+TA4C9A3C54C,multi_location_trials,multi_location_trials,trials,annual_report,Source variable retained; no semantic rename applied in this pass.,numeric,annual_report,trials,1,,SOURCE_NAME_RETAINED
+T1AF36517A1,no_grains_per_cob,grains_per_cob,count,yield_component,Number of grains per cob,numeric,yield,,21,,MAPPED
+T267AC51087,no_grains_per_row,grains_per_row,count,yield_component,Number of grains per row,numeric,yield,,23,,MAPPED
+T2CB277E5B6,no_rows_per_cob,rows_per_cob,count,yield_component,Number of rows per cob,numeric,yield,,44,,MAPPED
+T57BA421B97,normal_kharif_area,normal_kharif_area,ha,drought,Normal Kharif maize area,numeric,annual_report,ha,22,,MAPPED
+T56A15E5EEA,normal_kharif_area_ha,normal_kharif_area,ha,drought,Normal Kharif maize area,numeric,drought,ha,23,,MAPPED
+TDC9938C42E,normal_rainfall,normal_rainfall,mm,weather,Normal rainfall,numeric,annual_report,mm,13,,MAPPED
+T6256716BE7,normal_rainfall_mm,normal_rainfall,mm,weather,Normal rainfall,numeric,weather,mm,12,,MAPPED
+TFE002BD046,normal_rainy_days,normal_rainy_days,days,weather,Normal rainy days,numeric,annual_report|weather,days,25,,MAPPED
+T49F4F5A2EC,plant_height_cm,plant_height,cm,agronomic,Plant height,numeric,yield,cm,207,,MAPPED
+TFA4D8539C0,plant_stand_000_per_ha,plant_stand,plants/ha,agronomic,Final/observed plant stand,numeric,yield,thousand plants/ha,124,plants/ha:1;thousand plants/ha:1000,MAPPED
+T4D3E1C8BC5,plant_stand_per_ha,plant_stand,plants/ha,agronomic,Final/observed plant stand,numeric,yield,plants/ha,26,plants/ha:1;thousand plants/ha:1000,MAPPED
+T21079A7865,popping_pct,popping_percentage,%,specialty_trait,Popping percentage,numeric,yield,%,15,,MAPPED
+T33CDCDC380,popping_percentage,popping_percentage,%,specialty_trait,Popping percentage,numeric,annual_report,%,3,,MAPPED
+TBEA10A711E,popping_trait,popping_trait,qualitative,annual_report,Source variable retained; no semantic rename applied in this pass.,categorical/text,annual_report,qualitative,1,,SOURCE_NAME_RETAINED
+T81D4ADF20B,posts_filled,posts_filled,posts,staff,Posts filled,numeric,annual_report|staff,posts,14,,MAPPED
+TB2E6E7B8D7,posts_sanctioned,posts_sanctioned,posts,staff,Posts sanctioned,numeric,annual_report|staff,posts,14,,MAPPED
+T2C65275AE0,protein,protein,g,annual_report,Source variable retained; no semantic rename applied in this pass.,numeric,annual_report,g,8,,SOURCE_NAME_RETAINED
+T0DFB729188,rabi_area,rabi_area,lakh ha,state_statistics,Rabi maize area,numeric,annual_report,lakh ha,5,,MAPPED
+T74CA95BA0E,rabi_area_lakh_ha,rabi_area,lakh ha,state_statistics,Rabi maize area,numeric,state_maize_statistics,lakh ha,5,,MAPPED
+TDE032823CF,rabi_deficit_rainfall,rabi_deficit_rainfall,%,annual_report,Source variable retained; no semantic rename applied in this pass.,numeric,annual_report,%,1,,SOURCE_NAME_RETAINED
+TB49A7F7F69,rabi_production,rabi_production,lakh tonnes,state_statistics,Rabi maize production,numeric,annual_report,lakh tonnes,5,,MAPPED
+T00C41B9549,rabi_production_lakh_tonnes,rabi_production,lakh tonnes,state_statistics,Rabi maize production,numeric,state_maize_statistics,lakh tonnes,5,,MAPPED
+T5612AD8FDD,rabi_productivity,rabi_productivity,kg/ha,state_statistics,Rabi maize productivity,numeric,annual_report,kg/ha,5,,MAPPED
+T09DF0B62CD,rabi_productivity_kg_ha,rabi_productivity,kg/ha,state_statistics,Rabi maize productivity,numeric,state_maize_statistics,kg/ha,5,,MAPPED
+T56D4D4C48D,rainfall_deficit,rainfall_deficit,%,annual_report,Source variable retained; no semantic rename applied in this pass.,numeric,annual_report,%,1,,SOURCE_NAME_RETAINED
+T59F127271C,rainfall_deviation,rainfall_deviation,%,weather,Rainfall deviation,numeric,annual_report,%,12,,MAPPED
+T319A5AF705,rainfall_deviation_pct,rainfall_deviation,%,weather,Rainfall deviation,numeric,weather,%,12,,MAPPED
+T4D55AF37DB,range,range,%,annual_report,Source variable retained; no semantic rename applied in this pass.,categorical/text,annual_report,%,2,,SOURCE_NAME_RETAINED
+T8D8ABB16B9,recommended_release_state_subcommittee_date,recommended_release_state_subcommittee_date,date,annual_report,Source variable retained; no semantic rename applied in this pass.,categorical/text,annual_report,date,1,,SOURCE_NAME_RETAINED
+T64FA0FE68A,recommended_release_zone,recommended_release_zone,zone,annual_report,Source variable retained; no semantic rename applied in this pass.,categorical/text,annual_report,zone,1,,SOURCE_NAME_RETAINED
+T6CAB07FC46,released,budget_released,Rs,budget,Released amount,numeric,annual_report,Rs,8,,MAPPED
+T790E40C9FD,released_rs,budget_released,Rs,budget,Released amount,numeric,budget,Rs,8,,MAPPED
+T517CEEF705,resistant_genotype_change,resistant_genotype_change,qualitative,annual_report,Source variable retained; no semantic rename applied in this pass.,categorical/text,annual_report,qualitative,8,,SOURCE_NAME_RETAINED
+T1A209A86CD,rh_i_pct,relative_humidity_I,%,weather,Relative humidity observation I,numeric,weather,%,12,,MAPPED
+TC4F2C42EF7,rh_ii_pct,relative_humidity_II,%,weather,Relative humidity observation II,numeric,weather,%,12,,MAPPED
+T43A19B8849,sanctioned,budget_sanctioned,Rs,budget,Sanctioned amount,numeric,annual_report,Rs,8,,MAPPED
+T2FC74DF7F0,sanctioned_rs,budget_sanctioned,Rs,budget,Sanctioned amount,numeric,budget,Rs,8,,MAPPED
+T22679FA4E7,sdm_pdi,sdm_pdi,%,disease,Sorghum Downy Mildew PDI,mixed_or_source_specific,SDM,%,556,,MAPPED
+T537BB6D719,sdm_reaction,sdm_reaction,category,disease,SDM reaction category,categorical/text,SDM,category,556,,MAPPED
+T0E2467ECB2,shelling_pct,shelling_percentage,%,yield,Shelling percentage,numeric,yield,%,183,,MAPPED
+TD8EF551FDA,stable_resistant_inbreds,stable_resistant_inbreds,inbreds,annual_report,Source variable retained; no semantic rename applied in this pass.,numeric,annual_report,inbreds,1,,SOURCE_NAME_RETAINED
+TBBB930CC42,statement,statement,text,annual_report,Source variable retained; no semantic rename applied in this pass.,categorical/text,annual_report,text,13,,SOURCE_NAME_RETAINED
+T337894292D,station_breeding_programs,station_breeding_programs,programs,annual_report,Source variable retained; no semantic rename applied in this pass.,numeric,annual_report,programs,1,,SOURCE_NAME_RETAINED
+T6CF27869E5,station_trials,station_trials,trials,annual_report,Source variable retained; no semantic rename applied in this pass.,numeric,annual_report,trials,1,,SOURCE_NAME_RETAINED
+T826C6ECAF2,status_note,status_note,,quality_flag,Source marker such as GF,categorical/text,yield,,7,,MAPPED
+TC9BE061667,summer_deficit_rainfall,summer_deficit_rainfall,%,annual_report,Source variable retained; no semantic rename applied in this pass.,numeric,annual_report,%,1,,SOURCE_NAME_RETAINED
+TA6FA353D7D,sunshine_hours,sunshine_hours,hrs,weather,Sunshine hours,numeric,annual_report|weather,hrs,24,,MAPPED
+TEB82DCF636,superiority_over_lc_pct,superiority_over_local_check,%,comparison,Yield superiority over local check,numeric,yield,%,15,,MAPPED
+TFA9FADC344,superiority_over_nc_pct,superiority_over_national_check,%,comparison,Yield superiority over national check,numeric,yield,%,15,,MAPPED
+T26CAD52D94,test_weight_g,test_weight,g,yield_component,Test weight,numeric,yield,g,14,,MAPPED
+T9478AE8C5D,tlb_disease_score,tlb_disease_score,score_1_9,disease,Turcicum Leaf Blight disease score,numeric,TLB,score_1_9,148,,MAPPED
+T61BC4323FE,tlb_reaction,tlb_reaction,category,disease,TLB reaction category: R/MR/MS/S,categorical/text,TLB,category,148,,MAPPED
+T0663142D42,total_area_reported,total_area,lakh ha,state_statistics,Total reported maize area,numeric,annual_report,lakh ha,5,,MAPPED
+TDD1FED699F,total_area_reported_lakh_ha,total_area,lakh ha,state_statistics,Total reported maize area,numeric,state_maize_statistics,lakh ha,5,,MAPPED
+T19C54CD976,total_production_reported,total_production,lakh tonnes,state_statistics,Total reported maize production,numeric,annual_report,lakh tonnes,5,,MAPPED
+TEAFC7494F1,total_production_reported_lakh_tonnes,total_production,lakh tonnes,state_statistics,Total reported maize production,numeric,state_maize_statistics,lakh tonnes,5,,MAPPED
+T56BAC5E3D8,total_productivity_reported,total_productivity,kg/ha,state_statistics,Total reported maize productivity,numeric,annual_report,kg/ha,5,,MAPPED
+T4D84C9B6E5,total_productivity_reported_kg_ha,total_productivity,kg/ha,state_statistics,Total reported maize productivity,numeric,state_maize_statistics,kg/ha,5,,MAPPED
+T4751304671,trial_count,trial_count,trials,annual_report,Source variable retained; no semantic rename applied in this pass.,categorical/text,annual_report,trials,1,,SOURCE_NAME_RETAINED
+TC26BD8F4DB,tss_pct,total_soluble_solids,%,specialty_trait,Total soluble solids,numeric,yield,%,11,,MAPPED
+T176ACC6811,utilized_percent,budget_utilized_percent,%,budget,Utilization percentage,mixed_or_source_specific,annual_report,%,8,,MAPPED
+TCDAB7A64DB,utilized_percent_reported,budget_utilized_percent,%,budget,Utilization percentage,numeric,budget,%,7,,MAPPED
+TC16175E39F,vacancies,vacancies,posts,staff,Vacancies,numeric,staff,posts,7,,MAPPED
+T19E9723362,wind_speed,wind_speed,km,weather,Wind speed as recorded in source,numeric,annual_report,Km,12,,MAPPED
+T43A486AAF7,wind_speed_km,wind_speed,km,weather,Wind speed as recorded in source,numeric,weather,Km,12,,MAPPED
+T9C3161BE39,working_region,working_region,zone,annual_report,Source variable retained; no semantic rename applied in this pass.,categorical/text,annual_report,zone,1,,SOURCE_NAME_RETAINED
+T6AB12A08D9,year_establishment,year_establishment,year,annual_report,Source variable retained; no semantic rename applied in this pass.,numeric,annual_report,year,1,,SOURCE_NAME_RETAINED
+T2F7E30CAA8,yield_kg_per_ha,grain_yield,t/ha,yield,Grain yield,numeric,yield,kg/ha,38,t/ha:1;kg/ha:0.001;q/ha:0.1,MAPPED
+T453581DAF8,yield_t_per_ha,grain_yield,t/ha,yield,Grain yield,numeric,yield,t/ha,124,t/ha:1;kg/ha:0.001;q/ha:0.1,MAPPED

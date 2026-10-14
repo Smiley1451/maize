@@ -1,0 +1,11 @@
+﻿sl_no,genotype,row_type,entry_role,status_note,days_50_pollen_shedding,days_50_silking,days_75_dry_husk,plant_height_cm,ear_height_cm,plant_stand_000_per_ha,shelling_pct,yield_t_per_ha
+1,ADV 7733,entry,test,,72,73,110,250,118,69.4,84.2,13.11
+2,PM20205L,entry,test,,67,68,110,241,115,62.0,83.9,13.47
+3,TMMH 2882,entry,test,,68,70,108,234,107,62.5,78.9,11.7
+4,VNR 4597,entry,test,,70,72,109,235,115,58.8,82.9,11.93
+5,KMH25K45 (Check),check,check,,71,73,110,230,109,66.2,79.4,14.84
+6,NMH 713 (Check),check,check,,70,72,110,222,106,65.3,78.6,11.9
+7,P 3522 (Check),check,check,,72,73,109,241,113,71.3,82.5,13.12
+,General mean,summary,,general_mean,70.19,71.52,109.4,236.2,112.0,65.1,81.46,12.87
+,CD @ 5%,summary,,cd_5pct,1.47,1.62,1.45,22.25,11.66,8.31,1.17,1.591
+,CV (%),summary,,cv_pct,1.18,1.28,0.75,5.3,5.85,7.17,0.81,6.951

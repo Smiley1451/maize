@@ -1,0 +1,4 @@
+check,count
+train_val_genotype_overlap,0
+train_test_genotype_overlap,0
+validation_test_genotype_overlap,0

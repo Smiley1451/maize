@@ -1,0 +1,5 @@
+MAIZE_PHASES_16_18_DROP_IN
+Purpose: Phases 16, 17, 18 only. Copy the complete folder into the existing project root.
+Main runner: RUN_PHASES_16_18.ps1
+Prediction runner: RUN_PREDICTION.ps1
+Core Python: scripts/*.py

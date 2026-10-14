@@ -1,0 +1,31 @@
+group,method,path,purpose
+System,GET,/health,Liveness check
+System,GET,/ready,Readiness check
+System,GET,/api/v1/status,Backend/model status
+System,GET,/api/v1/info,Project + model + dataset summary
+System,GET,/api/v1/features,Prediction feature schema + aliases
+Models,GET,/api/v1/models,All model availability
+Models,GET,/api/v1/models/{model_key},One model details
+Models,POST,/api/v1/models/reload,Reload model registry
+Prediction,POST,/api/v1/predict/yield,Yield prediction
+Prediction,POST,/api/v1/predict/tlb,TLB score + reaction
+Prediction,POST,/api/v1/predict/sdm,SDM PDI + reaction
+Prediction,POST,/api/v1/predict/all,All predictions
+Prediction,POST,/api/v1/predict/batch,Batch JSON records
+Prediction,POST,/api/v1/predict/batch-csv,Batch CSV upload
+Prediction,POST,/api/v1/predict/batch-json,Batch JSON upload
+Research Data,GET,/api/v1/catalog,Available datasets
+Research Data,GET,/api/v1/genotypes,Genotype search
+Research Data,GET,/api/v1/genotypes/{genotype},Genotype detail
+Research Data,GET,/api/v1/experiments,Experiment search
+Research Data,GET,/api/v1/observations,Filtered observations
+Research Data,GET,/api/v1/disease/tlb,TLB observations
+Research Data,GET,/api/v1/disease/sdm,SDM observations
+Analytics,GET,/api/v1/clusters/status,Cluster artifacts status
+Analytics,GET,/api/v1/clusters/data,Cluster/PCA data
+Analytics,GET,/api/v1/weather/status,Weather model readiness
+Analytics,GET,/api/v1/explainability/{model_key},Feature importance artifacts
+Analytics,GET,/api/v1/model-metrics,Model metric tables
+Analytics,GET,/api/v1/dataset-summary/{domain},Dataset numeric summary
+Project,GET,/api/v1/project/verification,Final project verification artifacts
+Project,GET,/api/v1/project/files,Project file inventory

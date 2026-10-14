@@ -1,0 +1,136 @@
+MAIZE AI/ML DIGITALIZATION — PENDING MODELING ROADMAP
+======================================================
+
+Overall objective
+-----------------
+Turn the digitized maize agronomy/pathology records into defensible exploratory
+models, then into a reproducible inference pipeline and final project package.
+
+The four proposed opportunities are retained, with one important ordering change:
+data/model readiness must be completed before final training.
+
+STAGE 07.0 — MODEL READINESS AUDIT
+-----------------------------------
+Status: COMPLETED
+
+- Audit target units and trait semantics.
+- Remove statistical summary rows from genotype-level prediction targets.
+- Verify no genotype overlap across train/validation/test splits.
+- Preserve source units and conversion rules.
+- Record all unresolved review flags instead of silently dropping them.
+
+STAGE 07.1 — YIELD REGRESSION DIAGNOSTIC
+----------------------------------------
+Status: COMPLETED / DIAGNOSTIC ONLY
+
+- Compared Dummy Mean, Linear Regression, Ridge, Random Forest, Extra Trees,
+  Gradient Boosting, HistGradientBoosting and XGBoost.
+- The first run exposed mixed yield scales in the analysis-ready dataset.
+- Its model metrics must NOT be used as final project results.
+
+STAGE 07.2 — CORRECTED YIELD MODELING
+-------------------------------------
+Status: COMPLETED BASELINE
+
+- Rebuilt yield target from raw source values.
+- t/ha -> kg/ha using x1000 conversion.
+- kg/ha -> kg/ha unchanged.
+- Removed C.V, C.D, General Mean and Location Mean rows from genotype-level target.
+- Trained early-trait and extended-trait baselines.
+- Grouped genotype-disjoint validation/test split.
+
+Interpretation: the current absolute-yield models are weak on this small,
+heterogeneous dataset. Negative validation R2 is not hidden; it is preserved as a
+finding. This means the next work should focus on better task design, stronger
+context/environment features, and robustness checks rather than claiming strong
+predictive performance.
+
+STAGE 07.3 — DISEASE MODELING
+-----------------------------
+Pending
+
+A) Repair/verify agronomic-to-pathology linkage.
+B) Build TLB disease-score regression.
+C) Build TLB reaction classification (R/MR/MS/S as recorded by the source).
+D) Build SDM PDI regression.
+E) Build SDM reaction classification (excluding NG from the classification target).
+F) Use grouped splits by genotype and report class balance/confusion matrices.
+
+Important: current disease-ready files contain exploratory cross-trial linkage and
+need linkage-quality verification before final disease models are treated as valid.
+
+STAGE 07.4 — MULTI-TRAIT PCA + GENOTYPE CLUSTERING
+--------------------------------------------------
+Pending
+
+- Standardize agronomic/yield/disease variables using train/reference rules.
+- PCA for trait structure.
+- K-Means / hierarchical clustering for genotype grouping.
+- Produce cluster profiles and candidate genotype tables.
+- Treat this as descriptive/unsupervised analysis, not as a breeding recommendation.
+
+STAGE 07.5 — WEATHER-DRIVEN DISEASE RISK MODELING
+--------------------------------------------------
+Pending / DATA-DEPENDENT
+
+The annual report documents a weather-based SDM ML forecasting model and web app.
+For a defensible replication/extension, we still need experiment-aligned weather
+records at an appropriate temporal resolution and a clear disease-observation
+window. Current monthly weather data alone should not be treated as if it were
+already aligned to every disease observation.
+
+Possible extensions:
+- SDM risk forecasting.
+- TLB risk forecasting.
+- Threshold/risk classification.
+- Time-window features such as recent temperature/rainfall/humidity summaries.
+
+STAGE 07.6 — MODEL EXPLAINABILITY + ERROR ANALYSIS
+---------------------------------------------------
+Pending
+
+- Permutation importance.
+- SHAP where supported.
+- Actual-vs-predicted plots.
+- Residual/error tables.
+- Identify systematic failures by experiment, maturity group, and genotype type.
+
+STAGE 07.7 — HYPERPARAMETER TUNING + ROBUST VALIDATION
+-------------------------------------------------------
+Pending
+
+- GroupKFold / repeated grouped CV.
+- Tune XGBoost/Random Forest/Extra Trees and suitable linear baselines.
+- Compare absolute-yield prediction with within-experiment normalized-yield targets.
+- Check sensitivity to review-flag filtering.
+- Lock a final model only after the data-review queue is reduced.
+
+STAGE 07.8 — MODEL PACKAGING + INFERENCE PIPELINE
+--------------------------------------------------
+Pending
+
+- Save preprocessing + model as one pipeline.
+- Create input schema.
+- Create predict.py / notebook inference example.
+- Add model card / limitations.
+- Version datasets, feature dictionary, and model artifacts.
+
+STAGE 07.9 — API / DASHBOARD / AI ASSISTANT
+------------------------------------------
+Pending
+
+- Simple prediction API.
+- Dashboard for yield/disease predictions and cluster views.
+- LLM layer for natural-language exploration of the verified dataset.
+- Keep source traceability for every displayed value.
+
+Recommended execution order
+---------------------------
+07.0 -> 07.3 -> 07.4 -> 07.5 -> 07.6 -> 07.7 -> 07.8 -> 07.9
+
+Why disease is next
+-------------------
+Disease prediction is a clearer supervised-learning task in the current material,
+but only after its cross-trial agronomic linkage is verified. The annual report also
+describes pathology evaluations, resistant inbreds, and an existing weather-based
+SDM forecasting effort, which gives the project a strong path for expansion.

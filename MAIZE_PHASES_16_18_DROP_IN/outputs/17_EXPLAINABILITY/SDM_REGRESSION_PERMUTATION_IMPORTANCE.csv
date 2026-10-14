@@ -1,0 +1,11 @@
+domain,task,feature,importance_mean,importance_std,folds,metric
+SDM,regression,dry_husk_after_silking,2.405791093544141,1.5813351564695342,5,MAE
+SDM,regression,days_to_50_percent_pollen_shedding,2.0808832094861764,1.0743978487958716,5,MAE
+SDM,regression,shelling_percentage,1.4537408959156817,1.3941953432253595,5,MAE
+SDM,regression,days_to_50_percent_silking,1.1915152542819507,0.657488982986868,5,MAE
+SDM,regression,plant_height,0.4856543768116068,0.42081764379206116,5,MAE
+SDM,regression,days_to_75_percent_dry_husk,0.3216336021080384,0.6365272677600837,5,MAE
+SDM,regression,ear_height,0.09696598682477091,0.1776394619614231,5,MAE
+SDM,regression,ear_height_ratio,0.07281664031620609,0.5079544178537185,5,MAE
+SDM,regression,plant_stand,0.014601401844530104,0.39607812032425893,5,MAE
+SDM,regression,silking_to_pollen_gap,-0.05175776021080776,0.49626095608988874,5,MAE

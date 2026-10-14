@@ -1,0 +1,6 @@
+finding_id,severity,finding,action_taken,status
+F01,HIGH,Yield model-ready table mixed t/ha and kg/ha scales,Rebuilt target from raw source variables using explicit conversions,RESOLVED_FOR_CORRECTED_BASELINE
+F02,HIGH,"C.V, C.D, General Mean and Location Mean rows were present in prior target table",Removed known summary/statistical rows from genotype-level target,RESOLVED_FOR_CORRECTED_BASELINE
+F03,MEDIUM,Genotype identity/review flags remain,Preserved review flags; no silent filtering,OPEN
+F04,MEDIUM,Experiments are heterogeneous trial types/maturity groups,Need experiment-aware and within-experiment task designs,OPEN
+F05,HIGH,Corrected baseline models show weak validation performance,Do not claim strong predictive performance; improve task design/features and robustness,OPEN

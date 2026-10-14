@@ -1,0 +1,6 @@
+﻿experiment,issue_type,description
+MPT-1(1099),Table vs inference,"Table shows KMH 8333 = 3.6% R in addition to SMH 6333 and TMMH 2882, while the inference says only SMH 6333 and TMMH 2882 showed resistance. Preserved without reconciliation."
+MPT-3(1100),Table vs inference,Table shows resistant check NAH 1137 = 8.8% R and susceptible check African Tall = 96.5% S; inference text states 7.8% and 95.5%. Preserved both.
+Station Inbred,Narrative identifier wording,"Inference names MAI 215 and MA-215-1, while table serials are MAI-215 and MAI-215-1. Table transcription preserved."
+Station Hybrids and Parents,Narrative identifier wording,"Inference contains repeated/variant identifier wording (e.g., NAH-2049-I / NAH-2049-II); table rows are preserved separately by serial number."
+CRPAB,Inference list vs table,The inference paragraph contains repeated identifiers and its MR list includes identifiers whose table rows may have other reactions. The complete table is preserved as the primary row-level dataset; the inference is preserved verbatim in metadata/flat CSV.

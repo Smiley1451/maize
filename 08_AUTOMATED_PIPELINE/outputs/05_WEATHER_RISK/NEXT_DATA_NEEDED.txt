@@ -1,0 +1,1 @@
+Copy config/WEATHER_DISEASE_LINKED_TEMPLATE.csv to config/WEATHER_DISEASE_LINKED.csv and fill it with verified date/location aligned disease observations for the same season/site. Then rerun step 5.

@@ -1,0 +1,22 @@
+file_name,column_name,description,role
+MASTER_MAIZE_ALL_DATA.csv,record_id,Unique row identifier,primary_key
+MASTER_MAIZE_ALL_DATA.csv,document_id,Source document ID DOC01-DOC04,foreign_key
+MASTER_MAIZE_ALL_DATA.csv,record_type,Type of record such as experiment_observation/weather/state_statistics/annual_report_fact,classification
+MASTER_MAIZE_ALL_DATA.csv,domain,Research/data domain such as yield/TLB/SDM/weather/drought/budget,feature_group
+MASTER_MAIZE_ALL_DATA.csv,experiment_id,Experiment identifier when applicable,foreign_key
+MASTER_MAIZE_ALL_DATA.csv,experiment_no,Printed experiment number where available,metadata
+MASTER_MAIZE_ALL_DATA.csv,trial_no,Trial number where available,metadata
+MASTER_MAIZE_ALL_DATA.csv,entity_type,Type of entity represented in the row,metadata
+MASTER_MAIZE_ALL_DATA.csv,entity_name,Genotype/check/month/district/program/etc.,entity
+MASTER_MAIZE_ALL_DATA.csv,variable,Standardized variable name,feature_or_fact
+MASTER_MAIZE_ALL_DATA.csv,value,Original value as text,raw_preservation
+MASTER_MAIZE_ALL_DATA.csv,value_numeric,Numeric version where safely parsed,target_or_feature
+MASTER_MAIZE_ALL_DATA.csv,unit,Measurement unit,metadata
+MASTER_MAIZE_ALL_DATA.csv,category,Entry role/topic/category,metadata
+MASTER_MAIZE_ALL_DATA.csv,year,Year or year-period,temporal_feature
+MASTER_MAIZE_ALL_DATA.csv,season,Season where available,temporal_feature
+MASTER_MAIZE_ALL_DATA.csv,location,Location associated with record,environment_feature
+MASTER_MAIZE_ALL_DATA.csv,source_page,Source PDF page,provenance
+MASTER_MAIZE_ALL_DATA.csv,source_section,Source table/section title,provenance
+MASTER_MAIZE_ALL_DATA.csv,raw_value,Unmodified source value kept for audit,provenance
+MASTER_MAIZE_ALL_DATA.csv,source_note,Source statement / quality note / discrepancy note,provenance

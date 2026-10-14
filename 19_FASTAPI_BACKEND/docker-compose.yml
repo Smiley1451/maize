@@ -1,0 +1,12 @@
+services:
+  maize-api:
+    build: .
+    ports:
+      - "8000:8000"
+    environment:
+      MAIZE_PROJECT_ROOT: /project
+      MAIZE_API_HOST: 0.0.0.0
+      MAIZE_API_PORT: 8000
+    volumes:
+      - ..:/project:ro
+    restart: unless-stopped

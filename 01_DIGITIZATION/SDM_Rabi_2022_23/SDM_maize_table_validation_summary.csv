@@ -1,0 +1,9 @@
+﻿experiment_no,category,table_test_entries,R_count_from_table,MR_count_from_table,MS_count_from_table,S_count_from_table,NG_count_from_table,RC_pdi,SC_pdi
+MPT-1(1099),Late Maturity,42,3,1,5,33,0,8.8,90.3
+MPT-2(1098),Medium Maturity,50,0,1,0,49,0,7.8,95.5
+MPT-3(1100),Specialty corn,50,1,0,0,49,0,8.8,96.5
+Station Inbred,Station inbred,38,7,5,9,15,2,9.8,100.0
+Station Hybrids and Parents,Station hybrids and parents,21,11,2,2,6,0,6.5,98.7
+IIMR-WNC,IIMR-WNC maize inbreds,100,2,3,16,79,0,6.5,98.7
+CIMMYT,CIMMYT lines,42,40,1,1,0,0,5.5,89.5
+CRPAB,CRPAB entries,197,18,25,55,98,1,7.2,99.0

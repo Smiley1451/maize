@@ -1,0 +1,6 @@
+﻿document_id,source_page,year,kharif_area_lakh_ha,rabi_area_lakh_ha,total_area_reported_lakh_ha,kharif_production_lakh_tonnes,rabi_production_lakh_tonnes,total_production_reported_lakh_tonnes,kharif_productivity_kg_ha,rabi_productivity_kg_ha,total_productivity_reported_kg_ha,footnote
+DOC04,4,2019-20,13.55,1.87,13.97,43.66,2.95,47.68,3392,3569,3414,
+DOC04,4,2020-21,15.32,1.49,17.27,56.83,5.4,63.72,3709,3691,3689,
+DOC04,4,2021-22,15.11,0.97,16.42,48.82,3.31,53.38,3231,3415,3251,
+DOC04,4,2022-23,14.33,1.57,15.91,47.99,4.61,52.6,3347,2936,3347,
+DOC04,4,2023-24*,17.43,1.68,19.4,47.49,6.41,54.91,2724,3825,2830,"2023-24*: Third advance estimates data received from KSDA, GOK, Bangalore."

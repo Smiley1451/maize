@@ -1,0 +1,5 @@
+PHASE 13 DONE
+Selected model: ExtraTrees
+Rows: 117
+Genotypes: 111
+Experiments: 8

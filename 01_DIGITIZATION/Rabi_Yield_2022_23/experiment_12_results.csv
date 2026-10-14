@@ -1,0 +1,7 @@
+﻿sl_no,genotype,row_type,entry_role,status_note,days_50_pollen_shedding,days_50_silking,days_75_dry_husk,plant_height_cm,ear_height_cm,shelling_pct,no_rows_per_cob,no_grains_per_row,grain_yield_kg_per_ha,superiority_over_nc_pct,superiority_over_lc_pct
+1,Rank (1M),entry,test,,60,62,106,263,137,79.6,15,36,12114,21.9,17.1
+2,Bio-9544 (NC),check,NC,,60,62,103,256,135,81.6,16,38,9935,,
+3,MAH-14-5 (LC),check,LC,,59,61,105,261,142,78.2,16,36,10346,,
+,General mean,summary,,general_mean,59,61,106,256,143,80,17,35,10534,,
+,CD @ 5%,summary,,cd_5pct,,,,,,,,,1072,,
+,CV (%),summary,,cv_pct,,,,,,,,,6.69,,

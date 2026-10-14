@@ -1,0 +1,2 @@
+disease,selected_model,model_file,selection_rule
+TLB,Ridge,models\tlb_advanced_regression_selected.joblib,"lowest GroupKFold mean RMSE, then MAE"

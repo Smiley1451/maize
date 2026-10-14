@@ -1,0 +1,2 @@
+selected_model,model_file,selection_rule
+ExtraTrees,models\yield_advanced_selected.joblib,"lowest GroupKFold mean RMSE, then MAE"

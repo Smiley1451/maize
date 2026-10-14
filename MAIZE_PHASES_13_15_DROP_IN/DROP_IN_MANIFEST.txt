@@ -1,0 +1,4 @@
+Drop this entire folder into the existing MAIZE_AI_ML_DIGITALIZATION_PROJECT root.
+Expected folder: 13_15_NEXT_PHASES
+Primary runner: 13_15_NEXT_PHASES\\RUN_PHASES_13_15.ps1
+Upstream dependency: 10_12_NEXT_PHASES outputs must already exist and Phases 10-12 should be DONE.

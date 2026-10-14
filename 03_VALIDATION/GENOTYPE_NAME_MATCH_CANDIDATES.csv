@@ -1,0 +1,17 @@
+name_a,name_b_or_family,domain_a,domain_b,confidence,recommendation
+Ellora Commando 1112,Ellora Commando112,yield,TLB,0.97,Likely formatting/OCR variant; verify against page image
+Ellora Commando1112,Ellora Commando112,SDM,TLB,0.97,Likely same source identifier with spacing/format difference; verify
+IMH 2-22R-1,IMH 2-22R-series,yield,TLB/SDM,manual,Sequential suffixes are easily confused by OCR; do not auto-merge
+IMH 2-22R-10,IMH 2-22R-series,yield,TLB/SDM,manual,Sequential suffixes are easily confused by OCR; do not auto-merge
+IMH 2-22R-11,IMH 2-22R-series,yield,TLB/SDM,manual,Sequential suffixes are easily confused by OCR; do not auto-merge
+IMH 2-22R-12,IMH 2-22R-series,yield,TLB/SDM,manual,Sequential suffixes are easily confused by OCR; do not auto-merge
+IMH 2-22R-2,IMH 2-22R-series,yield,TLB/SDM,manual,Sequential suffixes are easily confused by OCR; do not auto-merge
+IMH 2-22R-3,IMH 2-22R-series,yield,TLB/SDM,manual,Sequential suffixes are easily confused by OCR; do not auto-merge
+IMH 2-22R-4,IMH 2-22R-series,yield,TLB/SDM,manual,Sequential suffixes are easily confused by OCR; do not auto-merge
+IMH 2-22R-5,IMH 2-22R-series,yield,TLB/SDM,manual,Sequential suffixes are easily confused by OCR; do not auto-merge
+IMH 2-22R-6,IMH 2-22R-series,yield,TLB/SDM,manual,Sequential suffixes are easily confused by OCR; do not auto-merge
+IMH 2-22R-7,IMH 2-22R-series,yield,TLB/SDM,manual,Sequential suffixes are easily confused by OCR; do not auto-merge
+IMH 2-22R-8,IMH 2-22R-series,yield,TLB/SDM,manual,Sequential suffixes are easily confused by OCR; do not auto-merge
+IMH 2-22R-9,IMH 2-22R-series,yield,TLB/SDM,manual,Sequential suffixes are easily confused by OCR; do not auto-merge
+BAUMH 21-1,BAUMH 21-1 / BAUMH 21-1-1,yield,TLB/SDM,manual,Distinct suffixes may be biologically distinct; verify before merging
+BAUMH 21-1-1,BAUMH 21-1 / BAUMH 21-1-1,yield,TLB/SDM,manual,Distinct suffixes may be biologically distinct; verify before merging

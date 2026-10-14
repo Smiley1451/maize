@@ -1,0 +1,11 @@
+{
+  "host": "127.0.0.1",
+  "port": 8000,
+  "docs_url": "/docs",
+  "redoc_url": "/redoc",
+  "max_batch_rows": 500,
+  "api_prefix": "/api/v1",
+  "auth": "optional_api_key",
+  "data_backend": "csv_repository",
+  "database_phase": 22
+}

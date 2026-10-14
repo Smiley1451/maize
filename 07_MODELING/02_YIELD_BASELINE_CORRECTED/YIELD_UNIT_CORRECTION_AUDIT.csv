@@ -1,0 +1,13 @@
+experiment_group,source_yield_format,conversion_to_model_unit_kg_per_ha,source_basis
+YIELD_1,t/ha,1000,yield_t_per_ha
+YIELD_2,t/ha,1000,yield_t_per_ha
+YIELD_3,t/ha,1000,yield_t_per_ha
+YIELD_4,t/ha,1000,yield_t_per_ha
+YIELD_5,t/ha,1000,yield_t_per_ha
+YIELD_6,t/ha,1000,yield_t_per_ha
+YIELD_8,t/ha,1000,yield_t_per_ha
+YIELD_9,kg/ha,1,yield_kg_per_ha
+YIELD_11,kg/ha,1,grain_yield_kg_per_ha
+YIELD_12,kg/ha,1,grain_yield_kg_per_ha
+YIELD_13,kg/ha,1,yield_kg_per_ha
+YIELD_14,kg/ha,1,grain_yield_kg_per_ha

@@ -1,0 +1,887 @@
+﻿document_id,domain,experiment_id,experiment_no,trial_no,section,source_page,printed_page,title,printed_pages,source_pages,row_type,entry_role,sl_no,genotype,status_note,source_label,days_50_pollen_shedding,days_50_silking,days_75_dry_husk,plant_height_cm,ear_height_cm,plant_stand_000_per_ha,shelling_pct,yield_t_per_ha,plant_stand_per_ha,tss_pct,green_cob_yield_without_husk_kg_per_ha,green_cob_yield_with_husk_kg_per_ha,popping_pct,yield_kg_per_ha,final_plant_value,baby_corn_length_cm,baby_corn_diameter_cm,green_fodder_weight_kg_per_ha,first_picking_days_after_sowing,last_picking_days_after_sowing,duration_picking_days,baby_corn_weight_with_husk_kg_per_ha,green_ear_weight_with_husk_kg_per_ha,no_rows_per_cob,no_grains_per_row,grain_yield_kg_per_ha,superiority_over_nc_pct,superiority_over_lc_pct,cob_length_cm,cob_girth_cm,no_grains_per_cob,days_50_flowering,test_weight_g,table_part,tlb_disease_score,tlb_reaction,sdm_pdi,sdm_reaction
+DOC03,yield,YIELD_1,1,1081,CO-ORDINATED TRIALS,1,10,Performance of NIVT-Medium maturity maize genotypes for yield,10-11,1-2,entry,test,1,AH 4672,,AH 4672,64,67,111,214,113,53.9,86.1,4.69,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,
+DOC03,yield,YIELD_1,1,1081,CO-ORDINATED TRIALS,1,10,Performance of NIVT-Medium maturity maize genotypes for yield,10-11,1-2,entry,test,2,AH 4682,,AH 4682,69,70,112,214,114,54.9,83.2,7.09,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,
+DOC03,yield,YIELD_1,1,1081,CO-ORDINATED TRIALS,1,10,Performance of NIVT-Medium maturity maize genotypes for yield,10-11,1-2,entry,test,3,AH 8194,,AH 8194,74,76,114,207,115,67.1,81.2,5.83,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,
+DOC03,yield,YIELD_1,1,1081,CO-ORDINATED TRIALS,1,10,Performance of NIVT-Medium maturity maize genotypes for yield,10-11,1-2,entry,test,4,AH 8728,,AH 8728,70,72,111,213,104,66.0,82.8,7.23,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,
+DOC03,yield,YIELD_1,1,1081,CO-ORDINATED TRIALS,1,10,Performance of NIVT-Medium maturity maize genotypes for yield,10-11,1-2,entry,test,5,AHD 2065,,AHD 2065,69,71,112,210,105,75.5,81.8,11.06,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,
+DOC03,yield,YIELD_1,1,1081,CO-ORDINATED TRIALS,1,10,Performance of NIVT-Medium maturity maize genotypes for yield,10-11,1-2,entry,test,6,BAUMH 21-1,,BAUMH 21-1,68,69,110,219,116,35.1,80.9,5.44,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,
+DOC03,yield,YIELD_1,1,1081,CO-ORDINATED TRIALS,1,10,Performance of NIVT-Medium maturity maize genotypes for yield,10-11,1-2,entry,test,7,BAUMH 21-3,,BAUMH 21-3,69,70,112,200,109,73.5,82.3,9.52,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,
+DOC03,yield,YIELD_1,1,1081,CO-ORDINATED TRIALS,1,10,Performance of NIVT-Medium maturity maize genotypes for yield,10-11,1-2,entry,test,8,BAUMH 21-4,,BAUMH 21-4,67,69,111,221,129,62.5,81.0,6.16,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,
+DOC03,yield,YIELD_1,1,1081,CO-ORDINATED TRIALS,1,10,Performance of NIVT-Medium maturity maize genotypes for yield,10-11,1-2,entry,test,9,BH 417167,,BH 417167,70,71,112,211,99,78.6,82.3,9.45,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,
+DOC03,yield,YIELD_1,1,1081,CO-ORDINATED TRIALS,1,10,Performance of NIVT-Medium maturity maize genotypes for yield,10-11,1-2,entry,test,10,BRM 19-1,,BRM 19-1,74,75,113,215,109,50.2,81.4,7.25,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,
+DOC03,yield,YIELD_1,1,1081,CO-ORDINATED TRIALS,1,10,Performance of NIVT-Medium maturity maize genotypes for yield,10-11,1-2,entry,test,11,BRM 19-2,,BRM 19-2,75,75,113,231,108,53.3,82.3,6.16,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,
+DOC03,yield,YIELD_1,1,1081,CO-ORDINATED TRIALS,1,10,Performance of NIVT-Medium maturity maize genotypes for yield,10-11,1-2,entry,test,12,BS 652,,BS 652,69,71,112,222,112,77.8,81.6,12.46,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,
+DOC03,yield,YIELD_1,1,1081,CO-ORDINATED TRIALS,1,10,Performance of NIVT-Medium maturity maize genotypes for yield,10-11,1-2,entry,test,13,Ellora Virat-12,,Ellora Virat-12,69,71,112,212,106,72.0,84.3,8.71,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,
+DOC03,yield,YIELD_1,1,1081,CO-ORDINATED TRIALS,1,10,Performance of NIVT-Medium maturity maize genotypes for yield,10-11,1-2,entry,test,14,IMH 2-22R-1,,IMH 2-22R-1,70,73,111,215,104,69.6,80.8,8.12,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,
+DOC03,yield,YIELD_1,1,1081,CO-ORDINATED TRIALS,1,10,Performance of NIVT-Medium maturity maize genotypes for yield,10-11,1-2,entry,test,15,IMH 2-22R-10,,IMH 2-22R-10,71,73,112,218,124,80.8,80.5,12.91,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,
+DOC03,yield,YIELD_1,1,1081,CO-ORDINATED TRIALS,1,10,Performance of NIVT-Medium maturity maize genotypes for yield,10-11,1-2,entry,test,16,IMH 2-22R-11,,IMH 2-22R-11,71,73,112,225,116,70.9,78.4,8.43,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,
+DOC03,yield,YIELD_1,1,1081,CO-ORDINATED TRIALS,1,10,Performance of NIVT-Medium maturity maize genotypes for yield,10-11,1-2,entry,test,17,IMH 2-22R-12,,IMH 2-22R-12,67,69,113,203,104,71.6,87.0,9.21,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,
+DOC03,yield,YIELD_1,1,1081,CO-ORDINATED TRIALS,1,10,Performance of NIVT-Medium maturity maize genotypes for yield,10-11,1-2,entry,test,18,IMH 2-22R-2,,IMH 2-22R-2,66,68,112,194,108,69.7,87.3,9.12,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,
+DOC03,yield,YIELD_1,1,1081,CO-ORDINATED TRIALS,1,10,Performance of NIVT-Medium maturity maize genotypes for yield,10-11,1-2,entry,test,19,IMH 2-22R-3,,IMH 2-22R-3,68,69,113,203,99,73.5,81.9,8.64,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,
+DOC03,yield,YIELD_1,1,1081,CO-ORDINATED TRIALS,1,10,Performance of NIVT-Medium maturity maize genotypes for yield,10-11,1-2,entry,test,20,IMH 2-22R-4,,IMH 2-22R-4,70,71,110,209,102,78.2,80.7,10.23,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,
+DOC03,yield,YIELD_1,1,1081,CO-ORDINATED TRIALS,1,10,Performance of NIVT-Medium maturity maize genotypes for yield,10-11,1-2,entry,test,21,IMH 2-22R-5,,IMH 2-22R-5,70,71,112,218,120,69.5,80.5,9.17,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,
+DOC03,yield,YIELD_1,1,1081,CO-ORDINATED TRIALS,1,10,Performance of NIVT-Medium maturity maize genotypes for yield,10-11,1-2,entry,test,22,IMH 2-22R-6,,IMH 2-22R-6,70,71,111,213,110,67.4,77.6,7.85,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,
+DOC03,yield,YIELD_1,1,1081,CO-ORDINATED TRIALS,1,10,Performance of NIVT-Medium maturity maize genotypes for yield,10-11,1-2,entry,test,23,IMH 2-22R-7,,IMH 2-22R-7,70,70,112,212,113,64.7,82.5,9.99,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,
+DOC03,yield,YIELD_1,1,1081,CO-ORDINATED TRIALS,1,10,Performance of NIVT-Medium maturity maize genotypes for yield,10-11,1-2,entry,test,24,IMH 2-22R-8,,IMH 2-22R-8,70,72,112,223,118,69.6,77.8,8.2,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,
+DOC03,yield,YIELD_1,1,1081,CO-ORDINATED TRIALS,1,10,Performance of NIVT-Medium maturity maize genotypes for yield,10-11,1-2,entry,test,25,IMH 2-22R-9,,IMH 2-22R-9,71,73,111,224,110,63.0,83.0,8.25,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,
+DOC03,yield,YIELD_1,1,1081,CO-ORDINATED TRIALS,1,10,Performance of NIVT-Medium maturity maize genotypes for yield,10-11,1-2,entry,test,26,KMH 22-5,,KMH 22-5,71,73,112,212,115,65.0,81.7,10.39,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,
+DOC03,yield,YIELD_1,1,1081,CO-ORDINATED TRIALS,1,10,Performance of NIVT-Medium maturity maize genotypes for yield,10-11,1-2,entry,test,27,MMH 22-45,,MMH 22-45,69,71,112,216,107,55.5,83.2,6.79,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,
+DOC03,yield,YIELD_1,1,1081,CO-ORDINATED TRIALS,1,10,Performance of NIVT-Medium maturity maize genotypes for yield,10-11,1-2,entry,test,28,MMH 22-52,,MMH 22-52,68,70,111,213,114,57.3,83.5,6.21,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,
+DOC03,yield,YIELD_1,1,1081,CO-ORDINATED TRIALS,1,10,Performance of NIVT-Medium maturity maize genotypes for yield,10-11,1-2,entry,test,29,OMH 22R-2,,OMH 22R-2,76,77,114,220,103,23.3,78.1,3.33,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,
+DOC03,yield,YIELD_1,1,1081,CO-ORDINATED TRIALS,1,10,Performance of NIVT-Medium maturity maize genotypes for yield,10-11,1-2,entry,test,30,SYN 227 705,,SYN 227 705,73,74,113,211,115,79.3,84.5,11.31,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,
+DOC03,yield,YIELD_1,1,1081,CO-ORDINATED TRIALS,1,10,Performance of NIVT-Medium maturity maize genotypes for yield,10-11,1-2,entry,test,31,SYN 227808,,SYN 227808,69,71,111,210,106,76.2,81.8,11.14,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,
+DOC03,yield,YIELD_1,1,1081,CO-ORDINATED TRIALS,1,10,Performance of NIVT-Medium maturity maize genotypes for yield,10-11,1-2,entry,test,32,SYN 227809,,SYN 227809,66,68,111,202,101,73.6,82.1,12.0,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,
+DOC03,yield,YIELD_1,1,1081,CO-ORDINATED TRIALS,1,10,Performance of NIVT-Medium maturity maize genotypes for yield,10-11,1-2,entry,test,33,VAH 20001,,VAH 20001,67,70,111,196,110,70.1,83.5,6.74,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,
+DOC03,yield,YIELD_1,1,1081,CO-ORDINATED TRIALS,1,10,Performance of NIVT-Medium maturity maize genotypes for yield,10-11,1-2,check,check,34,Bio 9544 (check),GF,Bio 9544 (check),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,
+DOC03,yield,YIELD_1,1,1081,CO-ORDINATED TRIALS,1,10,Performance of NIVT-Medium maturity maize genotypes for yield,10-11,1-2,check,check,35,DHM 117 (check),,DHM 117 (check),71,73,112,205,107,62.6,82.6,9.32,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,
+DOC03,yield,YIELD_1,1,1081,CO-ORDINATED TRIALS,1,10,Performance of NIVT-Medium maturity maize genotypes for yield,10-11,1-2,filler,filler,36,CMH 08-282 (filler),,CMH 08-282 (filler),68,69,111,217,106,65.4,79.2,8.45,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,
+DOC03,yield,YIELD_2,2,1082,CO-ORDINATED TRIALS,2,11,Performance of NIVT-Late duration genotypes for yield,11-12,2-3,entry,test,1,ADV 7126,,ADV 7126,75,77,113,209,117,74.3,83.2,9.05,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,
+DOC03,yield,YIELD_2,2,1082,CO-ORDINATED TRIALS,2,11,Performance of NIVT-Late duration genotypes for yield,11-12,2-3,entry,test,2,ADV 7251,,ADV 7251,74,77,115,204,108,68.1,85.0,8.19,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,
+DOC03,yield,YIELD_2,2,1082,CO-ORDINATED TRIALS,2,11,Performance of NIVT-Late duration genotypes for yield,11-12,2-3,entry,test,3,AH 8245,GF,AH 8245,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,
+DOC03,yield,YIELD_2,2,1082,CO-ORDINATED TRIALS,2,11,Performance of NIVT-Late duration genotypes for yield,11-12,2-3,entry,test,4,AHD 8721,,AHD 8721,73,75,114,205,107,68.1,79.2,7.96,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,
+DOC03,yield,YIELD_2,2,1082,CO-ORDINATED TRIALS,2,11,Performance of NIVT-Late duration genotypes for yield,11-12,2-3,entry,test,5,AHD 8722,,AHD 8722,74,77,113,215,105,64.6,80.7,7.22,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,
+DOC03,yield,YIELD_2,2,1082,CO-ORDINATED TRIALS,2,11,Performance of NIVT-Late duration genotypes for yield,11-12,2-3,entry,test,6,BH 417157,,BH 417157,70,72,113,207,106,59.0,78.7,7.61,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,
+DOC03,yield,YIELD_2,2,1082,CO-ORDINATED TRIALS,2,11,Performance of NIVT-Late duration genotypes for yield,11-12,2-3,entry,test,7,BS 650,,BS 650,69,70,113,203,110,72.9,80.8,8.29,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,
+DOC03,yield,YIELD_2,2,1082,CO-ORDINATED TRIALS,2,11,Performance of NIVT-Late duration genotypes for yield,11-12,2-3,entry,test,8,DM 9445,,DM 9445,73,74,114,207,108,69.4,82.9,9.05,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,
+DOC03,yield,YIELD_2,2,1082,CO-ORDINATED TRIALS,2,11,Performance of NIVT-Late duration genotypes for yield,11-12,2-3,entry,test,9,Ellora Commando 1112,,Ellora Commando 1112,72,75,114,206,110,62.5,84.4,7.84,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,
+DOC03,yield,YIELD_2,2,1082,CO-ORDINATED TRIALS,2,11,Performance of NIVT-Late duration genotypes for yield,11-12,2-3,entry,test,10,KMH 8333,,KMH 8333,73,75,113,216,113,72.9,85.2,9.02,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,
+DOC03,yield,YIELD_2,2,1082,CO-ORDINATED TRIALS,2,11,Performance of NIVT-Late duration genotypes for yield,11-12,2-3,entry,test,11,KMH 8543,,KMH 8543,74,76,114,205,111,50.0,82.2,6.7,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,
+DOC03,yield,YIELD_2,2,1082,CO-ORDINATED TRIALS,2,11,Performance of NIVT-Late duration genotypes for yield,11-12,2-3,entry,test,12,KMH 8585,,KMH 8585,72,73,112,206,113,71.5,83.8,10.06,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,
+DOC03,yield,YIELD_2,2,1082,CO-ORDINATED TRIALS,2,11,Performance of NIVT-Late duration genotypes for yield,11-12,2-3,entry,test,13,MMH 22-62,,MMH 22-62,75,77,115,206,108,65.3,80.0,6.59,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,
+DOC03,yield,YIELD_2,2,1082,CO-ORDINATED TRIALS,2,11,Performance of NIVT-Late duration genotypes for yield,11-12,2-3,entry,test,14,MMH 22-67,,MMH 22-67,75,77,115,199,117,37.5,81.9,7.42,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,
+DOC03,yield,YIELD_2,2,1082,CO-ORDINATED TRIALS,2,11,Performance of NIVT-Late duration genotypes for yield,11-12,2-3,entry,test,15,PM 22201L,,PM 22201L,71,72,110,205,107,73.6,81.4,10.05,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,
+DOC03,yield,YIELD_2,2,1082,CO-ORDINATED TRIALS,2,11,Performance of NIVT-Late duration genotypes for yield,11-12,2-3,entry,test,16,PM 22202L,,PM 22202L,71,72,113,215,111,70.8,80.0,10.56,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,
+DOC03,yield,YIELD_2,2,1082,CO-ORDINATED TRIALS,2,11,Performance of NIVT-Late duration genotypes for yield,11-12,2-3,entry,test,17,PM 22203L,,PM 22203L,73,74,114,217,121,72.2,82.8,9.76,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,
+DOC03,yield,YIELD_2,2,1082,CO-ORDINATED TRIALS,2,11,Performance of NIVT-Late duration genotypes for yield,11-12,2-3,entry,test,18,PM 22204L,,PM 22204L,69,71,111,210,112,67.4,84.7,10.76,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,
+DOC03,yield,YIELD_2,2,1082,CO-ORDINATED TRIALS,2,11,Performance of NIVT-Late duration genotypes for yield,11-12,2-3,entry,test,19,PM 22205L,,PM 22205L,70,71,112,215,111,76.4,85.7,10.07,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,
+DOC03,yield,YIELD_2,2,1082,CO-ORDINATED TRIALS,2,11,Performance of NIVT-Late duration genotypes for yield,11-12,2-3,entry,test,20,PM 22206L,,PM 22206L,69,71,114,206,107,73.6,84.7,9.78,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,
+DOC03,yield,YIELD_2,2,1082,CO-ORDINATED TRIALS,2,11,Performance of NIVT-Late duration genotypes for yield,11-12,2-3,entry,test,21,PM 22207L,,PM 22207L,73,74,112,203,100,69.4,83.0,9.4,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,
+DOC03,yield,YIELD_2,2,1082,CO-ORDINATED TRIALS,2,11,Performance of NIVT-Late duration genotypes for yield,11-12,2-3,entry,test,22,PM 22208L,,PM 22208L,71,73,112,216,110,71.5,82.6,9.79,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,
+DOC03,yield,YIELD_2,2,1082,CO-ORDINATED TRIALS,2,11,Performance of NIVT-Late duration genotypes for yield,11-12,2-3,entry,test,23,SMH 6222,,SMH 6222,74,76,116,203,108,76.4,79.8,9.79,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,
+DOC03,yield,YIELD_2,2,1082,CO-ORDINATED TRIALS,2,11,Performance of NIVT-Late duration genotypes for yield,11-12,2-3,entry,test,24,SMH 6333,,SMH 6333,71,73,112,209,107,63.9,85.2,9.34,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,
+DOC03,yield,YIELD_2,2,1082,CO-ORDINATED TRIALS,2,11,Performance of NIVT-Late duration genotypes for yield,11-12,2-3,check,check,25,KHM 25K45 (C),,KHM 25K45 (C),73,75,114,211,109,61.1,79.8,8.78,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,
+DOC03,yield,YIELD_2,2,1082,CO-ORDINATED TRIALS,2,11,Performance of NIVT-Late duration genotypes for yield,11-12,2-3,check,check,26,NMH 713 (C),,NMH 713 (C),73,75,112,203,110,71.5,81.3,7.43,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,
+DOC03,yield,YIELD_2,2,1082,CO-ORDINATED TRIALS,2,11,Performance of NIVT-Late duration genotypes for yield,11-12,2-3,check,check,27,P 3522 (C),,P 3522 (C),75,76,113,207,119,70.8,81.5,8.01,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,
+DOC03,yield,YIELD_3,3,1084,CO-ORDINATED TRIALS,3,12,Performance of AVT-I Late maturity maize genotypes for yield,12,3,entry,test,1,ADV 7415,,ADV 7415,70,72,113,216,108,46.87,81.3,8.49,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,
+DOC03,yield,YIELD_3,3,1084,CO-ORDINATED TRIALS,3,12,Performance of AVT-I Late maturity maize genotypes for yield,12,3,entry,test,2,ADV 7559,,ADV 7559,70,71,116,218,116,29.17,80.8,7.41,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,
+DOC03,yield,YIELD_3,3,1084,CO-ORDINATED TRIALS,3,12,Performance of AVT-I Late maturity maize genotypes for yield,12,3,entry,test,3,BH 417193,,BH 417193,67,68,112,206,103,71.87,79.9,13.39,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,
+DOC03,yield,YIELD_3,3,1084,CO-ORDINATED TRIALS,3,12,Performance of AVT-I Late maturity maize genotypes for yield,12,3,entry,test,4,PM21204L,,PM21204L,69,70,114,237,101,69.1,83.2,13.49,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,
+DOC03,yield,YIELD_3,3,1084,CO-ORDINATED TRIALS,3,12,Performance of AVT-I Late maturity maize genotypes for yield,12,3,entry,test,5,PM21207L,,PM21207L,67,67,112,230,97,72.92,81.8,11.86,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,
+DOC03,yield,YIELD_3,3,1084,CO-ORDINATED TRIALS,3,12,Performance of AVT-I Late maturity maize genotypes for yield,12,3,entry,test,6,TMMH 2845,,TMMH 2845,66,68,114,201,99,70.14,79.9,11.82,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,
+DOC03,yield,YIELD_3,3,1084,CO-ORDINATED TRIALS,3,12,Performance of AVT-I Late maturity maize genotypes for yield,12,3,check,check,7,KMH25K45 (Check),,KMH25K45 (Check),70,72,115,217,101,65.97,81.2,12.11,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,
+DOC03,yield,YIELD_3,3,1084,CO-ORDINATED TRIALS,3,12,Performance of AVT-I Late maturity maize genotypes for yield,12,3,check,check,8,NMH 713 (Check),,NMH 713 (Check),70,72,115,221,107,59.72,81.8,9.91,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,
+DOC03,yield,YIELD_3,3,1084,CO-ORDINATED TRIALS,3,12,Performance of AVT-I Late maturity maize genotypes for yield,12,3,check,check,9,P 3522 (Check),,P 3522 (Check),70,71,112,226,113,73.96,81.5,11.19,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,
+DOC03,yield,YIELD_4,4,1085,CO-ORDINATED TRIALS,4,13,Performance of AVT-II late maturity maize genotypes for yield,13,4,entry,test,1,ADV 7733,,ADV 7733,72,73,110,250,118,69.4,84.2,13.11,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,
+DOC03,yield,YIELD_4,4,1085,CO-ORDINATED TRIALS,4,13,Performance of AVT-II late maturity maize genotypes for yield,13,4,entry,test,2,PM20205L,,PM20205L,67,68,110,241,115,62.0,83.9,13.47,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,
+DOC03,yield,YIELD_4,4,1085,CO-ORDINATED TRIALS,4,13,Performance of AVT-II late maturity maize genotypes for yield,13,4,entry,test,3,TMMH 2882,,TMMH 2882,68,70,108,234,107,62.5,78.9,11.7,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,
+DOC03,yield,YIELD_4,4,1085,CO-ORDINATED TRIALS,4,13,Performance of AVT-II late maturity maize genotypes for yield,13,4,entry,test,4,VNR 4597,,VNR 4597,70,72,109,235,115,58.8,82.9,11.93,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,
+DOC03,yield,YIELD_4,4,1085,CO-ORDINATED TRIALS,4,13,Performance of AVT-II late maturity maize genotypes for yield,13,4,check,check,5,KMH25K45 (Check),,KMH25K45 (Check),71,73,110,230,109,66.2,79.4,14.84,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,
+DOC03,yield,YIELD_4,4,1085,CO-ORDINATED TRIALS,4,13,Performance of AVT-II late maturity maize genotypes for yield,13,4,check,check,6,NMH 713 (Check),,NMH 713 (Check),70,72,110,222,106,65.3,78.6,11.9,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,
+DOC03,yield,YIELD_4,4,1085,CO-ORDINATED TRIALS,4,13,Performance of AVT-II late maturity maize genotypes for yield,13,4,check,check,7,P 3522 (Check),,P 3522 (Check),72,73,109,241,113,71.3,82.5,13.12,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,
+DOC03,yield,YIELD_5,5,1086,CO-ORDINATED TRIALS,4,13,Performance of AVT-I-Medium maize genotypes for yield,13-14,4-5,entry,test,1,BH 417182,,BH 417182,67,68,111,241,117,67.7,78.5,13.99,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,
+DOC03,yield,YIELD_5,5,1086,CO-ORDINATED TRIALS,4,13,Performance of AVT-I-Medium maize genotypes for yield,13-14,4-5,entry,test,2,BH 417206,,BH 417206,68,69,110,238,116,74.3,78.4,14.74,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,
+DOC03,yield,YIELD_5,5,1086,CO-ORDINATED TRIALS,4,13,Performance of AVT-I-Medium maize genotypes for yield,13-14,4-5,entry,test,3,BMH 18-2,,BMH 18-2,67,68,110,234,123,64.6,78.8,13.42,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,
+DOC03,yield,YIELD_5,5,1086,CO-ORDINATED TRIALS,4,13,Performance of AVT-I-Medium maize genotypes for yield,13-14,4-5,entry,test,4,IMHSB 20R-11,,IMHSB 20R-11,68,69,110,262,139,77.1,78.6,15.4,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,
+DOC03,yield,YIELD_5,5,1086,CO-ORDINATED TRIALS,4,13,Performance of AVT-I-Medium maize genotypes for yield,13-14,4-5,entry,test,5,IMHSB 20R-3,,IMHSB 20R-3,66,68,110,253,129,78.1,83.8,14.89,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,
+DOC03,yield,YIELD_5,5,1086,CO-ORDINATED TRIALS,4,13,Performance of AVT-I-Medium maize genotypes for yield,13-14,4-5,entry,test,6,IMHSB 21R-7,,IMHSB 21R-7,69,71,110,237,114,68.4,79.3,10.15,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,
+DOC03,yield,YIELD_5,5,1086,CO-ORDINATED TRIALS,4,13,Performance of AVT-I-Medium maize genotypes for yield,13-14,4-5,entry,test,7,SYN217806,,SYN217806,67,69,109,251,125,69.4,81.2,13.97,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,
+DOC03,yield,YIELD_5,5,1086,CO-ORDINATED TRIALS,4,13,Performance of AVT-I-Medium maize genotypes for yield,13-14,4-5,check,check,8,Bio 9544 (C),GF,Bio 9544 (C),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,
+DOC03,yield,YIELD_5,5,1086,CO-ORDINATED TRIALS,4,13,Performance of AVT-I-Medium maize genotypes for yield,13-14,4-5,check,check,9,DMH 117 (C),,DMH 117 (C),71,73,110.33,235,131,49.31,77.7,8.612,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,
+DOC03,yield,YIELD_6,6,1087,CO-ORDINATED TRIALS,5,14,Performance of AVT-II-Medium maize genotypes for yield,14,5,entry,test,1,DKC 8225,,DKC 8225,67,69,111,247,131,73.15,85.7,12.11,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,
+DOC03,yield,YIELD_6,6,1087,CO-ORDINATED TRIALS,5,14,Performance of AVT-II-Medium maize genotypes for yield,14,5,entry,test,2,IMHSB 20R-6,,IMHSB 20R-6,68,70,113,220,107,77.31,82.6,10.41,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,
+DOC03,yield,YIELD_6,6,1087,CO-ORDINATED TRIALS,5,14,Performance of AVT-II-Medium maize genotypes for yield,14,5,entry,test,3,IMHSB 20R-10,,IMHSB 20R-10,67,69,111,219,117,73.84,79.3,9.24,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,
+DOC03,yield,YIELD_6,6,1087,CO-ORDINATED TRIALS,5,14,Performance of AVT-II-Medium maize genotypes for yield,14,5,entry,test,4,SYN207660,,SYN207660,68,70,114,216,111,75.46,84.5,13.78,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,
+DOC03,yield,YIELD_6,6,1087,CO-ORDINATED TRIALS,5,14,Performance of AVT-II-Medium maize genotypes for yield,14,5,entry,test,5,SYN207884,,SYN207884,69,71,114,226,111,73.38,85.0,11.38,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,
+DOC03,yield,YIELD_6,6,1087,CO-ORDINATED TRIALS,5,14,Performance of AVT-II-Medium maize genotypes for yield,14,5,check,check,6,Bio 9544 (Check),,Bio 9544 (Check),73,74,116,209,112,28.47,78.9,6.02,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,
+DOC03,yield,YIELD_6,6,1087,CO-ORDINATED TRIALS,5,14,Performance of AVT-II-Medium maize genotypes for yield,14,5,check,check,7,DHM 117 (Check),,DHM 117 (Check),70,73,113,229,126,56.25,78.4,7.62,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,
+DOC03,yield,YIELD_7,7,1083,CO-ORDINATED TRIALS,6,15,Performance of Sweet corn maize (I-II-III) genotypes for yield,15,6,entry,test,1,BSCH 418184,,BSCH 418184,64,66,,167,77,,,,60764,14.7,16875,20556,,,,,,,,,,,,,,,,,,,,,,1,,,,
+DOC03,yield,YIELD_7,7,1083,CO-ORDINATED TRIALS,6,15,Performance of Sweet corn maize (I-II-III) genotypes for yield,15,6,entry,test,2,HI BRIX 33,,HI BRIX 33,70,72,,180,80,,,,40972,12.6,12188,18021,,,,,,,,,,,,,,,,,,,,,,1,,,,
+DOC03,yield,YIELD_7,7,1083,CO-ORDINATED TRIALS,6,15,Performance of Sweet corn maize (I-II-III) genotypes for yield,15,6,entry,test,3,HI BRIX 59,,HI BRIX 59,70,72,,176,82,,,,43750,14.3,16319,20208,,,,,,,,,,,,,,,,,,,,,,1,,,,
+DOC03,yield,YIELD_7,7,1083,CO-ORDINATED TRIALS,6,15,Performance of Sweet corn maize (I-II-III) genotypes for yield,15,6,entry,test,4,HI BRIX 81,,HI BRIX 81,71,73,,201,102,,,,54861,13.9,20139,25000,,,,,,,,,,,,,,,,,,,,,,1,,,,
+DOC03,yield,YIELD_7,7,1083,CO-ORDINATED TRIALS,6,15,Performance of Sweet corn maize (I-II-III) genotypes for yield,15,6,entry,test,5,MSCH 22-28,,MSCH 22-28,64,66,,170,89,,,,41667,16.6,8993,11983,,,,,,,,,,,,,,,,,,,,,,1,,,,
+DOC03,yield,YIELD_7,7,1083,CO-ORDINATED TRIALS,6,15,Performance of Sweet corn maize (I-II-III) genotypes for yield,15,6,check,check,6,ASKH 4 (Check),,ASKH 4 (Check),66,68,,200,103,,,,56944,16.3,12014,15035,,,,,,,,,,,,,,,,,,,,,,1,,,,
+DOC03,yield,YIELD_7,7,1083,CO-ORDINATED TRIALS,6,15,Performance of Sweet corn maize (I-II-III) genotypes for yield,15,6,check,check,7,MISHTI (Check),,MISHTI (Check),65,67,,164,75,,,,62500,14.7,18299,21667,,,,,,,,,,,,,,,,,,,,,,1,,,,
+DOC03,yield,YIELD_7,7,1083,CO-ORDINATED TRIALS,6,15,Performance of Sweet corn maize (I-II-III) genotypes for yield,15,6,check,check,8,VL Sweet Corn (check),,VL Sweet Corn (check),63,65,,170,72,,,,60764,15.5,10590,12431,,,,,,,,,,,,,,,,,,,,,,1,,,,
+DOC03,yield,YIELD_8,8,1096,CO-ORDINATED TRIALS,6,15,Performance of QPM I-II-III Maize genotypes for yield,15-16,6-7,entry,test,1,APQH1,,APQH1,69,71,118,212,104,41.7,78.6,7.07,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,
+DOC03,yield,YIELD_8,8,1096,CO-ORDINATED TRIALS,6,15,Performance of QPM I-II-III Maize genotypes for yield,15-16,6-7,entry,test,2,APQH5,,APQH5,69,72,115,205,107,46.5,75.9,6.79,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,
+DOC03,yield,YIELD_8,8,1096,CO-ORDINATED TRIALS,6,15,Performance of QPM I-II-III Maize genotypes for yield,15-16,6-7,entry,test,3,APQH7,,APQH7,69,70,116,215,109,35.4,76.9,5.02,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,
+DOC03,yield,YIELD_8,8,1096,CO-ORDINATED TRIALS,6,15,Performance of QPM I-II-III Maize genotypes for yield,15-16,6-7,entry,test,4,IQH7-215,,IQH7-215,66,68,111,196,97,56.6,80.9,6.03,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,
+DOC03,yield,YIELD_8,8,1096,CO-ORDINATED TRIALS,6,15,Performance of QPM I-II-III Maize genotypes for yield,15-16,6-7,entry,test,5,IQH7-219,,IQH7-219,64,66,111,203,105,71.5,84.4,10.72,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,
+DOC03,yield,YIELD_8,8,1096,CO-ORDINATED TRIALS,6,15,Performance of QPM I-II-III Maize genotypes for yield,15-16,6-7,entry,test,6,MQH 21-51,,MQH 21-51,67,69,115,211,109,54.5,80.1,8.14,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,
+DOC03,yield,YIELD_8,8,1096,CO-ORDINATED TRIALS,6,15,Performance of QPM I-II-III Maize genotypes for yield,15-16,6-7,entry,test,7,QPMMH 22-35,,QPMMH 22-35,69,70,114,219,111,59.0,75.8,7.33,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,
+DOC03,yield,YIELD_8,8,1096,CO-ORDINATED TRIALS,6,15,Performance of QPM I-II-III Maize genotypes for yield,15-16,6-7,check,check,8,HQPM 1 (Check),GF,HQPM 1 (Check),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,
+DOC03,yield,YIELD_8,8,1096,CO-ORDINATED TRIALS,6,15,Performance of QPM I-II-III Maize genotypes for yield,15-16,6-7,check,check,9,HQPM-5 (Check),,HQPM-5 (Check),70,72,114,220,104,59.4,75.7,6.52,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,
+DOC03,yield,YIELD_8,8,1096,CO-ORDINATED TRIALS,6,15,Performance of QPM I-II-III Maize genotypes for yield,15-16,6-7,check,check,10,HQPM-7 (Check),,HQPM-7 (Check),70,72,115,204,100,66.3,76.7,8.25,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,
+DOC03,yield,YIELD_8,8,1096,CO-ORDINATED TRIALS,6,15,Performance of QPM I-II-III Maize genotypes for yield,15-16,6-7,check,check,11,LQMH1 (Check),,LQMH1 (Check),62,65,112,192,92,60.4,85.5,10.23,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,
+DOC03,yield,YIELD_8,8,1096,CO-ORDINATED TRIALS,6,15,Performance of QPM I-II-III Maize genotypes for yield,15-16,6-7,check,check,12,PUSA BIOFORTIFIED MAIZE HYBRID-1,,PUSA BIOFORTIFIED MAIZE HYBRID-1,69,70,111,206,103,60.8,76.2,7.06,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,
+DOC03,yield,YIELD_9,9,1088,CO-ORDINATED TRIALS,7,16,Evaluation Popcorn maize hybrids for grain yield,16,7,entry,test,1,APCH 4,,APCH 4,67,68,110,213,119,,76.7,,66667,,,,93.8,4628,,,,,,,,,,,,,,,,,,,,1,,,,
+DOC03,yield,YIELD_9,9,1088,CO-ORDINATED TRIALS,7,16,Evaluation Popcorn maize hybrids for grain yield,16,7,entry,test,2,CHCP 2204,,CHCP 2204,64,65,107,212,116,,78.2,,63542,,,,50.9,6857,,,,,,,,,,,,,,,,,,,,1,,,,
+DOC03,yield,YIELD_9,9,1088,CO-ORDINATED TRIALS,7,16,Evaluation Popcorn maize hybrids for grain yield,16,7,entry,test,3,CHCP 2205,,CHCP 2205,63,65,107,210,113,,75.2,,67361,,,,22.8,6687,,,,,,,,,,,,,,,,,,,,1,,,,
+DOC03,yield,YIELD_9,9,1088,CO-ORDINATED TRIALS,7,16,Evaluation Popcorn maize hybrids for grain yield,16,7,entry,test,4,CHCP 2206,,CHCP 2206,65,67,108,217,122,,74.9,,65972,,,,43.2,7183,,,,,,,,,,,,,,,,,,,,1,,,,
+DOC03,yield,YIELD_9,9,1088,CO-ORDINATED TRIALS,7,16,Evaluation Popcorn maize hybrids for grain yield,16,7,entry,test,5,CHCP 2207,GF,CHCP 2207,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,
+DOC03,yield,YIELD_9,9,1088,CO-ORDINATED TRIALS,7,16,Evaluation Popcorn maize hybrids for grain yield,16,7,entry,test,6,HPC 4,,HPC 4,62,64,109,198,105,,80.7,,44792,,,,92.4,4226,,,,,,,,,,,,,,,,,,,,1,,,,
+DOC03,yield,YIELD_9,9,1088,CO-ORDINATED TRIALS,7,16,Evaluation Popcorn maize hybrids for grain yield,16,7,entry,test,7,HPC 5,GF,HPC 5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,
+DOC03,yield,YIELD_9,9,1088,CO-ORDINATED TRIALS,7,16,Evaluation Popcorn maize hybrids for grain yield,16,7,entry,test,8,IMHP 2101,,IMHP 2101,64,65,108,200,102,,83.2,,69097,,,,66.4,9415,,,,,,,,,,,,,,,,,,,,1,,,,
+DOC03,yield,YIELD_9,9,1088,CO-ORDINATED TRIALS,7,16,Evaluation Popcorn maize hybrids for grain yield,16,7,entry,test,9,IPH 2-22R-1,,IPH 2-22R-1,61,63,107,208,113,,80.5,,74653,,,,73.0,9196,,,,,,,,,,,,,,,,,,,,1,,,,
+DOC03,yield,YIELD_9,9,1088,CO-ORDINATED TRIALS,7,16,Evaluation Popcorn maize hybrids for grain yield,16,7,entry,test,10,MPC 2141,,MPC 2141,65,67,109,190,101,,82.2,,57639,,,,58.9,4539,,,,,,,,,,,,,,,,,,,,1,,,,
+DOC03,yield,YIELD_9,9,1088,CO-ORDINATED TRIALS,7,16,Evaluation Popcorn maize hybrids for grain yield,16,7,entry,test,11,MPCH 22-22,,MPCH 22-22,67,69,110,195,109,,84.8,,47222,,,,90.2,5054,,,,,,,,,,,,,,,,,,,,1,,,,
+DOC03,yield,YIELD_9,9,1088,CO-ORDINATED TRIALS,7,16,Evaluation Popcorn maize hybrids for grain yield,16,7,entry,test,12,PP 09,,PP 09,62,63,105,178,98,,81.4,,70833,,,,98.4,6670,,,,,,,,,,,,,,,,,,,,1,,,,
+DOC03,yield,YIELD_9,9,1088,CO-ORDINATED TRIALS,7,16,Evaluation Popcorn maize hybrids for grain yield,16,7,entry,test,13,PP II,,PP II,60,62,105,188,95,,80.9,,69792,,,,97.9,6989,,,,,,,,,,,,,,,,,,,,1,,,,
+DOC03,yield,YIELD_9,9,1088,CO-ORDINATED TRIALS,7,16,Evaluation Popcorn maize hybrids for grain yield,16,7,check,check,14,BPCH 6 (Check),,BPCH 6 (Check),63,65,108,207,115,,80.1,,67708,,,,66.0,5992,,,,,,,,,,,,,,,,,,,,1,,,,
+DOC03,yield,YIELD_9,9,1088,CO-ORDINATED TRIALS,7,16,Evaluation Popcorn maize hybrids for grain yield,16,7,check,check,15,DMRHP 1402 (Check),,DMRHP 1402 (Check),62,63,109,183,103,,84.9,,71528,,,,72.9,6760,,,,,,,,,,,,,,,,,,,,1,,,,
+DOC03,yield,YIELD_9,9,1088,CO-ORDINATED TRIALS,7,16,Evaluation Popcorn maize hybrids for grain yield,16,7,check,check,16,LPCH 3 (Check),,LPCH 3 (Check),63,65,108,195,101,,83.2,,78472,,,,46.8,9243,,,,,,,,,,,,,,,,,,,,1,,,,
+DOC03,yield,YIELD_10,10,1097,CO-ORDINATED TRIALS,8,17,Performance of Baby corn genotypes for baby corn yield,17,8,entry,test,1,BAUMH 21-1-1,GF,BAUMH 21-1-1,,70,,213,105,,,,,,,,,,86806,10.27,0.61,,,,,,,,,,,,,,,,,1,,,,
+DOC03,yield,YIELD_10,10,1097,CO-ORDINATED TRIALS,8,17,Performance of Baby corn genotypes for baby corn yield,17,8,entry,test,2,BAUMH 21-8,,BAUMH 21-8,68,70,,182,101,,,,,,,,,,86111,9.3,0.59,44861,70,76,5,7981,1355,,,,,,,,,,,1,,,,
+DOC03,yield,YIELD_10,10,1097,CO-ORDINATED TRIALS,8,17,Performance of Baby corn genotypes for baby corn yield,17,8,entry,test,3,IBH 9-224,,IBH 9-224,71,72,,182,101,,,,,,,,,,86111,9.3,0.59,37708,70,76,5,8588,1467,,,,,,,,,,,1,,,,
+DOC03,yield,YIELD_10,10,1097,CO-ORDINATED TRIALS,8,17,Performance of Baby corn genotypes for baby corn yield,17,8,entry,test,4,IBH9-225,,IBH9-225,71,72,,172,87,,,,,,,,,,95833,9.71,0.61,36194,74,78,4,5455,857,,,,,,,,,,,1,,,,
+DOC03,yield,YIELD_10,10,1097,CO-ORDINATED TRIALS,8,17,Performance of Baby corn genotypes for baby corn yield,17,8,entry,test,5,IIVRBCH 1613,,IIVRBCH 1613,65,68,,196,86,,,,,,,,,,91667,9.66,0.57,35694,68,75,7,6171,1207,,,,,,,,,,,1,,,,
+DOC03,yield,YIELD_10,10,1097,CO-ORDINATED TRIALS,8,17,Performance of Baby corn genotypes for baby corn yield,17,8,entry,test,6,MBC 21-10,,MBC 21-10,72,74,,206,109,,,,,,,,,,60417,8.42,0.61,39028,74,79,5,5458,903,,,,,,,,,,,1,,,,
+DOC03,yield,YIELD_10,10,1097,CO-ORDINATED TRIALS,8,17,Performance of Baby corn genotypes for baby corn yield,17,8,entry,test,7,MBC 22-32,,MBC 22-32,70,72,,193,99,,,,,,,,,,48611,8.96,0.57,29167,72,78,6,5946,788,,,,,,,,,,,1,,,,
+DOC03,yield,YIELD_10,10,1097,CO-ORDINATED TRIALS,8,17,Performance of Baby corn genotypes for baby corn yield,17,8,check,check,8,ABSH-1 (Check),,ABSH-1 (Check),66,67,,179,91,,,,,,,,,,60417,9.89,0.57,29236,67,73,5,5975,969,,,,,,,,,,,1,,,,
+DOC03,yield,YIELD_10,10,1097,CO-ORDINATED TRIALS,8,17,Performance of Baby corn genotypes for baby corn yield,17,8,check,check,9,AH 7043 (Check),,AH 7043 (Check),63,67,,160,73,,,,,,,,,,93056,10.01,0.61,28611,67,74,7,5283,1467,,,,,,,,,,,1,,,,
+DOC03,yield,YIELD_10,10,1097,CO-ORDINATED TRIALS,8,17,Performance of Baby corn genotypes for baby corn yield,17,8,check,check,10,CMVL Baby corn 1 (check),,CMVL Baby corn 1 (check),64,67,,175,84,,,,,,,,,,97222,10.29,0.67,41250,67,73,7,8997,1691,,,,,,,,,,,1,,,,
+DOC03,yield,YIELD_11,11,,STATION TRIALS,9,18,Evaluation private company maize hybrids for grain yield,18,9,entry,test,1,CP -201,,CP -201,71,73,112,231,125,,80.7,,,,,,,,,,,,,,,,,15.4,35,12260,6.7,16.0,,,,,,1,,,,
+DOC03,yield,YIELD_11,11,,STATION TRIALS,9,18,Evaluation private company maize hybrids for grain yield,18,9,entry,test,2,CP -202,,CP -202,71,73,112,235,126,,78.9,,,,,,,,,,,,,,,,,15.0,35,13654,18.9,29.2,,,,,,1,,,,
+DOC03,yield,YIELD_11,11,,STATION TRIALS,9,18,Evaluation private company maize hybrids for grain yield,18,9,check,NC,3,Bio-9544 (NC),,Bio-9544 (NC),71,73,112,235,130,,80.2,,,,,,,,,,,,,,,,,15.2,36,11486,,,,,,,,1,,,,
+DOC03,yield,YIELD_11,11,,STATION TRIALS,9,18,Evaluation private company maize hybrids for grain yield,18,9,check,LC,4,MAH-14-5 (LC),,MAH-14-5 (LC),69,71,110,215,118,,78.7,,,,,,,,,,,,,,,,,15.3,32,10568,,,,,,,,1,,,,
+DOC03,yield,YIELD_12,12,,STATION TRIALS,10,19,Evaluation private company maize hybrids for grain yield,19,10,entry,test,1,Rank (1M),,Rank (1M),60,62,106,263,137,,79.6,,,,,,,,,,,,,,,,,15,36,12114,21.9,17.1,,,,,,1,,,,
+DOC03,yield,YIELD_12,12,,STATION TRIALS,10,19,Evaluation private company maize hybrids for grain yield,19,10,check,NC,2,Bio-9544 (NC),,Bio-9544 (NC),60,62,103,256,135,,81.6,,,,,,,,,,,,,,,,,16,38,9935,,,,,,,,1,,,,
+DOC03,yield,YIELD_12,12,,STATION TRIALS,10,19,Evaluation private company maize hybrids for grain yield,19,10,check,LC,3,MAH-14-5 (LC),,MAH-14-5 (LC),59,61,105,261,142,,78.2,,,,,,,,,,,,,,,,,16,36,10346,,,,,,,,1,,,,
+DOC03,yield,YIELD_13,13,,STATION TRIALS,10,19,Evaluation of station new maize hybrids for grain yield,19-20,10-11,entry,test,1,MAH-22-23,,MAH-22-23,60,62,,278,155,,81.3,,,,,,,19710,,,,,,,,,,16,,,,,17.6,5.08,41,,,1,,,,
+DOC03,yield,YIELD_13,13,,STATION TRIALS,10,19,Evaluation of station new maize hybrids for grain yield,19-20,10-11,entry,test,2,MAH-22-28,,MAH-22-28,59,61,,278,157,,77.0,,,,,,,17430,,,,,,,,,,16,,,,,18.9,5.7,38,,,1,,,,
+DOC03,yield,YIELD_13,13,,STATION TRIALS,10,19,Evaluation of station new maize hybrids for grain yield,19-20,10-11,entry,test,3,MAH-22-17,,MAH-22-17,62,64,,275,140,,78.7,,,,,,,16840,,,,,,,,,,16,,,,,19.8,5.34,40,,,1,,,,
+DOC03,yield,YIELD_13,13,,STATION TRIALS,10,19,Evaluation of station new maize hybrids for grain yield,19-20,10-11,entry,test,4,MAH-22-16,,MAH-22-16,64,63,,265,147,,78.1,,,,,,,16760,,,,,,,,,,14,,,,,20.54,5.28,43,,,1,,,,
+DOC03,yield,YIELD_13,13,,STATION TRIALS,10,19,Evaluation of station new maize hybrids for grain yield,19-20,10-11,entry,test,5,MAH-22-9,,MAH-22-9,61,64,,235,145,,76.7,,,,,,,15670,,,,,,,,,,14,,,,,17.6,5.26,36,,,1,,,,
+DOC03,yield,YIELD_13,13,,STATION TRIALS,10,19,Evaluation of station new maize hybrids for grain yield,19-20,10-11,entry,test,6,MAH-22-33,,MAH-22-33,61,64,,275,162,,77.3,,,,,,,15410,,,,,,,,,,15,,,,,17.8,5.28,40,,,1,,,,
+DOC03,yield,YIELD_13,13,,STATION TRIALS,10,19,Evaluation of station new maize hybrids for grain yield,19-20,10-11,entry,test,7,MAH-22-107,,MAH-22-107,63,65,,245,140,,81.3,,,,,,,14620,,,,,,,,,,15,,,,,16.58,5.4,35,,,1,,,,
+DOC03,yield,YIELD_13,13,,STATION TRIALS,10,19,Evaluation of station new maize hybrids for grain yield,19-20,10-11,entry,test,8,MAH-22-80,,MAH-22-80,62,65,,278,182,,80.6,,,,,,,13710,,,,,,,,,,15,,,,,19.2,4.96,46,,,1,,,,
+DOC03,yield,YIELD_13,13,,STATION TRIALS,10,19,Evaluation of station new maize hybrids for grain yield,19-20,10-11,entry,test,9,MAH-22-32,,MAH-22-32,60,62,,248,170,,80.9,,,,,,,13630,,,,,,,,,,14,,,,,21.52,4.98,44,,,1,,,,
+DOC03,yield,YIELD_13,13,,STATION TRIALS,10,19,Evaluation of station new maize hybrids for grain yield,19-20,10-11,entry,test,10,MAH-22-12,,MAH-22-12,60,62,,272,153,,77.1,,,,,,,13330,,,,,,,,,,16,,,,,17.2,5.6,38,,,1,,,,
+DOC03,yield,YIELD_13,13,,STATION TRIALS,10,19,Evaluation of station new maize hybrids for grain yield,19-20,10-11,entry,test,11,MAH-22-83,,MAH-22-83,60,62,,274,149,,83.9,,,,,,,9260,,,,,,,,,,15,,,,,17.4,4.86,43,,,1,,,,
+DOC03,yield,YIELD_13,13,,STATION TRIALS,10,19,Evaluation of station new maize hybrids for grain yield,19-20,10-11,entry,test,12,MAH-22-21,,MAH-22-21,62,62,,275,160,,76.3,,,,,,,13200,,,,,,,,,,17,,,,,19.2,5.24,41,,,1,,,,
+DOC03,yield,YIELD_13,13,,STATION TRIALS,10,19,Evaluation of station new maize hybrids for grain yield,19-20,10-11,entry,test,13,MAH-22-22,,MAH-22-22,58,60,,280,172,,79.5,,,,,,,12670,,,,,,,,,,16,,,,,17.3,5.16,44,,,1,,,,
+DOC03,yield,YIELD_13,13,,STATION TRIALS,10,19,Evaluation of station new maize hybrids for grain yield,19-20,10-11,entry,test,14,MAH-22-113,,MAH-22-113,57,60,,263,138,,79.9,,,,,,,10340,,,,,,,,,,15,,,,,17.0,5.18,34,,,1,,,,
+DOC03,yield,YIELD_13,13,,STATION TRIALS,10,19,Evaluation of station new maize hybrids for grain yield,19-20,10-11,entry,test,15,MAH-22-4,,MAH-22-4,57,59,,275,148,,76.1,,,,,,,10060,,,,,,,,,,15,,,,,20.54,5.2,40,,,1,,,,
+DOC03,yield,YIELD_13,13,,STATION TRIALS,10,19,Evaluation of station new maize hybrids for grain yield,19-20,10-11,entry,test,16,MAH-22-11,,MAH-22-11,62,64,,268,150,,75.5,,,,,,,9700,,,,,,,,,,13,,,,,17.52,4.48,42,,,1,,,,
+DOC03,yield,YIELD_13,13,,STATION TRIALS,10,19,Evaluation of station new maize hybrids for grain yield,19-20,10-11,entry,test,17,MAH 19-2,,MAH 19-2,62,64,,257,140,,84.2,,,,,,,12810,,,,,,,,,,14,,,,,17.0,4.86,40,,,1,,,,
+DOC03,yield,YIELD_13,13,,STATION TRIALS,10,19,Evaluation of station new maize hybrids for grain yield,19-20,10-11,check,NC,18,Bio-9544,,Bio-9544,60,62,,260,145,,86.3,,,,,,,6010,,,,,,,,,,12,,,,,16.0,4.22,37,,,1,,,,
+DOC03,yield,YIELD_13,13,,STATION TRIALS,10,19,Evaluation of station new maize hybrids for grain yield,19-20,10-11,entry,test,19,MAH 15-84,,MAH 15-84,60,62,,263,138,,77.0,,,,,,,3690,,,,,,,,,,17,,,,,17.25,5.06,38,,,1,,,,
+DOC03,yield,YIELD_13,13,,STATION TRIALS,10,19,Evaluation of station new maize hybrids for grain yield,19-20,10-11,check,LC,20,MAH 14-5,,MAH 14-5,59,61,,270,157,,79.3,,,,,,,9590,,,,,,,,,,15,,,,,15.4,4.42,37,,,1,,,,
+DOC03,yield,YIELD_13,13,,STATION TRIALS,10,19,Evaluation of station new maize hybrids for grain yield,19-20,10-11,entry,test,21,MAH 14-138,,MAH 14-138,61,63,,260,172,,81.9,,,,,,,11760,,,,,,,,,,15,,,,,15.4,5.02,33,,,1,,,,
+DOC03,yield,YIELD_14,14,,STATION TRIALS,12,21,Evaluation of station MLT maize hybrids for grain yield,21,12,entry,test,1,MAH-19-2,,MAH-19-2,,69,111,229,126,,78.0,,,,,,,,,,,,,,,,,15.3,33,11346,-1.2,7.4,18.2,5.1,,68,35.5,1,,,,
+DOC03,yield,YIELD_14,14,,STATION TRIALS,12,21,Evaluation of station MLT maize hybrids for grain yield,21,12,entry,test,2,MAH-15-84,,MAH-15-84,,72,114,247,133,,78.5,,,,,,,,,,,,,,,,,15.7,35,12240,6.6,15.8,17.1,5.1,,70,38.5,1,,,,
+DOC03,yield,YIELD_14,14,,STATION TRIALS,12,21,Evaluation of station MLT maize hybrids for grain yield,21,12,entry,test,3,MAH-22-46,,MAH-22-46,,75,116,216,119,,79.0,,,,,,,,,,,,,,,,,15.4,26,10032,-12.7,-5.1,16.5,4.8,,74,34.0,1,,,,
+DOC03,yield,YIELD_14,14,,STATION TRIALS,12,21,Evaluation of station MLT maize hybrids for grain yield,21,12,entry,test,4,MAH-22-3,,MAH-22-3,,75,114,206,118,,75.8,,,,,,,,,,,,,,,,,14.5,31,9067,-21.1,-14.2,17.0,4.6,,74,36.0,1,,,,
+DOC03,yield,YIELD_14,14,,STATION TRIALS,12,21,Evaluation of station MLT maize hybrids for grain yield,21,12,entry,test,5,MAH-22-55,,MAH-22-55,,75,113,236,125,,76.7,,,,,,,,,,,,,,,,,16.2,29,10229,-10.9,-3.2,20.6,5.2,,73,41.0,1,,,,
+DOC03,yield,YIELD_14,14,,STATION TRIALS,12,21,Evaluation of station MLT maize hybrids for grain yield,21,12,entry,test,6,MAH-22-17,,MAH-22-17,,75,116,240,124,,76.6,,,,,,,,,,,,,,,,,16.0,31,15130,31.7,43.2,20.5,5.3,,73,37.0,1,,,,
+DOC03,yield,YIELD_14,14,,STATION TRIALS,12,21,Evaluation of station MLT maize hybrids for grain yield,21,12,entry,test,7,MAH-22-113,,MAH-22-113,,73,115,219,115,,77.4,,,,,,,,,,,,,,,,,14.6,33,10655,-7.2,0.8,19.1,5.1,,71,42.0,1,,,,
+DOC03,yield,YIELD_14,14,,STATION TRIALS,12,21,Evaluation of station MLT maize hybrids for grain yield,21,12,entry,test,8,MAH-21-501,,MAH-21-501,,73,110,222,106,,80.2,,,,,,,,,,,,,,,,,13.0,40,10836,-5.6,2.5,19.8,4.8,,71,35.0,1,,,,
+DOC03,yield,YIELD_14,14,,STATION TRIALS,12,21,Evaluation of station MLT maize hybrids for grain yield,21,12,entry,test,9,NAH-2049 - I,,NAH-2049 - I,,67,110,235,118,,76.7,,,,,,,,,,,,,,,,,15.8,33,10207,-11.1,-3.4,17.7,5.2,,66,38.5,1,,,,
+DOC03,yield,YIELD_14,14,,STATION TRIALS,12,21,Evaluation of station MLT maize hybrids for grain yield,21,12,entry,test,10,NAH-2049 -II,,NAH-2049 -II,,69,109,242,126,,79.1,,,,,,,,,,,,,,,,,15.6,31,9723,-15.3,-8.0,17.8,5.0,,67,40.0,1,,,,
+DOC03,yield,YIELD_14,14,,STATION TRIALS,12,21,Evaluation of station MLT maize hybrids for grain yield,21,12,entry,test,11,MAH-14-138,,MAH-14-138,,70,110,247,141,,78.6,,,,,,,,,,,,,,,,,16.4,33,11492,0.1,8.7,18.3,5.3,,67,37.5,1,,,,
+DOC03,yield,YIELD_14,14,,STATION TRIALS,12,21,Evaluation of station MLT maize hybrids for grain yield,21,12,check,NC,12,BIO-9544 (NC),,BIO-9544 (NC),,73,112,235,130,,80.2,,,,,,,,,,,,,,,,,15.2,36,11486,,8.7,19.1,5.0,,71,34.5,1,,,,
+DOC03,yield,YIELD_14,14,,STATION TRIALS,12,21,Evaluation of station MLT maize hybrids for grain yield,21,12,check,LC,13,MAH-14-5 (LC),,MAH-14-5 (LC),,71,110,215,118,,78.7,,,,,,,,,,,,,,,,,15.3,32,10568,-8.0,,15.2,4.6,,69,38.0,1,,,,
+DOC01,TLB,TLB_MPT-1(1099),MPT-1(1099),,,1,119,,,,Genotype,,1,DM 9445,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.1,MR,,
+DOC01,TLB,TLB_MPT-1(1099),MPT-1(1099),,,1,119,,,,Genotype,,2,AHD 8721,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.6,MR,,
+DOC01,TLB,TLB_MPT-1(1099),MPT-1(1099),,,1,119,,,,Genotype,,3,AHD 8722,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.0,R,,
+DOC01,TLB,TLB_MPT-1(1099),MPT-1(1099),,,1,119,,,,Genotype,,4,AH 8245,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.5,MR,,
+DOC01,TLB,TLB_MPT-1(1099),MPT-1(1099),,,1,119,,,,Genotype,,5,BS 650,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.9,MR,,
+DOC01,TLB,TLB_MPT-1(1099),MPT-1(1099),,,1,119,,,,Genotype,,6,KMH 8543,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.4,MR,,
+DOC01,TLB,TLB_MPT-1(1099),MPT-1(1099),,,1,119,,,,Genotype,,7,KMH 8585,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.8,MR,,
+DOC01,TLB,TLB_MPT-1(1099),MPT-1(1099),,,1,119,,,,Genotype,,8,KMH 8333,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.0,MR,,
+DOC01,TLB,TLB_MPT-1(1099),MPT-1(1099),,,1,119,,,,Genotype,,9,BH 417157,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.3,MR,,
+DOC01,TLB,TLB_MPT-1(1099),MPT-1(1099),,,1,119,,,,Genotype,,10,Ellora Commando112,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.8,MR,,
+DOC01,TLB,TLB_MPT-1(1099),MPT-1(1099),,,1,119,,,,Genotype,,11,ADV 7126,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.9,MR,,
+DOC01,TLB,TLB_MPT-1(1099),MPT-1(1099),,,1,119,,,,Genotype,,12,ADV 7251,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.7,MR,,
+DOC01,TLB,TLB_MPT-1(1099),MPT-1(1099),,,1,119,,,,Genotype,,13,MMH 22-62,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.4,R,,
+DOC01,TLB,TLB_MPT-1(1099),MPT-1(1099),,,1,119,,,,Genotype,,14,MMH 22-67,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.3,MR,,
+DOC01,TLB,TLB_MPT-1(1099),MPT-1(1099),,,1,119,,,,Genotype,,15,PM 22201L,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.0,R,,
+DOC01,TLB,TLB_MPT-1(1099),MPT-1(1099),,,1,119,,,,Genotype,,16,PM 22202L,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.7,MS,,
+DOC01,TLB,TLB_MPT-1(1099),MPT-1(1099),,,1,119,,,,Genotype,,17,PM 22203L,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.2,MR,,
+DOC01,TLB,TLB_MPT-1(1099),MPT-1(1099),,,1,119,,,,Genotype,,18,PM 22204L,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.0,MR,,
+DOC01,TLB,TLB_MPT-1(1099),MPT-1(1099),,,1,119,,,,Genotype,,19,PM 22205L,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.9,R,,
+DOC01,TLB,TLB_MPT-1(1099),MPT-1(1099),,,1,119,,,,Genotype,,20,PM 22206L,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.7,R,,
+DOC01,TLB,TLB_MPT-1(1099),MPT-1(1099),,,1,119,,,,Genotype,,21,PM 22207L,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.8,MR,,
+DOC01,TLB,TLB_MPT-1(1099),MPT-1(1099),,,1,119,,,,Genotype,,22,PM 22208L,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.2,MR,,
+DOC01,TLB,TLB_MPT-1(1099),MPT-1(1099),,,1,119,,,,Genotype,,23,SMH 6222,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.2,MS,,
+DOC01,TLB,TLB_MPT-1(1099),MPT-1(1099),,,1,119,,,,Genotype,,24,SMH 6333,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.7,MS,,
+DOC01,TLB,TLB_MPT-1(1099),MPT-1(1099),,,1,119,,,,Genotype,,25,BH 417193,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.1,MS,,
+DOC01,TLB,TLB_MPT-1(1099),MPT-1(1099),,,1,119,,,,Genotype,,26,TMMH 2845,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.0,MS,,
+DOC01,TLB,TLB_MPT-1(1099),MPT-1(1099),,,1,119,,,,Genotype,,27,ADV 7559,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.8,R,,
+DOC01,TLB,TLB_MPT-1(1099),MPT-1(1099),,,1,119,,,,Genotype,,28,ADV 7415,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.0,MR,,
+DOC01,TLB,TLB_MPT-1(1099),MPT-1(1099),,,1,119,,,,Genotype,,29,PM21204L,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.5,MR,,
+DOC01,TLB,TLB_MPT-1(1099),MPT-1(1099),,,1,119,,,,Genotype,,30,PM21207L,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.6,R,,
+DOC01,TLB,TLB_MPT-1(1099),MPT-1(1099),,,1,119,,,,Genotype,,31,VNR 4597,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.2,MR,,
+DOC01,TLB,TLB_MPT-1(1099),MPT-1(1099),,,1,119,,,,Genotype,,32,TMMH 2882,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.8,MS,,
+DOC01,TLB,TLB_MPT-1(1099),MPT-1(1099),,,1,119,,,,Genotype,,33,ADV 7733,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.1,R,,
+DOC01,TLB,TLB_MPT-1(1099),MPT-1(1099),,,1,119,,,,Genotype,,34,PM2020SL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.9,R,,
+DOC01,TLB,TLB_MPT-1(1099),MPT-1(1099),,,1,119,,,,Genotype,,35,NMH 713(C),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.7,MR,,
+DOC01,TLB,TLB_MPT-1(1099),MPT-1(1099),,,1,119,,,,Genotype,,36,KHM 25K45(C),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.4,MR,,
+DOC01,TLB,TLB_MPT-1(1099),MPT-1(1099),,,1,119,,,,Genotype,,37,P 3522 (C),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.7,R,,
+DOC01,TLB,TLB_MPT-1(1099),MPT-1(1099),,,1,119,,,,Genotype,,38,CM 600 (C),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.3,MS,,
+DOC01,TLB,TLB_MPT-1(1099),MPT-1(1099),,,1,119,,,,Genotype,,39,BIO 9544 (C),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.6,R,,
+DOC01,TLB,TLB_MPT-1(1099),MPT-1(1099),,,1,119,,,,Genotype,,40,Surya (C),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.4,R,,
+DOC01,TLB,TLB_MPT-1(1099),MPT-1(1099),,,1,119,,,,Genotype,,41,African Tall(c),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.7,MS,,
+DOC01,TLB,TLB_MPT-1(1099),MPT-1(1099),,,1,119,,,,Genotype,,42,DHM 117(Filler),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.4,MR,,
+DOC01,TLB,TLB_MPT-1(1099),MPT-1(1099),,,1,119,,,,RC,,RC,MAH-14-5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.5,R,,
+DOC01,TLB,TLB_MPT-1(1099),MPT-1(1099),,,1,119,,,,SC,,SC,CM - 202,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6.5,MS,,
+DOC01,TLB,TLB_MPT-2(1098),MPT-2(1098),,,2,120,,,,Genotype,,1,VAH 20001,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.5,MS,,
+DOC01,TLB,TLB_MPT-2(1098),MPT-2(1098),,,2,120,,,,Genotype,,2,AHD 2065,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.1,MR,,
+DOC01,TLB,TLB_MPT-2(1098),MPT-2(1098),,,2,120,,,,Genotype,,3,AH 8194,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.5,MS,,
+DOC01,TLB,TLB_MPT-2(1098),MPT-2(1098),,,2,120,,,,Genotype,,4,AH 8728,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.5,MR,,
+DOC01,TLB,TLB_MPT-2(1098),MPT-2(1098),,,2,120,,,,Genotype,,5,IMH 2-22R-1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.5,MR,,
+DOC01,TLB,TLB_MPT-2(1098),MPT-2(1098),,,2,120,,,,Genotype,,6,IMH 2-22R-2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.8,MS,,
+DOC01,TLB,TLB_MPT-2(1098),MPT-2(1098),,,2,120,,,,Genotype,,7,IMH 2-22R-3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.8,MR,,
+DOC01,TLB,TLB_MPT-2(1098),MPT-2(1098),,,2,120,,,,Genotype,,8,IMH 2-22R-4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.9,MR,,
+DOC01,TLB,TLB_MPT-2(1098),MPT-2(1098),,,2,120,,,,Genotype,,9,IMH 2-22R-5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.4,MR,,
+DOC01,TLB,TLB_MPT-2(1098),MPT-2(1098),,,2,120,,,,Genotype,,10,IMH 2-22R-6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.2,MS,,
+DOC01,TLB,TLB_MPT-2(1098),MPT-2(1098),,,2,120,,,,Genotype,,11,IMH 2-22R-7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.0,MS,,
+DOC01,TLB,TLB_MPT-2(1098),MPT-2(1098),,,2,120,,,,Genotype,,12,IMH 2-22R-8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.6,MS,,
+DOC01,TLB,TLB_MPT-2(1098),MPT-2(1098),,,2,120,,,,Genotype,,13,IMH 2-22R-9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.6,MR,,
+DOC01,TLB,TLB_MPT-2(1098),MPT-2(1098),,,2,120,,,,Genotype,,14,IMH 2-22R-10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.8,MS,,
+DOC01,TLB,TLB_MPT-2(1098),MPT-2(1098),,,2,120,,,,Genotype,,15,IMH 2-22R-11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.1,MR,,
+DOC01,TLB,TLB_MPT-2(1098),MPT-2(1098),,,2,120,,,,Genotype,,16,SYN 227808,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.9,MS,,
+DOC01,TLB,TLB_MPT-2(1098),MPT-2(1098),,,2,120,,,,Genotype,,17,SYN 227809,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.8,MS,,
+DOC01,TLB,TLB_MPT-2(1098),MPT-2(1098),,,2,120,,,,Genotype,,18,SYN 227705,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.4,MS,,
+DOC01,TLB,TLB_MPT-2(1098),MPT-2(1098),,,2,120,,,,Genotype,,19,OMH 22R-2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.5,MR,,
+DOC01,TLB,TLB_MPT-2(1098),MPT-2(1098),,,2,120,,,,Genotype,,20,BS 652,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.0,MS,,
+DOC01,TLB,TLB_MPT-2(1098),MPT-2(1098),,,2,120,,,,Genotype,,21,BH 417167,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.8,MS,,
+DOC01,TLB,TLB_MPT-2(1098),MPT-2(1098),,,2,120,,,,Genotype,,22,KMH 22-5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.1,MS,,
+DOC01,TLB,TLB_MPT-2(1098),MPT-2(1098),,,2,120,,,,Genotype,,23,Ellora Virat-12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.1,MR,,
+DOC01,TLB,TLB_MPT-2(1098),MPT-2(1098),,,2,120,,,,Genotype,,24,AH 4672,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.8,MS,,
+DOC01,TLB,TLB_MPT-2(1098),MPT-2(1098),,,2,120,,,,Genotype,,25,AH 4682,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.2,MS,,
+DOC01,TLB,TLB_MPT-2(1098),MPT-2(1098),,,2,120,,,,Genotype,,26,MMH 22-45,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.5,MS,,
+DOC01,TLB,TLB_MPT-2(1098),MPT-2(1098),,,2,120,,,,Genotype,,27,MMH 22-52,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.1,MR,,
+DOC01,TLB,TLB_MPT-2(1098),MPT-2(1098),,,2,120,,,,Genotype,,28,IMH 2-22R-12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.5,MS,,
+DOC01,TLB,TLB_MPT-2(1098),MPT-2(1098),,,2,120,,,,Genotype,,29,BAUMH 21-1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.0,MR,,
+DOC01,TLB,TLB_MPT-2(1098),MPT-2(1098),,,2,120,,,,Genotype,,30,BAUMH 21-3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.5,MR,,
+DOC01,TLB,TLB_MPT-2(1098),MPT-2(1098),,,2,120,,,,Genotype,,31,BAUMH21-4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.4,MR,,
+DOC01,TLB,TLB_MPT-2(1098),MPT-2(1098),,,2,120,,,,Genotype,,32,BRM19-1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.3,MR,,
+DOC01,TLB,TLB_MPT-2(1098),MPT-2(1098),,,2,120,,,,Genotype,,33,BRM 19-2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.4,MR,,
+DOC01,TLB,TLB_MPT-2(1098),MPT-2(1098),,,2,120,,,,Genotype,,34,IMHSB 21R-7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.0,MS,,
+DOC01,TLB,TLB_MPT-2(1098),MPT-2(1098),,,2,120,,,,Genotype,,35,IMHSB 20R-3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.5,MS,,
+DOC01,TLB,TLB_MPT-2(1098),MPT-2(1098),,,2,120,,,,Genotype,,36,IMHSB 20R-11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.5,MS,,
+DOC01,TLB,TLB_MPT-2(1098),MPT-2(1098),,,2,120,,,,Genotype,,37,SYN217806,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.6,MS,,
+DOC01,TLB,TLB_MPT-2(1098),MPT-2(1098),,,2,120,,,,Genotype,,38,BMH-18-2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.1,MS,,
+DOC01,TLB,TLB_MPT-2(1098),MPT-2(1098),,,2,120,,,,Genotype,,39,BH 417206,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.3,MS,,
+DOC01,TLB,TLB_MPT-2(1098),MPT-2(1098),,,2,120,,,,Genotype,,40,BH 417182,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.1,MR,,
+DOC01,TLB,TLB_MPT-2(1098),MPT-2(1098),,,2,120,,,,Genotype,,41,IMHSB 20R-10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.8,MS,,
+DOC01,TLB,TLB_MPT-2(1098),MPT-2(1098),,,2,120,,,,Genotype,,42,IMHSB 20R-6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.6,MR,,
+DOC01,TLB,TLB_MPT-2(1098),MPT-2(1098),,,2,120,,,,Genotype,,43,SYN207660,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.6,MS,,
+DOC01,TLB,TLB_MPT-2(1098),MPT-2(1098),,,2,120,,,,Genotype,,44,SYN207884,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.8,MS,,
+DOC01,TLB,TLB_MPT-2(1098),MPT-2(1098),,,2,120,,,,Genotype,,45,DKC 8225,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.7,MR,,
+DOC01,TLB,TLB_MPT-2(1098),MPT-2(1098),,,2,120,,,,Genotype,,46,BIO 9544(C),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.3,MS,,
+DOC01,TLB,TLB_MPT-2(1098),MPT-2(1098),,,2,120,,,,Genotype,,47,DHM 117(C),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.8,MR,,
+DOC01,TLB,TLB_MPT-2(1098),MPT-2(1098),,,2,120,,,,Genotype,,48,CM 600(C),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.4,S,,
+DOC01,TLB,TLB_MPT-2(1098),MPT-2(1098),,,2,120,,,,Genotype,,49,SURYA (C),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.4,MS,,
+DOC01,TLB,TLB_MPT-2(1098),MPT-2(1098),,,2,120,,,,Genotype,,50,African Tall(C),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.7,MR,,
+DOC01,TLB,TLB_MPT-2(1098),MPT-2(1098),,,2,120,,,,RC,,RC,MAH-14-5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.5,R,,
+DOC01,TLB,TLB_MPT-2(1098),MPT-2(1098),,,2,120,,,,SC,,SC,CM-202,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6.5,MS,,
+DOC01,TLB,TLB_MPT-3(1100),MPT-3(1100),,,3,121,,,,Genotype,,1,APQH1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.3,R,,
+DOC01,TLB,TLB_MPT-3(1100),MPT-3(1100),,,3,121,,,,Genotype,,2,APQH5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.4,R,,
+DOC01,TLB,TLB_MPT-3(1100),MPT-3(1100),,,3,121,,,,Genotype,,3,APQH7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.0,R,,
+DOC01,TLB,TLB_MPT-3(1100),MPT-3(1100),,,3,121,,,,Genotype,,4,IQH7-219,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.8,R,,
+DOC01,TLB,TLB_MPT-3(1100),MPT-3(1100),,,3,121,,,,Genotype,,5,IQH7-215,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.1,MR,,
+DOC01,TLB,TLB_MPT-3(1100),MPT-3(1100),,,3,121,,,,Genotype,,6,QPMMH 22-35,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.9,R,,
+DOC01,TLB,TLB_MPT-3(1100),MPT-3(1100),,,3,121,,,,Genotype,,7,MQH 21-51,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.7,R,,
+DOC01,TLB,TLB_MPT-3(1100),MPT-3(1100),,,3,121,,,,Genotype,,8,LQMH1(C),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.1,R,,
+DOC01,TLB,TLB_MPT-3(1100),MPT-3(1100),,,3,121,,,,Genotype,,9,HQPM1(C),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.1,R,,
+DOC01,TLB,TLB_MPT-3(1100),MPT-3(1100),,,3,121,,,,Genotype,,10,PUSA BIOFORTIFIED MAIZE HYBRID-1(C),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.3,R,,
+DOC01,TLB,TLB_MPT-3(1100),MPT-3(1100),,,3,121,,,,Genotype,,11,HQPM-5(C),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.1,R,,
+DOC01,TLB,TLB_MPT-3(1100),MPT-3(1100),,,3,121,,,,Genotype,,12,HQPM-7(C),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.7,R,,
+DOC01,TLB,TLB_MPT-3(1100),MPT-3(1100),,,3,121,,,,Genotype,,13,BSCH 418184,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.9,MR,,
+DOC01,TLB,TLB_MPT-3(1100),MPT-3(1100),,,3,121,,,,Genotype,,14,HI BRIX 33,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.7,R,,
+DOC01,TLB,TLB_MPT-3(1100),MPT-3(1100),,,3,121,,,,Genotype,,15,HI BRIX 59,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.1,R,,
+DOC01,TLB,TLB_MPT-3(1100),MPT-3(1100),,,3,121,,,,Genotype,,16,HI BRIX81,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.4,R,,
+DOC01,TLB,TLB_MPT-3(1100),MPT-3(1100),,,3,121,,,,Genotype,,17,MSCH 22- 28,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.5,R,,
+DOC01,TLB,TLB_MPT-3(1100),MPT-3(1100),,,3,121,,,,Genotype,,18,MISHTI(C),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.5,R,,
+DOC01,TLB,TLB_MPT-3(1100),MPT-3(1100),,,3,121,,,,Genotype,,19,ASKH 4(C),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.0,R,,
+DOC01,TLB,TLB_MPT-3(1100),MPT-3(1100),,,3,121,,,,Genotype,,20,VL Sweet Corn(C),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.7,R,,
+DOC01,TLB,TLB_MPT-3(1100),MPT-3(1100),,,4,122,,,,Genotype,,21,CHCP 2204,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.0,MR,,
+DOC01,TLB,TLB_MPT-3(1100),MPT-3(1100),,,4,122,,,,Genotype,,22,CHCP 2205,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.8,R,,
+DOC01,TLB,TLB_MPT-3(1100),MPT-3(1100),,,4,122,,,,Genotype,,23,CHCP 2206,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.7,R,,
+DOC01,TLB,TLB_MPT-3(1100),MPT-3(1100),,,4,122,,,,Genotype,,24,CHCP 2207,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.1,MR,,
+DOC01,TLB,TLB_MPT-3(1100),MPT-3(1100),,,4,122,,,,Genotype,,25,APCH 4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.0,R,,
+DOC01,TLB,TLB_MPT-3(1100),MPT-3(1100),,,4,122,,,,Genotype,,26,IPH 2-22R-1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.3,MR,,
+DOC01,TLB,TLB_MPT-3(1100),MPT-3(1100),,,4,122,,,,Genotype,,27,HPC 4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.4,MS,,
+DOC01,TLB,TLB_MPT-3(1100),MPT-3(1100),,,4,122,,,,Genotype,,28,HPC 5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.0,MS,,
+DOC01,TLB,TLB_MPT-3(1100),MPT-3(1100),,,4,122,,,,Genotype,,29,IMHP 2101,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.8,MR,,
+DOC01,TLB,TLB_MPT-3(1100),MPT-3(1100),,,4,122,,,,Genotype,,30,MPCH 22-22,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.6,R,,
+DOC01,TLB,TLB_MPT-3(1100),MPT-3(1100),,,4,122,,,,Genotype,,31,MPC 2141,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.4,MR,,
+DOC01,TLB,TLB_MPT-3(1100),MPT-3(1100),,,4,122,,,,Genotype,,32,PP 09,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.0,MR,,
+DOC01,TLB,TLB_MPT-3(1100),MPT-3(1100),,,4,122,,,,Genotype,,33,PP II,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.0,MR,,
+DOC01,TLB,TLB_MPT-3(1100),MPT-3(1100),,,4,122,,,,Genotype,,34,LPCH3 (C),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.5,R,,
+DOC01,TLB,TLB_MPT-3(1100),MPT-3(1100),,,4,122,,,,Genotype,,35,DMRHP 1402(C),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.7,MR,,
+DOC01,TLB,TLB_MPT-3(1100),MPT-3(1100),,,4,122,,,,Genotype,,36,BPCH6 (C),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.1,MR,,
+DOC01,TLB,TLB_MPT-3(1100),MPT-3(1100),,,4,122,,,,Genotype,,37,IIVRBCH-1613,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.2,MR,,
+DOC01,TLB,TLB_MPT-3(1100),MPT-3(1100),,,4,122,,,,Genotype,,38,IBH 9-224,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.4,R,,
+DOC01,TLB,TLB_MPT-3(1100),MPT-3(1100),,,4,122,,,,Genotype,,39,IBH9-225,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.2,R,,
+DOC01,TLB,TLB_MPT-3(1100),MPT-3(1100),,,4,122,,,,Genotype,,40,MBC 22-32,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.1,R,,
+DOC01,TLB,TLB_MPT-3(1100),MPT-3(1100),,,4,122,,,,Genotype,,41,MBC 21-10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.5,R,,
+DOC01,TLB,TLB_MPT-3(1100),MPT-3(1100),,,4,122,,,,Genotype,,42,BAUMH 21-8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.3,MR,,
+DOC01,TLB,TLB_MPT-3(1100),MPT-3(1100),,,4,122,,,,Genotype,,43,BAUMH 21-1-1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.7,R,,
+DOC01,TLB,TLB_MPT-3(1100),MPT-3(1100),,,4,122,,,,Genotype,,44,AH 7043(C),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.6,R,,
+DOC01,TLB,TLB_MPT-3(1100),MPT-3(1100),,,4,122,,,,Genotype,,45,ABSH-1(C),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.0,R,,
+DOC01,TLB,TLB_MPT-3(1100),MPT-3(1100),,,4,122,,,,Genotype,,46,CMVL Baby corn 1(C),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.4,MR,,
+DOC01,TLB,TLB_MPT-3(1100),MPT-3(1100),,,4,122,,,,Genotype,,47,BIO 9544(C),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.7,R,,
+DOC01,TLB,TLB_MPT-3(1100),MPT-3(1100),,,4,122,,,,Genotype,,48,Surya (C),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.1,R,,
+DOC01,TLB,TLB_MPT-3(1100),MPT-3(1100),,,4,122,,,,Genotype,,49,CM 600(C),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.6,R,,
+DOC01,TLB,TLB_MPT-3(1100),MPT-3(1100),,,4,122,,,,Genotype,,50,African Tall (C),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.8,MR,,
+DOC01,TLB,TLB_MPT-3(1100),MPT-3(1100),,,4,122,,,,RC,,RC,MAH-14-5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.5,R,,
+DOC01,TLB,TLB_MPT-3(1100),MPT-3(1100),,,4,122,,,,SC,,SC,CM - 202,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.5,MS,,
+DOC02,SDM,SDM_MPT-1(1099),MPT-1(1099),,,1,70,,,,test_entry,,1,DM 9445,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,90.0,S
+DOC02,SDM,SDM_MPT-1(1099),MPT-1(1099),,,1,70,,,,test_entry,,2,AHD 8721,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100.0,S
+DOC02,SDM,SDM_MPT-1(1099),MPT-1(1099),,,1,70,,,,test_entry,,3,AHD 8722,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,38.7,MS
+DOC02,SDM,SDM_MPT-1(1099),MPT-1(1099),,,1,70,,,,test_entry,,4,AH 8245,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,66.7,S
+DOC02,SDM,SDM_MPT-1(1099),MPT-1(1099),,,1,70,,,,test_entry,,5,BS 650,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100.0,S
+DOC02,SDM,SDM_MPT-1(1099),MPT-1(1099),,,1,70,,,,test_entry,,6,KMH 8543,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,77.5,S
+DOC02,SDM,SDM_MPT-1(1099),MPT-1(1099),,,1,70,,,,test_entry,,7,KMH 8585,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,65.8,S
+DOC02,SDM,SDM_MPT-1(1099),MPT-1(1099),,,1,70,,,,test_entry,,8,KMH 8333,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.6,R
+DOC02,SDM,SDM_MPT-1(1099),MPT-1(1099),,,1,70,,,,test_entry,,9,BH 417157,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,77.5,S
+DOC02,SDM,SDM_MPT-1(1099),MPT-1(1099),,,1,70,,,,test_entry,,10,Ellora Commando1112,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,57.9,S
+DOC02,SDM,SDM_MPT-1(1099),MPT-1(1099),,,1,70,,,,test_entry,,11,ADV 7126,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,85.0,S
+DOC02,SDM,SDM_MPT-1(1099),MPT-1(1099),,,1,70,,,,test_entry,,12,ADV 7251,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,36.3,MS
+DOC02,SDM,SDM_MPT-1(1099),MPT-1(1099),,,1,70,,,,test_entry,,13,MMH 22-62,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,65.2,S
+DOC02,SDM,SDM_MPT-1(1099),MPT-1(1099),,,1,70,,,,test_entry,,14,MMH 22-67,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,95.8,S
+DOC02,SDM,SDM_MPT-1(1099),MPT-1(1099),,,1,70,,,,test_entry,,15,PM 22201L,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,96.7,S
+DOC02,SDM,SDM_MPT-1(1099),MPT-1(1099),,,1,70,,,,test_entry,,16,PM 22202L,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,44.6,MS
+DOC02,SDM,SDM_MPT-1(1099),MPT-1(1099),,,1,70,,,,test_entry,,17,PM 22203L,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,86.4,S
+DOC02,SDM,SDM_MPT-1(1099),MPT-1(1099),,,1,70,,,,test_entry,,18,PM 22204L,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100.0,S
+DOC02,SDM,SDM_MPT-1(1099),MPT-1(1099),,,1,70,,,,test_entry,,19,PM 22205L,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100.0,S
+DOC02,SDM,SDM_MPT-1(1099),MPT-1(1099),,,1,70,,,,test_entry,,20,PM 22206L,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100.0,S
+DOC02,SDM,SDM_MPT-1(1099),MPT-1(1099),,,1,70,,,,test_entry,,21,PM 22207L,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,96.7,S
+DOC02,SDM,SDM_MPT-1(1099),MPT-1(1099),,,1,70,,,,test_entry,,22,PM 22208L,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,91.7,S
+DOC02,SDM,SDM_MPT-1(1099),MPT-1(1099),,,1,70,,,,test_entry,,23,SMH 6222,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,38.6,MS
+DOC02,SDM,SDM_MPT-1(1099),MPT-1(1099),,,1,70,,,,test_entry,,24,SMH 6333,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.2,R
+DOC02,SDM,SDM_MPT-1(1099),MPT-1(1099),,,1,70,,,,test_entry,,25,BH 417193,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,85.7,S
+DOC02,SDM,SDM_MPT-1(1099),MPT-1(1099),,,1,70,,,,test_entry,,26,TMMH 2845,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100.0,S
+DOC02,SDM,SDM_MPT-1(1099),MPT-1(1099),,,1,70,,,,test_entry,,27,ADV 7559,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,20.0,MR
+DOC02,SDM,SDM_MPT-1(1099),MPT-1(1099),,,1,70,,,,test_entry,,28,ADV 7415,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,32.1,MS
+DOC02,SDM,SDM_MPT-1(1099),MPT-1(1099),,,1,70,,,,test_entry,,29,PM21204L,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,73.2,S
+DOC02,SDM,SDM_MPT-1(1099),MPT-1(1099),,,1,70,,,,test_entry,,30,PM21207L,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,87.5,S
+DOC02,SDM,SDM_MPT-1(1099),MPT-1(1099),,,1,70,,,,test_entry,,31,VNR 4597,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,68.9,S
+DOC02,SDM,SDM_MPT-1(1099),MPT-1(1099),,,1,70,,,,test_entry,,32,TMMH 2882,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9.3,R
+DOC02,SDM,SDM_MPT-1(1099),MPT-1(1099),,,1,70,,,,test_entry,,33,ADV 7733,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,60.0,S
+DOC02,SDM,SDM_MPT-1(1099),MPT-1(1099),,,1,70,,,,test_entry,,34,PM20205L,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100.0,S
+DOC02,SDM,SDM_MPT-1(1099),MPT-1(1099),,,1,70,,,,test_entry,,35,NMH 713(C),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100.0,S
+DOC02,SDM,SDM_MPT-1(1099),MPT-1(1099),,,1,70,,,,test_entry,,36,KHM 25K45(C),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100.0,S
+DOC02,SDM,SDM_MPT-1(1099),MPT-1(1099),,,1,70,,,,test_entry,,37,P 3522 (C),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100.0,S
+DOC02,SDM,SDM_MPT-1(1099),MPT-1(1099),,,1,70,,,,test_entry,,38,CM 600 (C),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100.0,S
+DOC02,SDM,SDM_MPT-1(1099),MPT-1(1099),,,1,70,,,,test_entry,,39,BIO 9544 (C),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,95.8,S
+DOC02,SDM,SDM_MPT-1(1099),MPT-1(1099),,,1,70,,,,test_entry,,40,Surya (C),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100.0,S
+DOC02,SDM,SDM_MPT-1(1099),MPT-1(1099),,,1,70,,,,test_entry,,41,African Tall(C),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100.0,S
+DOC02,SDM,SDM_MPT-1(1099),MPT-1(1099),,,1,70,,,,test_entry,,42,DHM 117(Filler),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100.0,S
+DOC02,SDM,SDM_MPT-1(1099),MPT-1(1099),,,1,70,,,,resistant_check,,RC,NAH 1137,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,8.8,R
+DOC02,SDM,SDM_MPT-1(1099),MPT-1(1099),,,1,70,,,,susceptible_check,,SC,African Tall,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,90.3,S
+DOC02,SDM,SDM_MPT-2(1098),MPT-2(1098),,,2-3,71,,,,test_entry,,1,VAH 20001,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100.0,S
+DOC02,SDM,SDM_MPT-2(1098),MPT-2(1098),,,2-3,71,,,,test_entry,,2,AHD 2065,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,71.7,S
+DOC02,SDM,SDM_MPT-2(1098),MPT-2(1098),,,2-3,71,,,,test_entry,,3,AH 8194,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,80.0,S
+DOC02,SDM,SDM_MPT-2(1098),MPT-2(1098),,,2-3,71,,,,test_entry,,4,AH 8728,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,20.0,MR
+DOC02,SDM,SDM_MPT-2(1098),MPT-2(1098),,,2-3,71,,,,test_entry,,5,IMH 2-22R-1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100.0,S
+DOC02,SDM,SDM_MPT-2(1098),MPT-2(1098),,,2-3,71,,,,test_entry,,6,IMH 2-22R-2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100.0,S
+DOC02,SDM,SDM_MPT-2(1098),MPT-2(1098),,,2-3,71,,,,test_entry,,7,IMH 2-22R-3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100.0,S
+DOC02,SDM,SDM_MPT-2(1098),MPT-2(1098),,,2-3,71,,,,test_entry,,8,IMH 2-22R-4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,89.8,S
+DOC02,SDM,SDM_MPT-2(1098),MPT-2(1098),,,2-3,71,,,,test_entry,,9,IMH 2-22R-5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,93.8,S
+DOC02,SDM,SDM_MPT-2(1098),MPT-2(1098),,,2-3,71,,,,test_entry,,10,IMH 2-22R-6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,67.5,S
+DOC02,SDM,SDM_MPT-2(1098),MPT-2(1098),,,2-3,71,,,,test_entry,,11,IMH 2-22R-7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,78.6,S
+DOC02,SDM,SDM_MPT-2(1098),MPT-2(1098),,,2-3,71,,,,test_entry,,12,IMH 2-22R-8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100.0,S
+DOC02,SDM,SDM_MPT-2(1098),MPT-2(1098),,,2-3,71,,,,test_entry,,13,IMH 2-22R-9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,96.4,S
+DOC02,SDM,SDM_MPT-2(1098),MPT-2(1098),,,2-3,71,,,,test_entry,,14,IMH 2-22R-10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100.0,S
+DOC02,SDM,SDM_MPT-2(1098),MPT-2(1098),,,2-3,71,,,,test_entry,,15,IMH 2-22R-11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,83.3,S
+DOC02,SDM,SDM_MPT-2(1098),MPT-2(1098),,,2-3,71,,,,test_entry,,16,SYN 227808,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100.0,S
+DOC02,SDM,SDM_MPT-2(1098),MPT-2(1098),,,2-3,71,,,,test_entry,,17,SYN 227809,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100.0,S
+DOC02,SDM,SDM_MPT-2(1098),MPT-2(1098),,,2-3,71,,,,test_entry,,18,SYN 227705,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,87.5,S
+DOC02,SDM,SDM_MPT-2(1098),MPT-2(1098),,,2-3,71,,,,test_entry,,19,OMH 22R-2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,81.3,S
+DOC02,SDM,SDM_MPT-2(1098),MPT-2(1098),,,2-3,71,,,,test_entry,,20,BS 652,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,54.0,S
+DOC02,SDM,SDM_MPT-2(1098),MPT-2(1098),,,2-3,71,,,,test_entry,,21,BH 417167,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,92.9,S
+DOC02,SDM,SDM_MPT-2(1098),MPT-2(1098),,,2-3,71,,,,test_entry,,22,KMH 22-5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100.0,S
+DOC02,SDM,SDM_MPT-2(1098),MPT-2(1098),,,2-3,71,,,,test_entry,,23,Ellora Virat-12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,96.7,S
+DOC02,SDM,SDM_MPT-2(1098),MPT-2(1098),,,2-3,71,,,,test_entry,,24,AH 4672,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,93.1,S
+DOC02,SDM,SDM_MPT-2(1098),MPT-2(1098),,,2-3,71,,,,test_entry,,25,AH 4682,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,96.4,S
+DOC02,SDM,SDM_MPT-2(1098),MPT-2(1098),,,2-3,71,,,,test_entry,,26,MMH 22-45,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,85.7,S
+DOC02,SDM,SDM_MPT-2(1098),MPT-2(1098),,,2-3,71,,,,test_entry,,27,MMH 22-52,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100.0,S
+DOC02,SDM,SDM_MPT-2(1098),MPT-2(1098),,,2-3,71,,,,test_entry,,28,IMH 2-22R-12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,96.9,S
+DOC02,SDM,SDM_MPT-2(1098),MPT-2(1098),,,2-3,71,,,,test_entry,,29,BAUMH 21-1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,96.4,S
+DOC02,SDM,SDM_MPT-2(1098),MPT-2(1098),,,2-3,71,,,,test_entry,,30,BAUMH 21-3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100.0,S
+DOC02,SDM,SDM_MPT-2(1098),MPT-2(1098),,,2-3,71,,,,test_entry,,31,BAUMH 21-4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,92.5,S
+DOC02,SDM,SDM_MPT-2(1098),MPT-2(1098),,,2-3,71,,,,test_entry,,32,BRM19-1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,86.7,S
+DOC02,SDM,SDM_MPT-2(1098),MPT-2(1098),,,2-3,71,,,,test_entry,,33,BRM 19-2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,90.0,S
+DOC02,SDM,SDM_MPT-2(1098),MPT-2(1098),,,2-3,71,,,,test_entry,,34,IMHSB 21R-7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,92.9,S
+DOC02,SDM,SDM_MPT-2(1098),MPT-2(1098),,,2-3,71,,,,test_entry,,35,IMHSB 20R-3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,81.3,S
+DOC02,SDM,SDM_MPT-2(1098),MPT-2(1098),,,2-3,71,,,,test_entry,,36,IMHSB 20R-11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,67.5,S
+DOC02,SDM,SDM_MPT-2(1098),MPT-2(1098),,,2-3,71,,,,test_entry,,37,SYN217806,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100.0,S
+DOC02,SDM,SDM_MPT-2(1098),MPT-2(1098),,,2-3,71,,,,test_entry,,38,BMH-18-2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,70.0,S
+DOC02,SDM,SDM_MPT-2(1098),MPT-2(1098),,,2-3,71,,,,test_entry,,39,BH 417206,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,55.2,S
+DOC02,SDM,SDM_MPT-2(1098),MPT-2(1098),,,2-3,71,,,,test_entry,,40,BH 417182,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,58.1,S
+DOC02,SDM,SDM_MPT-2(1098),MPT-2(1098),,,2-3,71,,,,test_entry,,41,IMHSB 20R-10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,96.7,S
+DOC02,SDM,SDM_MPT-2(1098),MPT-2(1098),,,2-3,71,,,,test_entry,,42,IMHSB 20R-6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100.0,S
+DOC02,SDM,SDM_MPT-2(1098),MPT-2(1098),,,2-3,71,,,,test_entry,,43,SYN207660,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100.0,S
+DOC02,SDM,SDM_MPT-2(1098),MPT-2(1098),,,2-3,71,,,,test_entry,,44,SYN207884,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100.0,S
+DOC02,SDM,SDM_MPT-2(1098),MPT-2(1098),,,2-3,71,,,,test_entry,,45,DKC 8225,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100.0,S
+DOC02,SDM,SDM_MPT-2(1098),MPT-2(1098),,,2-3,71,,,,test_entry,,46,BIO 9544(C),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100.0,S
+DOC02,SDM,SDM_MPT-2(1098),MPT-2(1098),,,2-3,71,,,,test_entry,,47,DHM 117(C),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100.0,S
+DOC02,SDM,SDM_MPT-2(1098),MPT-2(1098),,,2-3,71,,,,test_entry,,48,CM 600(C),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100.0,S
+DOC02,SDM,SDM_MPT-2(1098),MPT-2(1098),,,2-3,71,,,,test_entry,,49,SURYA (C),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100.0,S
+DOC02,SDM,SDM_MPT-2(1098),MPT-2(1098),,,2-3,71,,,,test_entry,,50,African Tall(C),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100.0,S
+DOC02,SDM,SDM_MPT-2(1098),MPT-2(1098),,,2-3,71,,,,resistant_check,,RC,NAH 1137,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7.8,R
+DOC02,SDM,SDM_MPT-2(1098),MPT-2(1098),,,2-3,71,,,,susceptible_check,,SC,African Tall,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,95.5,S
+DOC02,SDM,SDM_MPT-3(1100),MPT-3(1100),,,3-4,72,,,,test_entry,,1,APQH1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100.0,S
+DOC02,SDM,SDM_MPT-3(1100),MPT-3(1100),,,3-4,72,,,,test_entry,,2,APQH5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100.0,S
+DOC02,SDM,SDM_MPT-3(1100),MPT-3(1100),,,3-4,72,,,,test_entry,,3,APQH7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100.0,S
+DOC02,SDM,SDM_MPT-3(1100),MPT-3(1100),,,3-4,72,,,,test_entry,,4,IQH7-219,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100.0,S
+DOC02,SDM,SDM_MPT-3(1100),MPT-3(1100),,,3-4,72,,,,test_entry,,5,IQH7-215,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,85.0,S
+DOC02,SDM,SDM_MPT-3(1100),MPT-3(1100),,,3-4,72,,,,test_entry,,6,QPMMH 22-35,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,95.0,S
+DOC02,SDM,SDM_MPT-3(1100),MPT-3(1100),,,3-4,72,,,,test_entry,,7,MQH 21-51,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,95.0,S
+DOC02,SDM,SDM_MPT-3(1100),MPT-3(1100),,,3-4,72,,,,test_entry,,8,LQMH1(C),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,96.4,S
+DOC02,SDM,SDM_MPT-3(1100),MPT-3(1100),,,3-4,72,,,,test_entry,,9,HQPM1 (C),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,95.0,S
+DOC02,SDM,SDM_MPT-3(1100),MPT-3(1100),,,3-4,72,,,,test_entry,,10,PUSA BIOFORTIFIED MAIZE HYBRID-1(C),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100.0,S
+DOC02,SDM,SDM_MPT-3(1100),MPT-3(1100),,,3-4,72,,,,test_entry,,11,HQPM-5(C),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100.0,S
+DOC02,SDM,SDM_MPT-3(1100),MPT-3(1100),,,3-4,72,,,,test_entry,,12,HQPM-7(C),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100.0,S
+DOC02,SDM,SDM_MPT-3(1100),MPT-3(1100),,,3-4,72,,,,test_entry,,13,BSCH 418184,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100.0,S
+DOC02,SDM,SDM_MPT-3(1100),MPT-3(1100),,,3-4,72,,,,test_entry,,14,HI BRIX 33,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,86.7,S
+DOC02,SDM,SDM_MPT-3(1100),MPT-3(1100),,,3-4,72,,,,test_entry,,15,HI BRIX 59,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,73.6,S
+DOC02,SDM,SDM_MPT-3(1100),MPT-3(1100),,,3-4,72,,,,test_entry,,16,HI BRIX 81,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,96.4,S
+DOC02,SDM,SDM_MPT-3(1100),MPT-3(1100),,,3-4,72,,,,test_entry,,17,MSCH 22- 28,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100.0,S
+DOC02,SDM,SDM_MPT-3(1100),MPT-3(1100),,,3-4,72,,,,test_entry,,18,MISHTI(C),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100.0,S
+DOC02,SDM,SDM_MPT-3(1100),MPT-3(1100),,,3-4,72,,,,test_entry,,19,ASKH 4(C),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9.3,R
+DOC02,SDM,SDM_MPT-3(1100),MPT-3(1100),,,3-4,72,,,,test_entry,,20,VL Sweet Corn(C),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100.0,S
+DOC02,SDM,SDM_MPT-3(1100),MPT-3(1100),,,3-4,72,,,,test_entry,,21,CHCP 2204,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100.0,S
+DOC02,SDM,SDM_MPT-3(1100),MPT-3(1100),,,3-4,72,,,,test_entry,,22,CHCP 2205,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100.0,S
+DOC02,SDM,SDM_MPT-3(1100),MPT-3(1100),,,3-4,72,,,,test_entry,,23,CHCP 2206,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100.0,S
+DOC02,SDM,SDM_MPT-3(1100),MPT-3(1100),,,3-4,72,,,,test_entry,,24,CHCP 2207,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,95.0,S
+DOC02,SDM,SDM_MPT-3(1100),MPT-3(1100),,,3-4,72,,,,test_entry,,25,APCH 4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100.0,S
+DOC02,SDM,SDM_MPT-3(1100),MPT-3(1100),,,3-4,72,,,,test_entry,,26,IPH 2-22R-1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100.0,S
+DOC02,SDM,SDM_MPT-3(1100),MPT-3(1100),,,3-4,72,,,,test_entry,,27,HPC 4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100.0,S
+DOC02,SDM,SDM_MPT-3(1100),MPT-3(1100),,,3-4,72,,,,test_entry,,28,HPC 5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100.0,S
+DOC02,SDM,SDM_MPT-3(1100),MPT-3(1100),,,3-4,72,,,,test_entry,,29,IMHP 2101,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100.0,S
+DOC02,SDM,SDM_MPT-3(1100),MPT-3(1100),,,3-4,72,,,,test_entry,,30,MPCH 22-22,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,95.8,S
+DOC02,SDM,SDM_MPT-3(1100),MPT-3(1100),,,3-4,72,,,,test_entry,,31,MPC 2141,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100.0,S
+DOC02,SDM,SDM_MPT-3(1100),MPT-3(1100),,,3-4,72,,,,test_entry,,32,PP 09,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100.0,S
+DOC02,SDM,SDM_MPT-3(1100),MPT-3(1100),,,3-4,72,,,,test_entry,,33,PP II,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100.0,S
+DOC02,SDM,SDM_MPT-3(1100),MPT-3(1100),,,3-4,72,,,,test_entry,,34,LPCH3 (C),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,96.4,S
+DOC02,SDM,SDM_MPT-3(1100),MPT-3(1100),,,3-4,72,,,,test_entry,,35,DMRHP 1402(C),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100.0,S
+DOC02,SDM,SDM_MPT-3(1100),MPT-3(1100),,,3-4,72,,,,test_entry,,36,BPCH6 (C),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100.0,S
+DOC02,SDM,SDM_MPT-3(1100),MPT-3(1100),,,3-4,72,,,,test_entry,,37,IIVRBCH-1613,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,96.7,S
+DOC02,SDM,SDM_MPT-3(1100),MPT-3(1100),,,3-4,72,,,,test_entry,,38,IBH 9-224,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,96.7,S
+DOC02,SDM,SDM_MPT-3(1100),MPT-3(1100),,,3-4,72,,,,test_entry,,39,IBH9-225,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100.0,S
+DOC02,SDM,SDM_MPT-3(1100),MPT-3(1100),,,3-4,72,,,,test_entry,,40,MBC 22-32,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,70.0,S
+DOC02,SDM,SDM_MPT-3(1100),MPT-3(1100),,,3-4,72,,,,test_entry,,41,MBC 21-10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,91.7,S
+DOC02,SDM,SDM_MPT-3(1100),MPT-3(1100),,,3-4,72,,,,test_entry,,42,BAUMH 21-8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100.0,S
+DOC02,SDM,SDM_MPT-3(1100),MPT-3(1100),,,3-4,72,,,,test_entry,,43,BAUMH 21-1-1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100.0,S
+DOC02,SDM,SDM_MPT-3(1100),MPT-3(1100),,,3-4,72,,,,test_entry,,44,AH 7043(C),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100.0,S
+DOC02,SDM,SDM_MPT-3(1100),MPT-3(1100),,,3-4,72,,,,test_entry,,45,ABSH-1(C),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100.0,S
+DOC02,SDM,SDM_MPT-3(1100),MPT-3(1100),,,3-4,72,,,,test_entry,,46,CMVL Baby corn 1(C),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100.0,S
+DOC02,SDM,SDM_MPT-3(1100),MPT-3(1100),,,3-4,72,,,,test_entry,,47,BIO 9544(C),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,95.0,S
+DOC02,SDM,SDM_MPT-3(1100),MPT-3(1100),,,3-4,72,,,,test_entry,,48,Surya (C),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100.0,S
+DOC02,SDM,SDM_MPT-3(1100),MPT-3(1100),,,3-4,72,,,,test_entry,,49,CM 600(C),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100.0,S
+DOC02,SDM,SDM_MPT-3(1100),MPT-3(1100),,,3-4,72,,,,test_entry,,50,African Tall (C),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100.0,S
+DOC02,SDM,SDM_MPT-3(1100),MPT-3(1100),,,3-4,72,,,,resistant_check,,RC,NAH 1137,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,8.8,R
+DOC02,SDM,SDM_MPT-3(1100),MPT-3(1100),,,3-4,72,,,,susceptible_check,,SC,African Tall,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,96.5,S
+DOC02,SDM,SDM_Station Inbred,Station Inbred,,,4-5,73,,,,test_entry,,1,MAI-1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,44.4,MS
+DOC02,SDM,SDM_Station Inbred,Station Inbred,,,4-5,73,,,,test_entry,,2,MAI-2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,28.09,MS
+DOC02,SDM,SDM_Station Inbred,Station Inbred,,,4-5,73,,,,test_entry,,3,MAI-3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,56.0,S
+DOC02,SDM,SDM_Station Inbred,Station Inbred,,,4-5,73,,,,test_entry,,4,MAI-7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,71.1,S
+DOC02,SDM,SDM_Station Inbred,Station Inbred,,,4-5,73,,,,test_entry,,5,MAI-8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,33.75,MS
+DOC02,SDM,SDM_Station Inbred,Station Inbred,,,4-5,73,,,,test_entry,,6,MAI-10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100.0,S
+DOC02,SDM,SDM_Station Inbred,Station Inbred,,,4-5,73,,,,test_entry,,7,MAI-10-1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7.14,R
+DOC02,SDM,SDM_Station Inbred,Station Inbred,,,4-5,73,,,,test_entry,,8,MAI-12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,63.3,S
+DOC02,SDM,SDM_Station Inbred,Station Inbred,,,4-5,73,,,,test_entry,,9,MAI-13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,50.7,S
+DOC02,SDM,SDM_Station Inbred,Station Inbred,,,4-5,73,,,,test_entry,,10,MAI-12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,35.7,MS
+DOC02,SDM,SDM_Station Inbred,Station Inbred,,,4-5,73,,,,test_entry,,11,MAI-20,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,79.1,S
+DOC02,SDM,SDM_Station Inbred,Station Inbred,,,4-5,73,,,,test_entry,,12,MAI-142,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100.0,S
+DOC02,SDM,SDM_Station Inbred,Station Inbred,,,4-5,73,,,,test_entry,,13,NAI 204-1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NG
+DOC02,SDM,SDM_Station Inbred,Station Inbred,,,4-5,73,,,,test_entry,,14,MAI-215,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13.3,R
+DOC02,SDM,SDM_Station Inbred,Station Inbred,,,4-5,73,,,,test_entry,,15,MAI-215-1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,R
+DOC02,SDM,SDM_Station Inbred,Station Inbred,,,4-5,73,,,,test_entry,,16,MAI-224,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19.6,MR
+DOC02,SDM,SDM_Station Inbred,Station Inbred,,,4-5,73,,,,test_entry,,17,MAI 276,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,32.5,MS
+DOC02,SDM,SDM_Station Inbred,Station Inbred,,,4-5,73,,,,test_entry,,18,NAI-137,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,52.2,S
+DOC02,SDM,SDM_Station Inbred,Station Inbred,,,4-5,73,,,,test_entry,,19,MAI 753,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12.5,MR
+DOC02,SDM,SDM_Station Inbred,Station Inbred,,,4-5,73,,,,test_entry,,20,MAI 755,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,41.4,MS
+DOC02,SDM,SDM_Station Inbred,Station Inbred,,,4-5,73,,,,test_entry,,21,NAI-137-6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,58.7,S
+DOC02,SDM,SDM_Station Inbred,Station Inbred,,,4-5,73,,,,test_entry,,22,NAI-137-7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,R
+DOC02,SDM,SDM_Station Inbred,Station Inbred,,,4-5,73,,,,test_entry,,23,MAI-204-1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,26.8,MS
+DOC02,SDM,SDM_Station Inbred,Station Inbred,,,4-5,73,,,,test_entry,,24,CAL-1443,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18.75,MR
+DOC02,SDM,SDM_Station Inbred,Station Inbred,,,4-5,73,,,,test_entry,,25,CML-451,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,R
+DOC02,SDM,SDM_Station Inbred,Station Inbred,,,4-5,73,,,,test_entry,,26,1298,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,96.15,S
+DOC02,SDM,SDM_Station Inbred,Station Inbred,,,4-5,73,,,,test_entry,,27,32129,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,60.6,S
+DOC02,SDM,SDM_Station Inbred,Station Inbred,,,4-5,73,,,,test_entry,,28,V-496-7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NG
+DOC02,SDM,SDM_Station Inbred,Station Inbred,,,4-5,73,,,,test_entry,,29,40402,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,90.9,S
+DOC02,SDM,SDM_Station Inbred,Station Inbred,,,4-5,73,,,,test_entry,,30,52067,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,71.6,S
+DOC02,SDM,SDM_Station Inbred,Station Inbred,,,4-5,73,,,,test_entry,,31,QPM 25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,20.0,MR
+DOC02,SDM,SDM_Station Inbred,Station Inbred,,,4-5,73,,,,test_entry,,32,QPM 26,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,36.1,MS
+DOC02,SDM,SDM_Station Inbred,Station Inbred,,,4-5,73,,,,test_entry,,33,QPM 26-1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,95.0,S
+DOC02,SDM,SDM_Station Inbred,Station Inbred,,,4-5,73,,,,test_entry,,34,MAI-729,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,R
+DOC02,SDM,SDM_Station Inbred,Station Inbred,,,4-5,73,,,,test_entry,,35,SKV 50,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,50.0,MS
+DOC02,SDM,SDM_Station Inbred,Station Inbred,,,4-5,73,,,,test_entry,,36,V-940-31,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,88.8,S
+DOC02,SDM,SDM_Station Inbred,Station Inbred,,,4-5,73,,,,test_entry,,37,52336,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21.4,MR
+DOC02,SDM,SDM_Station Inbred,Station Inbred,,,4-5,73,,,,test_entry,,38,MAI-105,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,R
+DOC02,SDM,SDM_Station Inbred,Station Inbred,,,4-5,73,,,,resistant_check,,RC,NAH 1137,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9.8,R
+DOC02,SDM,SDM_Station Inbred,Station Inbred,,,4-5,73,,,,susceptible_check,,SC,African Tall,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100.0,S
+DOC02,SDM,SDM_Station Hybrids and Parents,Station Hybrids and Parents,,,5-6,74,,,,test_entry,,1,SKV-50-6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,R
+DOC02,SDM,SDM_Station Hybrids and Parents,Station Hybrids and Parents,,,5-6,74,,,,test_entry,,2,MAH-22-2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,90.0,S
+DOC02,SDM,SDM_Station Hybrids and Parents,Station Hybrids and Parents,,,5-6,74,,,,test_entry,,3,NAH-1137,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,41.0,MS
+DOC02,SDM,SDM_Station Hybrids and Parents,Station Hybrids and Parents,,,5-6,74,,,,test_entry,,4,MAH-22-4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100.0,S
+DOC02,SDM,SDM_Station Hybrids and Parents,Station Hybrids and Parents,,,5-6,74,,,,test_entry,,5,MAH-14-5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7.14,R
+DOC02,SDM,SDM_Station Hybrids and Parents,Station Hybrids and Parents,,,5-6,74,,,,test_entry,,6,MAH-22-1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,95.8,S
+DOC02,SDM,SDM_Station Hybrids and Parents,Station Hybrids and Parents,,,5-6,74,,,,test_entry,,7,NAI-137,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,86.3,S
+DOC02,SDM,SDM_Station Hybrids and Parents,Station Hybrids and Parents,,,5-6,74,,,,test_entry,,8,CML-581,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,25.0,MR
+DOC02,SDM,SDM_Station Hybrids and Parents,Station Hybrids and Parents,,,5-6,74,,,,test_entry,,9,NAH-2049-1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9.4,R
+DOC02,SDM,SDM_Station Hybrids and Parents,Station Hybrids and Parents,,,5-6,74,,,,test_entry,,10,MAH-22-5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100.0,S
+DOC02,SDM,SDM_Station Hybrids and Parents,Station Hybrids and Parents,,,5-6,74,,,,test_entry,,11,MAH-22-3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100.0,S
+DOC02,SDM,SDM_Station Hybrids and Parents,Station Hybrids and Parents,,,5-6,74,,,,test_entry,,12,CML-451,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,8.3,R
+DOC02,SDM,SDM_Station Hybrids and Parents,Station Hybrids and Parents,,,5-6,74,,,,test_entry,,13,NAH- 2049 II,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10.0,R
+DOC02,SDM,SDM_Station Hybrids and Parents,Station Hybrids and Parents,,,5-6,74,,,,test_entry,,14,CAL-1443,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10.7,MR
+DOC02,SDM,SDM_Station Hybrids and Parents,Station Hybrids and Parents,,,5-6,74,,,,test_entry,,15,MAI-215,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6.25,R
+DOC02,SDM,SDM_Station Hybrids and Parents,Station Hybrids and Parents,,,5-6,74,,,,test_entry,,16,MAH-19-2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10.0,R
+DOC02,SDM,SDM_Station Hybrids and Parents,Station Hybrids and Parents,,,5-6,74,,,,test_entry,,17,SKV-50 TALL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,R
+DOC02,SDM,SDM_Station Hybrids and Parents,Station Hybrids and Parents,,,5-6,74,,,,test_entry,,18,MAI-105,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,R
+DOC02,SDM,SDM_Station Hybrids and Parents,Station Hybrids and Parents,,,5-6,74,,,,test_entry,,19,MAI-729,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,R
+DOC02,SDM,SDM_Station Hybrids and Parents,Station Hybrids and Parents,,,5-6,74,,,,test_entry,,20,CML-582,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,38.6,MS
+DOC02,SDM,SDM_Station Hybrids and Parents,Station Hybrids and Parents,,,5-6,74,,,,test_entry,,21,MAH-14-138,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,R
+DOC02,SDM,SDM_Station Hybrids and Parents,Station Hybrids and Parents,,,5-6,74,,,,resistant_check,,RC,NAH-1137,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6.5,R
+DOC02,SDM,SDM_Station Hybrids and Parents,Station Hybrids and Parents,,,5-6,74,,,,susceptible_check,,SC,African Tall,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,98.7,S
+DOC02,SDM,SDM_IIMR-WNC,IIMR-WNC,,,6-7,75-76,,,,test_entry,,1,109463,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,90.9,S
+DOC02,SDM,SDM_IIMR-WNC,IIMR-WNC,,,6-7,75-76,,,,test_entry,,2,109466,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,76.9,S
+DOC02,SDM,SDM_IIMR-WNC,IIMR-WNC,,,6-7,75-76,,,,test_entry,,3,109473,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100.0,S
+DOC02,SDM,SDM_IIMR-WNC,IIMR-WNC,,,6-7,75-76,,,,test_entry,,4,109484,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100.0,S
+DOC02,SDM,SDM_IIMR-WNC,IIMR-WNC,,,6-7,75-76,,,,test_entry,,5,109493,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,37.5,MS
+DOC02,SDM,SDM_IIMR-WNC,IIMR-WNC,,,6-7,75-76,,,,test_entry,,6,109497,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,93.3,S
+DOC02,SDM,SDM_IIMR-WNC,IIMR-WNC,,,6-7,75-76,,,,test_entry,,7,109514,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,84.6,S
+DOC02,SDM,SDM_IIMR-WNC,IIMR-WNC,,,6-7,75-76,,,,test_entry,,8,109526,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100.0,S
+DOC02,SDM,SDM_IIMR-WNC,IIMR-WNC,,,6-7,75-76,,,,test_entry,,9,109530,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100.0,S
+DOC02,SDM,SDM_IIMR-WNC,IIMR-WNC,,,6-7,75-76,,,,test_entry,,10,109533,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100.0,S
+DOC02,SDM,SDM_IIMR-WNC,IIMR-WNC,,,6-7,75-76,,,,test_entry,,11,109534,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,46.2,MS
+DOC02,SDM,SDM_IIMR-WNC,IIMR-WNC,,,6-7,75-76,,,,test_entry,,12,109544,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100.0,S
+DOC02,SDM,SDM_IIMR-WNC,IIMR-WNC,,,6-7,75-76,,,,test_entry,,13,109550,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100.0,S
+DOC02,SDM,SDM_IIMR-WNC,IIMR-WNC,,,6-7,75-76,,,,test_entry,,14,109580,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,35.3,MS
+DOC02,SDM,SDM_IIMR-WNC,IIMR-WNC,,,6-7,75-76,,,,test_entry,,15,109583,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,46.2,MS
+DOC02,SDM,SDM_IIMR-WNC,IIMR-WNC,,,6-7,75-76,,,,test_entry,,16,109614,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100.0,S
+DOC02,SDM,SDM_IIMR-WNC,IIMR-WNC,,,6-7,75-76,,,,test_entry,,17,109619,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,90.9,S
+DOC02,SDM,SDM_IIMR-WNC,IIMR-WNC,,,6-7,75-76,,,,test_entry,,18,109642,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,92.3,S
+DOC02,SDM,SDM_IIMR-WNC,IIMR-WNC,,,6-7,75-76,,,,test_entry,,19,109646,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7.7,R
+DOC02,SDM,SDM_IIMR-WNC,IIMR-WNC,,,6-7,75-76,,,,test_entry,,20,109654,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100.0,S
+DOC02,SDM,SDM_IIMR-WNC,IIMR-WNC,,,6-7,75-76,,,,test_entry,,21,109657,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100.0,S
+DOC02,SDM,SDM_IIMR-WNC,IIMR-WNC,,,6-7,75-76,,,,test_entry,,22,109659,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100.0,S
+DOC02,SDM,SDM_IIMR-WNC,IIMR-WNC,,,6-7,75-76,,,,test_entry,,23,109661,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,31.3,MS
+DOC02,SDM,SDM_IIMR-WNC,IIMR-WNC,,,6-7,75-76,,,,test_entry,,24,109667,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,92.9,S
+DOC02,SDM,SDM_IIMR-WNC,IIMR-WNC,,,6-7,75-76,,,,test_entry,,25,109688,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100.0,S
+DOC02,SDM,SDM_IIMR-WNC,IIMR-WNC,,,6-7,75-76,,,,test_entry,,26,109690,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100.0,S
+DOC02,SDM,SDM_IIMR-WNC,IIMR-WNC,,,6-7,75-76,,,,test_entry,,27,109702,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100.0,S
+DOC02,SDM,SDM_IIMR-WNC,IIMR-WNC,,,6-7,75-76,,,,test_entry,,28,109710,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100.0,S
+DOC02,SDM,SDM_IIMR-WNC,IIMR-WNC,,,6-7,75-76,,,,test_entry,,29,109712,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100.0,S
+DOC02,SDM,SDM_IIMR-WNC,IIMR-WNC,,,6-7,75-76,,,,test_entry,,30,109715,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,43.8,MS
+DOC02,SDM,SDM_IIMR-WNC,IIMR-WNC,,,6-7,75-76,,,,test_entry,,31,109718,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100.0,S
+DOC02,SDM,SDM_IIMR-WNC,IIMR-WNC,,,6-7,75-76,,,,test_entry,,32,109719,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100.0,S
+DOC02,SDM,SDM_IIMR-WNC,IIMR-WNC,,,6-7,75-76,,,,test_entry,,33,109726,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100.0,S
+DOC02,SDM,SDM_IIMR-WNC,IIMR-WNC,,,6-7,75-76,,,,test_entry,,34,109727,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,62.5,S
+DOC02,SDM,SDM_IIMR-WNC,IIMR-WNC,,,6-7,75-76,,,,test_entry,,35,109728,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,90.9,S
+DOC02,SDM,SDM_IIMR-WNC,IIMR-WNC,,,6-7,75-76,,,,test_entry,,36,109729,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100.0,S
+DOC02,SDM,SDM_IIMR-WNC,IIMR-WNC,,,6-7,75-76,,,,test_entry,,37,109732,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100.0,S
+DOC02,SDM,SDM_IIMR-WNC,IIMR-WNC,,,6-7,75-76,,,,test_entry,,38,109736,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100.0,S
+DOC02,SDM,SDM_IIMR-WNC,IIMR-WNC,,,6-7,75-76,,,,test_entry,,39,109743,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100.0,S
+DOC02,SDM,SDM_IIMR-WNC,IIMR-WNC,,,6-7,75-76,,,,test_entry,,40,109747,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100.0,S
+DOC02,SDM,SDM_IIMR-WNC,IIMR-WNC,,,6-7,75-76,,,,test_entry,,41,109753,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100.0,S
+DOC02,SDM,SDM_IIMR-WNC,IIMR-WNC,,,6-7,75-76,,,,test_entry,,42,109754,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100.0,S
+DOC02,SDM,SDM_IIMR-WNC,IIMR-WNC,,,6-7,75-76,,,,test_entry,,43,109761,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100.0,S
+DOC02,SDM,SDM_IIMR-WNC,IIMR-WNC,,,6-7,75-76,,,,test_entry,,44,109765,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100.0,S
+DOC02,SDM,SDM_IIMR-WNC,IIMR-WNC,,,6-7,75-76,,,,test_entry,,45,109773,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100.0,S
+DOC02,SDM,SDM_IIMR-WNC,IIMR-WNC,,,6-7,75-76,,,,test_entry,,46,109774,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100.0,S
+DOC02,SDM,SDM_IIMR-WNC,IIMR-WNC,,,6-7,75-76,,,,test_entry,,47,109775,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,83.3,S
+DOC02,SDM,SDM_IIMR-WNC,IIMR-WNC,,,6-7,75-76,,,,test_entry,,48,140977,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100.0,S
+DOC02,SDM,SDM_IIMR-WNC,IIMR-WNC,,,6-7,75-76,,,,test_entry,,49,109824,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100.0,S
+DOC02,SDM,SDM_IIMR-WNC,IIMR-WNC,,,6-7,75-76,,,,test_entry,,50,109844,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100.0,S
+DOC02,SDM,SDM_IIMR-WNC,IIMR-WNC,,,6-7,75-76,,,,test_entry,,51,109845,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,25.0,MR
+DOC02,SDM,SDM_IIMR-WNC,IIMR-WNC,,,6-7,75-76,,,,test_entry,,52,109850,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,80.0,S
+DOC02,SDM,SDM_IIMR-WNC,IIMR-WNC,,,6-7,75-76,,,,test_entry,,53,109860,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100.0,S
+DOC02,SDM,SDM_IIMR-WNC,IIMR-WNC,,,6-7,75-76,,,,test_entry,,54,109864,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100.0,S
+DOC02,SDM,SDM_IIMR-WNC,IIMR-WNC,,,6-7,75-76,,,,test_entry,,55,109866,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,92.9,S
+DOC02,SDM,SDM_IIMR-WNC,IIMR-WNC,,,6-7,75-76,,,,test_entry,,56,109868,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,14.3,MR
+DOC02,SDM,SDM_IIMR-WNC,IIMR-WNC,,,6-7,75-76,,,,test_entry,,57,109869,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100.0,S
+DOC02,SDM,SDM_IIMR-WNC,IIMR-WNC,,,6-7,75-76,,,,test_entry,,58,109870,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30.0,MS
+DOC02,SDM,SDM_IIMR-WNC,IIMR-WNC,,,6-7,75-76,,,,test_entry,,59,109872,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100.0,S
+DOC02,SDM,SDM_IIMR-WNC,IIMR-WNC,,,6-7,75-76,,,,test_entry,,60,109876,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100.0,S
+DOC02,SDM,SDM_IIMR-WNC,IIMR-WNC,,,6-7,75-76,,,,test_entry,,61,109879,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,37.5,MS
+DOC02,SDM,SDM_IIMR-WNC,IIMR-WNC,,,6-7,75-76,,,,test_entry,,62,109880,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,76.9,S
+DOC02,SDM,SDM_IIMR-WNC,IIMR-WNC,,,6-7,75-76,,,,test_entry,,63,109888,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100.0,S
+DOC02,SDM,SDM_IIMR-WNC,IIMR-WNC,,,6-7,75-76,,,,test_entry,,64,109910,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100.0,S
+DOC02,SDM,SDM_IIMR-WNC,IIMR-WNC,,,6-7,75-76,,,,test_entry,,65,109924,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,85.7,S
+DOC02,SDM,SDM_IIMR-WNC,IIMR-WNC,,,6-7,75-76,,,,test_entry,,66,109934,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,41.7,MS
+DOC02,SDM,SDM_IIMR-WNC,IIMR-WNC,,,6-7,75-76,,,,test_entry,,67,109935,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,80.0,S
+DOC02,SDM,SDM_IIMR-WNC,IIMR-WNC,,,6-7,75-76,,,,test_entry,,68,109936,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100.0,S
+DOC02,SDM,SDM_IIMR-WNC,IIMR-WNC,,,6-7,75-76,,,,test_entry,,69,109937,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100.0,S
+DOC02,SDM,SDM_IIMR-WNC,IIMR-WNC,,,6-7,75-76,,,,test_entry,,70,109939,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100.0,S
+DOC02,SDM,SDM_IIMR-WNC,IIMR-WNC,,,6-7,75-76,,,,test_entry,,71,109940,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100.0,S
+DOC02,SDM,SDM_IIMR-WNC,IIMR-WNC,,,6-7,75-76,,,,test_entry,,72,109942,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,37.5,MS
+DOC02,SDM,SDM_IIMR-WNC,IIMR-WNC,,,6-7,75-76,,,,test_entry,,73,109947,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100.0,S
+DOC02,SDM,SDM_IIMR-WNC,IIMR-WNC,,,6-7,75-76,,,,test_entry,,74,109948,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100.0,S
+DOC02,SDM,SDM_IIMR-WNC,IIMR-WNC,,,6-7,75-76,,,,test_entry,,75,109952,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,91.7,S
+DOC02,SDM,SDM_IIMR-WNC,IIMR-WNC,,,6-7,75-76,,,,test_entry,,76,109954,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,83.3,S
+DOC02,SDM,SDM_IIMR-WNC,IIMR-WNC,,,6-7,75-76,,,,test_entry,,77,109964,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,61.1,S
+DOC02,SDM,SDM_IIMR-WNC,IIMR-WNC,,,6-7,75-76,,,,test_entry,,78,109971,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100.0,S
+DOC02,SDM,SDM_IIMR-WNC,IIMR-WNC,,,6-7,75-76,,,,test_entry,,79,109992,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100.0,S
+DOC02,SDM,SDM_IIMR-WNC,IIMR-WNC,,,6-7,75-76,,,,test_entry,,80,109994,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,R
+DOC02,SDM,SDM_IIMR-WNC,IIMR-WNC,,,6-7,75-76,,,,test_entry,,81,109996,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100.0,S
+DOC02,SDM,SDM_IIMR-WNC,IIMR-WNC,,,6-7,75-76,,,,test_entry,,82,109998,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100.0,S
+DOC02,SDM,SDM_IIMR-WNC,IIMR-WNC,,,6-7,75-76,,,,test_entry,,83,110001,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100.0,S
+DOC02,SDM,SDM_IIMR-WNC,IIMR-WNC,,,6-7,75-76,,,,test_entry,,84,110007,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100.0,S
+DOC02,SDM,SDM_IIMR-WNC,IIMR-WNC,,,6-7,75-76,,,,test_entry,,85,110008,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100.0,S
+DOC02,SDM,SDM_IIMR-WNC,IIMR-WNC,,,6-7,75-76,,,,test_entry,,86,110012,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,46.2,MS
+DOC02,SDM,SDM_IIMR-WNC,IIMR-WNC,,,6-7,75-76,,,,test_entry,,87,110013,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,53.3,S
+DOC02,SDM,SDM_IIMR-WNC,IIMR-WNC,,,6-7,75-76,,,,test_entry,,88,110014,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,41.7,MS
+DOC02,SDM,SDM_IIMR-WNC,IIMR-WNC,,,6-7,75-76,,,,test_entry,,89,110020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,40.0,MS
+DOC02,SDM,SDM_IIMR-WNC,IIMR-WNC,,,6-7,75-76,,,,test_entry,,90,110064,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,44.4,MS
+DOC02,SDM,SDM_IIMR-WNC,IIMR-WNC,,,6-7,75-76,,,,test_entry,,91,110065,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,62.5,S
+DOC02,SDM,SDM_IIMR-WNC,IIMR-WNC,,,6-7,75-76,,,,test_entry,,92,110067,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,22.2,MR
+DOC02,SDM,SDM_IIMR-WNC,IIMR-WNC,,,6-7,75-76,,,,test_entry,,93,110071,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100.0,S
+DOC02,SDM,SDM_IIMR-WNC,IIMR-WNC,,,6-7,75-76,,,,test_entry,,94,110076,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100.0,S
+DOC02,SDM,SDM_IIMR-WNC,IIMR-WNC,,,6-7,75-76,,,,test_entry,,95,110114,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100.0,S
+DOC02,SDM,SDM_IIMR-WNC,IIMR-WNC,,,6-7,75-76,,,,test_entry,,96,110130,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,40.0,MS
+DOC02,SDM,SDM_IIMR-WNC,IIMR-WNC,,,6-7,75-76,,,,test_entry,,97,110134,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100.0,S
+DOC02,SDM,SDM_IIMR-WNC,IIMR-WNC,,,6-7,75-76,,,,test_entry,,98,110137,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100.0,S
+DOC02,SDM,SDM_IIMR-WNC,IIMR-WNC,,,6-7,75-76,,,,test_entry,,99,110141,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,33.3,MS
+DOC02,SDM,SDM_IIMR-WNC,IIMR-WNC,,,6-7,75-76,,,,test_entry,,100,110154,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100.0,S
+DOC02,SDM,SDM_IIMR-WNC,IIMR-WNC,,,6-7,75-76,,,,resistant_check,,RC,NAH-1137,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6.5,R
+DOC02,SDM,SDM_IIMR-WNC,IIMR-WNC,,,6-7,75-76,,,,susceptible_check,,SC,African Tall,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,98.7,S
+DOC02,SDM,SDM_CIMMYT,CIMMYT,,,8-9,77,,,,test_entry,,1,VL-19978,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10.0,R
+DOC02,SDM,SDM_CIMMYT,CIMMYT,,,8-9,77,,,,test_entry,,2,VL-191001,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10.0,R
+DOC02,SDM,SDM_CIMMYT,CIMMYT,,,8-9,77,,,,test_entry,,3,VL-181520,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,R
+DOC02,SDM,SDM_CIMMYT,CIMMYT,,,8-9,77,,,,test_entry,,4,VL-21986,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,R
+DOC02,SDM,SDM_CIMMYT,CIMMYT,,,8-9,77,,,,test_entry,,5,VL-185586,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,R
+DOC02,SDM,SDM_CIMMYT,CIMMYT,,,8-9,77,,,,test_entry,,6,VL-18722,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,R
+DOC02,SDM,SDM_CIMMYT,CIMMYT,,,8-9,77,,,,test_entry,,7,VL-18730,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12.5,MR
+DOC02,SDM,SDM_CIMMYT,CIMMYT,,,8-9,77,,,,test_entry,,8,VL-22302,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,R
+DOC02,SDM,SDM_CIMMYT,CIMMYT,,,8-9,77,,,,test_entry,,9,VL-22308,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,R
+DOC02,SDM,SDM_CIMMYT,CIMMYT,,,8-9,77,,,,test_entry,,10,ZL-18869,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,R
+DOC02,SDM,SDM_CIMMYT,CIMMYT,,,8-9,77,,,,test_entry,,11,ZL-17578,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,R
+DOC02,SDM,SDM_CIMMYT,CIMMYT,,,8-9,77,,,,test_entry,,12,VL-181418,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,R
+DOC02,SDM,SDM_CIMMYT,CIMMYT,,,8-9,77,,,,test_entry,,13,VL-21927,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,R
+DOC02,SDM,SDM_CIMMYT,CIMMYT,,,8-9,77,,,,test_entry,,14,VL-18708,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,R
+DOC02,SDM,SDM_CIMMYT,CIMMYT,,,8-9,77,,,,test_entry,,15,VL-133728,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,R
+DOC02,SDM,SDM_CIMMYT,CIMMYT,,,8-9,77,,,,test_entry,,16,VL-20227,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,R
+DOC02,SDM,SDM_CIMMYT,CIMMYT,,,8-9,77,,,,test_entry,,17,VL-1110501,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,R
+DOC02,SDM,SDM_CIMMYT,CIMMYT,,,8-9,77,,,,test_entry,,18,VL-191073,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,R
+DOC02,SDM,SDM_CIMMYT,CIMMYT,,,8-9,77,,,,test_entry,,19,VL-18560,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,R
+DOC02,SDM,SDM_CIMMYT,CIMMYT,,,8-9,77,,,,test_entry,,20,VL-22435,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,R
+DOC02,SDM,SDM_CIMMYT,CIMMYT,,,8-9,77,,,,test_entry,,21,VL-22452,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,R
+DOC02,SDM,SDM_CIMMYT,CIMMYT,,,8-9,77,,,,test_entry,,22,VL-183003,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,R
+DOC02,SDM,SDM_CIMMYT,CIMMYT,,,8-9,77,,,,test_entry,,23,VL-18260,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,R
+DOC02,SDM,SDM_CIMMYT,CIMMYT,,,8-9,77,,,,test_entry,,24,VL-22461,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,R
+DOC02,SDM,SDM_CIMMYT,CIMMYT,,,8-9,77,,,,test_entry,,25,VL-21966,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,R
+DOC02,SDM,SDM_CIMMYT,CIMMYT,,,8-9,77,,,,test_entry,,26,VL-21988,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,50.0,MS
+DOC02,SDM,SDM_CIMMYT,CIMMYT,,,8-9,77,,,,test_entry,,27,VL-184578,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,R
+DOC02,SDM,SDM_CIMMYT,CIMMYT,,,8-9,77,,,,test_entry,,28,VL-18726,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,R
+DOC02,SDM,SDM_CIMMYT,CIMMYT,,,8-9,77,,,,test_entry,,29,VL-22294,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,R
+DOC02,SDM,SDM_CIMMYT,CIMMYT,,,8-9,77,,,,test_entry,,30,VL-22327,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.0,R
+DOC02,SDM,SDM_CIMMYT,CIMMYT,,,8-9,77,,,,test_entry,,31,SNL-18965,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,R
+DOC02,SDM,SDM_CIMMYT,CIMMYT,,,8-9,77,,,,test_entry,,32,SNL-20158,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,R
+DOC02,SDM,SDM_CIMMYT,CIMMYT,,,8-9,77,,,,test_entry,,33,SNL-172494,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,R
+DOC02,SDM,SDM_CIMMYT,CIMMYT,,,8-9,77,,,,test_entry,,34,SNL-19388,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,R
+DOC02,SDM,SDM_CIMMYT,CIMMYT,,,8-9,77,,,,test_entry,,35,SNL-20640,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,R
+DOC02,SDM,SDM_CIMMYT,CIMMYT,,,8-9,77,,,,test_entry,,36,SNL-191l161,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,R
+DOC02,SDM,SDM_CIMMYT,CIMMYT,,,8-9,77,,,,test_entry,,37,SNL-191172,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,R
+DOC02,SDM,SDM_CIMMYT,CIMMYT,,,8-9,77,,,,test_entry,,38,SNL-19123,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,R
+DOC02,SDM,SDM_CIMMYT,CIMMYT,,,8-9,77,,,,test_entry,,39,VL-181545,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,R
+DOC02,SDM,SDM_CIMMYT,CIMMYT,,,8-9,77,,,,test_entry,,40,VL-181763,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,R
+DOC02,SDM,SDM_CIMMYT,CIMMYT,,,8-9,77,,,,test_entry,,41,VL-19957,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,R
+DOC02,SDM,SDM_CIMMYT,CIMMYT,,,8-9,77,,,,test_entry,,42,VL-18322,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,R
+DOC02,SDM,SDM_CIMMYT,CIMMYT,,,8-9,77,,,,resistant_check,,RC,NAH-1137,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.5,R
+DOC02,SDM,SDM_CIMMYT,CIMMYT,,,8-9,77,,,,susceptible_check,,SC,African Tall,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,89.5,S
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,1,791,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,40.0,MS
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,2,171,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,66.7,S
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,3,822,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,85.7,S
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,4,91,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100.0,S
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,5,516,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,83.3,S
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,6,950,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,87.5,S
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,7,187,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,28.6,MS
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,8,829,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,80.0,S
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,9,835,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,87.5,S
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,10,412,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,90.9,S
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,11,586,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,80.0,S
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,12,53,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,90.0,S
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,13,772,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,80.0,S
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,14,717,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,80.0,S
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,15,37,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100.0,S
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,16,842,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,66.7,S
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,17,395,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30.0,MS
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,18,17,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,83.3,S
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,19,553,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,R
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,20,1033,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100.0,S
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,21,485,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,88.9,S
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,22,569,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,R
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,23,723,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,85.7,S
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,24,334,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,37.5,MS
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,25,411,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,66.7,S
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,26,643,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18.2,MR
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,27,1030,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,R
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,28,323,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100.0,S
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,29,52,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,R
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,30,1005,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,R
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,31,346,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,28.6,MS
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,32,929,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,75.0,S
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,33,654,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,55.6,S
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,34,870,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,62.5,S
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,35,935,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,66.7,S
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,36,130,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,40.0,MS
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,37,981,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12.5,MR
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,38,895,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,44.4,MS
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,39,832,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,14.3,MR
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,40,856,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,44.4,MS
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,41,769,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,25.0,MR
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,42,246,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,40.0,MS
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,43,293,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,80.0,S
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,44,112,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30.0,MS
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,45,543,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,50.0,MS
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,46,510,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,R
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,47,413,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,87.5,S
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,48,813,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100.0,S
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,49,457,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,62.5,S
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,50,178,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,85.7,S
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,51,443,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,90.0,S
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,52,997,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,50.0,MS
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,53,488,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,60.0,S
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,54,82,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,60.0,S
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,55,655,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,28.6,MS
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,56,70,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,83.3,S
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,57,465,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100.0,S
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,58,1028,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,66.7,S
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,59,812,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,66.7,S
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,60,674,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,33.3,MS
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,61,862,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,62.5,S
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,62,855,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100.0,S
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,63,987,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,37.5,MS
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,64,734,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100.0,S
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,65,548,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,40.0,MS
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,66,815,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100.0,S
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,67,816,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,85.7,S
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,68,13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100.0,S
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,69,787,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,50.0,MS
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,70,634,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,66.7,S
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,71,789,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100.0,S
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,72,467,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100.0,S
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,73,43,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,22.2,MS
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,74,711,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,44.4,MS
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,75,689,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,50.0,MS
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,76,1017,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100.0,S
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,77,846,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,33.3,MS
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,78,839,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,85.7,S
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,79,867,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,22.2,MR
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,80,86,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,11.1,MR
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,81,19,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100.0,S
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,82,760,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,62.5,S
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,83,336,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,14.3,MR
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,84,713,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100.0,S
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,85,241,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,R
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,86,993,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,50.0,MS
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,87,557,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,R
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,88,393,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100.0,S
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,89,508,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,R
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,90,831,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,37.5,MS
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,91,1039,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,42.9,MS
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,92,696,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,42.9,MS
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,93,798,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,33.3,MS
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,94,125,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100.0,S
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,95,684,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,16.7,MR
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,96,746,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,14.3,MR
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,97,316,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100.0,S
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,98,470,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,50.0,MS
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,99,271,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,R
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,100,634,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,55.6,MS
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,101,316,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100.0,S
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,102,465,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,11.1,R
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,103,413,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,71.4,S
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,104,241,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,R
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,105,856,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,70.0,S
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,106,569,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,80.0,S
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,107,689,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100.0,S
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,108,835,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,40.0,MS
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,109,293,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,66.7,S
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,110,846,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,42.9,MS
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,111,870,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,80.0,S
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,112,457,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,37.5,MS
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,113,1033,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,80.0,S
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,114,586,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100.0,S
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,115,798,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100.0,S
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,116,993,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,40.0,MS
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,117,815,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100.0,S
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,118,334,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,70.0,S
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,119,271,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,33.3,MS
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,120,1017,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100.0,S
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,121,655,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,40.0,MS
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,122,346,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100.0,S
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,123,82,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30.0,MS
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,124,789,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,90.0,S
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,125,508,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,25.0,MR
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,126,822,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100.0,S
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,127,393,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,R
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,128,772,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,25.0,MR
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,129,787,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,50.0,MS
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,130,43,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,25.0,MR
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,131,411,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,25.0,MR
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,132,829,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,80.0,S
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,133,813,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100.0,S
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,134,935,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100.0,S
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,135,812,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100.0,S
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,136,17,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,25.0,MR
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,137,323,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,57.1,S
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,138,467,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,50.0,MS
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,139,557,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100.0,S
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,140,543,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,75.0,S
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,141,443,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30.0,MS
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,142,125,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,66.7,S
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,143,485,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100.0,S
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,144,734,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,40.0,MS
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,145,336,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,53.8,S
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,146,178,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,R
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,147,855,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100.0,S
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,148,769,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100.0,S
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,149,950,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,11.1,MR
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,150,717,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,28.6,MS
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,151,19,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,R
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,152,470,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,33.3,MS
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,153,981,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,55.6,S
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,154,516,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,R
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,155,713,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,25.0,MR
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,156,896,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,55.6,S
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,157,70,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,37.5,MS
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,158,37,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,50.0,MS
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,159,867,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,50.0,MS
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,160,723,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100.0,S
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,161,654,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100.0,S
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,162,842,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100.0,S
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,163,791,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,71.4,S
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,164,839,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,55.6,S
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,165,488,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,71.4,S
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,166,130,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12.5,MR
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,167,548,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,60.0,S
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,168,1030,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,50.0,MS
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,169,1039,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,55.6,S
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,170,987,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100.0,S
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,171,1028,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,25.0,MR
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,172,997,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,50.0,MS
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,173,696,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NG
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,174,52,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,14.3,MR
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,175,895,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10.0,R
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,176,13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100.0,S
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,177,643,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,90.0,S
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,178,395,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,66.7,S
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,179,91,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,33.3,MS
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,180,960,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,75.0,S
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,181,929,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,71.4,S
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,182,53,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,20.0,MR
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,183,86,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,36.4,MS
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,184,187,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,28.6,MS
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,185,510,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,50.0,MS
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,186,684,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10.0,R
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,187,112,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,20.0,MR
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,188,862,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,16.7,MR
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,189,831,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,50.0,MS
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,190,711,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,44.4,MS
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,191,1005,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30.0,MS
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,192,674,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,27.3,MS
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,193,412,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100.0,S
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,194,171,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,22.2,MR
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,195,832,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,27.3,MS
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,196,746,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,25.0,MR
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,test_entry,,197,553,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12.5,MR
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,resistant_check,,RC,NAH-1137,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7.2,R
+DOC02,SDM,SDM_CRPAB,CRPAB,,,9-11,78-80,,,,susceptible_check,,SC,African Tall,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,99.0,S

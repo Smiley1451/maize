@@ -1,0 +1,12 @@
+item,count,meaning
+item,count,meaning
+raw_master_rows,3932,Input rows from validated master
+experiment_observation_rows,3282,Yield/TLB/SDM observation rows used for genotype normalization
+unique_raw_genotype_names,513,Distinct printed names before normalization
+candidate_genotype_groups,461,Distinct normalized identity candidates
+candidate_genotype_groups_with_aliases,40,Groups containing multiple raw names; manually validate
+candidate_genotype_groups_unique,316,Groups with one raw printed name
+raw_trait_variables,144,Distinct variable names in the master
+mapped_trait_variables,90,Variables assigned a canonical trait name
+source_name_retained_traits,54,Variables retained as-is because meaning was not safely inferable
+standardized_observation_rows,3932,All master rows carrying canonical trait metadata and candidate genotype IDs where applicable

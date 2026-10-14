@@ -1,0 +1,25 @@
+PHASE 19 FASTAPI BACKEND — UPDATED TESTED DROP-IN
+
+Added automated complete API test suite.
+
+Coverage:
+- 30 OpenAPI HTTP endpoints explicitly covered.
+- /docs, /redoc and /openapi.json checks.
+- Happy-path, validation, boundary, error, pagination, file-upload and authentication cases.
+- Single prediction vs batch prediction result consistency check.
+- OpenAPI route-coverage regression guard.
+- 83 pytest cases passed in build verification.
+
+Run from this folder:
+  .\RUN_PHASE19.ps1 -Action test
+
+Interactive menu:
+  .\RUN_PHASE19.ps1
+  choose 3 for COMPLETE API test suite
+
+Reports:
+  outputs/API_TEST_RESULTS.xml
+  outputs/API_TEST_CASES.csv
+  outputs/API_TEST_REPORT.md
+
+The endpoint tests use deterministic service fakes for the HTTP-contract layer so the suite does not depend on the presence or exact contents of trained model artifacts. Real model files remain covered by the existing Phase 19 verification and smoke tooling.

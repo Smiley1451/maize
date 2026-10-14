@@ -1,0 +1,7 @@
+﻿topic,note
+General note,Index used in the PDF: R = Resistant; MR = Moderately resistant; MS = Moderately susceptible; S = Susceptible.
+Table note,SR = Spreader rows; TE = Test entries; RC = Resistant check; SC = Susceptible check; NG = Not germinated.
+Source preservation,"Table values above are transcribed from the visible tables. Inference text is preserved separately in the metadata CSV, including places where the PDF narrative differs from the table values."
+Experiment MPT-3 discrepancy,"The MPT-3 table shows RC NAH 1137 = 8.8% R and SC African Tall = 96.5% S, while the inference paragraph states 7.8% and 95.5%. Both are preserved; the table is not silently changed."
+Experiment Station Inbred,The table contains two NG rows: serial 13 (NAI 204-1) and serial 28 (V-496-7).
+CRPAB source transcription,"Some genotype/serial identifiers repeat in the printed CRPAB table (e.g., 316, 465, 413, etc.); these are preserved exactly by serial number rather than deduplicated."

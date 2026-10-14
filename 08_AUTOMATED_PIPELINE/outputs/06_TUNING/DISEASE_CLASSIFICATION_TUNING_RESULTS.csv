@@ -1,0 +1,3 @@
+target,model,best_cv_balanced_accuracy,best_params
+tlb_reaction,RandomForestClassifier,0.4881765980837189,"{'model__n_estimators': 350, 'model__min_samples_leaf': 4, 'model__max_depth': None, 'model__class_weight': None}"
+sdm_reaction,RandomForestClassifier,0.39470121381886086,"{'model__n_estimators': 250, 'model__min_samples_leaf': 2, 'model__max_depth': 5, 'model__class_weight': 'balanced_subsample'}"

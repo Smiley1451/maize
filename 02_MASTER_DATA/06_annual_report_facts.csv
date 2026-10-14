@@ -1,0 +1,377 @@
+﻿document_id,source_page,section,topic,subject,metric,value,unit,statement
+DOC04,1,Achievements Summary,Maize crop improvement,MAH 14-138,recommended_release_state_subcommittee_date,23.01.2024,date,Recommended for release in State Seeds Sub Committee meeting.
+DOC04,1,Achievements Summary,Maize crop improvement,MAH 15-84,recommended_release_zone,Zone 5 & 6,zone,Recommended in respective ZREP meeting during April 2024.
+DOC04,1,Achievements Summary,Program counts,"AICRP on Maize, Mandya",coordinated_trials,22,trials,Annual program count or population count reported for crop improvement.
+DOC04,1,Achievements Summary,Program counts,"AICRP on Maize, Mandya",station_trials,14,trials,Annual program count or population count reported for crop improvement.
+DOC04,1,Achievements Summary,Program counts,"AICRP on Maize, Mandya",multi_location_trials,2,trials,Annual program count or population count reported for crop improvement.
+DOC04,1,Achievements Summary,Program counts,"AICRP on Maize, Mandya",station_breeding_programs,9,programs,Annual program count or population count reported for crop improvement.
+DOC04,1,Achievements Summary,Program counts,"AICRP on Maize, Mandya",inter_institutional_collaborative_programs,2,programs,Annual program count or population count reported for crop improvement.
+DOC04,1,Achievements Summary,Program counts,"AICRP on Maize, Mandya",PG_research_supported_programs,2,programs,Annual program count or population count reported for crop improvement.
+DOC04,1,Achievements Summary,Program counts,"AICRP on Maize, Mandya",farm_trials,65,trials,Annual program count or population count reported for crop improvement.
+DOC04,1,Achievements Summary,Program counts,"AICRP on Maize, Mandya",DH_populations,1117,populations,Annual program count or population count reported for crop improvement.
+DOC04,1,Achievements Summary,Program counts,"AICRP on Maize, Mandya",heterotic_normal_inbreds,76,inbreds,Annual program count or population count reported for crop improvement.
+DOC04,1,Achievements Summary,Program counts,"AICRP on Maize, Mandya",heterotic_popcorn_inbreds,51,inbreds,Annual program count or population count reported for crop improvement.
+DOC04,1,Achievements Summary,Program counts,"AICRP on Maize, Mandya",heterotic_sweet_corn_inbreds,85,inbreds,Annual program count or population count reported for crop improvement.
+DOC04,1,Achievements Summary,Demonstration,MAH 14-5 and MAH 14-138,front_line_demo_area,125,acres,"Front line demonstrations during Kharif-2023 in Mandya, Mysore, Hassan and Chamarajanagara."
+DOC04,1,Achievements Summary,Demonstration,MAH 14-5 and MAH 14-138,SCSP_area,50,acres,"SCSP program during Rabi 2023-24 at Sollepura Haadi-Chakkodanahalli, H.D.Kote Tq., Mysuru Dist."
+DOC04,1,Maize Pathology,SDM,Peronosclerospora sorghi,stable_resistant_inbreds,15,inbreds,15 stable maize inbreds resistant to Sorghum Downy Mildew were identified.
+DOC04,1,Maize Pathology,LC-MS profiling,Salicylic acid,resistant_genotype_change,significant fold increase,qualitative,Reported chemical-defense difference between resistant and susceptible genotypes.
+DOC04,1,Maize Pathology,LC-MS profiling,p-coumaric acid,resistant_genotype_change,significant fold increase,qualitative,Reported chemical-defense difference between resistant and susceptible genotypes.
+DOC04,1,Maize Pathology,LC-MS profiling,o-coumaric acid,resistant_genotype_change,significant fold increase,qualitative,Reported chemical-defense difference between resistant and susceptible genotypes.
+DOC04,1,Maize Pathology,LC-MS profiling,caffeic acid,resistant_genotype_change,significant fold increase,qualitative,Reported chemical-defense difference between resistant and susceptible genotypes.
+DOC04,1,Maize Pathology,LC-MS profiling,ferulic acid,resistant_genotype_change,significant fold increase,qualitative,Reported chemical-defense difference between resistant and susceptible genotypes.
+DOC04,1,Maize Pathology,LC-MS profiling,naringenin,resistant_genotype_change,notable elevation,qualitative,Reported chemical-defense difference between resistant and susceptible genotypes.
+DOC04,1,Maize Pathology,LC-MS profiling,catechin,resistant_genotype_change,notable elevation,qualitative,Reported chemical-defense difference between resistant and susceptible genotypes.
+DOC04,1,Maize Pathology,LC-MS profiling,epicatechin,resistant_genotype_change,notable elevation,qualitative,Reported chemical-defense difference between resistant and susceptible genotypes.
+DOC04,2,Maize Pathology: TLB,Trial summary,Kharif 2023 and Rabi 2022-23,trial_count,14+3,trials,Total TLB trials reported across Kharif 2023 and Rabi 2022-23.
+DOC04,2,Maize Pathology: TLB,Disease trap nursery,CM 400 / CML 500 / BML 6,max_tlb_score,9.0,1-9 scale,Maximum TLB disease score reported in trap nursery.
+DOC04,2,Maize Pathology: TLB,Disease survey,Karnataka,TLB_incidence,70,%,Major disease incidence noticed in survey.
+DOC04,2,Maize Pathology: TLB,Disease survey,Hassan,TLB_disease_incidence,85,%,District incidence reported in survey.
+DOC04,2,Maize Pathology: TLB,Disease survey,Mysore,TLB_disease_incidence,75,%,District incidence reported in survey.
+DOC04,2,Maize Pathology: TLB,Disease survey,Chamarajanagara,TLB_disease_incidence,70,%,District incidence reported in survey.
+DOC04,2,Maize Pathology: TLB,Disease survey,Mandya,TLB_disease_incidence,65,%,District incidence reported in survey.
+DOC04,2,Maize Pathology: TLB,Disease survey,Karnataka,Sorghum Downy mildew,55,%,Reported occurrence in different maize-growing areas.
+DOC04,2,Maize Pathology: TLB,Disease survey,Karnataka,TLB,70,%,Reported occurrence in different maize-growing areas.
+DOC04,2,Maize Pathology: TLB,Disease survey,Karnataka,MLB,45,%,Reported occurrence in different maize-growing areas.
+DOC04,2,Maize Pathology: TLB,Disease survey,Karnataka,CLS,20,%,Reported occurrence in different maize-growing areas.
+DOC04,2,Maize Pathology: TLB,Disease survey,Karnataka,P.Rust,40,%,Reported occurrence in different maize-growing areas.
+DOC04,2,Maize Pathology: TLB,Disease survey,Karnataka,PFSR,25,%,Reported occurrence in different maize-growing areas.
+DOC04,2,Maize Pathology: TLB,Polysora rust management,T4,foliar_fungicide,Azoxystrobin 18.2% + Difenconazole 11.4%,1 ml/L at 35 and 50 DAS,Treatment T4 reported lowest PDI and higher grain yield than control.
+DOC04,2,Maize Pathology: TLB,Polysora rust management,T4,PDI,28.13,%,Treatment outcome reported in annual report.
+DOC04,2,Maize Pathology: TLB,Polysora rust management,T4,disease_control,62.6,%,Treatment outcome reported in annual report.
+DOC04,2,Maize Pathology: TLB,Polysora rust management,T4,grain_yield,82.6,q/ha,Treatment outcome reported in annual report.
+DOC04,2,Maize Pathology: TLB,Yield loss / control,annual report,control_PDI,75.4,%,Reported control or yield-loss value.
+DOC04,2,Maize Pathology: TLB,Yield loss / control,annual report,control_grain_yield,25.4,q/ha,Reported control or yield-loss value.
+DOC04,2,Maize Pathology: TLB,Yield loss / control,annual report,TLB_max_yield_loss,40.4,%,Reported control or yield-loss value.
+DOC04,2,Maize Pathology: TLB,Racial pattern study,Hassan,TLB_hotspot,yes,flag,Identified as hotspot locations for TLB.
+DOC04,2,Maize Pathology: TLB,Racial pattern study,Mandya,TLB_hotspot,yes,flag,Identified as hotspot locations for TLB.
+DOC04,2,Maize Pathology: TLB,Racial pattern study,Shivamogga,TLB_hotspot,yes,flag,Identified as hotspot locations for TLB.
+DOC04,2,Maize Pathology: TLB,Racial pattern study,Hassan,aggressive_virulent_isolate,Et2,isolate,Reported as more aggressive and virulent based on study criteria.
+DOC04,2,Maize Pathology: TLB,Racial pattern study,Mandya,aggressive_virulent_isolate,Et1,isolate,Reported as more aggressive and virulent based on study criteria.
+DOC04,3,Maize Nutrition,Popcorn,Popcorn popping percentage (set 1),range,86.4-98.36,%,Reported average popping percentage range.
+DOC04,3,Maize Nutrition,Popcorn,Popcorn popping percentage (set 2),range,86.36-96.23,%,Reported average popping percentage range.
+DOC04,3,Maize Nutrition,Popcorn,PP 09,popping_trait,higher,qualitative,Reported higher popping trait compared with other entries and checks.
+DOC04,3,Maize Nutrition,Popcorn,MPC-2141,popping_percentage,96.23,%,Reported popping percentage.
+DOC04,3,Maize Nutrition,Popcorn,IMHP-2101,popping_percentage,95.95,%,Reported popping percentage.
+DOC04,3,Maize Nutrition,Popcorn,APCH-2,popping_percentage,95.67,%,Reported popping percentage.
+DOC04,3,Maize Nutrition,Nutritional composition,HQPM pasta,protein,12.69,g,Reported nutritional composition.
+DOC04,3,Maize Nutrition,Nutritional composition,HQPM pasta,crude_fiber,12.96,g,Reported nutritional composition.
+DOC04,3,Maize Nutrition,Nutritional composition,HQPM pasta,iron,3.53,mg,Reported nutritional composition.
+DOC04,3,Maize Nutrition,Nutritional composition,HQPM pasta,calcium,38.06,mg,Reported nutritional composition.
+DOC04,3,Maize Nutrition,Nutritional composition,IQPMH Pasta,protein,13.48,g,Reported nutritional composition.
+DOC04,3,Maize Nutrition,Nutritional composition,IQPMH Pasta,crude_fiber,12.09,g,Reported nutritional composition.
+DOC04,3,Maize Nutrition,Nutritional composition,IQPMH Pasta,iron,3.25,mg,Reported nutritional composition.
+DOC04,3,Maize Nutrition,Nutritional composition,IQPMH Pasta,calcium,37.76,mg,Reported nutritional composition.
+DOC04,3,Maize Nutrition,Nutritional composition,Foxtail millet pasta,protein,15.41,g,Reported nutritional composition.
+DOC04,3,Maize Nutrition,Nutritional composition,Foxtail millet pasta,crude_fiber,14.53,g,Reported nutritional composition.
+DOC04,3,Maize Nutrition,Nutritional composition,Foxtail millet pasta,iron,2.61,mg,Reported nutritional composition.
+DOC04,3,Maize Nutrition,Nutritional composition,Foxtail millet pasta,calcium,9.93,mg,Reported nutritional composition.
+DOC04,3,Maize Nutrition,Nutritional composition,Little millet pasta,protein,11.82,g,Reported nutritional composition.
+DOC04,3,Maize Nutrition,Nutritional composition,Little millet pasta,crude_fiber,13.89,g,Reported nutritional composition.
+DOC04,3,Maize Nutrition,Nutritional composition,Little millet pasta,iron,2.59,mg,Reported nutritional composition.
+DOC04,3,Maize Nutrition,Nutritional composition,Little millet pasta,calcium,9.63,mg,Reported nutritional composition.
+DOC04,3,Maize Nutrition,Storage study,HQPM-5 pasta MPP packaging,acceptability,acceptable up to 6 months,qualitative,Packaging/storage result reported.
+DOC04,3,Maize Nutrition,Storage study,Foxtail millet pasta MPP packaging,acceptability,acceptable up to 6 months,qualitative,Packaging/storage result reported.
+DOC04,3,Maize Nutrition,Storage study,Little millet pasta MPP packaging,acceptability,acceptable up to 6 months,qualitative,Packaging/storage result reported.
+DOC04,3,Maize Nutrition,RTC formulation,Nutri maize QPM pasta,ingredient_ratio,60:40,ratio,Ratio acceptable to sensory evaluation panelists.
+DOC04,3,Maize Nutrition,RTC formulation,little millet dosa,ingredient_ratio,60:40,ratio,Ratio acceptable to sensory evaluation panelists.
+DOC04,3,Maize Nutrition,RTC formulation,foxtail millet idli,ingredient_ratio,60:40,ratio,Ratio acceptable to sensory evaluation panelists.
+DOC04,3,Maize Nutrition,Nutritional composition,HQPM-5 NB,protein,8.66,g,Reported nutritional composition.
+DOC04,3,Maize Nutrition,Nutritional composition,HQPM-5 NB,crude_fiber,6.38,g,Reported nutritional composition.
+DOC04,3,Maize Nutrition,Nutritional composition,HQPM-5 NB,fat,9.12,g,Reported nutritional composition.
+DOC04,3,Maize Nutrition,Nutritional composition,IQPMHNB,protein,8.68,g,Reported nutritional composition.
+DOC04,3,Maize Nutrition,Nutritional composition,IQPMHNB,crude_fiber,6.35,g,Reported nutritional composition.
+DOC04,3,Maize Nutrition,Nutritional composition,IQPMHNB,fat,9.11,g,Reported nutritional composition.
+DOC04,3,Maize Nutrition,Nutritional composition,QPM Laddu (Finger millet),protein,15.45,g,Reported nutritional composition.
+DOC04,3,Maize Nutrition,Nutritional composition,QPM Laddu (Finger millet),crude_fiber,4.67,g,Reported nutritional composition.
+DOC04,3,Maize Nutrition,Nutritional composition,QPM Laddu (Finger millet),fat,15.33,g,Reported nutritional composition.
+DOC04,3,Maize Nutrition,Nutritional composition,QPM Laddu (Little millet),protein,17.31,g,Reported nutritional composition.
+DOC04,3,Maize Nutrition,Nutritional composition,QPM Laddu (Little millet),crude_fiber,4.0,g,Reported nutritional composition.
+DOC04,3,Maize Nutrition,Nutritional composition,QPM Laddu (Little millet),fat,17.94,g,Reported nutritional composition.
+DOC04,4,General Information,Karnataka maize 5-year table,2019-20,kharif_area,13.55,lakh ha,Season-wise area reported.
+DOC04,4,General Information,Karnataka maize 5-year table,2019-20,rabi_area,1.87,lakh ha,Season-wise area reported.
+DOC04,4,General Information,Karnataka maize 5-year table,2019-20,total_area_reported,13.97,lakh ha,Reported total; preserved as printed.
+DOC04,4,General Information,Karnataka maize 5-year table,2019-20,kharif_production,43.66,lakh tonnes,Season-wise production reported.
+DOC04,4,General Information,Karnataka maize 5-year table,2019-20,rabi_production,2.95,lakh tonnes,Season-wise production reported.
+DOC04,4,General Information,Karnataka maize 5-year table,2019-20,total_production_reported,47.68,lakh tonnes,Reported total; preserved as printed.
+DOC04,4,General Information,Karnataka maize 5-year table,2019-20,kharif_productivity,3392,kg/ha,Season-wise productivity reported.
+DOC04,4,General Information,Karnataka maize 5-year table,2019-20,rabi_productivity,3569,kg/ha,Season-wise productivity reported.
+DOC04,4,General Information,Karnataka maize 5-year table,2019-20,total_productivity_reported,3414,kg/ha,Reported total; preserved as printed.
+DOC04,4,General Information,Karnataka maize 5-year table,2020-21,kharif_area,15.32,lakh ha,Season-wise area reported.
+DOC04,4,General Information,Karnataka maize 5-year table,2020-21,rabi_area,1.49,lakh ha,Season-wise area reported.
+DOC04,4,General Information,Karnataka maize 5-year table,2020-21,total_area_reported,17.27,lakh ha,Reported total; preserved as printed.
+DOC04,4,General Information,Karnataka maize 5-year table,2020-21,kharif_production,56.83,lakh tonnes,Season-wise production reported.
+DOC04,4,General Information,Karnataka maize 5-year table,2020-21,rabi_production,5.4,lakh tonnes,Season-wise production reported.
+DOC04,4,General Information,Karnataka maize 5-year table,2020-21,total_production_reported,63.72,lakh tonnes,Reported total; preserved as printed.
+DOC04,4,General Information,Karnataka maize 5-year table,2020-21,kharif_productivity,3709,kg/ha,Season-wise productivity reported.
+DOC04,4,General Information,Karnataka maize 5-year table,2020-21,rabi_productivity,3691,kg/ha,Season-wise productivity reported.
+DOC04,4,General Information,Karnataka maize 5-year table,2020-21,total_productivity_reported,3689,kg/ha,Reported total; preserved as printed.
+DOC04,4,General Information,Karnataka maize 5-year table,2021-22,kharif_area,15.11,lakh ha,Season-wise area reported.
+DOC04,4,General Information,Karnataka maize 5-year table,2021-22,rabi_area,0.97,lakh ha,Season-wise area reported.
+DOC04,4,General Information,Karnataka maize 5-year table,2021-22,total_area_reported,16.42,lakh ha,Reported total; preserved as printed.
+DOC04,4,General Information,Karnataka maize 5-year table,2021-22,kharif_production,48.82,lakh tonnes,Season-wise production reported.
+DOC04,4,General Information,Karnataka maize 5-year table,2021-22,rabi_production,3.31,lakh tonnes,Season-wise production reported.
+DOC04,4,General Information,Karnataka maize 5-year table,2021-22,total_production_reported,53.38,lakh tonnes,Reported total; preserved as printed.
+DOC04,4,General Information,Karnataka maize 5-year table,2021-22,kharif_productivity,3231,kg/ha,Season-wise productivity reported.
+DOC04,4,General Information,Karnataka maize 5-year table,2021-22,rabi_productivity,3415,kg/ha,Season-wise productivity reported.
+DOC04,4,General Information,Karnataka maize 5-year table,2021-22,total_productivity_reported,3251,kg/ha,Reported total; preserved as printed.
+DOC04,4,General Information,Karnataka maize 5-year table,2022-23,kharif_area,14.33,lakh ha,Season-wise area reported.
+DOC04,4,General Information,Karnataka maize 5-year table,2022-23,rabi_area,1.57,lakh ha,Season-wise area reported.
+DOC04,4,General Information,Karnataka maize 5-year table,2022-23,total_area_reported,15.91,lakh ha,Reported total; preserved as printed.
+DOC04,4,General Information,Karnataka maize 5-year table,2022-23,kharif_production,47.99,lakh tonnes,Season-wise production reported.
+DOC04,4,General Information,Karnataka maize 5-year table,2022-23,rabi_production,4.61,lakh tonnes,Season-wise production reported.
+DOC04,4,General Information,Karnataka maize 5-year table,2022-23,total_production_reported,52.6,lakh tonnes,Reported total; preserved as printed.
+DOC04,4,General Information,Karnataka maize 5-year table,2022-23,kharif_productivity,3347,kg/ha,Season-wise productivity reported.
+DOC04,4,General Information,Karnataka maize 5-year table,2022-23,rabi_productivity,2936,kg/ha,Season-wise productivity reported.
+DOC04,4,General Information,Karnataka maize 5-year table,2022-23,total_productivity_reported,3347,kg/ha,Reported total; preserved as printed.
+DOC04,4,General Information,Karnataka maize 5-year table,2023-24*,kharif_area,17.43,lakh ha,Season-wise area reported.
+DOC04,4,General Information,Karnataka maize 5-year table,2023-24*,rabi_area,1.68,lakh ha,Season-wise area reported.
+DOC04,4,General Information,Karnataka maize 5-year table,2023-24*,total_area_reported,19.4,lakh ha,Reported total; preserved as printed.
+DOC04,4,General Information,Karnataka maize 5-year table,2023-24*,kharif_production,47.49,lakh tonnes,Season-wise production reported.
+DOC04,4,General Information,Karnataka maize 5-year table,2023-24*,rabi_production,6.41,lakh tonnes,Season-wise production reported.
+DOC04,4,General Information,Karnataka maize 5-year table,2023-24*,total_production_reported,54.91,lakh tonnes,Reported total; preserved as printed.
+DOC04,4,General Information,Karnataka maize 5-year table,2023-24*,kharif_productivity,2724,kg/ha,Season-wise productivity reported.
+DOC04,4,General Information,Karnataka maize 5-year table,2023-24*,rabi_productivity,3825,kg/ha,Season-wise productivity reported.
+DOC04,4,General Information,Karnataka maize 5-year table,2023-24*,total_productivity_reported,2830,kg/ha,Reported total; preserved as printed.
+DOC04,4,General Information,Centre,"AICRP on Maize, Mandya",year_establishment,1981,year,Centre year of establishment.
+DOC04,5,General Information,Agro-ecological region,Centre,working_region,Peninsular Zone (PZ),zone,Agro-ecological region reported.
+DOC04,6,Production constraints,Regional constraint,constraint_1,statement,Maize grown under irrigated (30%) and rainfed (70%) conditions.,text,Maize grown under irrigated (30%) and rainfed (70%) conditions.
+DOC04,6,Production constraints,Regional constraint,constraint_2,statement,Drought / erratic rainfall creates intermittent stress and yield loss.,text,Drought / erratic rainfall creates intermittent stress and yield loss.
+DOC04,6,Production constraints,Regional constraint,constraint_3,statement,Non-availability of quality certified seed at reasonable prices.,text,Non-availability of quality certified seed at reasonable prices.
+DOC04,6,Production constraints,Regional constraint,constraint_4,statement,"Intensive cultivation leads to frequent SDM, TLB, MLB, Polysora Rust and PFSR.",text,"Intensive cultivation leads to frequent SDM, TLB, MLB, Polysora Rust and PFSR."
+DOC04,6,Production constraints,Regional constraint,constraint_5,statement,Soil nutrient imbalance from continuous maize and need for soil-test-based fertilizer/fertigation.,text,Soil nutrient imbalance from continuous maize and need for soil-test-based fertilizer/fertigation.
+DOC04,6,Production constraints,Regional constraint,constraint_6,statement,"Specialty maize needs standardized spacing, nutrients and agronomic management for productivity, quality and shelf life.",text,"Specialty maize needs standardized spacing, nutrients and agronomic management for productivity, quality and shelf life."
+DOC04,6,Thrust areas,Research priority,thrust_1,statement,Development and evaluation of normal maize hybrids for different seasons in southern Karnataka.,text,Development and evaluation of normal maize hybrids for different seasons in southern Karnataka.
+DOC04,6,Thrust areas,Research priority,thrust_2,statement,"Development and conservation of inbreds resistant to TLB, Polysora rust and PFSR.",text,"Development and conservation of inbreds resistant to TLB, Polysora rust and PFSR."
+DOC04,6,Thrust areas,Research priority,thrust_3,statement,Development of inbreds and hybrids resistant to biotic stresses.,text,Development of inbreds and hybrids resistant to biotic stresses.
+DOC04,6,Thrust areas,Research priority,thrust_4,statement,Development of inbreds and hybrids for drought tolerance.,text,Development of inbreds and hybrids for drought tolerance.
+DOC04,6,Thrust areas,Research priority,thrust_5,statement,Development and evaluation of high-yielding early and medium-duration hybrids for rainfed southern Karnataka.,text,Development and evaluation of high-yielding early and medium-duration hybrids for rainfed southern Karnataka.
+DOC04,6,Thrust areas,Research priority,thrust_6,statement,"Development and evaluation of high-yielding sweet corn, popcorn, baby corn and QPM hybrids.",text,"Development and evaluation of high-yielding sweet corn, popcorn, baby corn and QPM hybrids."
+DOC04,6,Thrust areas,Research priority,thrust_7,statement,Development of value-added products of normal and specialty corns and commercialization.,text,Development of value-added products of normal and specialty corns and commercialization.
+DOC04,7,Weather,Monthly mean weather,JAN,max_temp,30.1,C,"Monthly weather parameter at ZARS V.C. Farm, Mandya for 2023."
+DOC04,7,Weather,Monthly mean weather,JAN,min_temp,14.7,C,"Monthly weather parameter at ZARS V.C. Farm, Mandya for 2023."
+DOC04,7,Weather,Monthly mean weather,JAN,RH_I,82,%,"Monthly weather parameter at ZARS V.C. Farm, Mandya for 2023."
+DOC04,7,Weather,Monthly mean weather,JAN,RH_II,62,%,"Monthly weather parameter at ZARS V.C. Farm, Mandya for 2023."
+DOC04,7,Weather,Monthly mean weather,JAN,wind_speed,2.2,Km,"Monthly weather parameter at ZARS V.C. Farm, Mandya for 2023."
+DOC04,7,Weather,Monthly mean weather,JAN,sunshine_hours,8.7,hrs,"Monthly weather parameter at ZARS V.C. Farm, Mandya for 2023."
+DOC04,7,Weather,Monthly mean weather,JAN,actual_rainfall,0,mm,"Monthly weather parameter at ZARS V.C. Farm, Mandya for 2023."
+DOC04,7,Weather,Monthly mean weather,JAN,normal_rainfall,1.7,mm,"Monthly weather parameter at ZARS V.C. Farm, Mandya for 2023."
+DOC04,7,Weather,Monthly mean weather,JAN,rainfall_deviation,-100,%,"Monthly weather parameter at ZARS V.C. Farm, Mandya for 2023."
+DOC04,7,Weather,Monthly mean weather,JAN,actual_rainy_days,0,days,"Monthly weather parameter at ZARS V.C. Farm, Mandya for 2023."
+DOC04,7,Weather,Monthly mean weather,JAN,normal_rainy_days,0,days,"Monthly weather parameter at ZARS V.C. Farm, Mandya for 2023."
+DOC04,7,Weather,Monthly mean weather,FEB,max_temp,32.3,C,"Monthly weather parameter at ZARS V.C. Farm, Mandya for 2023."
+DOC04,7,Weather,Monthly mean weather,FEB,min_temp,15.4,C,"Monthly weather parameter at ZARS V.C. Farm, Mandya for 2023."
+DOC04,7,Weather,Monthly mean weather,FEB,RH_I,81,%,"Monthly weather parameter at ZARS V.C. Farm, Mandya for 2023."
+DOC04,7,Weather,Monthly mean weather,FEB,RH_II,64,%,"Monthly weather parameter at ZARS V.C. Farm, Mandya for 2023."
+DOC04,7,Weather,Monthly mean weather,FEB,wind_speed,2.7,Km,"Monthly weather parameter at ZARS V.C. Farm, Mandya for 2023."
+DOC04,7,Weather,Monthly mean weather,FEB,sunshine_hours,7.8,hrs,"Monthly weather parameter at ZARS V.C. Farm, Mandya for 2023."
+DOC04,7,Weather,Monthly mean weather,FEB,actual_rainfall,0,mm,"Monthly weather parameter at ZARS V.C. Farm, Mandya for 2023."
+DOC04,7,Weather,Monthly mean weather,FEB,normal_rainfall,4.4,mm,"Monthly weather parameter at ZARS V.C. Farm, Mandya for 2023."
+DOC04,7,Weather,Monthly mean weather,FEB,rainfall_deviation,-100,%,"Monthly weather parameter at ZARS V.C. Farm, Mandya for 2023."
+DOC04,7,Weather,Monthly mean weather,FEB,actual_rainy_days,0,days,"Monthly weather parameter at ZARS V.C. Farm, Mandya for 2023."
+DOC04,7,Weather,Monthly mean weather,FEB,normal_rainy_days,0,days,"Monthly weather parameter at ZARS V.C. Farm, Mandya for 2023."
+DOC04,7,Weather,Monthly mean weather,MAR,max_temp,33.7,C,"Monthly weather parameter at ZARS V.C. Farm, Mandya for 2023."
+DOC04,7,Weather,Monthly mean weather,MAR,min_temp,18.2,C,"Monthly weather parameter at ZARS V.C. Farm, Mandya for 2023."
+DOC04,7,Weather,Monthly mean weather,MAR,RH_I,72,%,"Monthly weather parameter at ZARS V.C. Farm, Mandya for 2023."
+DOC04,7,Weather,Monthly mean weather,MAR,RH_II,57,%,"Monthly weather parameter at ZARS V.C. Farm, Mandya for 2023."
+DOC04,7,Weather,Monthly mean weather,MAR,wind_speed,2.7,Km,"Monthly weather parameter at ZARS V.C. Farm, Mandya for 2023."
+DOC04,7,Weather,Monthly mean weather,MAR,sunshine_hours,8.5,hrs,"Monthly weather parameter at ZARS V.C. Farm, Mandya for 2023."
+DOC04,7,Weather,Monthly mean weather,MAR,actual_rainfall,13.0,mm,"Monthly weather parameter at ZARS V.C. Farm, Mandya for 2023."
+DOC04,7,Weather,Monthly mean weather,MAR,normal_rainfall,13.4,mm,"Monthly weather parameter at ZARS V.C. Farm, Mandya for 2023."
+DOC04,7,Weather,Monthly mean weather,MAR,rainfall_deviation,-3.0,%,"Monthly weather parameter at ZARS V.C. Farm, Mandya for 2023."
+DOC04,7,Weather,Monthly mean weather,MAR,actual_rainy_days,1,days,"Monthly weather parameter at ZARS V.C. Farm, Mandya for 2023."
+DOC04,7,Weather,Monthly mean weather,MAR,normal_rainy_days,0,days,"Monthly weather parameter at ZARS V.C. Farm, Mandya for 2023."
+DOC04,7,Weather,Monthly mean weather,APR,max_temp,35.5,C,"Monthly weather parameter at ZARS V.C. Farm, Mandya for 2023."
+DOC04,7,Weather,Monthly mean weather,APR,min_temp,21.2,C,"Monthly weather parameter at ZARS V.C. Farm, Mandya for 2023."
+DOC04,7,Weather,Monthly mean weather,APR,RH_I,75,%,"Monthly weather parameter at ZARS V.C. Farm, Mandya for 2023."
+DOC04,7,Weather,Monthly mean weather,APR,RH_II,54,%,"Monthly weather parameter at ZARS V.C. Farm, Mandya for 2023."
+DOC04,7,Weather,Monthly mean weather,APR,wind_speed,1.8,Km,"Monthly weather parameter at ZARS V.C. Farm, Mandya for 2023."
+DOC04,7,Weather,Monthly mean weather,APR,sunshine_hours,9.1,hrs,"Monthly weather parameter at ZARS V.C. Farm, Mandya for 2023."
+DOC04,7,Weather,Monthly mean weather,APR,actual_rainfall,68.0,mm,"Monthly weather parameter at ZARS V.C. Farm, Mandya for 2023."
+DOC04,7,Weather,Monthly mean weather,APR,normal_rainfall,49.5,mm,"Monthly weather parameter at ZARS V.C. Farm, Mandya for 2023."
+DOC04,7,Weather,Monthly mean weather,APR,rainfall_deviation,37.4,%,"Monthly weather parameter at ZARS V.C. Farm, Mandya for 2023."
+DOC04,7,Weather,Monthly mean weather,APR,actual_rainy_days,4,days,"Monthly weather parameter at ZARS V.C. Farm, Mandya for 2023."
+DOC04,7,Weather,Monthly mean weather,APR,normal_rainy_days,2,days,"Monthly weather parameter at ZARS V.C. Farm, Mandya for 2023."
+DOC04,7,Weather,Monthly mean weather,MAY,max_temp,33.1,C,"Monthly weather parameter at ZARS V.C. Farm, Mandya for 2023."
+DOC04,7,Weather,Monthly mean weather,MAY,min_temp,22.2,C,"Monthly weather parameter at ZARS V.C. Farm, Mandya for 2023."
+DOC04,7,Weather,Monthly mean weather,MAY,RH_I,78,%,"Monthly weather parameter at ZARS V.C. Farm, Mandya for 2023."
+DOC04,7,Weather,Monthly mean weather,MAY,RH_II,56,%,"Monthly weather parameter at ZARS V.C. Farm, Mandya for 2023."
+DOC04,7,Weather,Monthly mean weather,MAY,wind_speed,2.4,Km,"Monthly weather parameter at ZARS V.C. Farm, Mandya for 2023."
+DOC04,7,Weather,Monthly mean weather,MAY,sunshine_hours,8.9,hrs,"Monthly weather parameter at ZARS V.C. Farm, Mandya for 2023."
+DOC04,7,Weather,Monthly mean weather,MAY,actual_rainfall,163.0,mm,"Monthly weather parameter at ZARS V.C. Farm, Mandya for 2023."
+DOC04,7,Weather,Monthly mean weather,MAY,normal_rainfall,96.5,mm,"Monthly weather parameter at ZARS V.C. Farm, Mandya for 2023."
+DOC04,7,Weather,Monthly mean weather,MAY,rainfall_deviation,76.0,%,"Monthly weather parameter at ZARS V.C. Farm, Mandya for 2023."
+DOC04,7,Weather,Monthly mean weather,MAY,actual_rainy_days,6,days,"Monthly weather parameter at ZARS V.C. Farm, Mandya for 2023."
+DOC04,7,Weather,Monthly mean weather,MAY,normal_rainy_days,7,days,"Monthly weather parameter at ZARS V.C. Farm, Mandya for 2023."
+DOC04,7,Weather,Monthly mean weather,JUN,max_temp,31.6,C,"Monthly weather parameter at ZARS V.C. Farm, Mandya for 2023."
+DOC04,7,Weather,Monthly mean weather,JUN,min_temp,21.9,C,"Monthly weather parameter at ZARS V.C. Farm, Mandya for 2023."
+DOC04,7,Weather,Monthly mean weather,JUN,RH_I,79,%,"Monthly weather parameter at ZARS V.C. Farm, Mandya for 2023."
+DOC04,7,Weather,Monthly mean weather,JUN,RH_II,57,%,"Monthly weather parameter at ZARS V.C. Farm, Mandya for 2023."
+DOC04,7,Weather,Monthly mean weather,JUN,wind_speed,4.7,Km,"Monthly weather parameter at ZARS V.C. Farm, Mandya for 2023."
+DOC04,7,Weather,Monthly mean weather,JUN,sunshine_hours,5.6,hrs,"Monthly weather parameter at ZARS V.C. Farm, Mandya for 2023."
+DOC04,7,Weather,Monthly mean weather,JUN,actual_rainfall,1.0,mm,"Monthly weather parameter at ZARS V.C. Farm, Mandya for 2023."
+DOC04,7,Weather,Monthly mean weather,JUN,normal_rainfall,63.0,mm,"Monthly weather parameter at ZARS V.C. Farm, Mandya for 2023."
+DOC04,7,Weather,Monthly mean weather,JUN,rainfall_deviation,-98.3,%,"Monthly weather parameter at ZARS V.C. Farm, Mandya for 2023."
+DOC04,7,Weather,Monthly mean weather,JUN,actual_rainy_days,0,days,"Monthly weather parameter at ZARS V.C. Farm, Mandya for 2023."
+DOC04,7,Weather,Monthly mean weather,JUN,normal_rainy_days,3,days,"Monthly weather parameter at ZARS V.C. Farm, Mandya for 2023."
+DOC04,7,Weather,Monthly mean weather,JUL,max_temp,28.6,C,"Monthly weather parameter at ZARS V.C. Farm, Mandya for 2023."
+DOC04,7,Weather,Monthly mean weather,JUL,min_temp,19.5,C,"Monthly weather parameter at ZARS V.C. Farm, Mandya for 2023."
+DOC04,7,Weather,Monthly mean weather,JUL,RH_I,84,%,"Monthly weather parameter at ZARS V.C. Farm, Mandya for 2023."
+DOC04,7,Weather,Monthly mean weather,JUL,RH_II,68,%,"Monthly weather parameter at ZARS V.C. Farm, Mandya for 2023."
+DOC04,7,Weather,Monthly mean weather,JUL,wind_speed,6.7,Km,"Monthly weather parameter at ZARS V.C. Farm, Mandya for 2023."
+DOC04,7,Weather,Monthly mean weather,JUL,sunshine_hours,0.0,hrs,"Monthly weather parameter at ZARS V.C. Farm, Mandya for 2023."
+DOC04,7,Weather,Monthly mean weather,JUL,actual_rainfall,40.0,mm,"Monthly weather parameter at ZARS V.C. Farm, Mandya for 2023."
+DOC04,7,Weather,Monthly mean weather,JUL,normal_rainfall,53.9,mm,"Monthly weather parameter at ZARS V.C. Farm, Mandya for 2023."
+DOC04,7,Weather,Monthly mean weather,JUL,rainfall_deviation,-22.9,%,"Monthly weather parameter at ZARS V.C. Farm, Mandya for 2023."
+DOC04,7,Weather,Monthly mean weather,JUL,actual_rainy_days,2,days,"Monthly weather parameter at ZARS V.C. Farm, Mandya for 2023."
+DOC04,7,Weather,Monthly mean weather,JUL,normal_rainy_days,2,days,"Monthly weather parameter at ZARS V.C. Farm, Mandya for 2023."
+DOC04,7,Weather,Monthly mean weather,AUG,max_temp,32.3,C,"Monthly weather parameter at ZARS V.C. Farm, Mandya for 2023."
+DOC04,7,Weather,Monthly mean weather,AUG,min_temp,19.4,C,"Monthly weather parameter at ZARS V.C. Farm, Mandya for 2023."
+DOC04,7,Weather,Monthly mean weather,AUG,RH_I,85,%,"Monthly weather parameter at ZARS V.C. Farm, Mandya for 2023."
+DOC04,7,Weather,Monthly mean weather,AUG,RH_II,59,%,"Monthly weather parameter at ZARS V.C. Farm, Mandya for 2023."
+DOC04,7,Weather,Monthly mean weather,AUG,wind_speed,4.7,Km,"Monthly weather parameter at ZARS V.C. Farm, Mandya for 2023."
+DOC04,7,Weather,Monthly mean weather,AUG,sunshine_hours,0.5,hrs,"Monthly weather parameter at ZARS V.C. Farm, Mandya for 2023."
+DOC04,7,Weather,Monthly mean weather,AUG,actual_rainfall,45.7,mm,"Monthly weather parameter at ZARS V.C. Farm, Mandya for 2023."
+DOC04,7,Weather,Monthly mean weather,AUG,normal_rainfall,83.7,mm,"Monthly weather parameter at ZARS V.C. Farm, Mandya for 2023."
+DOC04,7,Weather,Monthly mean weather,AUG,rainfall_deviation,-39.9,%,"Monthly weather parameter at ZARS V.C. Farm, Mandya for 2023."
+DOC04,7,Weather,Monthly mean weather,AUG,actual_rainy_days,2,days,"Monthly weather parameter at ZARS V.C. Farm, Mandya for 2023."
+DOC04,7,Weather,Monthly mean weather,AUG,normal_rainy_days,13,days,"Monthly weather parameter at ZARS V.C. Farm, Mandya for 2023."
+DOC04,7,Weather,Monthly mean weather,SEP,max_temp,28.2,C,"Monthly weather parameter at ZARS V.C. Farm, Mandya for 2023."
+DOC04,7,Weather,Monthly mean weather,SEP,min_temp,20.6,C,"Monthly weather parameter at ZARS V.C. Farm, Mandya for 2023."
+DOC04,7,Weather,Monthly mean weather,SEP,RH_I,85,%,"Monthly weather parameter at ZARS V.C. Farm, Mandya for 2023."
+DOC04,7,Weather,Monthly mean weather,SEP,RH_II,59,%,"Monthly weather parameter at ZARS V.C. Farm, Mandya for 2023."
+DOC04,7,Weather,Monthly mean weather,SEP,wind_speed,4.3,Km,"Monthly weather parameter at ZARS V.C. Farm, Mandya for 2023."
+DOC04,7,Weather,Monthly mean weather,SEP,sunshine_hours,6.7,hrs,"Monthly weather parameter at ZARS V.C. Farm, Mandya for 2023."
+DOC04,7,Weather,Monthly mean weather,SEP,actual_rainfall,65.6,mm,"Monthly weather parameter at ZARS V.C. Farm, Mandya for 2023."
+DOC04,7,Weather,Monthly mean weather,SEP,normal_rainfall,133.1,mm,"Monthly weather parameter at ZARS V.C. Farm, Mandya for 2023."
+DOC04,7,Weather,Monthly mean weather,SEP,rainfall_deviation,-50.9,%,"Monthly weather parameter at ZARS V.C. Farm, Mandya for 2023."
+DOC04,7,Weather,Monthly mean weather,SEP,actual_rainy_days,6,days,"Monthly weather parameter at ZARS V.C. Farm, Mandya for 2023."
+DOC04,7,Weather,Monthly mean weather,SEP,normal_rainy_days,6,days,"Monthly weather parameter at ZARS V.C. Farm, Mandya for 2023."
+DOC04,7,Weather,Monthly mean weather,OCT,max_temp,31.3,C,"Monthly weather parameter at ZARS V.C. Farm, Mandya for 2023."
+DOC04,7,Weather,Monthly mean weather,OCT,min_temp,19.4,C,"Monthly weather parameter at ZARS V.C. Farm, Mandya for 2023."
+DOC04,7,Weather,Monthly mean weather,OCT,RH_I,86,%,"Monthly weather parameter at ZARS V.C. Farm, Mandya for 2023."
+DOC04,7,Weather,Monthly mean weather,OCT,RH_II,60,%,"Monthly weather parameter at ZARS V.C. Farm, Mandya for 2023."
+DOC04,7,Weather,Monthly mean weather,OCT,wind_speed,1.9,Km,"Monthly weather parameter at ZARS V.C. Farm, Mandya for 2023."
+DOC04,7,Weather,Monthly mean weather,OCT,sunshine_hours,7.1,hrs,"Monthly weather parameter at ZARS V.C. Farm, Mandya for 2023."
+DOC04,7,Weather,Monthly mean weather,OCT,actual_rainfall,89.5,mm,"Monthly weather parameter at ZARS V.C. Farm, Mandya for 2023."
+DOC04,7,Weather,Monthly mean weather,OCT,normal_rainfall,145.8,mm,"Monthly weather parameter at ZARS V.C. Farm, Mandya for 2023."
+DOC04,7,Weather,Monthly mean weather,OCT,rainfall_deviation,-36.6,%,"Monthly weather parameter at ZARS V.C. Farm, Mandya for 2023."
+DOC04,7,Weather,Monthly mean weather,OCT,actual_rainy_days,4,days,"Monthly weather parameter at ZARS V.C. Farm, Mandya for 2023."
+DOC04,7,Weather,Monthly mean weather,OCT,normal_rainy_days,15,days,"Monthly weather parameter at ZARS V.C. Farm, Mandya for 2023."
+DOC04,7,Weather,Monthly mean weather,NOV,max_temp,29.7,C,"Monthly weather parameter at ZARS V.C. Farm, Mandya for 2023."
+DOC04,7,Weather,Monthly mean weather,NOV,min_temp,19.4,C,"Monthly weather parameter at ZARS V.C. Farm, Mandya for 2023."
+DOC04,7,Weather,Monthly mean weather,NOV,RH_I,83,%,"Monthly weather parameter at ZARS V.C. Farm, Mandya for 2023."
+DOC04,7,Weather,Monthly mean weather,NOV,RH_II,59,%,"Monthly weather parameter at ZARS V.C. Farm, Mandya for 2023."
+DOC04,7,Weather,Monthly mean weather,NOV,wind_speed,2.0,Km,"Monthly weather parameter at ZARS V.C. Farm, Mandya for 2023."
+DOC04,7,Weather,Monthly mean weather,NOV,sunshine_hours,6.4,hrs,"Monthly weather parameter at ZARS V.C. Farm, Mandya for 2023."
+DOC04,7,Weather,Monthly mean weather,NOV,actual_rainfall,56.6,mm,"Monthly weather parameter at ZARS V.C. Farm, Mandya for 2023."
+DOC04,7,Weather,Monthly mean weather,NOV,normal_rainfall,52.6,mm,"Monthly weather parameter at ZARS V.C. Farm, Mandya for 2023."
+DOC04,7,Weather,Monthly mean weather,NOV,rainfall_deviation,6.4,%,"Monthly weather parameter at ZARS V.C. Farm, Mandya for 2023."
+DOC04,7,Weather,Monthly mean weather,NOV,actual_rainy_days,5,days,"Monthly weather parameter at ZARS V.C. Farm, Mandya for 2023."
+DOC04,7,Weather,Monthly mean weather,NOV,normal_rainy_days,1,days,"Monthly weather parameter at ZARS V.C. Farm, Mandya for 2023."
+DOC04,7,Weather,Monthly mean weather,DEC,max_temp,29.8,C,"Monthly weather parameter at ZARS V.C. Farm, Mandya for 2023."
+DOC04,7,Weather,Monthly mean weather,DEC,min_temp,18.0,C,"Monthly weather parameter at ZARS V.C. Farm, Mandya for 2023."
+DOC04,7,Weather,Monthly mean weather,DEC,RH_I,82,%,"Monthly weather parameter at ZARS V.C. Farm, Mandya for 2023."
+DOC04,7,Weather,Monthly mean weather,DEC,RH_II,58,%,"Monthly weather parameter at ZARS V.C. Farm, Mandya for 2023."
+DOC04,7,Weather,Monthly mean weather,DEC,wind_speed,2.1,Km,"Monthly weather parameter at ZARS V.C. Farm, Mandya for 2023."
+DOC04,7,Weather,Monthly mean weather,DEC,sunshine_hours,6.5,hrs,"Monthly weather parameter at ZARS V.C. Farm, Mandya for 2023."
+DOC04,7,Weather,Monthly mean weather,DEC,actual_rainfall,0,mm,"Monthly weather parameter at ZARS V.C. Farm, Mandya for 2023."
+DOC04,7,Weather,Monthly mean weather,DEC,normal_rainfall,14.6,mm,"Monthly weather parameter at ZARS V.C. Farm, Mandya for 2023."
+DOC04,7,Weather,Monthly mean weather,DEC,rainfall_deviation,-100,%,"Monthly weather parameter at ZARS V.C. Farm, Mandya for 2023."
+DOC04,7,Weather,Monthly mean weather,DEC,actual_rainy_days,0,days,"Monthly weather parameter at ZARS V.C. Farm, Mandya for 2023."
+DOC04,7,Weather,Monthly mean weather,DEC,normal_rainy_days,0,days,"Monthly weather parameter at ZARS V.C. Farm, Mandya for 2023."
+DOC04,7,Weather,Annual total,2023,actual_rainfall,524.4,mm,Annual actual rainfall reported in table.
+DOC04,7,Weather,Annual total,2023,normal_rainfall,712.2,mm,Annual normal rainfall reported in table.
+DOC04,7,Weather,Annual total,2023,rainfall_deficit,-26.4,%,Annual deviation reported in table.
+DOC04,7,Weather,Annual total,2023,actual_rainy_days,33,days,Annual actual rainy days reported in table.
+DOC04,7,Weather,Annual total,2023,normal_rainy_days,49,days,Annual normal rainy days reported in table.
+DOC04,8,Maize crop season wise scenario,District drought,Kharif 2023|Haveri,normal_kharif_area,223065,ha,District-wise normal kharif area.
+DOC04,8,Maize crop season wise scenario,District drought,Kharif 2023|Haveri,major_maize_area_affected,212181,ha,Major maize area affected by drought.
+DOC04,8,Maize crop season wise scenario,District drought,Kharif 2023|Vijayanagara,normal_kharif_area,180000,ha,District-wise normal kharif area.
+DOC04,8,Maize crop season wise scenario,District drought,Kharif 2023|Vijayanagara,major_maize_area_affected,200295,ha,Major maize area affected by drought.
+DOC04,8,Maize crop season wise scenario,District drought,Kharif 2023|Koppal,normal_kharif_area,93373,ha,District-wise normal kharif area.
+DOC04,8,Maize crop season wise scenario,District drought,Kharif 2023|Koppal,major_maize_area_affected,128675,ha,Major maize area affected by drought.
+DOC04,8,Maize crop season wise scenario,District drought,Kharif 2023|Gadag,normal_kharif_area,90341,ha,District-wise normal kharif area.
+DOC04,8,Maize crop season wise scenario,District drought,Kharif 2023|Gadag,major_maize_area_affected,124055,ha,Major maize area affected by drought.
+DOC04,8,Maize crop season wise scenario,District drought,Kharif 2023|Davanagere,normal_kharif_area,139302,ha,District-wise normal kharif area.
+DOC04,8,Maize crop season wise scenario,District drought,Kharif 2023|Davanagere,major_maize_area_affected,120034,ha,Major maize area affected by drought.
+DOC04,8,Maize crop season wise scenario,District drought,Kharif 2023|Vijayapura,normal_kharif_area,79089,ha,District-wise normal kharif area.
+DOC04,8,Maize crop season wise scenario,District drought,Kharif 2023|Vijayapura,major_maize_area_affected,81761,ha,Major maize area affected by drought.
+DOC04,8,Maize crop season wise scenario,District drought,Kharif 2023|Hassan,normal_kharif_area,122460,ha,District-wise normal kharif area.
+DOC04,8,Maize crop season wise scenario,District drought,Kharif 2023|Hassan,major_maize_area_affected,76434,ha,Major maize area affected by drought.
+DOC04,8,Maize crop season wise scenario,District drought,Kharif 2023|Chitradurga,normal_kharif_area,114616,ha,District-wise normal kharif area.
+DOC04,8,Maize crop season wise scenario,District drought,Kharif 2023|Chitradurga,major_maize_area_affected,68286,ha,Major maize area affected by drought.
+DOC04,8,Maize crop season wise scenario,District drought,Kharif 2023|Dharwad,normal_kharif_area,64099,ha,District-wise normal kharif area.
+DOC04,8,Maize crop season wise scenario,District drought,Kharif 2023|Dharwad,major_maize_area_affected,65940,ha,Major maize area affected by drought.
+DOC04,8,Maize crop season wise scenario,District drought,Kharif 2023|Belagavi,normal_kharif_area,226126,ha,District-wise normal kharif area.
+DOC04,8,Maize crop season wise scenario,District drought,Kharif 2023|Belagavi,major_maize_area_affected,61663,ha,Major maize area affected by drought.
+DOC04,8,Maize crop season wise scenario,District drought,Kharif 2023|Shivamogga,normal_kharif_area,65541,ha,District-wise normal kharif area.
+DOC04,8,Maize crop season wise scenario,District drought,Kharif 2023|Shivamogga,major_maize_area_affected,38241,ha,Major maize area affected by drought.
+DOC04,8,Maize crop season wise scenario,District drought,Kharif 2023|Bagalkote,normal_kharif_area,79297,ha,District-wise normal kharif area.
+DOC04,8,Maize crop season wise scenario,District drought,Kharif 2023|Bagalkote,major_maize_area_affected,36820,ha,Major maize area affected by drought.
+DOC04,8,Maize crop season wise scenario,District drought,Kharif 2023|Chikkaballapur,normal_kharif_area,55154,ha,District-wise normal kharif area.
+DOC04,8,Maize crop season wise scenario,District drought,Kharif 2023|Chikkaballapur,major_maize_area_affected,33005,ha,Major maize area affected by drought.
+DOC04,8,Maize crop season wise scenario,District drought,Kharif 2023|Mysuru,normal_kharif_area,49602,ha,District-wise normal kharif area.
+DOC04,8,Maize crop season wise scenario,District drought,Kharif 2023|Mysuru,major_maize_area_affected,32261,ha,Major maize area affected by drought.
+DOC04,8,Maize crop season wise scenario,District drought,Kharif 2023|Tumakuru,normal_kharif_area,33534,ha,District-wise normal kharif area.
+DOC04,8,Maize crop season wise scenario,District drought,Kharif 2023|Tumakuru,major_maize_area_affected,18920,ha,Major maize area affected by drought.
+DOC04,8,Maize crop season wise scenario,District drought,Kharif 2023|Ballari,normal_kharif_area,18606,ha,District-wise normal kharif area.
+DOC04,8,Maize crop season wise scenario,District drought,Kharif 2023|Ballari,major_maize_area_affected,17390,ha,Major maize area affected by drought.
+DOC04,8,Maize crop season wise scenario,District drought,Kharif 2023|Chamarajanagara,normal_kharif_area,38045,ha,District-wise normal kharif area.
+DOC04,8,Maize crop season wise scenario,District drought,Kharif 2023|Chamarajanagara,major_maize_area_affected,12489,ha,Major maize area affected by drought.
+DOC04,8,Maize crop season wise scenario,District drought,Kharif 2023|Uttarkannada,normal_kharif_area,10312,ha,District-wise normal kharif area.
+DOC04,8,Maize crop season wise scenario,District drought,Kharif 2023|Uttarkannada,major_maize_area_affected,7801,ha,Major maize area affected by drought.
+DOC04,8,Maize crop season wise scenario,District drought,Kharif 2023|Chikkamagaluru,normal_kharif_area,21262,ha,District-wise normal kharif area.
+DOC04,8,Maize crop season wise scenario,District drought,Kharif 2023|Chikkamagaluru,major_maize_area_affected,6476,ha,Major maize area affected by drought.
+DOC04,8,Maize crop season wise scenario,District drought,Kharif 2023|Bengaluru Rural,normal_kharif_area,8804,ha,District-wise normal kharif area.
+DOC04,8,Maize crop season wise scenario,District drought,Kharif 2023|Bengaluru Rural,major_maize_area_affected,3478,ha,Major maize area affected by drought.
+DOC04,8,Maize crop season wise scenario,District drought,Kharif 2023|Kodagu,normal_kharif_area,408,ha,District-wise normal kharif area.
+DOC04,8,Maize crop season wise scenario,District drought,Kharif 2023|Kodagu,major_maize_area_affected,2170,ha,Major maize area affected by drought.
+DOC04,8,Maize crop season wise scenario,District drought,Kharif 2023|Mandya,normal_kharif_area,6233,ha,District-wise normal kharif area.
+DOC04,8,Maize crop season wise scenario,District drought,Kharif 2023|Mandya,major_maize_area_affected,1245,ha,Major maize area affected by drought.
+DOC04,8,Maize crop season wise scenario,Drought,South Interior Karnataka,kharif_deficit_rainfall,27,%,Reported deficit during Kharif 2023.
+DOC04,8,Maize crop season wise scenario,Drought,South Interior Karnataka,rabi_deficit_rainfall,31,%,Reported deficit during Rabi 2023.
+DOC04,8,Maize crop season wise scenario,Drought,South Interior Karnataka,summer_deficit_rainfall,80,%,Reported deficit during summer 2024.
+DOC04,8,Maize crop season wise scenario,Drought,Karnataka state,kharif_affected_maize_area,72.8,%,Percent area affected by drought stated at bottom of page 9.
+DOC04,9,Staff position,Teaching,Maize Pathologist,posts_sanctioned,2,posts,Staff position table.
+DOC04,9,Staff position,Teaching,Maize Pathologist,posts_filled,2,posts,Staff position table.
+DOC04,9,Staff position,Teaching,Assistant Maize Breeder,posts_sanctioned,1,posts,Staff position table.
+DOC04,9,Staff position,Teaching,Assistant Maize Breeder,posts_filled,1,posts,Staff position table.
+DOC04,9,Staff position,Teaching,Assistant Nutritionist,posts_sanctioned,1,posts,Staff position table.
+DOC04,9,Staff position,Teaching,Assistant Nutritionist,posts_filled,1,posts,Staff position table.
+DOC04,9,Staff position,Non-Teaching,Senior Technical Officer,posts_sanctioned,3,posts,Staff position table.
+DOC04,9,Staff position,Non-Teaching,Senior Technical Officer,posts_filled,3,posts,Staff position table.
+DOC04,9,Staff position,Non-Teaching,Field man,posts_sanctioned,2,posts,Staff position table.
+DOC04,9,Staff position,Non-Teaching,Field man,posts_filled,2,posts,Staff position table.
+DOC04,9,Staff position,Non-Teaching,Lab assistant,posts_sanctioned,2,posts,Staff position table.
+DOC04,9,Staff position,Non-Teaching,Lab assistant,posts_filled,1,posts,Staff position table.
+DOC04,9,Staff position,Non-Teaching,Bullock man,posts_sanctioned,1,posts,Staff position table.
+DOC04,9,Staff position,Non-Teaching,Bullock man,posts_filled,0,posts,Staff position table.
+DOC04,9,Budget utilization,Regular Budget,ICAR Share 75%,sanctioned,11831375,Rs,Budget table.
+DOC04,9,Budget utilization,Regular Budget,ICAR Share 75%,released,8047375,Rs,Budget table.
+DOC04,9,Budget utilization,Regular Budget,ICAR Share 75%,utilized_percent,100,%,Budget table.
+DOC04,9,Budget utilization,Regular Budget,State Share 25%,sanctioned,3943792,Rs,Budget table.
+DOC04,9,Budget utilization,Regular Budget,State Share 25%,released,2682458,Rs,Budget table.
+DOC04,9,Budget utilization,Regular Budget,State Share 25%,utilized_percent,100,%,Budget table.
+DOC04,9,Budget utilization,Regular Budget,Total,sanctioned,15775167,Rs,Budget table.
+DOC04,9,Budget utilization,Regular Budget,Total,released,10729833,Rs,Budget table.
+DOC04,9,Budget utilization,Regular Budget,Total,utilized_percent,,%,Budget table.
+DOC04,9,Budget utilization,IIMR testing fee,Kharif 2023,sanctioned,150000,Rs,Budget table.
+DOC04,9,Budget utilization,IIMR testing fee,Kharif 2023,released,150000,Rs,Budget table.
+DOC04,9,Budget utilization,IIMR testing fee,Kharif 2023,utilized_percent,100,%,Budget table.
+DOC04,9,Budget utilization,IIMR testing fee,Rabi 2023-24,sanctioned,90000,Rs,Budget table.
+DOC04,9,Budget utilization,IIMR testing fee,Rabi 2023-24,released,90000,Rs,Budget table.
+DOC04,9,Budget utilization,IIMR testing fee,Rabi 2023-24,utilized_percent,100,%,Budget table.
+DOC04,9,Budget utilization,IIMR testing fee,Total,sanctioned,240000,Rs,Budget table.
+DOC04,9,Budget utilization,IIMR testing fee,Total,released,240000,Rs,Budget table.
+DOC04,9,Budget utilization,IIMR testing fee,Total,utilized_percent,100,%,Budget table.
+DOC04,9,Budget utilization,IIMR-FLD,Kharif-2023,sanctioned,480000,Rs,Budget table.
+DOC04,9,Budget utilization,IIMR-FLD,Kharif-2023,released,480000,Rs,Budget table.
+DOC04,9,Budget utilization,IIMR-FLD,Kharif-2023,utilized_percent,99.0,%,Budget table.
+DOC04,9,Budget utilization,IIMR-SCSP,Rabi 2023-24,sanctioned,400000,Rs,Budget table.
+DOC04,9,Budget utilization,IIMR-SCSP,Rabi 2023-24,released,400000,Rs,Budget table.
+DOC04,9,Budget utilization,IIMR-SCSP,Rabi 2023-24,utilized_percent,56.9,%,Budget table.
+DOC04,9,Budget utilization,IIMR-FLD,Kharif-2023,area_conducted,50,hectare,Area conducted in 125 farmers field.
+DOC04,9,Budget utilization,IIMR-FLD,Kharif-2023,farmer_fields,125,fields,Area conducted in 125 farmers field.
+DOC04,9,Budget utilization,IIMR-SCSP,Rabi 2023-24,area_conducted,20,hectare,Area conducted in 50 farmers field.
+DOC04,9,Budget utilization,IIMR-SCSP,Rabi 2023-24,farmer_fields,50,fields,Area conducted in 50 farmers field.

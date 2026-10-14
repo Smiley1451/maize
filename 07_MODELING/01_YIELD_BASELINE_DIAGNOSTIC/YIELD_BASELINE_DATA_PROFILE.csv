@@ -1,0 +1,11 @@
+metric,value
+train_rows,116
+validation_rows,26
+test_rows,49
+train_genotype_groups,100
+validation_genotype_groups,22
+test_genotype_groups,22
+total_rows,191
+unique_genotype_groups,144
+review_rows_total,162
+pass_rows_total,29

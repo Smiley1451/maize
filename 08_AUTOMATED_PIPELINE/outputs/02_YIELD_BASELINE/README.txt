@@ -1,0 +1,1 @@
+Reproducible baseline yield regression. Target is rebuilt from source observations and standardized to kg/ha: yield_t_per_ha x 1000; kg/ha variables retained. Statistical rows are excluded. Model selection is diagnostic until later grouped cross-validation/tuning.

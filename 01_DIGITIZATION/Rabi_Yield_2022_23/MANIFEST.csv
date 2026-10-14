@@ -1,0 +1,25 @@
+﻿file,purpose,rows
+MANIFEST.csv,Supporting digitization file.,21
+experiment_01_results.csv,"Per-experiment structured result table(s), including summaries.",39
+experiment_02_results.csv,"Per-experiment structured result table(s), including summaries.",30
+experiment_03_results.csv,"Per-experiment structured result table(s), including summaries.",12
+experiment_04_results.csv,"Per-experiment structured result table(s), including summaries.",10
+experiment_05_results.csv,"Per-experiment structured result table(s), including summaries.",12
+experiment_06_results.csv,"Per-experiment structured result table(s), including summaries.",10
+experiment_07_results.csv,"Per-experiment structured result table(s), including summaries.",11
+experiment_08_results.csv,"Per-experiment structured result table(s), including summaries.",15
+experiment_09_results.csv,"Per-experiment structured result table(s), including summaries.",19
+experiment_10_results.csv,"Per-experiment structured result table(s), including summaries.",16
+experiment_11_results.csv,"Per-experiment structured result table(s), including summaries.",7
+experiment_12_results.csv,"Per-experiment structured result table(s), including summaries.",6
+experiment_13_results.csv,"Per-experiment structured result table(s), including summaries.",21
+experiment_14_results.csv,"Per-experiment structured result table(s), including summaries.",16
+maize_rabi_2022_23_all_tables_long.csv,Long-format metric-level representation of tabular values.,1881
+maize_rabi_2022_23_all_tables_wide.csv,"Combined structured row-level tables, including summaries.",224
+maize_rabi_2022_23_genotype_level_model_ready.csv,Model-ready genotype/check/filler rows only; all available numeric traits and source traceability.,182
+maize_rabi_2022_23_narrative_info.csv,"Important non-tabular information: objectives, inference, scientists, notes.",59
+maize_rabi_2022_23_source_text_by_page.csv,Complete extracted text per PDF page for preservation/recovery.,1476
+maize_rabi_2022_23_source_text_lines.csv,Every non-empty extracted text line.,1330
+maize_rabi_2022_23_summary_statistics.csv,"General mean, CD, CV and location mean summary rows from result tables.",42
+maize_rabi_2022_23_validation.csv,Declared vs observed row counts and known source inconsistencies.,14
+maize_rabi_experiment_metadata.csv,"Experiment metadata, objectives, narrative, scientists, dates, design and source discrepancies.",14

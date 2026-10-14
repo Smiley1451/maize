@@ -1,0 +1,29 @@
+{
+  "seed": 42,
+  "weather": {
+    "default_candidate_files": [
+      "10_12_NEXT_PHASES/outputs/PHASE_11_PRODUCTION_DATASETS/WEATHER_DISEASE_LINKED.csv",
+      "08_AUTOMATED_PIPELINE/outputs/05_WEATHER_RISK/WEATHER_MONTHLY_2023_FEATURES.csv",
+      "08_AUTOMATED_PIPELINE/outputs/05_WEATHER_RISK/WEATHER_2023_SUMMARY_FEATURES.csv",
+      "02_MASTER_DATA/07_weather_monthly_2023.csv",
+      "maize_master_data/07_weather_monthly_2023.csv"
+    ],
+    "min_rows": 12,
+    "min_unique_dates": 8
+  },
+  "explainability": {
+    "cv_splits_max": 5,
+    "permutation_repeats": 10
+  },
+  "prediction": {
+    "feature_aliases": {
+      "pollen_shedding_days": "days_to_50_percent_pollen_shedding",
+      "silking_days": "days_to_50_percent_silking",
+      "dry_husk_days": "days_to_75_percent_dry_husk",
+      "plant_height_cm": "plant_height",
+      "ear_height_cm": "ear_height",
+      "shelling_pct": "shelling_percentage",
+      "plant_stand_000_per_ha": "plant_stand"
+    }
+  }
+}

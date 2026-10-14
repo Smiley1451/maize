@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="SDM_maize_all_digitized_CSVs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/01_DIGITIZATION/SDM_Rabi_2022_23/SDM_maize_all_digitized_CSVs.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

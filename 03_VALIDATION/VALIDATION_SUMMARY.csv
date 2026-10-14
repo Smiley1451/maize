@@ -1,0 +1,20 @@
+metric,value,meaning
+raw_master_rows,3932,Rows preserved in current master
+raw_master_columns,21,Columns in current master
+documents,4,Source documents
+domains,9,Distinct data domains
+exact_duplicate_groups,52,Exact duplicate groups
+exact_duplicate_extra_rows,53,Rows to remove from clean candidate only
+semantic_collision_groups,156,Repeated entity/experiment/variable keys with differing values
+missing_value_rows,4,Blank source-derived values
+yield_summary_rows,278,General mean/CD/CV/Location Mean
+candidate_for_ml_rows,2666,Rows not blocked by current validation; still not final training data
+review_before_ml_rows,295,Rows needing human/source validation
+flag_EXACT_DUPLICATE_GROUP,105,Validation flag count
+flag_EXACT_DUPLICATE_REMOVE_FROM_CLEAN,53,Validation flag count
+flag_GF_GERMINATION_FAILURE,7,Validation flag count
+flag_MISSING_VALUE,4,Validation flag count
+flag_NG_NOT_GERMINATED,3,Validation flag count
+flag_REPEATED_ENTITY_CONFLICT_REVIEW,316,Validation flag count
+flag_SUMMARY_OR_STATISTIC_ROW,278,Validation flag count
+flag_YIELD_TRAIT_PLAUSIBILITY_REVIEW,1,Validation flag count

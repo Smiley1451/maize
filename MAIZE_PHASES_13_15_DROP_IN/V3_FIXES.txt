@@ -1,0 +1,7 @@
+V3 fixes for Windows PowerShell and arbitrary drop-in folder names.
+- Dynamic BASE path in common_13_15.py and verify_phase13_15.py.
+- Robust stage metadata objects; names render correctly.
+- Start-Process captures stdout/stderr separately; Python warnings do not become PowerShell NativeCommandError.
+- retry accepted as alias for redo.
+- all stops at the first real non-zero phase exit.
+- Phase15 config path now resolves inside the actual drop-in folder.

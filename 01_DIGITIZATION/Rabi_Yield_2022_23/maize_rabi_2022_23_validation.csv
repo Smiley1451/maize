@@ -1,0 +1,15 @@
+﻿experiment_no,title,declared_entries_source,rows_in_results_table,summary_rows,source_page,data_quality_flag,narrative_note
+1,Performance of NIVT-Medium maturity maize genotypes for yield,33+2checks+1 Filler =36,36,3,1,,GF: Germination failure.
+2,Performance of NIVT-Late duration genotypes for yield,24+3 checks =27,27,3,2,,GF: Germination failure.
+3,Performance of AVT-I Late maturity maize genotypes for yield,6+3 checks=09,9,3,3,,
+4,Performance of AVT-II late maturity maize genotypes for yield,4+3 checks=07,7,3,4,,
+5,Performance of AVT-I-Medium maize genotypes for yield,7+2 checks=9,9,3,4,,GF: Germination failure.
+6,Performance of AVT-II-Medium maize genotypes for yield,5+2 checks=10,7,3,5,,
+7,Performance of Sweet corn maize (I-II-III) genotypes for yield,5+3 checks=08,8,3,6,,
+8,Performance of QPM I-II-III Maize genotypes for yield,7+5checks=12,12,3,6,,Note: Germination failure.
+9,Evaluation Popcorn maize hybrids for grain yield,13+3C=16,16,3,7,,GF: Germination failure.
+10,Performance of Baby corn genotypes for baby corn yield,7+3 check =10,10,6,8,,GF (Germination failure)
+11,Evaluation private company maize hybrids for grain yield,13+2 checks=15,4,3,9,,
+12,Evaluation private company maize hybrids for grain yield,4+2 checks=06,3,3,10,,
+13,Evaluation of station new maize hybrids for grain yield,94+4 check=98,21,0,10,"Declared 98 entries/checks, but only 21 result rows are shown in the PDF; preserve as source discrepancy.","Source narrative reports 103 new hybrids and says 'six hybrids' but lists five named hybrids; narrative yield values for checks appear as 95900 and 60100 kg/ha, while the tabulated values are 9590 and 6010 kg/ha. Preserved as source discrepancy."
+14,Evaluation of station MLT maize hybrids for grain yield,4+2 check=6,13,3,12,"Declared 6 entries/checks, but 13 result rows are shown in the PDF; preserve as source discrepancy.","Source metadata declares 4+2 check=6, but the results table shows 13 rows including 11 station hybrids and 2 checks."

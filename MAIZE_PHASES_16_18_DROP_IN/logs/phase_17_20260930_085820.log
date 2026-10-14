@@ -1,0 +1,16 @@
+﻿[2026-09-30 08:58:23] ==============================================================
+[2026-09-30 08:58:23] PHASE 17: MODEL EXPLAINABILITY + ERROR ANALYSIS
+[2026-09-30 08:58:23] ==============================================================
+[2026-09-30 08:58:23] ANALYZING yield regression model explainability...
+[2026-09-30 08:59:18] yield regression explainability status: DONE
+[2026-09-30 08:59:18] ANALYZING TLB regression model explainability...
+[2026-09-30 08:59:20] TLB regression explainability status: DONE
+[2026-09-30 08:59:20] ANALYZING SDM regression model explainability...
+[2026-09-30 09:00:10] SDM regression explainability status: DONE
+[2026-09-30 09:00:10] ANALYZING TLB classification model explainability...
+[2026-09-30 09:01:00] TLB classification explainability status: DONE
+[2026-09-30 09:01:00] ANALYZING SDM classification model explainability...
+[2026-09-30 09:01:25] SDM classification explainability status: DONE
+[2026-09-30 09:01:25] PHASE 17 DONE: explainability and error-analysis artifacts created.
+
+

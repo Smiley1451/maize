@@ -1,0 +1,5 @@
+Production eligibility uses Phase 10 domain-level identity.
+A genotype is eligible when globally CONFIRMED or DOMAIN_SAFE inside that modeling domain, unless explicitly EXCLUDED.
+Exploratory files retain pending identities.
+Yield is converted to kg/ha only when the recorded unit is t/ha or kg/ha. Unknown units are left unavailable.
+TLB/SDM rows require full feature linkage and a numeric target; SDM NG rows are excluded from classification-ready production data.

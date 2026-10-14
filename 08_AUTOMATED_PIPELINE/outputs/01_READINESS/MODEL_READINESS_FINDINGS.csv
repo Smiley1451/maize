@@ -1,0 +1,7 @@
+finding,value,status
+Raw master rows,3932,INFO
+Yield target rows before summary filtering,191,INFO
+Yield target rows excluded as statistical summary,33,INFO
+Weather months available,12,INFO
+Disease datasets require phenotype linkage review,YES,CAUTION
+Weather experiment-day disease target linkage,NOT ESTABLISHED,BLOCKER_FOR_WEATHER_MODEL

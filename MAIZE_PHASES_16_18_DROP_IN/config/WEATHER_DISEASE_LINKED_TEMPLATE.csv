@@ -1,0 +1,1 @@
+date,location,disease,disease_score,risk_label,temperature_mean_c,temperature_min_c,temperature_max_c,relative_humidity_pct,rainfall_mm,wind_speed_m_s,solar_radiation_mj_m2

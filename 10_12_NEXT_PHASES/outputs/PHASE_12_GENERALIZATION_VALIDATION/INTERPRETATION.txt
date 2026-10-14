@@ -1,0 +1,1 @@
+Generalization evidence is dataset-dependent. Grouped genotype CV protects against genotype leakage. Leave-one-experiment-out tests experiment transfer. Location/season holdouts are reported as unavailable when the dataset contains only one location or season. These results do not establish field performance without independent future data.

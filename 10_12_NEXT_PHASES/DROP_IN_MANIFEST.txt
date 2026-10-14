@@ -1,0 +1,15 @@
+PHASE 10-12 DROP-IN MODULE
+
+Destination: project root of MAIZE_AI_ML_DIGITALIZATION_PROJECT
+Folder to copy: 10_12_NEXT_PHASES
+
+Main runner:
+.\10_12_NEXT_PHASES\RUN_PHASES_10_12.ps1
+
+Phases:
+10 = Genotype identity review
+11 = Production dataset construction
+12 = Generalization validation
+
+Fresh run: the package deliberately does NOT include phase_state.json.
+The first run therefore starts at Phase 10 and creates its own checkpoint.

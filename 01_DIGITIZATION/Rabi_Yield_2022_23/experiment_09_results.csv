@@ -1,0 +1,20 @@
+﻿sl_no,genotype,row_type,entry_role,status_note,days_50_pollen_shedding,days_50_silking,days_75_dry_husk,plant_height_cm,ear_height_cm,plant_stand_per_ha,popping_pct,shelling_pct,yield_kg_per_ha
+1,APCH 4,entry,test,,67,68,110,213,119,66667,93.8,76.7,4628
+2,CHCP 2204,entry,test,,64,65,107,212,116,63542,50.9,78.2,6857
+3,CHCP 2205,entry,test,,63,65,107,210,113,67361,22.8,75.2,6687
+4,CHCP 2206,entry,test,,65,67,108,217,122,65972,43.2,74.9,7183
+5,CHCP 2207,entry,test,GF,,,,,,,,,
+6,HPC 4,entry,test,,62,64,109,198,105,44792,92.4,80.7,4226
+7,HPC 5,entry,test,GF,,,,,,,,,
+8,IMHP 2101,entry,test,,64,65,108,200,102,69097,66.4,83.2,9415
+9,IPH 2-22R-1,entry,test,,61,63,107,208,113,74653,73.0,80.5,9196
+10,MPC 2141,entry,test,,65,67,109,190,101,57639,58.9,82.2,4539
+11,MPCH 22-22,entry,test,,67,69,110,195,109,47222,90.2,84.8,5054
+12,PP 09,entry,test,,62,63,105,178,98,70833,98.4,81.4,6670
+13,PP II,entry,test,,60,62,105,188,95,69792,97.9,80.9,6989
+14,BPCH 6 (Check),check,check,,63,65,108,207,115,67708,66.0,80.1,5992
+15,DMRHP 1402 (Check),check,check,,62,63,109,183,103,71528,72.9,84.9,6760
+16,LPCH 3 (Check),check,check,,63,65,108,195,101,78472,46.8,83.2,9243
+,Location Mean,summary,,location_mean,63,65,108,200,108,65377,69.5,80,6674
+,CD @ (5%),summary,,cd_5pct,,,,,,,,,1575.025
+,CV (%),summary,,cv_pct,,,,,,,,,13.983

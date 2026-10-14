@@ -1,0 +1,7 @@
+metric,value
+raw_yield_rows,213.0
+eligible_genotype_target_rows_after_summary_removal,158.0
+summary_rows_removed,33.0
+corrected_target_min_kg_ha,3330.0
+corrected_target_median_kg_ha,9741.5
+corrected_target_max_kg_ha,19710.0

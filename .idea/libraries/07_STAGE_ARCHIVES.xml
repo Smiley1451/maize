@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="07_STAGE_ARCHIVES">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/07_STAGE_ARCHIVES/maize_analysis_master_outputs.zip!/" />
+      <root url="jar://$PROJECT_DIR$/07_STAGE_ARCHIVES/maize_ml_datasets.zip!/" />
+      <root url="jar://$PROJECT_DIR$/07_STAGE_ARCHIVES/maize_rabi_yield_digitized_all_csvs.zip!/" />
+      <root url="jar://$PROJECT_DIR$/07_STAGE_ARCHIVES/maize_normalized_data.zip!/" />
+      <root url="jar://$PROJECT_DIR$/07_STAGE_ARCHIVES/maize_master_validation_outputs.zip!/" />
+      <root url="jar://$PROJECT_DIR$/07_STAGE_ARCHIVES/maize_master_data_all_csvs.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,6 @@
+Passes: 25
+Warnings: 0
+Fails: 0
+Status: READY
+
+Warnings are allowed for data-dependent stages such as weather risk when verified labels are absent.

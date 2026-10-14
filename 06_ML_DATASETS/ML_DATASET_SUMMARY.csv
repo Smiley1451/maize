@@ -1,0 +1,7 @@
+file,rows,unique_groups,review_rows,target,train_rows,train_groups,validation_rows,validation_groups,test_rows,test_groups
+ML_YIELD_READY.csv,191,144,162,grain_yield,116,100,26,22,49,22
+ML_TLB_READY.csv,130,125,130,tlb_disease_score,92,87,19,19,19,19
+ML_TLB_CLASSIFICATION_READY.csv,130,125,130,tlb_reaction,92,87,19,19,19,19
+ML_SDM_READY.csv,135,132,135,sdm_pdi,95,92,20,20,20,20
+ML_SDM_CLASSIFICATION_READY.csv,135,132,135,sdm_reaction,95,92,20,20,20,20
+ML_MULTI_TRAIT_EXPLORATORY.csv,107,107,107,multiple,74,74,16,16,17,17

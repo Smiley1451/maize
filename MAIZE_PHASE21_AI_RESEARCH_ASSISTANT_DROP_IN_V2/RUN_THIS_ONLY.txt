@@ -1,0 +1,19 @@
+RUN FROM PROJECT ROOT:
+
+$env:LOKY_MAX_CPU_COUNT="4"
+.\MAIZE_PHASE21_AI_RESEARCH_ASSISTANT_DROP_IN\RUN_PHASE21.ps1
+
+MENU:
+1 = build/refresh index
+2 = start interactive assistant
+3 = run automated tests
+4 = verify + evaluate
+5 = status
+6 = install requirements
+7 = rebuild index
+8 = exit
+
+DIRECT COMMANDS:
+.\MAIZE_PHASE21_AI_RESEARCH_ASSISTANT_DROP_IN\RUN_PHASE21.ps1 -Action verify
+.\MAIZE_PHASE21_AI_RESEARCH_ASSISTANT_DROP_IN\RUN_PHASE21.ps1 -Action test
+.\MAIZE_PHASE21_AI_RESEARCH_ASSISTANT_DROP_IN\RUN_PHASE21.ps1 -Action chat

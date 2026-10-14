@@ -1,0 +1,17 @@
+[
+  {"id":"Q01","question":"What is the current project status?"},
+  {"id":"Q02","question":"Tell me about MAH-22-17"},
+  {"id":"Q03","question":"What models are available in the project?"},
+  {"id":"Q04","question":"What is Phase 19 and where is its backend?"},
+  {"id":"Q05","question":"What data is available for yield?"},
+  {"id":"Q06","question":"What data is available for TLB?"},
+  {"id":"Q07","question":"What data is available for SDM?"},
+  {"id":"Q08","question":"Show relevant files for Phase 16 weather disease work"},
+  {"id":"Q09","question":"Explain the PCA and clustering outputs"},
+  {"id":"Q10","question":"How do I run the FastAPI backend?"},
+  {"id":"Q11","question":"How do I run the Phase 19 tests?"},
+  {"id":"Q12","question":"What are the main features used by the ML models?"},
+  {"id":"Q13","question":"What remains to finish the project?"},
+  {"id":"Q14","question":"Find the model explainability artifacts"},
+  {"id":"Q15","question":"What happened in the pipeline logs?"}
+]

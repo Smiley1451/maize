@@ -1,0 +1,16 @@
+id,question,status,provider,sources,duration_sec
+Q01,What is the current project status?,PASS,local,7,0.184
+Q02,Tell me about MAH-22-17,PASS,local,7,0.834
+Q03,What models are available in the project?,PASS,local,20,0.162
+Q04,What is Phase 19 and where is its backend?,PASS,local,20,0.128
+Q05,What data is available for yield?,PASS,local,20,3.079
+Q06,What data is available for TLB?,PASS,local,9,4.355
+Q07,What data is available for SDM?,PASS,local,9,3.305
+Q08,Show relevant files for Phase 16 weather disease work,PASS,local,20,3.476
+Q09,Explain the PCA and clustering outputs,PASS,local,9,3.896
+Q10,How do I run the FastAPI backend?,PASS,local,4,0.153
+Q11,How do I run the Phase 19 tests?,PASS,local,20,0.165
+Q12,What are the main features used by the ML models?,PASS,local,20,0.218
+Q13,What remains to finish the project?,PASS,local,8,0.157
+Q14,Find the model explainability artifacts,PASS,local,20,0.222
+Q15,What happened in the pipeline logs?,PASS,local,20,2.365

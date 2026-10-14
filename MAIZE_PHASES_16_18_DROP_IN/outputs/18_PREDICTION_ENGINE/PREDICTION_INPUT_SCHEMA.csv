@@ -1,0 +1,9 @@
+column,role
+genotype,identifier
+days_to_50_percent_pollen_shedding,numeric feature
+days_to_50_percent_silking,numeric feature
+days_to_75_percent_dry_husk,numeric feature
+plant_height,numeric feature
+ear_height,numeric feature
+plant_stand,numeric feature
+shelling_percentage,numeric feature

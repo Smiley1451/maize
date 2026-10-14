@@ -1,0 +1,1 @@
+Phase 18 does not fabricate model files. It reads the selected model packages produced by Phases 13–14 from the existing project and records the resolved package paths. If those packages are missing, predictions are marked MODEL_UNAVAILABLE.

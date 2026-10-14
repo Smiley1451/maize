@@ -1,0 +1,36 @@
+MAIZE AI/ML PROJECT — WINDOWS START HERE
+========================================
+
+1) Extract the ZIP.
+2) Open PowerShell.
+3) cd into the extracted project folder.
+4) Run:
+
+   .\08_AUTOMATED_PIPELINE\run_pipeline.ps1
+
+5) In the menu, press 1 for the next step.
+6) If a step fails, use 3 to redo/retry the current/failed step.
+7) Press 2 to move to the previous step.
+8) Press 4 to run all remaining steps automatically.
+9) Press 5 to run a specific step, 7 to view status, and 8 to exit.
+
+Direct commands:
+
+   .\08_AUTOMATED_PIPELINE\run_pipeline.ps1 -Action next
+   .\08_AUTOMATED_PIPELINE\run_pipeline.ps1 -Action prev
+   .\08_AUTOMATED_PIPELINE\run_pipeline.ps1 -Action redo
+   .\08_AUTOMATED_PIPELINE\run_pipeline.ps1 -Action all
+   .\08_AUTOMATED_PIPELINE\run_pipeline.ps1 -Action run -Stage 3
+   .\08_AUTOMATED_PIPELINE\run_pipeline.ps1 -Action retry
+   .\08_AUTOMATED_PIPELINE\run_pipeline.ps1 -Action status
+
+If PowerShell blocks the script once, use:
+
+   powershell -ExecutionPolicy Bypass -File .\08_AUTOMATED_PIPELINE\run_pipeline.ps1
+
+Your earlier Python prompt test:
+
+   >>> q
+
+just attempted to read a variable named q. That is unrelated to the project.
+Use the PowerShell commands above to start the pipeline.

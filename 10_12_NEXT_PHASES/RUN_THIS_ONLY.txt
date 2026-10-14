@@ -1,0 +1,5 @@
+From the project root in PowerShell run exactly:
+
+.\10_12_NEXT_PHASES\RUN_PHASES_10_12.ps1
+
+Menu: 4 = run all remaining, 1 = next, 2 = previous, 3 = redo, 5 = selected phase, 6 = status, 7 = install requirements, 8 = verify.

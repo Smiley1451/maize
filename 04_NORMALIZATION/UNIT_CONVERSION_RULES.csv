@@ -1,0 +1,6 @@
+canonical_trait,source_unit,canonical_unit,factor,offset,formula
+grain_yield,t/ha,t/ha,1,0,standard = raw * 1
+grain_yield,kg/ha,t/ha,0.001,0,standard = raw * 0.001
+grain_yield,q/ha,t/ha,0.1,0,standard = raw * 0.1
+plant_stand,plants/ha,plants/ha,1,0,standard = raw * 1
+plant_stand,thousand plants/ha,plants/ha,1000,0,standard = raw * 1000

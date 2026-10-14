@@ -1,0 +1,1 @@
+Disease models use pathology targets from the disease trials and pre-harvest agronomic features linked by exact normalized genotype name to the corrected yield dataset. This is cross-trial exploratory modeling, not proof of causal disease resistance. Link audit is retained. Severe class imbalance is expected for SDM.

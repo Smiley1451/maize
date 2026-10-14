@@ -1,0 +1,724 @@
+genotype_id,domain,raw_name_count,raw_names,normalized_name_count,categories,domain_identity_status,reason
+G0125FB3CBB,SDM,1,APQH5,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G0125FB3CBB,TLB,1,APQH5,1,Genotype,DOMAIN_SAFE,One normalized source name inside this domain
+G0125FB3CBB,yield,1,APQH5,1,test,DOMAIN_SAFE,One normalized source name inside this domain
+G0134D24D68,SDM,1,110008,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G0254F2379B,SDM,1,109688,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G0286DD552C,SDM,1,43,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G02D3D38B38,SDM,1,109667,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G02FB071D5D,SDM,1,109998,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G0477D720AD,SDM,1,1005,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G048C1EC921,yield,1,MAH-22-17,1,test,DOMAIN_SAFE,One normalized source name inside this domain
+G05580CAED3,SDM,1,293,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G06630CC3A8,SDM,1,QPM 26,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G06DC31CB17,SDM,1,MBC 21-10,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G06DC31CB17,TLB,1,MBC 21-10,1,Genotype,DOMAIN_SAFE,One normalized source name inside this domain
+G06DC31CB17,yield,1,MBC 21-10,1,test,DOMAIN_SAFE,One normalized source name inside this domain
+G06E9D075B7,yield,1,MAH-22-32,1,test,DOMAIN_SAFE,One normalized source name inside this domain
+G070B55801C,SDM,1,109864,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G0716D9708D,SDM,1,17,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G07A85BD180,SDM,1,508,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G08EC2EFCF0,SDM,1,634,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G0B5DCC0F23,SDM,1,MAH-22-5,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G0C0266790A,SDM,1,798,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G0C0ACBE875,SDM,1,CHCP 2205,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G0C0ACBE875,TLB,1,CHCP 2205,1,Genotype,DOMAIN_SAFE,One normalized source name inside this domain
+G0C0ACBE875,yield,1,CHCP 2205,1,test,DOMAIN_SAFE,One normalized source name inside this domain
+G0C3F440B22,SDM,1,MAI-12,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G0CA9277F91,SDM,1,125,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G0E3C46DF7B,SDM,1,APQH7,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G0E3C46DF7B,TLB,1,APQH7,1,Genotype,DOMAIN_SAFE,One normalized source name inside this domain
+G0E3C46DF7B,yield,1,APQH7,1,test,DOMAIN_SAFE,One normalized source name inside this domain
+G0E858CF075,SDM,1,MMH 22-67,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G0E858CF075,TLB,1,MMH 22-67,1,Genotype,DOMAIN_SAFE,One normalized source name inside this domain
+G0E858CF075,yield,1,MMH 22-67,1,test,DOMAIN_SAFE,One normalized source name inside this domain
+G0F406B6E80,SDM,1,109580,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G0F484A9283,SDM,1,VL-191001,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G11E5FF5984,TLB,2,CM - 202 | CM-202,1,SC,DOMAIN_SAFE,One normalized source name inside this domain
+G12A3E76117,SDM,1,109774,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G1382AC8C66,SDM,1,760,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G13A1471C11,SDM,1,109992,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G167319775B,SDM,1,IMHSB 20R-10,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G167319775B,TLB,1,IMHSB 20R-10,1,Genotype,DOMAIN_SAFE,One normalized source name inside this domain
+G167319775B,yield,1,IMHSB 20R-10,1,test,DOMAIN_SAFE,One normalized source name inside this domain
+G171434F7C6,SDM,1,109550,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G17F5D14698,SDM,1,CAL-1443,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G192EF6DE7E,SDM,1,VL-185586,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G1971DDEFD6,SDM,1,109888,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G1AB93EB621,SDM,1,HQPM-7(C),1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G1AB93EB621,TLB,1,HQPM-7(C),1,Genotype,DOMAIN_SAFE,One normalized source name inside this domain
+G1AB93EB621,yield,1,HQPM-7 (Check),1,check,DOMAIN_SAFE,One normalized source name inside this domain
+G1ABDB0AA68,SDM,1,109715,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G1B75F1A8FF,SDM,1,867,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G1BA9DE1E79,SDM,1,109736,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G1C8477297E,SDM,1,VL-184578,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G1C8669720B,SDM,1,VL-18322,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G1D5B585A0D,SDM,1,BS 652,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G1D5B585A0D,TLB,1,BS 652,1,Genotype,DOMAIN_SAFE,One normalized source name inside this domain
+G1D5B585A0D,yield,1,BS 652,1,test,DOMAIN_SAFE,One normalized source name inside this domain
+G1D6F2CB8F2,SDM,1,110141,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G1DBD4B1C0D,SDM,1,SMH 6333,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G1DBD4B1C0D,TLB,1,SMH 6333,1,Genotype,DOMAIN_SAFE,One normalized source name inside this domain
+G1DBD4B1C0D,yield,1,SMH 6333,1,test,DOMAIN_SAFE,One normalized source name inside this domain
+G1E0A78229C,SDM,1,CHCP 2204,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G1E0A78229C,TLB,1,CHCP 2204,1,Genotype,DOMAIN_SAFE,One normalized source name inside this domain
+G1E0A78229C,yield,1,CHCP 2204,1,test,DOMAIN_SAFE,One normalized source name inside this domain
+G1E419F27F6,SDM,1,KMH 22-5,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G1E419F27F6,TLB,1,KMH 22-5,1,Genotype,DOMAIN_SAFE,One normalized source name inside this domain
+G1E419F27F6,yield,1,KMH 22-5,1,test,DOMAIN_SAFE,One normalized source name inside this domain
+G1EB7DE4D9A,SDM,1,CML-582,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G1F58713428,SDM,2,BIO 9544 (C) | BIO 9544(C),1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G1F58713428,TLB,2,BIO 9544 (C) | BIO 9544(C),1,Genotype,DOMAIN_SAFE,One normalized source name inside this domain
+G1F58713428,yield,4,BIO-9544 (NC) | Bio 9544 (Check) | Bio-9544 | Bio-9544 (NC),1,NC | check,DOMAIN_SAFE,One normalized source name inside this domain
+G1F9CF69A6A,SDM,1,109996,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G204D93421A,SDM,1,IMH 2-22R-4,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G204D93421A,TLB,1,IMH 2-22R-4,1,Genotype,DOMAIN_SAFE,One normalized source name inside this domain
+G204D93421A,yield,1,IMH 2-22R-4,1,test,DOMAIN_SAFE,One normalized source name inside this domain
+G208B9CC87A,SDM,1,52067,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G20DBCA6C20,SDM,1,109765,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G20FB6B3EFA,SDM,1,109642,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G218B30C673,SDM,1,SKV 50,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G22AAFC242A,SDM,1,IMH 2-22R-12,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G22AAFC242A,TLB,1,IMH 2-22R-12,1,Genotype,DOMAIN_SAFE,One normalized source name inside this domain
+G22AAFC242A,yield,1,IMH 2-22R-12,1,test,DOMAIN_SAFE,One normalized source name inside this domain
+G23091CCA17,SDM,1,109726,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G23AA3C5DB5,SDM,1,109994,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G249AD0C607,SDM,1,109473,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G25293F2761,SDM,1,178,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G25A05F23B0,SDM,1,109729,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G25BA7EA542,SDM,1,MAI-3,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G264C3F3470,SDM,1,470,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G287B00F8D2,SDM,1,BAUMH 21-4,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G287B00F8D2,TLB,1,BAUMH21-4,1,Genotype,DOMAIN_SAFE,One normalized source name inside this domain
+G287B00F8D2,yield,1,BAUMH 21-4,1,test,DOMAIN_SAFE,One normalized source name inside this domain
+G297AF6EF0B,SDM,1,IMH 2-22R-6,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G297AF6EF0B,TLB,1,IMH 2-22R-6,1,Genotype,DOMAIN_SAFE,One normalized source name inside this domain
+G297AF6EF0B,yield,1,IMH 2-22R-6,1,test,DOMAIN_SAFE,One normalized source name inside this domain
+G2A21936970,SDM,1,109747,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G2A7541BABB,SDM,1,130,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G2C18602A55,SDM,1,109971,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G2C82513E25,SDM,1,993,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G2CB0FB821F,SDM,1,109754,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G2CB74C5665,SDM,1,109530,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G2D3FBCFFE8,SDM,1,510,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G2DA08C023C,SDM,1,VL-18726,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G2E2533C37A,SDM,1,BSCH 418184,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G2E2533C37A,TLB,1,BSCH 418184,1,Genotype,DOMAIN_SAFE,One normalized source name inside this domain
+G2E2533C37A,yield,1,BSCH 418184,1,test,DOMAIN_SAFE,One normalized source name inside this domain
+G2E25A73C87,SDM,1,BPCH6 (C),1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G2E25A73C87,TLB,1,BPCH6 (C),1,Genotype,DOMAIN_SAFE,One normalized source name inside this domain
+G2E25A73C87,yield,1,BPCH 6 (Check),1,check,DOMAIN_SAFE,One normalized source name inside this domain
+G2E8E38822B,SDM,1,PM 22203L,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G2E8E38822B,TLB,1,PM 22203L,1,Genotype,DOMAIN_SAFE,One normalized source name inside this domain
+G2E8E38822B,yield,1,PM 22203L,1,test,DOMAIN_SAFE,One normalized source name inside this domain
+G2EB5F30C91,SDM,1,109845,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G2FEBBFBC20,SDM,1,NAH- 2049 II,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G2FEBBFBC20,yield,1,NAH-2049 -II,1,test,DOMAIN_SAFE,One normalized source name inside this domain
+G313CB61AC9,yield,1,CP -201,1,test,DOMAIN_SAFE,One normalized source name inside this domain
+G31ACB72649,SDM,1,HI BRIX 81,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G31ACB72649,TLB,1,HI BRIX81,1,Genotype,DOMAIN_SAFE,One normalized source name inside this domain
+G31ACB72649,yield,1,HI BRIX 81,1,test,DOMAIN_SAFE,One normalized source name inside this domain
+G31CE7B7FA4,SDM,1,ADV 7415,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G31CE7B7FA4,TLB,1,ADV 7415,1,Genotype,DOMAIN_SAFE,One normalized source name inside this domain
+G31CE7B7FA4,yield,1,ADV 7415,1,test,DOMAIN_SAFE,One normalized source name inside this domain
+G3232DF7B48,yield,1,MAH-21-501,1,test,DOMAIN_SAFE,One normalized source name inside this domain
+G325C23E117,SDM,1,PM 22202L,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G325C23E117,TLB,1,PM 22202L,1,Genotype,DOMAIN_SAFE,One normalized source name inside this domain
+G325C23E117,yield,1,PM 22202L,1,test,DOMAIN_SAFE,One normalized source name inside this domain
+G32971515DD,SDM,1,NAI-137-6,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G32F9E6523B,SDM,1,981,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G33B0B0BB78,SDM,1,MAI-10-1,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G34446AF722,SDM,1,109844,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G344CAE2AF0,SDM,1,BH 417193,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G344CAE2AF0,TLB,1,BH 417193,1,Genotype,DOMAIN_SAFE,One normalized source name inside this domain
+G344CAE2AF0,yield,1,BH 417193,1,test,DOMAIN_SAFE,One normalized source name inside this domain
+G3464DC1150,SDM,1,246,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G35D2E898CC,SDM,1,ADV 7559,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G35D2E898CC,TLB,1,ADV 7559,1,Genotype,DOMAIN_SAFE,One normalized source name inside this domain
+G35D2E898CC,yield,1,ADV 7559,1,test,DOMAIN_SAFE,One normalized source name inside this domain
+G361D964418,SDM,1,109463,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G362C139EA5,SDM,1,HI BRIX 59,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G362C139EA5,TLB,1,HI BRIX 59,1,Genotype,DOMAIN_SAFE,One normalized source name inside this domain
+G362C139EA5,yield,1,HI BRIX 59,1,test,DOMAIN_SAFE,One normalized source name inside this domain
+G3741D59112,SDM,1,831,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G3773972FE7,SDM,1,OMH 22R-2,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G3773972FE7,TLB,1,OMH 22R-2,1,Genotype,DOMAIN_SAFE,One normalized source name inside this domain
+G3773972FE7,yield,1,OMH 22R-2,1,test,DOMAIN_SAFE,One normalized source name inside this domain
+G37D070F06B,SDM,1,109924,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G3990E2BB8C,SDM,1,IQH7-215,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G3990E2BB8C,TLB,1,IQH7-215,1,Genotype,DOMAIN_SAFE,One normalized source name inside this domain
+G3990E2BB8C,yield,1,IQH7-215,1,test,DOMAIN_SAFE,One normalized source name inside this domain
+G39EF37BD3A,SDM,1,SKV-50-6,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G3AA8FC5D52,SDM,1,109661,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G3B3928AA84,SDM,1,PP II,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G3B3928AA84,TLB,1,PP II,1,Genotype,DOMAIN_SAFE,One normalized source name inside this domain
+G3B3928AA84,yield,1,PP II,1,test,DOMAIN_SAFE,One normalized source name inside this domain
+G3B69DF951B,SDM,1,485,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G3B6C6EF380,SDM,1,VL-21986,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G3BA247DF81,SDM,1,HPC 5,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G3BA247DF81,TLB,1,HPC 5,1,Genotype,DOMAIN_SAFE,One normalized source name inside this domain
+G3BD7EF16FB,SDM,1,110007,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G3BE2884F08,SDM,1,IMHP 2101,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G3BE2884F08,TLB,1,IMHP 2101,1,Genotype,DOMAIN_SAFE,One normalized source name inside this domain
+G3BE2884F08,yield,1,IMHP 2101,1,test,DOMAIN_SAFE,One normalized source name inside this domain
+G3C26DFFC8A,SDM,1,86,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G3C914AF8CF,SDM,1,KMH 8333,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G3C914AF8CF,TLB,1,KMH 8333,1,Genotype,DOMAIN_SAFE,One normalized source name inside this domain
+G3C914AF8CF,yield,1,KMH 8333,1,test,DOMAIN_SAFE,One normalized source name inside this domain
+G3D09F2A733,SDM,1,109876,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G3D32604AB5,SDM,1,SYN217806,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G3D32604AB5,TLB,1,SYN217806,1,Genotype,DOMAIN_SAFE,One normalized source name inside this domain
+G3D32604AB5,yield,1,SYN217806,1,test,DOMAIN_SAFE,One normalized source name inside this domain
+G3E0675C953,SDM,1,109940,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G3E43592BA5,SDM,1,109954,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G3F0B1A4B6A,SDM,1,VL Sweet Corn(C),1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G3F0B1A4B6A,TLB,1,VL Sweet Corn(C),1,Genotype,DOMAIN_SAFE,One normalized source name inside this domain
+G3F0B1A4B6A,yield,1,VL Sweet Corn (check),1,check,DOMAIN_SAFE,One normalized source name inside this domain
+G3F2C3CFEE0,SDM,1,MAI-215-1,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G3FFE5C8C4E,SDM,1,IMH 2-22R-2,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G3FFE5C8C4E,TLB,1,IMH 2-22R-2,1,Genotype,DOMAIN_SAFE,One normalized source name inside this domain
+G3FFE5C8C4E,yield,1,IMH 2-22R-2,1,test,DOMAIN_SAFE,One normalized source name inside this domain
+G4088F87E6E,SDM,1,586,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G40BB4F8A07,SDM,1,HI BRIX 33,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G40BB4F8A07,TLB,1,HI BRIX 33,1,Genotype,DOMAIN_SAFE,One normalized source name inside this domain
+G40BB4F8A07,yield,1,HI BRIX 33,1,test,DOMAIN_SAFE,One normalized source name inside this domain
+G41F448AFC8,SDM,1,346,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G43649A36DE,SDM,1,SNL-20640,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G436C802806,SDM,1,109583,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G436FF285B1,SDM,1,AH 8245,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G436FF285B1,TLB,1,AH 8245,1,Genotype,DOMAIN_SAFE,One normalized source name inside this domain
+G43987E7CC7,SDM,1,109948,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G442AC9BCFB,SDM,1,109910,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G44A4261927,SDM,1,VL-18708,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G44BB5FD8E6,SDM,1,CHCP 2207,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G44BB5FD8E6,TLB,1,CHCP 2207,1,Genotype,DOMAIN_SAFE,One normalized source name inside this domain
+G44DF87097C,yield,1,MAH-22-28,1,test,DOMAIN_SAFE,One normalized source name inside this domain
+G44F0CF41FE,SDM,1,AHD 8722,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G44F0CF41FE,TLB,1,AHD 8722,1,Genotype,DOMAIN_SAFE,One normalized source name inside this domain
+G44F0CF41FE,yield,1,AHD 8722,1,test,DOMAIN_SAFE,One normalized source name inside this domain
+G4525E77A5D,SDM,1,MQH 21-51,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G4525E77A5D,TLB,1,MQH 21-51,1,Genotype,DOMAIN_SAFE,One normalized source name inside this domain
+G4525E77A5D,yield,1,MQH 21-51,1,test,DOMAIN_SAFE,One normalized source name inside this domain
+G459B50197F,SDM,1,829,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G45EAE3C39F,SDM,1,ADV 7251,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G45EAE3C39F,TLB,1,ADV 7251,1,Genotype,DOMAIN_SAFE,One normalized source name inside this domain
+G45EAE3C39F,yield,1,ADV 7251,1,test,DOMAIN_SAFE,One normalized source name inside this domain
+G45F617CBDB,SDM,3,African Tall | African Tall (C) | African Tall(C),1,susceptible_check | test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G45F617CBDB,TLB,3,African Tall (C) | African Tall(C) | African Tall(c),1,Genotype,DOMAIN_SAFE,One normalized source name inside this domain
+G46865F370D,SDM,1,SNL-191l161,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G46DE995060,SDM,1,MMH 22-45,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G46DE995060,TLB,1,MMH 22-45,1,Genotype,DOMAIN_SAFE,One normalized source name inside this domain
+G46DE995060,yield,1,MMH 22-45,1,test,DOMAIN_SAFE,One normalized source name inside this domain
+G47028C37C8,SDM,1,110130,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G47AF274517,SDM,1,109743,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G47CB0367C0,SDM,1,IMHSB 20R-3,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G47CB0367C0,TLB,1,IMHSB 20R-3,1,Genotype,DOMAIN_SAFE,One normalized source name inside this domain
+G47CB0367C0,yield,1,IMHSB 20R-3,1,test,DOMAIN_SAFE,One normalized source name inside this domain
+G47D2EE0FE4,SDM,1,KHM 25K45(C),1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G47D2EE0FE4,TLB,1,KHM 25K45(C),1,Genotype,DOMAIN_SAFE,One normalized source name inside this domain
+G47D2EE0FE4,yield,1,KHM 25K45 (C),1,check,DOMAIN_SAFE,One normalized source name inside this domain
+G484359D0CF,SDM,1,VL-21988,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G4867218336,SDM,1,NAI-137,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G4972156344,SDM,1,TMMH 2845,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G4972156344,TLB,1,TMMH 2845,1,Genotype,DOMAIN_SAFE,One normalized source name inside this domain
+G4972156344,yield,1,TMMH 2845,1,test,DOMAIN_SAFE,One normalized source name inside this domain
+G49A8270349,SDM,1,AHD 2065,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G49A8270349,TLB,1,AHD 2065,1,Genotype,DOMAIN_SAFE,One normalized source name inside this domain
+G49A8270349,yield,1,AHD 2065,1,test,DOMAIN_SAFE,One normalized source name inside this domain
+G4A38CAF768,SDM,1,IMH 2-22R-8,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G4A38CAF768,TLB,1,IMH 2-22R-8,1,Genotype,DOMAIN_SAFE,One normalized source name inside this domain
+G4A38CAF768,yield,1,IMH 2-22R-8,1,test,DOMAIN_SAFE,One normalized source name inside this domain
+G4A839F86B1,SDM,1,997,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G4BBF3764CD,SDM,1,VL-18560,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G4C2DA9F252,SDM,1,109775,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G4C81739002,SDM,1,109544,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G4C87E5E9FC,SDM,1,696,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G4CB085E19B,SDM,1,MMH 22-52,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G4CB085E19B,TLB,1,MMH 22-52,1,Genotype,DOMAIN_SAFE,One normalized source name inside this domain
+G4CB085E19B,yield,1,MMH 22-52,1,test,DOMAIN_SAFE,One normalized source name inside this domain
+G4CD66DFABB,SDM,1,91,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G4D778EF688,yield,1,MAH-22-21,1,test,DOMAIN_SAFE,One normalized source name inside this domain
+G4D91E5D668,SDM,2,DHM 117(C) | DHM 117(Filler),1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G4D91E5D668,TLB,2,DHM 117(C) | DHM 117(Filler),1,Genotype,DOMAIN_SAFE,One normalized source name inside this domain
+G4D91E5D668,yield,2,DHM 117 (Check) | DHM 117 (check),1,check,DOMAIN_SAFE,One normalized source name inside this domain
+G4DCE94E883,SDM,1,VL-133728,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G4DCEE7F85D,SDM,1,655,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G4DD260501D,SDM,1,1017,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G4E1C3E8A27,SDM,1,MMH 22-62,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G4E1C3E8A27,TLB,1,MMH 22-62,1,Genotype,DOMAIN_SAFE,One normalized source name inside this domain
+G4E1C3E8A27,yield,1,MMH 22-62,1,test,DOMAIN_SAFE,One normalized source name inside this domain
+G4E5523C2F6,SDM,1,ABSH-1(C),1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G4E5523C2F6,TLB,1,ABSH-1(C),1,Genotype,DOMAIN_SAFE,One normalized source name inside this domain
+G4E5523C2F6,yield,1,ABSH-1 (Check),1,check,DOMAIN_SAFE,One normalized source name inside this domain
+G4EF47A459E,SDM,1,896,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G50010BD6F9,SDM,1,BH 417167,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G50010BD6F9,TLB,1,BH 417167,1,Genotype,DOMAIN_SAFE,One normalized source name inside this domain
+G50010BD6F9,yield,1,BH 417167,1,test,DOMAIN_SAFE,One normalized source name inside this domain
+G507AAD3DB0,SDM,1,ZL-18869,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G50C9372CC6,SDM,1,IMHSB 21R-7,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G50C9372CC6,TLB,1,IMHSB 21R-7,1,Genotype,DOMAIN_SAFE,One normalized source name inside this domain
+G50C9372CC6,yield,1,IMHSB 21R-7,1,test,DOMAIN_SAFE,One normalized source name inside this domain
+G512FC7D442,SDM,1,MAI-2,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G5248E6BA78,TLB,1,PM2020SL,1,Genotype,DOMAIN_SAFE,One normalized source name inside this domain
+G5287473913,SDM,1,109942,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G538877F201,SDM,1,SYN 227705,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G538877F201,TLB,1,SYN 227705,1,Genotype,DOMAIN_SAFE,One normalized source name inside this domain
+G538877F201,yield,1,SYN 227 705,1,test,DOMAIN_SAFE,One normalized source name inside this domain
+G53C4294A2F,SDM,1,MAI 755,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G53C53C5D2B,SDM,1,689,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G53E56691FE,SDM,1,553,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G54104795E5,SDM,1,109947,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G5410535EBA,SDM,1,1030,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G543B2AA052,SDM,1,MAI-204-1,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G5715AA02DE,SDM,1,413,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G5753AB09DC,SDM,1,862,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G57985DC2E6,SDM,1,IMH 2-22R-1,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G57985DC2E6,TLB,1,IMH 2-22R-1,1,Genotype,DOMAIN_SAFE,One normalized source name inside this domain
+G57985DC2E6,yield,1,IMH 2-22R-1,1,test,DOMAIN_SAFE,One normalized source name inside this domain
+G58611E6162,SDM,1,109533,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G5877C5C3C2,SDM,1,VL-22435,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G58B55F5C29,SDM,1,ASKH 4(C),1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G58B55F5C29,TLB,1,ASKH 4(C),1,Genotype,DOMAIN_SAFE,One normalized source name inside this domain
+G58B55F5C29,yield,1,ASKH 4 (Check),1,check,DOMAIN_SAFE,One normalized source name inside this domain
+G58D1ADF674,SDM,1,QPM 25,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G58EE251C18,SDM,1,QPM 26-1,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G596CB5FAA4,SDM,1,VL-21966,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G59C9407662,SDM,1,P 3522 (C),1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G59C9407662,TLB,1,P 3522 (C),1,Genotype,DOMAIN_SAFE,One normalized source name inside this domain
+G59C9407662,yield,2,P 3522 (C) | P 3522 (Check),1,check,DOMAIN_SAFE,One normalized source name inside this domain
+G59D884BE29,SDM,1,MBC 22-32,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G59D884BE29,TLB,1,MBC 22-32,1,Genotype,DOMAIN_SAFE,One normalized source name inside this domain
+G59D884BE29,yield,1,MBC 22-32,1,test,DOMAIN_SAFE,One normalized source name inside this domain
+G5A85BA7D9A,TLB,1,Ellora Commando112,1,Genotype,DOMAIN_SAFE,One normalized source name inside this domain
+G5AF8EC20D4,SDM,1,960,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G5D4B7B50FE,SDM,1,109732,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G5E234988EA,SDM,1,110013,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G5E3DCCF82E,SDM,1,32129,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G5FAB5F9AEF,SDM,1,109880,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G601CA99D55,SDM,1,112,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G61CB789576,SDM,1,109937,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G6229D31868,SDM,1,734,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G62362FBF88,SDM,1,842,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G6292C3FBDC,SDM,1,BS 650,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G6292C3FBDC,TLB,1,BS 650,1,Genotype,DOMAIN_SAFE,One normalized source name inside this domain
+G6292C3FBDC,yield,1,BS 650,1,test,DOMAIN_SAFE,One normalized source name inside this domain
+G655241467A,SDM,1,110071,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G65D7039C60,SDM,2,NAH 1137 | NAH-1137,1,resistant_check | test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G664AE2A7B1,SDM,1,MAI-142,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G666F738DC9,SDM,1,IMHSB 20R-6,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G666F738DC9,TLB,1,IMHSB 20R-6,1,Genotype,DOMAIN_SAFE,One normalized source name inside this domain
+G666F738DC9,yield,1,IMHSB 20R-6,1,test,DOMAIN_SAFE,One normalized source name inside this domain
+G6722555829,SDM,1,AHD 8721,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G6722555829,TLB,1,AHD 8721,1,Genotype,DOMAIN_SAFE,One normalized source name inside this domain
+G6722555829,yield,1,AHD 8721,1,test,DOMAIN_SAFE,One normalized source name inside this domain
+G681033C658,SDM,1,AH 8194,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G681033C658,TLB,1,AH 8194,1,Genotype,DOMAIN_SAFE,One normalized source name inside this domain
+G681033C658,yield,1,AH 8194,1,test,DOMAIN_SAFE,One normalized source name inside this domain
+G6957EC9E3D,SDM,1,109761,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G6962FFE47D,yield,1,MAH-22-83,1,test,DOMAIN_SAFE,One normalized source name inside this domain
+G6AE49C2788,SDM,1,110067,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G6D0DECE7F8,SDM,1,DM 9445,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G6D0DECE7F8,TLB,1,DM 9445,1,Genotype,DOMAIN_SAFE,One normalized source name inside this domain
+G6D0DECE7F8,yield,1,DM 9445,1,test,DOMAIN_SAFE,One normalized source name inside this domain
+G6D0FD1D7C1,yield,1,MAH-22-11,1,test,DOMAIN_SAFE,One normalized source name inside this domain
+G6E9B99384F,SDM,1,412,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G6F65E25FBE,SDM,1,VAH 20001,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G6F65E25FBE,TLB,1,VAH 20001,1,Genotype,DOMAIN_SAFE,One normalized source name inside this domain
+G6F65E25FBE,yield,1,VAH 20001,1,test,DOMAIN_SAFE,One normalized source name inside this domain
+G6F9C92E780,SDM,1,APCH 4,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G6F9C92E780,TLB,1,APCH 4,1,Genotype,DOMAIN_SAFE,One normalized source name inside this domain
+G6F9C92E780,yield,1,APCH 4,1,test,DOMAIN_SAFE,One normalized source name inside this domain
+G6FBC4AE892,SDM,1,109728,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G6FC00272EB,SDM,1,109619,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G706A957062,SDM,1,839,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G70EC4AC87E,SDM,1,MPC 2141,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G70EC4AC87E,TLB,1,MPC 2141,1,Genotype,DOMAIN_SAFE,One normalized source name inside this domain
+G70EC4AC87E,yield,1,MPC 2141,1,test,DOMAIN_SAFE,One normalized source name inside this domain
+G71A1851F06,yield,4,C.D @ (5%) | C.D @ 5% | CD @ (5%) | CD @ 5%,2,,DOMAIN_REVIEW_REQUIRED,Multiple normalized names inside the same domain
+G71AADAA2C4,SDM,1,IIVRBCH-1613,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G71AADAA2C4,TLB,1,IIVRBCH-1613,1,Genotype,DOMAIN_SAFE,One normalized source name inside this domain
+G71AADAA2C4,yield,1,IIVRBCH 1613,1,test,DOMAIN_SAFE,One normalized source name inside this domain
+G7325068E80,SDM,1,791,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G73B125328B,yield,1,DMH 117 (C),1,check,DOMAIN_SAFE,One normalized source name inside this domain
+G740DC5ABD5,SDM,1,DKC 8225,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G740DC5ABD5,TLB,1,DKC 8225,1,Genotype,DOMAIN_SAFE,One normalized source name inside this domain
+G740DC5ABD5,yield,1,DKC 8225,1,test,DOMAIN_SAFE,One normalized source name inside this domain
+G76546F9A64,SDM,1,82,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G76D642231F,SDM,1,ADV 7126,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G76D642231F,TLB,1,ADV 7126,1,Genotype,DOMAIN_SAFE,One normalized source name inside this domain
+G76D642231F,yield,1,ADV 7126,1,test,DOMAIN_SAFE,One normalized source name inside this domain
+G77837FDE5B,SDM,1,110065,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G77B43159BF,SDM,1,SYN 227809,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G77B43159BF,TLB,1,SYN 227809,1,Genotype,DOMAIN_SAFE,One normalized source name inside this domain
+G77B43159BF,yield,1,SYN 227809,1,test,DOMAIN_SAFE,One normalized source name inside this domain
+G780A6EBD4A,SDM,1,TMMH 2882,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G780A6EBD4A,TLB,1,TMMH 2882,1,Genotype,DOMAIN_SAFE,One normalized source name inside this domain
+G780A6EBD4A,yield,1,TMMH 2882,1,test,DOMAIN_SAFE,One normalized source name inside this domain
+G7849DFF108,SDM,1,VL-22461,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G7919AE519F,SDM,1,711,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G791D02ACBD,SDM,1,109514,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G79E993CA7A,SDM,1,109879,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G7C9FBC7A1E,yield,1,MAH-22-12,1,test,DOMAIN_SAFE,One normalized source name inside this domain
+G7CB4EFC4AC,SDM,1,BH 417206,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G7CB4EFC4AC,TLB,1,BH 417206,1,Genotype,DOMAIN_SAFE,One normalized source name inside this domain
+G7CB4EFC4AC,yield,1,BH 417206,1,test,DOMAIN_SAFE,One normalized source name inside this domain
+G7D0815D263,SDM,1,VL-22302,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G7DD6F3F23D,SDM,1,APQH1,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G7DD6F3F23D,TLB,1,APQH1,1,Genotype,DOMAIN_SAFE,One normalized source name inside this domain
+G7DD6F3F23D,yield,1,APQH1,1,test,DOMAIN_SAFE,One normalized source name inside this domain
+G7DDF0FF210,SDM,1,110001,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G7DE7E3FE69,SDM,1,V-940-31,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G7DED04BC15,SDM,1,PM 22206L,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G7DED04BC15,TLB,1,PM 22206L,1,Genotype,DOMAIN_SAFE,One normalized source name inside this domain
+G7DED04BC15,yield,1,PM 22206L,1,test,DOMAIN_SAFE,One normalized source name inside this domain
+G7E14DF8CF9,SDM,1,IBH 9-224,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G7E14DF8CF9,TLB,1,IBH 9-224,1,Genotype,DOMAIN_SAFE,One normalized source name inside this domain
+G7E14DF8CF9,yield,1,IBH 9-224,1,test,DOMAIN_SAFE,One normalized source name inside this domain
+G7E2E68D97A,SDM,1,110114,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G7E3B99E2D5,SDM,1,V-496-7,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G7EB9A53B26,SDM,1,Ellora Virat-12,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G7EB9A53B26,TLB,1,Ellora Virat-12,1,Genotype,DOMAIN_SAFE,One normalized source name inside this domain
+G7EB9A53B26,yield,1,Ellora Virat-12,1,test,DOMAIN_SAFE,One normalized source name inside this domain
+G7F8361E3C2,SDM,1,AH 4672,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G7F8361E3C2,TLB,1,AH 4672,1,Genotype,DOMAIN_SAFE,One normalized source name inside this domain
+G7F8361E3C2,yield,1,AH 4672,1,test,DOMAIN_SAFE,One normalized source name inside this domain
+G8031E570C6,SDM,1,109614,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G81C6921288,SDM,1,316,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G81FDF9BE59,SDM,1,PM 22205L,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G81FDF9BE59,TLB,1,PM 22205L,1,Genotype,DOMAIN_SAFE,One normalized source name inside this domain
+G81FDF9BE59,yield,1,PM 22205L,1,test,DOMAIN_SAFE,One normalized source name inside this domain
+G821DDA42F7,SDM,1,MAH-22-3,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G821DDA42F7,yield,1,MAH-22-3,1,test,DOMAIN_SAFE,One normalized source name inside this domain
+G828087BF0E,SDM,1,SYN207884,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G828087BF0E,TLB,1,SYN207884,1,Genotype,DOMAIN_SAFE,One normalized source name inside this domain
+G828087BF0E,yield,1,SYN207884,1,test,DOMAIN_SAFE,One normalized source name inside this domain
+G82CCB5058D,SDM,1,VL-181545,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G8355E8AED4,SDM,1,IPH 2-22R-1,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G8355E8AED4,TLB,1,IPH 2-22R-1,1,Genotype,DOMAIN_SAFE,One normalized source name inside this domain
+G8355E8AED4,yield,1,IPH 2-22R-1,1,test,DOMAIN_SAFE,One normalized source name inside this domain
+G839B216F34,SDM,1,CHCP 2206,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G839B216F34,TLB,1,CHCP 2206,1,Genotype,DOMAIN_SAFE,One normalized source name inside this domain
+G839B216F34,yield,1,CHCP 2206,1,test,DOMAIN_SAFE,One normalized source name inside this domain
+G83C309C3F2,SDM,1,SNL-20158,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G83FDC3407C,SDM,1,411,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G84B0B57750,SDM,1,713,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G856020E641,SDM,1,VL-19978,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G859371C786,SDM,1,557,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G85BCAF7C0E,SDM,1,NAH-2049-1,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G86063EF508,SDM,1,110020,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G86CF294A07,SDM,1,395,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G871258ABF0,SDM,1,MAH-22-1,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G8726A7B16A,SDM,1,109718,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G872A319EE7,SDM,1,812,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G872AF726D2,SDM,1,VNR 4597,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G872AF726D2,TLB,1,VNR 4597,1,Genotype,DOMAIN_SAFE,One normalized source name inside this domain
+G872AF726D2,yield,1,VNR 4597,1,test,DOMAIN_SAFE,One normalized source name inside this domain
+G88083EB8B5,SDM,1,MAI 753,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G887B59FCB1,SDM,1,110076,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G8963B0F409,yield,2,C.V (%) | CV (%),1,,DOMAIN_SAFE,One normalized source name inside this domain
+G8ABCDA2DBA,SDM,1,987,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G8B8311C784,SDM,1,MAH-14-138,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G8B8311C784,yield,2,MAH 14-138 | MAH-14-138,1,test,DOMAIN_SAFE,One normalized source name inside this domain
+G8BDA880922,SDM,1,109952,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G8D163D76C5,SDM,1,846,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G8D3D5187A7,SDM,1,109824,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G8D45D95CF9,yield,1,MAH-22-113,1,test,DOMAIN_SAFE,One normalized source name inside this domain
+G8DF28D12A8,SDM,1,MAH-22-4,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G8DF28D12A8,yield,1,MAH-22-4,1,test,DOMAIN_SAFE,One normalized source name inside this domain
+G8E69F399F6,SDM,1,109690,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G8ECCCD2138,SDM,1,109934,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G8FE32A97EC,yield,1,MAH-22-46,1,test,DOMAIN_SAFE,One normalized source name inside this domain
+G8FEB4DFBF9,SDM,1,IBH9-225,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G8FEB4DFBF9,TLB,1,IBH9-225,1,Genotype,DOMAIN_SAFE,One normalized source name inside this domain
+G8FEB4DFBF9,yield,1,IBH9-225,1,test,DOMAIN_SAFE,One normalized source name inside this domain
+G8FF0C3B5D2,yield,1,MAH-22-107,1,test,DOMAIN_SAFE,One normalized source name inside this domain
+G9042595B54,SDM,1,IMHSB 20R-11,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G9042595B54,TLB,1,IMHSB 20R-11,1,Genotype,DOMAIN_SAFE,One normalized source name inside this domain
+G9042595B54,yield,1,IMHSB 20R-11,1,test,DOMAIN_SAFE,One normalized source name inside this domain
+G90987B0193,SDM,1,VL-191073,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G90B9305857,SDM,1,813,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G9136303879,yield,1,CP -202,1,test,DOMAIN_SAFE,One normalized source name inside this domain
+G916F5B10FE,SDM,1,548,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G91934C20BA,SDM,1,HPC 4,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G91934C20BA,TLB,1,HPC 4,1,Genotype,DOMAIN_SAFE,One normalized source name inside this domain
+G91934C20BA,yield,1,HPC 4,1,test,DOMAIN_SAFE,One normalized source name inside this domain
+G91C2689BC8,SDM,1,109646,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G91D218B01F,SDM,1,BAUMH 21-8,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G91D218B01F,TLB,1,BAUMH 21-8,1,Genotype,DOMAIN_SAFE,One normalized source name inside this domain
+G91D218B01F,yield,1,BAUMH 21-8,1,test,DOMAIN_SAFE,One normalized source name inside this domain
+G922D6FC43F,SDM,1,109657,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G925CFD0C68,SDM,1,110064,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G9298904CFD,SDM,1,IMH 2-22R-5,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G9298904CFD,TLB,1,IMH 2-22R-5,1,Genotype,DOMAIN_SAFE,One normalized source name inside this domain
+G9298904CFD,yield,1,IMH 2-22R-5,1,test,DOMAIN_SAFE,One normalized source name inside this domain
+G92BF00DC63,yield,1,MAH-22-9,1,test,DOMAIN_SAFE,One normalized source name inside this domain
+G92C0B5CD61,SDM,1,MAI-10,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G9314FD4F45,SDM,1,BRM 19-2,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G9314FD4F45,TLB,1,BRM 19-2,1,Genotype,DOMAIN_SAFE,One normalized source name inside this domain
+G9314FD4F45,yield,1,BRM 19-2,1,test,DOMAIN_SAFE,One normalized source name inside this domain
+G93EB191E1A,SDM,1,110012,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G94940E534A,SDM,1,171,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G952F24B710,SDM,1,IMH 2-22R-3,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G952F24B710,TLB,1,IMH 2-22R-3,1,Genotype,DOMAIN_SAFE,One normalized source name inside this domain
+G952F24B710,yield,1,IMH 2-22R-3,1,test,DOMAIN_SAFE,One normalized source name inside this domain
+G955705A090,SDM,1,MAI-224,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G964278009D,yield,1,MAH-22-16,1,test,DOMAIN_SAFE,One normalized source name inside this domain
+G96E30E22C3,SDM,1,QPMMH 22-35,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G96E30E22C3,TLB,1,QPMMH 22-35,1,Genotype,DOMAIN_SAFE,One normalized source name inside this domain
+G96E30E22C3,yield,1,QPMMH 22-35,1,test,DOMAIN_SAFE,One normalized source name inside this domain
+G96E822378A,SDM,1,VL-181763,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G98079D38AB,SDM,1,769,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G98A8A2590D,yield,1,KMH25K45 (Check),1,check,DOMAIN_SAFE,One normalized source name inside this domain
+G991E279C93,SDM,1,935,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G9935351411,SDM,1,109493,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G9940D605B9,SDM,1,MAI-729,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G9AA2116026,SDM,1,VL-18260,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G9B3AA2709C,SDM,1,746,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G9B6EE0C5D8,SDM,1,IQH7-219,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G9B6EE0C5D8,TLB,1,IQH7-219,1,Genotype,DOMAIN_SAFE,One normalized source name inside this domain
+G9B6EE0C5D8,yield,1,IQH7-219,1,test,DOMAIN_SAFE,One normalized source name inside this domain
+G9C882D5C6A,SDM,1,336,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G9D564201E2,SDM,1,VL-22294,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G9DA76FE8FA,SDM,1,ADV 7733,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G9DA76FE8FA,TLB,1,ADV 7733,1,Genotype,DOMAIN_SAFE,One normalized source name inside this domain
+G9DA76FE8FA,yield,1,ADV 7733,1,test,DOMAIN_SAFE,One normalized source name inside this domain
+G9DF9EB1BDD,SDM,1,SNL-19388,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G9EB4DD2E8F,SDM,1,109936,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G9EB950E9F5,SDM,1,LQMH1(C),1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G9EB950E9F5,TLB,1,LQMH1(C),1,Genotype,DOMAIN_SAFE,One normalized source name inside this domain
+G9EB950E9F5,yield,1,LQMH1 (Check),1,check,DOMAIN_SAFE,One normalized source name inside this domain
+G9ECBE15F00,SDM,1,109659,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G9EFC655E8A,SDM,1,VL-19957,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+G9F5874CCAF,yield,1,MAH-22-22,1,test,DOMAIN_SAFE,One normalized source name inside this domain
+G9FFD1AE121,SDM,1,241,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+GA08B3FCD4B,SDM,1,AH 8728,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+GA08B3FCD4B,TLB,1,AH 8728,1,Genotype,DOMAIN_SAFE,One normalized source name inside this domain
+GA08B3FCD4B,yield,1,AH 8728,1,test,DOMAIN_SAFE,One normalized source name inside this domain
+GA2FFAB41C2,SDM,1,Ellora Commando1112,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+GA2FFAB41C2,yield,1,Ellora Commando 1112,1,test,DOMAIN_SAFE,One normalized source name inside this domain
+GA316250D6F,SDM,1,MAI 276,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+GA386CEB5A9,SDM,1,MISHTI(C),1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+GA386CEB5A9,TLB,1,MISHTI(C),1,Genotype,DOMAIN_SAFE,One normalized source name inside this domain
+GA386CEB5A9,yield,1,MISHTI (Check),1,check,DOMAIN_SAFE,One normalized source name inside this domain
+GA41C23C958,SDM,1,MAI-215,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+GA478FE41E3,SDM,1,SNL-191172,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+GA4D3F017B6,SDM,1,109935,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+GA639594966,SDM,1,VL-18722,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+GA6E634F4BF,SDM,1,BRM19-1,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+GA6E634F4BF,TLB,1,BRM19-1,1,Genotype,DOMAIN_SAFE,One normalized source name inside this domain
+GA6E634F4BF,yield,1,BRM 19-1,1,test,DOMAIN_SAFE,One normalized source name inside this domain
+GA79E9A409B,SDM,1,684,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+GA8AB7BBC51,SDM,1,109466,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+GA8E59134B9,SDM,1,109484,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+GA9334987EC,SDM,1,52,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+GA9FE4D3A53,SDM,1,ZL-17578,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+GAB559330EC,SDM,1,PM 22208L,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+GAB559330EC,TLB,1,PM 22208L,1,Genotype,DOMAIN_SAFE,One normalized source name inside this domain
+GAB559330EC,yield,1,PM 22208L,1,test,DOMAIN_SAFE,One normalized source name inside this domain
+GAB6789E860,SDM,1,KMH 8585,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+GAB6789E860,TLB,1,KMH 8585,1,Genotype,DOMAIN_SAFE,One normalized source name inside this domain
+GAB6789E860,yield,1,KMH 8585,1,test,DOMAIN_SAFE,One normalized source name inside this domain
+GABE11D4B83,SDM,1,SMH 6222,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+GABE11D4B83,TLB,1,SMH 6222,1,Genotype,DOMAIN_SAFE,One normalized source name inside this domain
+GABE11D4B83,yield,1,SMH 6222,1,test,DOMAIN_SAFE,One normalized source name inside this domain
+GAC3E7B007D,SDM,1,443,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+GACE84D95F5,yield,1,CMH 08-282 (filler),1,filler,DOMAIN_SAFE,One normalized source name inside this domain
+GAD30D4C40A,SDM,1,109526,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+GADF0B55463,yield,1,Rank (1M),1,test,DOMAIN_SAFE,One normalized source name inside this domain
+GAE07F56B94,SDM,1,PM20205L,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+GAE07F56B94,yield,1,PM20205L,1,test,DOMAIN_SAFE,One normalized source name inside this domain
+GAE0FA11304,yield,1,MAH-22-23,1,test,DOMAIN_SAFE,One normalized source name inside this domain
+GAFECF995E0,SDM,1,PM21207L,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+GAFECF995E0,TLB,1,PM21207L,1,Genotype,DOMAIN_SAFE,One normalized source name inside this domain
+GAFECF995E0,yield,1,PM21207L,1,test,DOMAIN_SAFE,One normalized source name inside this domain
+GB0C68924AC,SDM,1,393,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+GB1B590268C,SDM,1,VL-22327,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+GB1DA54724E,SDM,1,109869,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+GB234050DA1,yield,1,MAH-22-55,1,test,DOMAIN_SAFE,One normalized source name inside this domain
+GB2B888DC15,SDM,1,109727,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+GB324289EFB,SDM,1,MAI-105,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+GB335894EB1,SDM,1,LPCH3 (C),1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+GB335894EB1,TLB,1,LPCH3 (C),1,Genotype,DOMAIN_SAFE,One normalized source name inside this domain
+GB335894EB1,yield,1,LPCH 3 (Check),1,check,DOMAIN_SAFE,One normalized source name inside this domain
+GB3F0C7F6BB,SDM,1,19,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+GB40DE7E415,yield,1,NAH-2049 - I,1,test,DOMAIN_SAFE,One normalized source name inside this domain
+GB63C6A708F,SDM,1,950,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+GB7103CA278,SDM,1,70,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+GB86713F91C,SDM,1,BH 417182,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+GB86713F91C,TLB,1,BH 417182,1,Genotype,DOMAIN_SAFE,One normalized source name inside this domain
+GB86713F91C,yield,1,BH 417182,1,test,DOMAIN_SAFE,One normalized source name inside this domain
+GB8EF6C6997,SDM,1,PM 22201L,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+GB8EF6C6997,TLB,1,PM 22201L,1,Genotype,DOMAIN_SAFE,One normalized source name inside this domain
+GB8EF6C6997,yield,1,PM 22201L,1,test,DOMAIN_SAFE,One normalized source name inside this domain
+GB903EA6300,SDM,1,516,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+GB93A6457A2,SDM,1,109710,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+GB9DF289F3B,SDM,1,MAH-14-5,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+GB9DF289F3B,TLB,1,MAH-14-5,1,RC,DOMAIN_SAFE,One normalized source name inside this domain
+GB9DF289F3B,yield,2,MAH 14-5 | MAH-14-5 (LC),1,LC,DOMAIN_SAFE,One normalized source name inside this domain
+GBA06689274,SDM,1,110134,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+GBA0DE32140,SDM,1,HQPM-5(C),1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+GBA0DE32140,TLB,1,HQPM-5(C),1,Genotype,DOMAIN_SAFE,One normalized source name inside this domain
+GBA0DE32140,yield,1,HQPM-5 (Check),1,check,DOMAIN_SAFE,One normalized source name inside this domain
+GBA0EFFF7CB,SDM,1,MAI-20,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+GBBBE5A9126,SDM,1,109850,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+GBBE44326D3,yield,1,MAH-22-80,1,test,DOMAIN_SAFE,One normalized source name inside this domain
+GBD307A3EC3,SDM,1,13,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+GBD76D8A02D,SDM,1,NAI-137-7,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+GC34C8E6F33,SDM,1,VL-22452,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+GC37AA3151D,SDM,1,VL-181418,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+GC3F7BD178C,SDM,1,BMH-18-2,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+GC3F7BD178C,TLB,1,BMH-18-2,1,Genotype,DOMAIN_SAFE,One normalized source name inside this domain
+GC3F7BD178C,yield,1,BMH 18-2,1,test,DOMAIN_SAFE,One normalized source name inside this domain
+GC43D770FBA,SDM,1,870,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+GC532CE6195,SDM,1,109534,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+GC5B76DA3E6,SDM,1,53,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+GC706D907D6,SDM,1,109497,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+GC71C3CB9C1,SDM,1,109860,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+GC7883CBFFA,SDM,1,SNL-172494,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+GC7A3F5574C,yield,2,MAH 15-84 | MAH-15-84,1,test,DOMAIN_SAFE,One normalized source name inside this domain
+GC80C1C1A8F,SDM,1,SYN207660,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+GC80C1C1A8F,TLB,1,SYN207660,1,Genotype,DOMAIN_SAFE,One normalized source name inside this domain
+GC80C1C1A8F,yield,1,SYN207660,1,test,DOMAIN_SAFE,One normalized source name inside this domain
+GC82E30B71B,SDM,1,BAUMH 21-1,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+GC82E30B71B,TLB,1,BAUMH 21-1,1,Genotype,DOMAIN_SAFE,One normalized source name inside this domain
+GC82E30B71B,yield,1,BAUMH 21-1,1,test,DOMAIN_SAFE,One normalized source name inside this domain
+GC830634712,SDM,1,IMH 2-22R-10,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+GC830634712,TLB,1,IMH 2-22R-10,1,Genotype,DOMAIN_SAFE,One normalized source name inside this domain
+GC830634712,yield,1,IMH 2-22R-10,1,test,DOMAIN_SAFE,One normalized source name inside this domain
+GC933DCC53F,SDM,1,VL-1110501,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+GC9A32D261E,SDM,1,110014,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+GC9ED8B88CF,SDM,1,HQPM1 (C),1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+GC9ED8B88CF,TLB,1,HQPM1(C),1,Genotype,DOMAIN_SAFE,One normalized source name inside this domain
+GCAB27499AE,SDM,1,IMH 2-22R-7,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+GCAB27499AE,TLB,1,IMH 2-22R-7,1,Genotype,DOMAIN_SAFE,One normalized source name inside this domain
+GCAB27499AE,yield,1,IMH 2-22R-7,1,test,DOMAIN_SAFE,One normalized source name inside this domain
+GCB4DD52770,SDM,1,323,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+GCB4FF63C08,SDM,1,BH 417157,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+GCB4FF63C08,TLB,1,BH 417157,1,Genotype,DOMAIN_SAFE,One normalized source name inside this domain
+GCB4FF63C08,yield,1,BH 417157,1,test,DOMAIN_SAFE,One normalized source name inside this domain
+GCB7A1D775E,SDM,1,37,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+GCC0734E0F3,SDM,1,109702,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+GCCEEAF617F,SDM,1,IMH 2-22R-9,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+GCCEEAF617F,TLB,1,IMH 2-22R-9,1,Genotype,DOMAIN_SAFE,One normalized source name inside this domain
+GCCEEAF617F,yield,1,IMH 2-22R-9,1,test,DOMAIN_SAFE,One normalized source name inside this domain
+GCD15DBD481,SDM,1,AH 4682,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+GCD15DBD481,TLB,1,AH 4682,1,Genotype,DOMAIN_SAFE,One normalized source name inside this domain
+GCD15DBD481,yield,1,AH 4682,1,test,DOMAIN_SAFE,One normalized source name inside this domain
+GCD15FAEB9E,SDM,1,AH 7043(C),1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+GCD15FAEB9E,TLB,1,AH 7043(C),1,Genotype,DOMAIN_SAFE,One normalized source name inside this domain
+GCD15FAEB9E,yield,1,AH 7043 (Check),1,check,DOMAIN_SAFE,One normalized source name inside this domain
+GCE05292603,SDM,1,40402,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+GCF40E858DD,SDM,1,SYN 227808,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+GCF40E858DD,TLB,1,SYN 227808,1,Genotype,DOMAIN_SAFE,One normalized source name inside this domain
+GCF40E858DD,yield,1,SYN 227808,1,test,DOMAIN_SAFE,One normalized source name inside this domain
+GCF6118DB86,SDM,1,109868,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+GD01952E182,SDM,1,MAH-19-2,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+GD01952E182,yield,2,MAH 19-2 | MAH-19-2,1,test,DOMAIN_SAFE,One normalized source name inside this domain
+GD0411851C6,SDM,1,MAI-1,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+GD04D500332,SDM,1,772,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+GD22DB789AC,SDM,1,PP 09,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+GD22DB789AC,TLB,1,PP 09,1,Genotype,DOMAIN_SAFE,One normalized source name inside this domain
+GD22DB789AC,yield,1,PP 09,1,test,DOMAIN_SAFE,One normalized source name inside this domain
+GD36550FC44,SDM,1,457,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+GD449B25B8D,SDM,1,835,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+GD528EDAA45,SDM,1,815,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+GD6175EAEA3,SDM,1,109753,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+GD6CF0E00F8,SDM,1,109939,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+GD7BD9BA297,SDM,1,52336,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+GD868DFEE66,SDM,1,MAH-22-2,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+GD91B30EDF3,SDM,1,109712,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+GD9494EBBE0,SDM,1,VL-181520,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+GD9935E84BD,SDM,1,1028,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+GDA87184898,SDM,1,VL-20227,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+GDA95793FB5,SDM,1,109870,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+GDAD97FC373,SDM,1,MAI-13,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+GDB00E4FDC8,SDM,1,654,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+GDCCF5F1C8F,SDM,1,MAI-8,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+GDCD7D0E3F3,SDM,1,643,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+GDCDDBBEF98,SDM,1,109866,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+GDD135F2E20,SDM,1,NAI 204-1,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+GDDA69957E4,SDM,1,SNL-18965,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+GDDA78DED45,SDM,1,MAI-7,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+GDFF17A997C,SDM,1,1039,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+GE00988F42F,SDM,1,787,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+GE07F3D7017,SDM,1,BAUMH 21-3,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+GE07F3D7017,TLB,1,BAUMH 21-3,1,Genotype,DOMAIN_SAFE,One normalized source name inside this domain
+GE07F3D7017,yield,1,BAUMH 21-3,1,test,DOMAIN_SAFE,One normalized source name inside this domain
+GE0F05ED4FD,SDM,1,1033,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+GE13E713E08,SDM,1,SKV-50 TALL,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+GE1C1BFEBAB,SDM,1,717,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+GE2748D183A,SDM,1,140977,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+GE29F7B5C09,SDM,1,929,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+GE37958C63E,SDM,1,110154,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+GE37FB75477,SDM,1,110137,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+GE4139919C5,SDM,1,PM21204L,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+GE4139919C5,TLB,1,PM21204L,1,Genotype,DOMAIN_SAFE,One normalized source name inside this domain
+GE4139919C5,yield,1,PM21204L,1,test,DOMAIN_SAFE,One normalized source name inside this domain
+GE4E695E2F7,SDM,1,KMH 8543,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+GE4E695E2F7,TLB,1,KMH 8543,1,Genotype,DOMAIN_SAFE,One normalized source name inside this domain
+GE4E695E2F7,yield,1,KMH 8543,1,test,DOMAIN_SAFE,One normalized source name inside this domain
+GE529419982,SDM,1,MSCH 22- 28,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+GE529419982,TLB,1,MSCH 22- 28,1,Genotype,DOMAIN_SAFE,One normalized source name inside this domain
+GE529419982,yield,1,MSCH 22-28,1,test,DOMAIN_SAFE,One normalized source name inside this domain
+GE6C44474CF,SDM,1,PM 22207L,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+GE6C44474CF,TLB,1,PM 22207L,1,Genotype,DOMAIN_SAFE,One normalized source name inside this domain
+GE6C44474CF,yield,1,PM 22207L,1,test,DOMAIN_SAFE,One normalized source name inside this domain
+GE6C790B5C2,SDM,1,832,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+GE7B21E2495,SDM,1,CML-581,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+GE85807B3A2,SDM,1,109964,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+GE8F4438576,SDM,1,109719,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+GE910558548,SDM,1,109773,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+GEA20DE7BFB,SDM,2,SURYA (C) | Surya (C),1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+GEA20DE7BFB,TLB,2,SURYA (C) | Surya (C),1,Genotype,DOMAIN_SAFE,One normalized source name inside this domain
+GEBCAB2A931,SDM,1,855,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+GEC2B67D546,SDM,1,467,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+GED6938A0E4,SDM,1,1298,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+GEDEEB0CF9B,SDM,1,VL-183003,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+GEE16EE0FA7,SDM,1,488,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+GEE49886656,SDM,1,674,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+GEED8B63708,SDM,2,CM 600 (C) | CM 600(C),1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+GEED8B63708,TLB,2,CM 600 (C) | CM 600(C),1,Genotype,DOMAIN_SAFE,One normalized source name inside this domain
+GEEDDD2B948,SDM,1,CMVL Baby corn 1(C),1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+GEEDDD2B948,TLB,1,CMVL Baby corn 1(C),1,Genotype,DOMAIN_SAFE,One normalized source name inside this domain
+GEEDDD2B948,yield,1,CMVL Baby corn 1 (check),1,check,DOMAIN_SAFE,One normalized source name inside this domain
+GEF20B2C218,SDM,1,IMH 2-22R-11,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+GEF20B2C218,TLB,1,IMH 2-22R-11,1,Genotype,DOMAIN_SAFE,One normalized source name inside this domain
+GEF20B2C218,yield,1,IMH 2-22R-11,1,test,DOMAIN_SAFE,One normalized source name inside this domain
+GEF7DE0B7DE,SDM,1,271,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+GEFE76DEBC0,SDM,1,856,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+GF022DA4E40,SDM,1,816,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+GF0483F255E,SDM,1,543,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+GF0E77A7D0B,SDM,1,CML-451,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+GF1C6FEB7A3,SDM,1,895,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+GF1F61D9081,SDM,1,VL-22308,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+GF369B47153,SDM,1,SNL-19123,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+GF422887390,SDM,1,BAUMH 21-1-1,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+GF422887390,TLB,1,BAUMH 21-1-1,1,Genotype,DOMAIN_SAFE,One normalized source name inside this domain
+GF422887390,yield,1,BAUMH 21-1-1,1,test,DOMAIN_SAFE,One normalized source name inside this domain
+GF4661A113C,SDM,1,NMH 713(C),1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+GF4661A113C,TLB,1,NMH 713(C),1,Genotype,DOMAIN_SAFE,One normalized source name inside this domain
+GF4661A113C,yield,2,NMH 713 (C) | NMH 713 (Check),1,check,DOMAIN_SAFE,One normalized source name inside this domain
+GF4904FFC38,SDM,1,822,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+GF4EC1BAE64,SDM,1,VL-18730,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+GF5354C576B,SDM,1,723,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+GF59275A765,yield,1,MAH-22-33,1,test,DOMAIN_SAFE,One normalized source name inside this domain
+GF67462663A,SDM,1,187,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+GF8B5F622DC,SDM,1,465,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+GF97CFCC6F4,SDM,1,DMRHP 1402(C),1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+GF97CFCC6F4,TLB,1,DMRHP 1402(C),1,Genotype,DOMAIN_SAFE,One normalized source name inside this domain
+GF97CFCC6F4,yield,1,DMRHP 1402 (Check),1,check,DOMAIN_SAFE,One normalized source name inside this domain
+GF9DC2C2112,SDM,1,109872,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+GFBC67ED5FE,SDM,1,109654,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+GFC1200C7A7,SDM,1,789,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+GFC8D9E6E58,SDM,1,569,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+GFCCEB0DC83,SDM,1,MPCH 22-22,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+GFCCEB0DC83,TLB,1,MPCH 22-22,1,Genotype,DOMAIN_SAFE,One normalized source name inside this domain
+GFCCEB0DC83,yield,1,MPCH 22-22,1,test,DOMAIN_SAFE,One normalized source name inside this domain
+GFE62121474,SDM,1,PM 22204L,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+GFE62121474,TLB,1,PM 22204L,1,Genotype,DOMAIN_SAFE,One normalized source name inside this domain
+GFE62121474,yield,1,PM 22204L,1,test,DOMAIN_SAFE,One normalized source name inside this domain
+GFED5287A8D,SDM,1,VL-21927,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+GFFC11E7493,SDM,1,PUSA BIOFORTIFIED MAIZE HYBRID-1(C),1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain
+GFFC11E7493,TLB,1,PUSA BIOFORTIFIED MAIZE HYBRID-1(C),1,Genotype,DOMAIN_SAFE,One normalized source name inside this domain
+GFFC11E7493,yield,1,PUSA BIOFORTIFIED MAIZE HYBRID-1,1,check,DOMAIN_SAFE,One normalized source name inside this domain
+GFFFB8E8579,SDM,1,334,1,test_entry,DOMAIN_SAFE,One normalized source name inside this domain

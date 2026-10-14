@@ -1,0 +1,7 @@
+Phase 10 review instructions
+
+GLOBAL identity: Unique source names are auto-confirmed. Alias groups remain PENDING_REVIEW.
+DOMAIN identity: A genotype can be DOMAIN_SAFE when only one normalized source name occurs inside a modeling domain, even if another domain uses a check/test/category qualifier.
+To make a pending alias globally confirmed, edit GENOTYPE_IDENTITY_DECISIONS.csv and set final_status=CONFIRMED.
+Set final_status=EXCLUDED to stop a genotype from production use.
+After edits, rerun Phase 10, then Phase 11 and Phase 12.

@@ -1,0 +1,10 @@
+rule_id,rule,action,reason
+ML01,Use experiment_observation rows from yield/TLB/SDM for genotype-level models,KEEP,These are the biological experimental observations
+ML02,Exclude yield General Mean/Location Mean/CD/CV/statistic rows,EXCLUDE,"They are experiment summaries, not genotype observations"
+ML03,Remove only exact duplicate later occurrences in clean layer,EXCLUDE,Prevents accidental double weighting
+ML04,Do not auto-resolve semantic collisions,REVIEW,Repeated identifiers may represent repeated source rows or distinct observations
+ML05,Treat GF/NG as missing-state metadata,REVIEW,Never convert to numeric zero
+ML06,Validate genotype aliases before cross-document joining,REVIEW,Avoid false joins caused by OCR/name variants
+ML07,Do not use inference/narrative conclusions as predictive features,EXCLUDE,Can leak the target or post-experiment conclusion
+ML08,Keep source_page/source_section in every downstream dataset,KEEP,Supports traceability and auditing
+ML09,Do not overwrite raw master while cleaning,KEEP,Raw provenance must remain reproducible

@@ -1,0 +1,2 @@
+status,reason
+REFERENCE_WEATHER_ONLY,Weather file found but no date column for time-aware modeling

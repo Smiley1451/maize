@@ -1,0 +1,17 @@
+﻿[2026-09-30 08:48:35] ==============================================================
+[2026-09-30 08:48:35] PHASE 13: ADVANCED YIELD MODELING
+[2026-09-30 08:48:35] ==============================================================
+[2026-09-30 08:48:36] ADVANCED YIELD DATA: 117 rows, 111 genotypes, 8 experiments
+[2026-09-30 08:48:36] TRAINING ADVANCED YIELD Ridge model - grouped CV...
+[2026-09-30 08:48:36] ADVANCED YIELD Ridge model done
+[2026-09-30 08:48:36] TRAINING ADVANCED YIELD RandomForest model - grouped CV...
+[2026-09-30 08:48:41] ADVANCED YIELD RandomForest model done
+[2026-09-30 08:48:41] TRAINING ADVANCED YIELD ExtraTrees model - grouped CV...
+[2026-09-30 08:48:45] ADVANCED YIELD ExtraTrees model done
+[2026-09-30 08:48:45] TRAINING ADVANCED YIELD HistGradientBoosting model - grouped CV...
+[2026-09-30 08:48:47] ADVANCED YIELD HistGradientBoosting model done
+[2026-09-30 08:48:47] TRAINING ADVANCED YIELD XGBoost model - grouped CV...
+[2026-09-30 08:48:54] ADVANCED YIELD XGBoost model done
+[2026-09-30 08:48:55] PHASE 13 DONE: Advanced yield modeling complete
+
+

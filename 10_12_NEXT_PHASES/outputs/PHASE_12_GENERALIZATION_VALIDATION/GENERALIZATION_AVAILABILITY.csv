@@ -1,0 +1,13 @@
+dataset,validation_type,available_groups,status
+YIELD,Location holdout,1,NOT_AVAILABLE_YET
+YIELD,Season holdout,1,NOT_AVAILABLE_YET
+YIELD,Experiment holdout,8,AVAILABLE
+YIELD,Genotype grouped CV,111,AVAILABLE
+TLB,Location holdout,1,NOT_AVAILABLE_YET
+TLB,Season holdout,1,NOT_AVAILABLE_YET
+TLB,Experiment holdout,3,AVAILABLE
+TLB,Genotype grouped CV,106,AVAILABLE
+SDM,Location holdout,1,NOT_AVAILABLE_YET
+SDM,Season holdout,1,NOT_AVAILABLE_YET
+SDM,Experiment holdout,3,AVAILABLE
+SDM,Genotype grouped CV,108,AVAILABLE

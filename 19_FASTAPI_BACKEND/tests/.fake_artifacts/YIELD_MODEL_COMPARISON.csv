@@ -1,0 +1,2 @@
+model,mae,rmse,r2
+Ridge,10,20,0.5

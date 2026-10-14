@@ -1,0 +1,7 @@
+﻿[2026-09-30 08:58:19] ==============================================================
+[2026-09-30 08:58:19] PHASE 16: WEATHER-DRIVEN DISEASE FORECASTING
+[2026-09-30 08:58:19] ==============================================================
+[2026-09-30 08:58:19] Using weather candidate: D:\MAIZE_AI_ML_DIGITALIZATION_PROJECT_FINAL\MAIZE_AI_ML_DIGITALIZATION_PROJECT\08_AUTOMATED_PIPELINE\outputs\05_WEATHER_RISK\WEATHER_MONTHLY_2023_FEATURES.csv
+[2026-09-30 08:58:19] PHASE 16 DONE: weather reference data found, but no date field is available for time-aware training.
+
+

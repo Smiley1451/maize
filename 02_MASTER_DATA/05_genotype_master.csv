@@ -1,0 +1,508 @@
+﻿genotype_id,canonical_name,normalized_key,domains,experiment_count,document_count,matching_note
+G000001,AH 4672,AH4672,SDM;TLB;yield,3,3,normalized key is for candidate matching only; raw names are preserved
+G000002,AH 4682,AH4682,SDM;TLB;yield,3,3,normalized key is for candidate matching only; raw names are preserved
+G000003,AH 8194,AH8194,SDM;TLB;yield,3,3,normalized key is for candidate matching only; raw names are preserved
+G000004,AH 8728,AH8728,SDM;TLB;yield,3,3,normalized key is for candidate matching only; raw names are preserved
+G000005,AHD 2065,AHD2065,SDM;TLB;yield,3,3,normalized key is for candidate matching only; raw names are preserved
+G000006,BAUMH 21-1,BAUMH211,SDM;TLB;yield,3,3,normalized key is for candidate matching only; raw names are preserved
+G000007,BAUMH 21-3,BAUMH213,SDM;TLB;yield,3,3,normalized key is for candidate matching only; raw names are preserved
+G000008,BAUMH 21-4,BAUMH214,SDM;yield,2,2,normalized key is for candidate matching only; raw names are preserved
+G000009,BH 417167,BH417167,SDM;TLB;yield,3,3,normalized key is for candidate matching only; raw names are preserved
+G000010,BRM 19-1,BRM191,yield,1,1,normalized key is for candidate matching only; raw names are preserved
+G000011,BRM 19-2,BRM192,SDM;TLB;yield,3,3,normalized key is for candidate matching only; raw names are preserved
+G000012,BS 652,BS652,SDM;TLB;yield,3,3,normalized key is for candidate matching only; raw names are preserved
+G000013,Ellora Virat-12,ELLORAVIRAT12,SDM;TLB;yield,3,3,normalized key is for candidate matching only; raw names are preserved
+G000014,IMH 2-22R-1,IMH222R1,SDM;TLB;yield,3,3,normalized key is for candidate matching only; raw names are preserved
+G000015,IMH 2-22R-10,IMH222R10,SDM;TLB;yield,3,3,normalized key is for candidate matching only; raw names are preserved
+G000016,IMH 2-22R-11,IMH222R11,SDM;TLB;yield,3,3,normalized key is for candidate matching only; raw names are preserved
+G000017,IMH 2-22R-12,IMH222R12,SDM;TLB;yield,3,3,normalized key is for candidate matching only; raw names are preserved
+G000018,IMH 2-22R-2,IMH222R2,SDM;TLB;yield,3,3,normalized key is for candidate matching only; raw names are preserved
+G000019,IMH 2-22R-3,IMH222R3,SDM;TLB;yield,3,3,normalized key is for candidate matching only; raw names are preserved
+G000020,IMH 2-22R-4,IMH222R4,SDM;TLB;yield,3,3,normalized key is for candidate matching only; raw names are preserved
+G000021,IMH 2-22R-5,IMH222R5,SDM;TLB;yield,3,3,normalized key is for candidate matching only; raw names are preserved
+G000022,IMH 2-22R-6,IMH222R6,SDM;TLB;yield,3,3,normalized key is for candidate matching only; raw names are preserved
+G000023,IMH 2-22R-7,IMH222R7,SDM;TLB;yield,3,3,normalized key is for candidate matching only; raw names are preserved
+G000024,IMH 2-22R-8,IMH222R8,SDM;TLB;yield,3,3,normalized key is for candidate matching only; raw names are preserved
+G000025,IMH 2-22R-9,IMH222R9,SDM;TLB;yield,3,3,normalized key is for candidate matching only; raw names are preserved
+G000026,KMH 22-5,KMH225,SDM;TLB;yield,3,3,normalized key is for candidate matching only; raw names are preserved
+G000027,MMH 22-45,MMH2245,SDM;TLB;yield,3,3,normalized key is for candidate matching only; raw names are preserved
+G000028,MMH 22-52,MMH2252,SDM;TLB;yield,3,3,normalized key is for candidate matching only; raw names are preserved
+G000029,OMH 22R-2,OMH22R2,SDM;TLB;yield,3,3,normalized key is for candidate matching only; raw names are preserved
+G000030,SYN 227 705,SYN227705,yield,1,1,normalized key is for candidate matching only; raw names are preserved
+G000031,SYN 227808,SYN227808,SDM;TLB;yield,3,3,normalized key is for candidate matching only; raw names are preserved
+G000032,SYN 227809,SYN227809,SDM;TLB;yield,3,3,normalized key is for candidate matching only; raw names are preserved
+G000033,VAH 20001,VAH20001,SDM;TLB;yield,3,3,normalized key is for candidate matching only; raw names are preserved
+G000034,Bio 9544 (check),BIO9544CHECK,yield,1,1,normalized key is for candidate matching only; raw names are preserved
+G000035,DHM 117 (check),DHM117CHECK,yield,1,1,normalized key is for candidate matching only; raw names are preserved
+G000036,CMH 08-282 (filler),CMH08282FILLER,yield,1,1,normalized key is for candidate matching only; raw names are preserved
+G000037,ADV 7126,ADV7126,SDM;TLB;yield,3,3,normalized key is for candidate matching only; raw names are preserved
+G000038,ADV 7251,ADV7251,SDM;TLB;yield,3,3,normalized key is for candidate matching only; raw names are preserved
+G000039,AH 8245,AH8245,SDM;TLB;yield,3,3,normalized key is for candidate matching only; raw names are preserved
+G000040,AHD 8721,AHD8721,SDM;TLB;yield,3,3,normalized key is for candidate matching only; raw names are preserved
+G000041,AHD 8722,AHD8722,SDM;TLB;yield,3,3,normalized key is for candidate matching only; raw names are preserved
+G000042,BH 417157,BH417157,SDM;TLB;yield,3,3,normalized key is for candidate matching only; raw names are preserved
+G000043,BS 650,BS650,SDM;TLB;yield,3,3,normalized key is for candidate matching only; raw names are preserved
+G000044,DM 9445,DM9445,SDM;TLB;yield,3,3,normalized key is for candidate matching only; raw names are preserved
+G000045,Ellora Commando 1112,ELLORACOMMANDO1112,yield,1,1,normalized key is for candidate matching only; raw names are preserved
+G000046,KMH 8333,KMH8333,SDM;TLB;yield,3,3,normalized key is for candidate matching only; raw names are preserved
+G000047,KMH 8543,KMH8543,SDM;TLB;yield,3,3,normalized key is for candidate matching only; raw names are preserved
+G000048,KMH 8585,KMH8585,SDM;TLB;yield,3,3,normalized key is for candidate matching only; raw names are preserved
+G000049,MMH 22-62,MMH2262,SDM;TLB;yield,3,3,normalized key is for candidate matching only; raw names are preserved
+G000050,MMH 22-67,MMH2267,SDM;TLB;yield,3,3,normalized key is for candidate matching only; raw names are preserved
+G000051,PM 22201L,PM22201L,SDM;TLB;yield,3,3,normalized key is for candidate matching only; raw names are preserved
+G000052,PM 22202L,PM22202L,SDM;TLB;yield,3,3,normalized key is for candidate matching only; raw names are preserved
+G000053,PM 22203L,PM22203L,SDM;TLB;yield,3,3,normalized key is for candidate matching only; raw names are preserved
+G000054,PM 22204L,PM22204L,SDM;TLB;yield,3,3,normalized key is for candidate matching only; raw names are preserved
+G000055,PM 22205L,PM22205L,SDM;TLB;yield,3,3,normalized key is for candidate matching only; raw names are preserved
+G000056,PM 22206L,PM22206L,SDM;TLB;yield,3,3,normalized key is for candidate matching only; raw names are preserved
+G000057,PM 22207L,PM22207L,SDM;TLB;yield,3,3,normalized key is for candidate matching only; raw names are preserved
+G000058,PM 22208L,PM22208L,SDM;TLB;yield,3,3,normalized key is for candidate matching only; raw names are preserved
+G000059,SMH 6222,SMH6222,SDM;TLB;yield,3,3,normalized key is for candidate matching only; raw names are preserved
+G000060,SMH 6333,SMH6333,SDM;TLB;yield,3,3,normalized key is for candidate matching only; raw names are preserved
+G000061,KHM 25K45 (C),KHM25K45C,yield,1,1,normalized key is for candidate matching only; raw names are preserved
+G000062,NMH 713 (C),NMH713C,yield,1,1,normalized key is for candidate matching only; raw names are preserved
+G000063,P 3522 (C),P3522C,SDM;TLB;yield,3,3,normalized key is for candidate matching only; raw names are preserved
+G000064,ADV 7415,ADV7415,SDM;TLB;yield,3,3,normalized key is for candidate matching only; raw names are preserved
+G000065,ADV 7559,ADV7559,SDM;TLB;yield,3,3,normalized key is for candidate matching only; raw names are preserved
+G000066,BH 417193,BH417193,SDM;TLB;yield,3,3,normalized key is for candidate matching only; raw names are preserved
+G000067,PM21204L,PM21204L,SDM;TLB;yield,3,3,normalized key is for candidate matching only; raw names are preserved
+G000068,PM21207L,PM21207L,SDM;TLB;yield,3,3,normalized key is for candidate matching only; raw names are preserved
+G000069,TMMH 2845,TMMH2845,SDM;TLB;yield,3,3,normalized key is for candidate matching only; raw names are preserved
+G000070,KMH25K45 (Check),KMH25K45CHECK,yield,2,1,normalized key is for candidate matching only; raw names are preserved
+G000071,NMH 713 (Check),NMH713CHECK,yield,2,1,normalized key is for candidate matching only; raw names are preserved
+G000072,P 3522 (Check),P3522CHECK,yield,2,1,normalized key is for candidate matching only; raw names are preserved
+G000073,ADV 7733,ADV7733,SDM;TLB;yield,3,3,normalized key is for candidate matching only; raw names are preserved
+G000074,PM20205L,PM20205L,SDM;yield,2,2,normalized key is for candidate matching only; raw names are preserved
+G000075,TMMH 2882,TMMH2882,SDM;TLB;yield,3,3,normalized key is for candidate matching only; raw names are preserved
+G000076,VNR 4597,VNR4597,SDM;TLB;yield,3,3,normalized key is for candidate matching only; raw names are preserved
+G000077,BH 417182,BH417182,SDM;TLB;yield,3,3,normalized key is for candidate matching only; raw names are preserved
+G000078,BH 417206,BH417206,SDM;TLB;yield,3,3,normalized key is for candidate matching only; raw names are preserved
+G000079,BMH 18-2,BMH182,yield,1,1,normalized key is for candidate matching only; raw names are preserved
+G000080,IMHSB 20R-11,IMHSB20R11,SDM;TLB;yield,3,3,normalized key is for candidate matching only; raw names are preserved
+G000081,IMHSB 20R-3,IMHSB20R3,SDM;TLB;yield,3,3,normalized key is for candidate matching only; raw names are preserved
+G000082,IMHSB 21R-7,IMHSB21R7,SDM;TLB;yield,3,3,normalized key is for candidate matching only; raw names are preserved
+G000083,SYN217806,SYN217806,SDM;TLB;yield,3,3,normalized key is for candidate matching only; raw names are preserved
+G000084,Bio 9544 (C),BIO9544C,yield,1,1,normalized key is for candidate matching only; raw names are preserved
+G000085,DMH 117 (C),DMH117C,yield,1,1,normalized key is for candidate matching only; raw names are preserved
+G000086,DKC 8225,DKC8225,SDM;TLB;yield,3,3,normalized key is for candidate matching only; raw names are preserved
+G000087,IMHSB 20R-6,IMHSB20R6,SDM;TLB;yield,3,3,normalized key is for candidate matching only; raw names are preserved
+G000088,IMHSB 20R-10,IMHSB20R10,SDM;TLB;yield,3,3,normalized key is for candidate matching only; raw names are preserved
+G000089,SYN207660,SYN207660,SDM;TLB;yield,3,3,normalized key is for candidate matching only; raw names are preserved
+G000090,SYN207884,SYN207884,SDM;TLB;yield,3,3,normalized key is for candidate matching only; raw names are preserved
+G000091,Bio 9544 (Check),BIO9544CHECK,yield,1,1,normalized key is for candidate matching only; raw names are preserved
+G000092,DHM 117 (Check),DHM117CHECK,yield,1,1,normalized key is for candidate matching only; raw names are preserved
+G000093,BSCH 418184,BSCH418184,SDM;TLB;yield,3,3,normalized key is for candidate matching only; raw names are preserved
+G000094,HI BRIX 33,HIBRIX33,SDM;TLB;yield,3,3,normalized key is for candidate matching only; raw names are preserved
+G000095,HI BRIX 59,HIBRIX59,SDM;TLB;yield,3,3,normalized key is for candidate matching only; raw names are preserved
+G000096,HI BRIX 81,HIBRIX81,SDM;yield,2,2,normalized key is for candidate matching only; raw names are preserved
+G000097,MSCH 22-28,MSCH2228,yield,1,1,normalized key is for candidate matching only; raw names are preserved
+G000098,ASKH 4 (Check),ASKH4CHECK,yield,1,1,normalized key is for candidate matching only; raw names are preserved
+G000099,MISHTI (Check),MISHTICHECK,yield,1,1,normalized key is for candidate matching only; raw names are preserved
+G000100,VL Sweet Corn (check),VLSWEETCORNCHECK,yield,1,1,normalized key is for candidate matching only; raw names are preserved
+G000101,APQH1,APQH1,SDM;TLB;yield,3,3,normalized key is for candidate matching only; raw names are preserved
+G000102,APQH5,APQH5,SDM;TLB;yield,3,3,normalized key is for candidate matching only; raw names are preserved
+G000103,APQH7,APQH7,SDM;TLB;yield,3,3,normalized key is for candidate matching only; raw names are preserved
+G000104,IQH7-215,IQH7215,SDM;TLB;yield,3,3,normalized key is for candidate matching only; raw names are preserved
+G000105,IQH7-219,IQH7219,SDM;TLB;yield,3,3,normalized key is for candidate matching only; raw names are preserved
+G000106,MQH 21-51,MQH2151,SDM;TLB;yield,3,3,normalized key is for candidate matching only; raw names are preserved
+G000107,QPMMH 22-35,QPMMH2235,SDM;TLB;yield,3,3,normalized key is for candidate matching only; raw names are preserved
+G000108,HQPM 1 (Check),HQPM1CHECK,yield,1,1,normalized key is for candidate matching only; raw names are preserved
+G000109,HQPM-5 (Check),HQPM5CHECK,yield,1,1,normalized key is for candidate matching only; raw names are preserved
+G000110,HQPM-7 (Check),HQPM7CHECK,yield,1,1,normalized key is for candidate matching only; raw names are preserved
+G000111,LQMH1 (Check),LQMH1CHECK,yield,1,1,normalized key is for candidate matching only; raw names are preserved
+G000112,PUSA BIOFORTIFIED MAIZE HYBRID-1,PUSABIOFORTIFIEDMAIZEHYBRID1,yield,1,1,normalized key is for candidate matching only; raw names are preserved
+G000113,APCH 4,APCH4,SDM;TLB;yield,3,3,normalized key is for candidate matching only; raw names are preserved
+G000114,CHCP 2204,CHCP2204,SDM;TLB;yield,3,3,normalized key is for candidate matching only; raw names are preserved
+G000115,CHCP 2205,CHCP2205,SDM;TLB;yield,3,3,normalized key is for candidate matching only; raw names are preserved
+G000116,CHCP 2206,CHCP2206,SDM;TLB;yield,3,3,normalized key is for candidate matching only; raw names are preserved
+G000117,CHCP 2207,CHCP2207,SDM;TLB;yield,3,3,normalized key is for candidate matching only; raw names are preserved
+G000118,HPC 4,HPC4,SDM;TLB;yield,3,3,normalized key is for candidate matching only; raw names are preserved
+G000119,HPC 5,HPC5,SDM;TLB;yield,3,3,normalized key is for candidate matching only; raw names are preserved
+G000120,IMHP 2101,IMHP2101,SDM;TLB;yield,3,3,normalized key is for candidate matching only; raw names are preserved
+G000121,IPH 2-22R-1,IPH222R1,SDM;TLB;yield,3,3,normalized key is for candidate matching only; raw names are preserved
+G000122,MPC 2141,MPC2141,SDM;TLB;yield,3,3,normalized key is for candidate matching only; raw names are preserved
+G000123,MPCH 22-22,MPCH2222,SDM;TLB;yield,3,3,normalized key is for candidate matching only; raw names are preserved
+G000124,PP 09,PP09,SDM;TLB;yield,3,3,normalized key is for candidate matching only; raw names are preserved
+G000125,PP II,PPII,SDM;TLB;yield,3,3,normalized key is for candidate matching only; raw names are preserved
+G000126,BPCH 6 (Check),BPCH6CHECK,yield,1,1,normalized key is for candidate matching only; raw names are preserved
+G000127,DMRHP 1402 (Check),DMRHP1402CHECK,yield,1,1,normalized key is for candidate matching only; raw names are preserved
+G000128,LPCH 3 (Check),LPCH3CHECK,yield,1,1,normalized key is for candidate matching only; raw names are preserved
+G000129,BAUMH 21-1-1,BAUMH2111,SDM;TLB;yield,3,3,normalized key is for candidate matching only; raw names are preserved
+G000130,BAUMH 21-8,BAUMH218,SDM;TLB;yield,3,3,normalized key is for candidate matching only; raw names are preserved
+G000131,IBH 9-224,IBH9224,SDM;TLB;yield,3,3,normalized key is for candidate matching only; raw names are preserved
+G000132,IBH9-225,IBH9225,SDM;TLB;yield,3,3,normalized key is for candidate matching only; raw names are preserved
+G000133,IIVRBCH 1613,IIVRBCH1613,yield,1,1,normalized key is for candidate matching only; raw names are preserved
+G000134,MBC 21-10,MBC2110,SDM;TLB;yield,3,3,normalized key is for candidate matching only; raw names are preserved
+G000135,MBC 22-32,MBC2232,SDM;TLB;yield,3,3,normalized key is for candidate matching only; raw names are preserved
+G000136,ABSH-1 (Check),ABSH1CHECK,yield,1,1,normalized key is for candidate matching only; raw names are preserved
+G000137,AH 7043 (Check),AH7043CHECK,yield,1,1,normalized key is for candidate matching only; raw names are preserved
+G000138,CMVL Baby corn 1 (check),CMVLBABYCORN1CHECK,yield,1,1,normalized key is for candidate matching only; raw names are preserved
+G000139,CP -201,CP201,yield,1,1,normalized key is for candidate matching only; raw names are preserved
+G000140,CP -202,CP202,yield,1,1,normalized key is for candidate matching only; raw names are preserved
+G000141,Bio-9544 (NC),BIO9544NC,yield,2,1,normalized key is for candidate matching only; raw names are preserved
+G000142,MAH-14-5 (LC),MAH145LC,yield,3,1,normalized key is for candidate matching only; raw names are preserved
+G000143,Rank (1M),RANK1M,yield,1,1,normalized key is for candidate matching only; raw names are preserved
+G000144,MAH-22-23,MAH2223,yield,1,1,normalized key is for candidate matching only; raw names are preserved
+G000145,MAH-22-28,MAH2228,yield,1,1,normalized key is for candidate matching only; raw names are preserved
+G000146,MAH-22-17,MAH2217,yield,2,1,normalized key is for candidate matching only; raw names are preserved
+G000147,MAH-22-16,MAH2216,yield,1,1,normalized key is for candidate matching only; raw names are preserved
+G000148,MAH-22-9,MAH229,yield,1,1,normalized key is for candidate matching only; raw names are preserved
+G000149,MAH-22-33,MAH2233,yield,1,1,normalized key is for candidate matching only; raw names are preserved
+G000150,MAH-22-107,MAH22107,yield,1,1,normalized key is for candidate matching only; raw names are preserved
+G000151,MAH-22-80,MAH2280,yield,1,1,normalized key is for candidate matching only; raw names are preserved
+G000152,MAH-22-32,MAH2232,yield,1,1,normalized key is for candidate matching only; raw names are preserved
+G000153,MAH-22-12,MAH2212,yield,1,1,normalized key is for candidate matching only; raw names are preserved
+G000154,MAH-22-83,MAH2283,yield,1,1,normalized key is for candidate matching only; raw names are preserved
+G000155,MAH-22-21,MAH2221,yield,1,1,normalized key is for candidate matching only; raw names are preserved
+G000156,MAH-22-22,MAH2222,yield,1,1,normalized key is for candidate matching only; raw names are preserved
+G000157,MAH-22-113,MAH22113,yield,2,1,normalized key is for candidate matching only; raw names are preserved
+G000158,MAH-22-4,MAH224,SDM;yield,2,2,normalized key is for candidate matching only; raw names are preserved
+G000159,MAH-22-11,MAH2211,yield,1,1,normalized key is for candidate matching only; raw names are preserved
+G000160,MAH 19-2,MAH192,yield,1,1,normalized key is for candidate matching only; raw names are preserved
+G000161,Bio-9544,BIO9544,yield,1,1,normalized key is for candidate matching only; raw names are preserved
+G000162,MAH 15-84,MAH1584,yield,1,1,normalized key is for candidate matching only; raw names are preserved
+G000163,MAH 14-5,MAH145,yield,1,1,normalized key is for candidate matching only; raw names are preserved
+G000164,MAH 14-138,MAH14138,yield,1,1,normalized key is for candidate matching only; raw names are preserved
+G000165,MAH-19-2,MAH192,SDM;yield,2,2,normalized key is for candidate matching only; raw names are preserved
+G000166,MAH-15-84,MAH1584,yield,1,1,normalized key is for candidate matching only; raw names are preserved
+G000167,MAH-22-46,MAH2246,yield,1,1,normalized key is for candidate matching only; raw names are preserved
+G000168,MAH-22-3,MAH223,SDM;yield,2,2,normalized key is for candidate matching only; raw names are preserved
+G000169,MAH-22-55,MAH2255,yield,1,1,normalized key is for candidate matching only; raw names are preserved
+G000170,MAH-21-501,MAH21501,yield,1,1,normalized key is for candidate matching only; raw names are preserved
+G000171,NAH-2049 - I,NAH2049I,yield,1,1,normalized key is for candidate matching only; raw names are preserved
+G000172,NAH-2049 -II,NAH2049II,yield,1,1,normalized key is for candidate matching only; raw names are preserved
+G000173,MAH-14-138,MAH14138,SDM;yield,2,2,normalized key is for candidate matching only; raw names are preserved
+G000174,BIO-9544 (NC),BIO9544NC,yield,1,1,normalized key is for candidate matching only; raw names are preserved
+G000175,Ellora Commando112,ELLORACOMMANDO112,TLB,1,1,normalized key is for candidate matching only; raw names are preserved
+G000176,PM2020SL,PM2020SL,TLB,1,1,normalized key is for candidate matching only; raw names are preserved
+G000177,NMH 713(C),NMH713C,SDM;TLB,2,2,normalized key is for candidate matching only; raw names are preserved
+G000178,KHM 25K45(C),KHM25K45C,SDM;TLB,2,2,normalized key is for candidate matching only; raw names are preserved
+G000179,CM 600 (C),CM600C,SDM;TLB,2,2,normalized key is for candidate matching only; raw names are preserved
+G000180,BIO 9544 (C),BIO9544C,SDM;TLB,2,2,normalized key is for candidate matching only; raw names are preserved
+G000181,Surya (C),SURYAC,SDM;TLB,4,2,normalized key is for candidate matching only; raw names are preserved
+G000182,African Tall(c),AFRICANTALLC,TLB,1,1,normalized key is for candidate matching only; raw names are preserved
+G000183,DHM 117(Filler),DHM117FILLER,SDM;TLB,2,2,normalized key is for candidate matching only; raw names are preserved
+G000184,MAH-14-5,MAH145,SDM;TLB,4,2,normalized key is for candidate matching only; raw names are preserved
+G000185,CM - 202,CM202,TLB,2,1,normalized key is for candidate matching only; raw names are preserved
+G000186,SYN 227705,SYN227705,SDM;TLB,2,2,normalized key is for candidate matching only; raw names are preserved
+G000187,BAUMH21-4,BAUMH214,TLB,1,1,normalized key is for candidate matching only; raw names are preserved
+G000188,BRM19-1,BRM191,SDM;TLB,2,2,normalized key is for candidate matching only; raw names are preserved
+G000189,BMH-18-2,BMH182,SDM;TLB,2,2,normalized key is for candidate matching only; raw names are preserved
+G000190,BIO 9544(C),BIO9544C,SDM;TLB,4,2,normalized key is for candidate matching only; raw names are preserved
+G000191,DHM 117(C),DHM117C,SDM;TLB,2,2,normalized key is for candidate matching only; raw names are preserved
+G000192,CM 600(C),CM600C,SDM;TLB,4,2,normalized key is for candidate matching only; raw names are preserved
+G000193,SURYA (C),SURYAC,SDM;TLB,2,2,normalized key is for candidate matching only; raw names are preserved
+G000194,African Tall(C),AFRICANTALLC,SDM;TLB,3,2,normalized key is for candidate matching only; raw names are preserved
+G000195,CM-202,CM202,TLB,1,1,normalized key is for candidate matching only; raw names are preserved
+G000196,LQMH1(C),LQMH1C,SDM;TLB,2,2,normalized key is for candidate matching only; raw names are preserved
+G000197,HQPM1(C),HQPM1C,TLB,1,1,normalized key is for candidate matching only; raw names are preserved
+G000198,PUSA BIOFORTIFIED MAIZE HYBRID-1(C),PUSABIOFORTIFIEDMAIZEHYBRID1C,SDM;TLB,2,2,normalized key is for candidate matching only; raw names are preserved
+G000199,HQPM-5(C),HQPM5C,SDM;TLB,2,2,normalized key is for candidate matching only; raw names are preserved
+G000200,HQPM-7(C),HQPM7C,SDM;TLB,2,2,normalized key is for candidate matching only; raw names are preserved
+G000201,HI BRIX81,HIBRIX81,TLB,1,1,normalized key is for candidate matching only; raw names are preserved
+G000202,MSCH 22- 28,MSCH2228,SDM;TLB,2,2,normalized key is for candidate matching only; raw names are preserved
+G000203,MISHTI(C),MISHTIC,SDM;TLB,2,2,normalized key is for candidate matching only; raw names are preserved
+G000204,ASKH 4(C),ASKH4C,SDM;TLB,2,2,normalized key is for candidate matching only; raw names are preserved
+G000205,VL Sweet Corn(C),VLSWEETCORNC,SDM;TLB,2,2,normalized key is for candidate matching only; raw names are preserved
+G000206,LPCH3 (C),LPCH3C,SDM;TLB,2,2,normalized key is for candidate matching only; raw names are preserved
+G000207,DMRHP 1402(C),DMRHP1402C,SDM;TLB,2,2,normalized key is for candidate matching only; raw names are preserved
+G000208,BPCH6 (C),BPCH6C,SDM;TLB,2,2,normalized key is for candidate matching only; raw names are preserved
+G000209,IIVRBCH-1613,IIVRBCH1613,SDM;TLB,2,2,normalized key is for candidate matching only; raw names are preserved
+G000210,AH 7043(C),AH7043C,SDM;TLB,2,2,normalized key is for candidate matching only; raw names are preserved
+G000211,ABSH-1(C),ABSH1C,SDM;TLB,2,2,normalized key is for candidate matching only; raw names are preserved
+G000212,CMVL Baby corn 1(C),CMVLBABYCORN1C,SDM;TLB,2,2,normalized key is for candidate matching only; raw names are preserved
+G000213,African Tall (C),AFRICANTALLC,SDM;TLB,2,2,normalized key is for candidate matching only; raw names are preserved
+G000214,Ellora Commando1112,ELLORACOMMANDO1112,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000215,NAH 1137,NAH1137,SDM,4,1,normalized key is for candidate matching only; raw names are preserved
+G000216,African Tall,AFRICANTALL,SDM,8,1,normalized key is for candidate matching only; raw names are preserved
+G000217,HQPM1 (C),HQPM1C,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000218,MAI-1,MAI1,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000219,MAI-2,MAI2,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000220,MAI-3,MAI3,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000221,MAI-7,MAI7,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000222,MAI-8,MAI8,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000223,MAI-10,MAI10,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000224,MAI-10-1,MAI101,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000225,MAI-12,MAI12,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000226,MAI-13,MAI13,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000227,MAI-20,MAI20,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000228,MAI-142,MAI142,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000229,NAI 204-1,NAI2041,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000230,MAI-215,MAI215,SDM,2,1,normalized key is for candidate matching only; raw names are preserved
+G000231,MAI-215-1,MAI2151,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000232,MAI-224,MAI224,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000233,MAI 276,MAI276,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000234,NAI-137,NAI137,SDM,2,1,normalized key is for candidate matching only; raw names are preserved
+G000235,MAI 753,MAI753,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000236,MAI 755,MAI755,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000237,NAI-137-6,NAI1376,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000238,NAI-137-7,NAI1377,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000239,MAI-204-1,MAI2041,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000240,CAL-1443,CAL1443,SDM,2,1,normalized key is for candidate matching only; raw names are preserved
+G000241,CML-451,CML451,SDM,2,1,normalized key is for candidate matching only; raw names are preserved
+G000242,1298,1298,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000243,32129,32129,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000244,V-496-7,V4967,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000245,40402,40402,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000246,52067,52067,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000247,QPM 25,QPM25,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000248,QPM 26,QPM26,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000249,QPM 26-1,QPM261,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000250,MAI-729,MAI729,SDM,2,1,normalized key is for candidate matching only; raw names are preserved
+G000251,SKV 50,SKV50,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000252,V-940-31,V94031,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000253,52336,52336,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000254,MAI-105,MAI105,SDM,2,1,normalized key is for candidate matching only; raw names are preserved
+G000255,SKV-50-6,SKV506,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000256,MAH-22-2,MAH222,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000257,NAH-1137,NAH1137,SDM,4,1,normalized key is for candidate matching only; raw names are preserved
+G000258,MAH-22-1,MAH221,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000259,CML-581,CML581,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000260,NAH-2049-1,NAH20491,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000261,MAH-22-5,MAH225,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000262,NAH- 2049 II,NAH2049II,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000263,SKV-50 TALL,SKV50TALL,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000264,CML-582,CML582,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000265,109463,109463,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000266,109466,109466,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000267,109473,109473,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000268,109484,109484,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000269,109493,109493,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000270,109497,109497,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000271,109514,109514,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000272,109526,109526,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000273,109530,109530,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000274,109533,109533,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000275,109534,109534,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000276,109544,109544,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000277,109550,109550,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000278,109580,109580,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000279,109583,109583,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000280,109614,109614,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000281,109619,109619,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000282,109642,109642,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000283,109646,109646,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000284,109654,109654,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000285,109657,109657,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000286,109659,109659,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000287,109661,109661,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000288,109667,109667,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000289,109688,109688,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000290,109690,109690,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000291,109702,109702,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000292,109710,109710,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000293,109712,109712,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000294,109715,109715,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000295,109718,109718,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000296,109719,109719,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000297,109726,109726,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000298,109727,109727,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000299,109728,109728,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000300,109729,109729,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000301,109732,109732,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000302,109736,109736,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000303,109743,109743,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000304,109747,109747,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000305,109753,109753,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000306,109754,109754,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000307,109761,109761,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000308,109765,109765,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000309,109773,109773,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000310,109774,109774,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000311,109775,109775,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000312,140977,140977,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000313,109824,109824,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000314,109844,109844,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000315,109845,109845,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000316,109850,109850,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000317,109860,109860,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000318,109864,109864,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000319,109866,109866,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000320,109868,109868,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000321,109869,109869,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000322,109870,109870,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000323,109872,109872,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000324,109876,109876,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000325,109879,109879,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000326,109880,109880,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000327,109888,109888,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000328,109910,109910,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000329,109924,109924,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000330,109934,109934,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000331,109935,109935,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000332,109936,109936,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000333,109937,109937,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000334,109939,109939,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000335,109940,109940,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000336,109942,109942,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000337,109947,109947,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000338,109948,109948,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000339,109952,109952,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000340,109954,109954,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000341,109964,109964,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000342,109971,109971,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000343,109992,109992,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000344,109994,109994,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000345,109996,109996,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000346,109998,109998,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000347,110001,110001,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000348,110007,110007,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000349,110008,110008,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000350,110012,110012,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000351,110013,110013,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000352,110014,110014,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000353,110020,110020,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000354,110064,110064,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000355,110065,110065,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000356,110067,110067,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000357,110071,110071,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000358,110076,110076,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000359,110114,110114,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000360,110130,110130,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000361,110134,110134,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000362,110137,110137,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000363,110141,110141,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000364,110154,110154,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000365,VL-19978,VL19978,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000366,VL-191001,VL191001,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000367,VL-181520,VL181520,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000368,VL-21986,VL21986,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000369,VL-185586,VL185586,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000370,VL-18722,VL18722,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000371,VL-18730,VL18730,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000372,VL-22302,VL22302,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000373,VL-22308,VL22308,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000374,ZL-18869,ZL18869,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000375,ZL-17578,ZL17578,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000376,VL-181418,VL181418,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000377,VL-21927,VL21927,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000378,VL-18708,VL18708,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000379,VL-133728,VL133728,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000380,VL-20227,VL20227,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000381,VL-1110501,VL1110501,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000382,VL-191073,VL191073,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000383,VL-18560,VL18560,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000384,VL-22435,VL22435,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000385,VL-22452,VL22452,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000386,VL-183003,VL183003,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000387,VL-18260,VL18260,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000388,VL-22461,VL22461,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000389,VL-21966,VL21966,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000390,VL-21988,VL21988,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000391,VL-184578,VL184578,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000392,VL-18726,VL18726,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000393,VL-22294,VL22294,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000394,VL-22327,VL22327,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000395,SNL-18965,SNL18965,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000396,SNL-20158,SNL20158,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000397,SNL-172494,SNL172494,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000398,SNL-19388,SNL19388,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000399,SNL-20640,SNL20640,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000400,SNL-191l161,SNL191L161,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000401,SNL-191172,SNL191172,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000402,SNL-19123,SNL19123,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000403,VL-181545,VL181545,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000404,VL-181763,VL181763,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000405,VL-19957,VL19957,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000406,VL-18322,VL18322,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000407,791,791,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000408,171,171,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000409,822,822,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000410,91,91,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000411,516,516,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000412,950,950,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000413,187,187,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000414,829,829,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000415,835,835,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000416,412,412,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000417,586,586,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000418,53,53,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000419,772,772,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000420,717,717,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000421,37,37,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000422,842,842,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000423,395,395,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000424,17,17,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000425,553,553,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000426,1033,1033,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000427,485,485,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000428,569,569,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000429,723,723,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000430,334,334,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000431,411,411,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000432,643,643,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000433,1030,1030,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000434,323,323,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000435,52,52,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000436,1005,1005,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000437,346,346,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000438,929,929,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000439,654,654,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000440,870,870,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000441,935,935,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000442,130,130,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000443,981,981,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000444,895,895,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000445,832,832,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000446,856,856,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000447,769,769,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000448,246,246,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000449,293,293,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000450,112,112,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000451,543,543,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000452,510,510,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000453,413,413,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000454,813,813,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000455,457,457,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000456,178,178,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000457,443,443,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000458,997,997,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000459,488,488,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000460,82,82,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000461,655,655,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000462,70,70,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000463,465,465,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000464,1028,1028,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000465,812,812,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000466,674,674,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000467,862,862,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000468,855,855,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000469,987,987,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000470,734,734,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000471,548,548,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000472,815,815,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000473,816,816,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000474,13,13,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000475,787,787,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000476,634,634,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000477,789,789,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000478,467,467,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000479,43,43,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000480,711,711,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000481,689,689,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000482,1017,1017,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000483,846,846,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000484,839,839,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000485,867,867,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000486,86,86,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000487,19,19,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000488,760,760,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000489,336,336,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000490,713,713,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000491,241,241,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000492,993,993,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000493,557,557,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000494,393,393,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000495,508,508,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000496,831,831,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000497,1039,1039,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000498,696,696,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000499,798,798,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000500,125,125,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000501,684,684,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000502,746,746,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000503,316,316,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000504,470,470,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000505,271,271,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000506,896,896,SDM,1,1,normalized key is for candidate matching only; raw names are preserved
+G000507,960,960,SDM,1,1,normalized key is for candidate matching only; raw names are preserved

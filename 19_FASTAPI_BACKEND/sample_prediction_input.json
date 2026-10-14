@@ -1,0 +1,10 @@
+{
+  "genotype": "SAMPLE-GENOTYPE",
+  "days_to_50_percent_pollen_shedding": 70,
+  "days_to_50_percent_silking": 72,
+  "days_to_75_percent_dry_husk": 112,
+  "plant_height": 220,
+  "ear_height": 115,
+  "plant_stand": 70000,
+  "shelling_percentage": 82
+}

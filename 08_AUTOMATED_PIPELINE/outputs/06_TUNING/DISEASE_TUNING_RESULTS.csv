@@ -1,0 +1,3 @@
+target,model,best_cv_RMSE,best_params
+tlb_disease_score,ExtraTrees,0.9220720306446579,"{'model__n_estimators': 250, 'model__min_samples_leaf': 4, 'model__max_depth': 12}"
+sdm_pdi,ExtraTrees,23.87391283941939,"{'model__n_estimators': 150, 'model__min_samples_leaf': 2, 'model__max_depth': 12}"

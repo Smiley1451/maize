@@ -1,0 +1,1 @@
+Use RUN_PREDICTION.ps1 with a CSV input. The engine preserves missingness, uses the feature schema stored in model packages, and reports range flags without clipping predictions.

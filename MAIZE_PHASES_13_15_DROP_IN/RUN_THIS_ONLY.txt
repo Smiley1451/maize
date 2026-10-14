@@ -1,0 +1,13 @@
+FROM THE EXISTING PROJECT ROOT RUN ONLY:
+
+.\13_15_NEXT_PHASES\RUN_PHASES_13_15.ps1
+
+Then press 4 to run Phases 13 -> 14 -> 15.
+
+If a phase fails:
+  .\13_15_NEXT_PHASES\RUN_PHASES_13_15.ps1 -Action redo
+
+or:
+  .\13_15_NEXT_PHASES\RUN_PHASES_13_15.ps1 -Action run -Stage 13
+  .\13_15_NEXT_PHASES\RUN_PHASES_13_15.ps1 -Action run -Stage 14
+  .\13_15_NEXT_PHASES\RUN_PHASES_13_15.ps1 -Action run -Stage 15

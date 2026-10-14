@@ -1,0 +1,7 @@
+feature,importance,feature_set,model
+days_to_50_percent_pollen_shedding,0.33774203,early_traits,XGBoost
+plant_stand,0.20782599,early_traits,XGBoost
+ear_height,0.17995179,early_traits,XGBoost
+days_to_75_percent_dry_husk,0.14736274,early_traits,XGBoost
+days_to_50_percent_silking,0.07104133,early_traits,XGBoost
+plant_height,0.056076147,early_traits,XGBoost

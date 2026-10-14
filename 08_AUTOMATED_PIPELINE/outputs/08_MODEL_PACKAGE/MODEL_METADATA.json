@@ -1,0 +1,25 @@
+{
+  "project": "maize_ai_ml_digitalization",
+  "created_at": "2026-09-29 22:53:35",
+  "notes": "Models are research artifacts. Validate on independent seasons/locations before operational decisions.",
+  "feature_schema": {
+    "yield": [
+      "days_to_50_percent_pollen_shedding",
+      "days_to_50_percent_silking",
+      "days_to_75_percent_dry_husk",
+      "plant_height",
+      "ear_height",
+      "plant_stand",
+      "shelling_percentage"
+    ],
+    "disease": [
+      "days_to_50_percent_pollen_shedding",
+      "days_to_50_percent_silking",
+      "days_to_75_percent_dry_husk",
+      "plant_height",
+      "ear_height",
+      "plant_stand",
+      "shelling_percentage"
+    ]
+  }
+}

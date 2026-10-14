@@ -1,0 +1,2 @@
+genotype,input_completeness,missing_input_features,yield_model_status,yield_prediction_kg_ha,yield_range_flag,tlb_regression_model_status,tlb_score_prediction,tlb_score_range_flag,tlb_classifier_model_status,tlb_reaction_prediction,tlb_class_probability,sdm_regression_model_status,sdm_pdi_prediction,sdm_pdi_range_flag,sdm_classifier_model_status,sdm_reaction_prediction,sdm_class_probability
+SAMPLE-GENOTYPE,FULL,,LOADED,9432.808,OK,LOADED,3.554755288911861,OK,LOADED,MR,0.486207316230277,LOADED,91.46806666666669,OK,LOADED,S,0.942

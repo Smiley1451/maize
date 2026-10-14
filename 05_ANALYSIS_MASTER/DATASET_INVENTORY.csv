@@ -1,0 +1,7 @@
+file,rows,purpose
+MAIZE_ANALYSIS_MASTER.csv,818,One row per genotype × experiment; all canonical traits that can be safely pivoted.
+MAIZE_ANALYSIS_MASTER_LONG.csv,3232,One row per source observation; canonical trait metadata preserved.
+ANALYSIS_MASTER_CONFLICTS.csv,148,Same genotype × experiment × trait with conflicting values; manual review required.
+ML_YIELD_CANDIDATE.csv,191,"Yield-target candidate rows, not final train/test data."
+ML_TLB_CANDIDATE.csv,148,"TLB-score candidate rows, not final train/test data."
+ML_SDM_CANDIDATE.csv,365,"SDM-PDI candidate rows, not final train/test data."

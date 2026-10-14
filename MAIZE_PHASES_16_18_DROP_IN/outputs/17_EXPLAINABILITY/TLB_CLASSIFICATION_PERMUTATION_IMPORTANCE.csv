@@ -1,0 +1,11 @@
+domain,task,feature,importance_mean,importance_std,folds,metric
+TLB,classification,shelling_percentage,0.11641027212236432,0.07890755720835252,5,F1_macro
+TLB,classification,dry_husk_after_silking,0.03419273508531817,0.03457257792171007,5,F1_macro
+TLB,classification,days_to_75_percent_dry_husk,0.027774076808859405,0.04231658397168219,5,F1_macro
+TLB,classification,days_to_50_percent_pollen_shedding,0.024508108960282837,0.04300375668867953,5,F1_macro
+TLB,classification,ear_height_ratio,0.01951923063865898,0.036973388653746636,5,F1_macro
+TLB,classification,days_to_50_percent_silking,0.011097055856902386,0.03898604662021493,5,F1_macro
+TLB,classification,plant_height,0.01108323753541143,0.02379386679257158,5,F1_macro
+TLB,classification,plant_stand,0.010605622629515452,0.06294462699206693,5,F1_macro
+TLB,classification,silking_to_pollen_gap,0.00347025052242442,0.010763825723836624,5,F1_macro
+TLB,classification,ear_height,-0.017858776018721302,0.020248219540614797,5,F1_macro

@@ -1,0 +1,15 @@
+experiment_id,trait_name,source_unit,row_count,min_raw,max_raw,model_target_eligible,conversion_to_kg_per_ha,note
+YIELD_1,yield_t_per_ha,t/ha,38,1.99,14.33,True,1000.0,Raw source-value basis; prior canonical unit mapping was not used for this audit.
+YIELD_11,grain_yield_kg_per_ha,,7,10.4,13654.0,True,1.0,Raw source-value basis; prior canonical unit mapping was not used for this audit.
+YIELD_12,grain_yield_kg_per_ha,,6,6.69,12114.0,True,1.0,Raw source-value basis; prior canonical unit mapping was not used for this audit.
+YIELD_13,yield_kg_per_ha,kg/ha,21,3690.0,19710.0,True,1.0,Raw source-value basis; prior canonical unit mapping was not used for this audit.
+YIELD_14,grain_yield_kg_per_ha,,16,9.987,15130.0,True,1.0,Raw source-value basis; prior canonical unit mapping was not used for this audit.
+YIELD_2,yield_t_per_ha,t/ha,29,2.09,14.5,True,1000.0,Raw source-value basis; prior canonical unit mapping was not used for this audit.
+YIELD_3,yield_t_per_ha,t/ha,12,3.2,16.67,True,1000.0,Raw source-value basis; prior canonical unit mapping was not used for this audit.
+YIELD_4,yield_t_per_ha,t/ha,10,1.591,14.84,True,1000.0,Raw source-value basis; prior canonical unit mapping was not used for this audit.
+YIELD_5,yield_t_per_ha,t/ha,11,2.712,15.4,True,1000.0,Raw source-value basis; prior canonical unit mapping was not used for this audit.
+YIELD_6,yield_t_per_ha,t/ha,10,2.33,13.78,True,1000.0,Raw source-value basis; prior canonical unit mapping was not used for this audit.
+YIELD_7,green_cob_yield_with_husk_kg_per_ha,kg/ha,11,13.97,25000.0,False,,Raw source-value basis; prior canonical unit mapping was not used for this audit.
+YIELD_7,green_cob_yield_without_husk_kg_per_ha,kg/ha,11,12.81,20139.0,False,,Raw source-value basis; prior canonical unit mapping was not used for this audit.
+YIELD_8,yield_t_per_ha,t/ha,14,1.629,12.65,True,1000.0,Raw source-value basis; prior canonical unit mapping was not used for this audit.
+YIELD_9,yield_kg_per_ha,kg/ha,17,13.983,9415.0,True,1.0,Raw source-value basis; prior canonical unit mapping was not used for this audit.

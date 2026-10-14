@@ -1,0 +1,15 @@
+feature,role,unit,use,notes
+days_to_50_percent_pollen_shedding,feature,days,yield/TLB/SDM,Pre-harvest phenology
+days_to_50_percent_silking,feature,days,yield/TLB/SDM,Pre-harvest phenology
+days_to_75_percent_dry_husk,feature,days,yield/TLB/SDM,Pre-harvest maturity indicator
+plant_height,feature,cm,yield/TLB/SDM,Agronomic phenotype
+ear_height,feature,cm,yield/TLB/SDM,Agronomic phenotype
+plant_stand,feature,plants/ha,yield/TLB/SDM,Canonicalized stand unit
+shelling_percentage,feature,%,yield/TLB/SDM,Agronomic/yield component
+grain_yield,target,t/ha,yield regression,Never use as a feature for yield prediction
+tlb_disease_score,target,score 1-9,TLB regression,Never use as a feature for TLB score prediction
+tlb_reaction,target,category,TLB classification,R/MR/MS/S
+sdm_pdi,target,%,SDM regression,Never use as a feature for SDM PDI prediction
+sdm_reaction,target,category,SDM classification,R/MR/MS/S; NG excluded from classification target
+genotype_id_candidate,group_id,-,split only,Never use as numeric/model feature; used to prevent genotype leakage
+experiment_id,metadata/group,-,split/audit only,Not a model feature in these starter datasets

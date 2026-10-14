@@ -1,0 +1,2 @@
+model,f1,balanced_accuracy
+RandomForest,0.6,0.7

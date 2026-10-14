@@ -1,0 +1,11 @@
+dataset,scheme,selected_candidate,selection_rule
+SDM,GroupKFold,ExtraTrees,lowest mean RMSE then MAE
+SDM,LeaveOneExperimentOut,Ridge,lowest mean RMSE then MAE
+TLB,GroupKFold,Ridge,lowest mean RMSE then MAE
+TLB,LeaveOneExperimentOut,HistGradientBoosting,lowest mean RMSE then MAE
+YIELD,GroupKFold,ExtraTrees,lowest mean RMSE then MAE
+YIELD,LeaveOneExperimentOut,XGBoost,lowest mean RMSE then MAE
+SDM_CLASSIFICATION,GroupKFold,SVM,highest mean balanced accuracy then macro F1
+SDM_CLASSIFICATION,LeaveOneExperimentOut,RandomForest,highest mean balanced accuracy then macro F1
+TLB_CLASSIFICATION,GroupKFold,ExtraTrees,highest mean balanced accuracy then macro F1
+TLB_CLASSIFICATION,LeaveOneExperimentOut,SVM,highest mean balanced accuracy then macro F1

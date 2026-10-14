@@ -1,0 +1,24 @@
+{
+  "yield": {
+    "target_unit": "kg/ha",
+    "features": [
+      "days_to_50_percent_pollen_shedding",
+      "days_to_50_percent_silking",
+      "days_to_75_percent_dry_husk",
+      "plant_height",
+      "ear_height",
+      "plant_stand",
+      "shelling_percentage",
+      "silking_to_pollen_gap",
+      "dry_husk_after_silking",
+      "ear_height_ratio"
+    ]
+  },
+  "breeding_index_weights": {
+    "yield": 0.50,
+    "tlb_resistance": 0.25,
+    "sdm_resistance": 0.25
+  },
+  "cluster_k_range": [2, 6],
+  "random_seed": 42
+}

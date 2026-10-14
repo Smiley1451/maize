@@ -1,0 +1,1 @@
+Permutation importance is associative. Positive importance means shuffling the feature worsened model performance under the scoring setup; it is not a causal effect estimate. Use grouped validation/tuning outputs alongside this file.

@@ -1,0 +1,10 @@
+metric,value
+input_standardized_observation_rows,3232
+analysis_master_genotype_experiment_rows,818
+analysis_master_trait_columns,34
+analysis_master_conflict_rows,148
+rows_flagged_for_identity_or_trait_review,577
+candidate_rows,240
+yield_candidate_rows,191
+tlb_candidate_rows,148
+sdm_candidate_rows,365

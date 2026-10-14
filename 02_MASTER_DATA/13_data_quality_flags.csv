@@ -1,0 +1,25 @@
+﻿flag_id,severity,document_id,source_page,field,issue,action
+Q001,review,DOC04,7,annual_actual_rainfall,Table total = 524.4 mm; figure label says 542.4 mm.,Preserve both source values; use table value for structured weather table and retain figure discrepancy in notes.
+Q002,review,DOC04,4,2019-20,Area total 13.97 does not equal Kharif+Rabi 15.420000000000002.,Do not overwrite; preserve reported total and season values separately.
+Q003,review,DOC04,4,2019-20,Production total 47.68 does not equal Kharif+Rabi 46.61.,Do not overwrite; preserve reported total and season values separately.
+Q004,review,DOC04,4,2020-21,Area total 17.27 does not equal Kharif+Rabi 16.81.,Do not overwrite; preserve reported total and season values separately.
+Q005,review,DOC04,4,2020-21,Production total 63.72 does not equal Kharif+Rabi 62.23.,Do not overwrite; preserve reported total and season values separately.
+Q006,review,DOC04,4,2021-22,Area total 16.42 does not equal Kharif+Rabi 16.08.,Do not overwrite; preserve reported total and season values separately.
+Q007,review,DOC04,4,2021-22,Production total 53.38 does not equal Kharif+Rabi 52.13.,Do not overwrite; preserve reported total and season values separately.
+Q008,review,DOC04,4,2023-24*,Area total 19.4 does not equal Kharif+Rabi 19.11.,Do not overwrite; preserve reported total and season values separately.
+Q009,review,DOC04,4,2023-24*,Production total 54.91 does not equal Kharif+Rabi 53.900000000000006.,Do not overwrite; preserve reported total and season values separately.
+Q010,review,DOC01/DOC02/DOC03,multiple,genotype,Potential OCR-sensitive token IO appears in 37 observation records.,Use genotype_alias validation before cross-document entity merging.
+Q011,review,DOC03,1,,,Preserve source and review
+Q012,review,DOC03,2,,,Preserve source and review
+Q013,review,DOC03,3,,,Preserve source and review
+Q014,review,DOC03,4,,,Preserve source and review
+Q015,review,DOC03,4,,,Preserve source and review
+Q016,review,DOC03,5,,,Preserve source and review
+Q017,review,DOC03,6,,,Preserve source and review
+Q018,review,DOC03,6,,,Preserve source and review
+Q019,review,DOC03,7,,,Preserve source and review
+Q020,review,DOC03,8,,,Preserve source and review
+Q021,review,DOC03,9,,,Preserve source and review
+Q022,review,DOC03,10,,,Preserve source and review
+Q023,review,DOC03,10,,,Preserve source and review
+Q024,review,DOC03,12,,,Preserve source and review

@@ -1,0 +1,8 @@
+FROM THE EXISTING PROJECT ROOT, RUN ONLY:
+
+.\19_FASTAPI_BACKEND\RUN_PHASE19.ps1
+
+Then press 1 to start the API, or 3 to run smoke tests, or 4 to verify Phase 19.
+
+Swagger docs:
+http://127.0.0.1:8000/docs

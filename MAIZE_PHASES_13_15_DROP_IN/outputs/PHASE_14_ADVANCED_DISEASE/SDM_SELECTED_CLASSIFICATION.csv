@@ -1,0 +1,2 @@
+disease,selected_model,model_file,selection_rule
+SDM,ExtraTrees,models\sdm_advanced_classifier_selected.joblib,"highest GroupKFold macro-F1, then balanced accuracy"

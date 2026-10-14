@@ -1,0 +1,777 @@
+record_id,document_id,domain,experiment_id,entity_name,variable,source_page,validation_flag,issue,severity
+R0000265,DOC03,yield,YIELD_1,Bio 9544 (check),status_note,1,GF_GERMINATION_FAILURE,Germination failure marker,review
+R0000282,DOC03,yield,YIELD_1,General mean,days_50_pollen_shedding,1,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0000283,DOC03,yield,YIELD_1,General mean,days_50_silking,1,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0000284,DOC03,yield,YIELD_1,General mean,days_75_dry_husk,1,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0000285,DOC03,yield,YIELD_1,General mean,plant_height_cm,1,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0000286,DOC03,yield,YIELD_1,General mean,ear_height_cm,1,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0000287,DOC03,yield,YIELD_1,General mean,plant_stand_000_per_ha,1,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0000288,DOC03,yield,YIELD_1,General mean,shelling_pct,1,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0000289,DOC03,yield,YIELD_1,General mean,yield_t_per_ha,1,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0000290,DOC03,yield,YIELD_1,CD @ 5%,days_50_pollen_shedding,1,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0000291,DOC03,yield,YIELD_1,CD @ 5%,days_50_silking,1,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0000292,DOC03,yield,YIELD_1,CD @ 5%,days_75_dry_husk,1,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0000293,DOC03,yield,YIELD_1,CD @ 5%,plant_height_cm,1,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0000294,DOC03,yield,YIELD_1,CD @ 5%,ear_height_cm,1,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0000295,DOC03,yield,YIELD_1,CD @ 5%,plant_stand_000_per_ha,1,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0000296,DOC03,yield,YIELD_1,CD @ 5%,shelling_pct,1,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0000297,DOC03,yield,YIELD_1,CD @ 5%,yield_t_per_ha,1,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0000298,DOC03,yield,YIELD_1,CV (%),days_50_pollen_shedding,1,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0000299,DOC03,yield,YIELD_1,CV (%),days_50_silking,1,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0000300,DOC03,yield,YIELD_1,CV (%),days_75_dry_husk,1,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0000301,DOC03,yield,YIELD_1,CV (%),plant_height_cm,1,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0000302,DOC03,yield,YIELD_1,CV (%),ear_height_cm,1,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0000303,DOC03,yield,YIELD_1,CV (%),plant_stand_000_per_ha,1,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0000304,DOC03,yield,YIELD_1,CV (%),shelling_pct,1,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0000305,DOC03,yield,YIELD_1,CV (%),yield_t_per_ha,1,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0000322,DOC03,yield,YIELD_2,AH 8245,status_note,2,GF_GERMINATION_FAILURE,Germination failure marker,review
+R0000515,DOC03,yield,YIELD_2,General mean,days_50_pollen_shedding,2,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0000516,DOC03,yield,YIELD_2,General mean,days_50_silking,2,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0000517,DOC03,yield,YIELD_2,General mean,days_75_dry_husk,2,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0000518,DOC03,yield,YIELD_2,General mean,plant_height_cm,2,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0000519,DOC03,yield,YIELD_2,General mean,ear_height_cm,2,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0000520,DOC03,yield,YIELD_2,General mean,plant_stand_000_per_ha,2,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0000521,DOC03,yield,YIELD_2,General mean,shelling_pct,2,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0000522,DOC03,yield,YIELD_2,General mean,yield_t_per_ha,2,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0000523,DOC03,yield,YIELD_2,CD @ 5%,days_50_pollen_shedding,2,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0000524,DOC03,yield,YIELD_2,CD @ 5%,days_50_silking,2,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0000525,DOC03,yield,YIELD_2,CD @ 5%,days_75_dry_husk,2,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0000526,DOC03,yield,YIELD_2,CD @ 5%,plant_height_cm,2,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0000527,DOC03,yield,YIELD_2,CD @ 5%,ear_height_cm,2,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0000528,DOC03,yield,YIELD_2,CD @ 5%,plant_stand_000_per_ha,2,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0000529,DOC03,yield,YIELD_2,CD @ 5%,shelling_pct,2,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0000530,DOC03,yield,YIELD_2,CD @ 5%,yield_t_per_ha,2,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0000531,DOC03,yield,YIELD_2,CV (%),days_50_pollen_shedding,2,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0000532,DOC03,yield,YIELD_2,CV (%),days_50_silking,2,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0000533,DOC03,yield,YIELD_2,CV (%),days_75_dry_husk,2,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0000534,DOC03,yield,YIELD_2,CV (%),plant_height_cm,2,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0000535,DOC03,yield,YIELD_2,CV (%),ear_height_cm,2,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0000536,DOC03,yield,YIELD_2,CV (%),plant_stand_000_per_ha,2,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0000537,DOC03,yield,YIELD_2,CV (%),shelling_pct,2,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0000538,DOC03,yield,YIELD_2,CV (%),yield_t_per_ha,2,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0000611,DOC03,yield,YIELD_3,General mean,days_50_pollen_shedding,3,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0000612,DOC03,yield,YIELD_3,General mean,days_50_silking,3,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0000613,DOC03,yield,YIELD_3,General mean,days_75_dry_husk,3,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0000614,DOC03,yield,YIELD_3,General mean,plant_height_cm,3,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0000615,DOC03,yield,YIELD_3,General mean,ear_height_cm,3,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0000616,DOC03,yield,YIELD_3,General mean,plant_stand_000_per_ha,3,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0000617,DOC03,yield,YIELD_3,General mean,shelling_pct,3,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0000618,DOC03,yield,YIELD_3,General mean,yield_t_per_ha,3,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0000619,DOC03,yield,YIELD_3,CD @ 5%,days_50_pollen_shedding,3,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0000620,DOC03,yield,YIELD_3,CD @ 5%,days_50_silking,3,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0000621,DOC03,yield,YIELD_3,CD @ 5%,days_75_dry_husk,3,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0000622,DOC03,yield,YIELD_3,CD @ 5%,plant_height_cm,3,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0000623,DOC03,yield,YIELD_3,CD @ 5%,ear_height_cm,3,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0000624,DOC03,yield,YIELD_3,CD @ 5%,plant_stand_000_per_ha,3,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0000625,DOC03,yield,YIELD_3,CD @ 5%,shelling_pct,3,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0000626,DOC03,yield,YIELD_3,CD @ 5%,yield_t_per_ha,3,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0000627,DOC03,yield,YIELD_3,CV (%),days_50_pollen_shedding,3,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0000628,DOC03,yield,YIELD_3,CV (%),days_50_silking,3,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0000629,DOC03,yield,YIELD_3,CV (%),days_75_dry_husk,3,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0000630,DOC03,yield,YIELD_3,CV (%),plant_height_cm,3,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0000631,DOC03,yield,YIELD_3,CV (%),ear_height_cm,3,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0000632,DOC03,yield,YIELD_3,CV (%),plant_stand_000_per_ha,3,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0000633,DOC03,yield,YIELD_3,CV (%),shelling_pct,3,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0000634,DOC03,yield,YIELD_3,CV (%),yield_t_per_ha,3,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0000691,DOC03,yield,YIELD_4,General mean,days_50_pollen_shedding,4,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0000692,DOC03,yield,YIELD_4,General mean,days_50_silking,4,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0000693,DOC03,yield,YIELD_4,General mean,days_75_dry_husk,4,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0000694,DOC03,yield,YIELD_4,General mean,plant_height_cm,4,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0000695,DOC03,yield,YIELD_4,General mean,ear_height_cm,4,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0000696,DOC03,yield,YIELD_4,General mean,plant_stand_000_per_ha,4,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0000697,DOC03,yield,YIELD_4,General mean,shelling_pct,4,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0000698,DOC03,yield,YIELD_4,General mean,yield_t_per_ha,4,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0000699,DOC03,yield,YIELD_4,CD @ 5%,days_50_pollen_shedding,4,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0000700,DOC03,yield,YIELD_4,CD @ 5%,days_50_silking,4,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0000701,DOC03,yield,YIELD_4,CD @ 5%,days_75_dry_husk,4,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0000702,DOC03,yield,YIELD_4,CD @ 5%,plant_height_cm,4,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0000703,DOC03,yield,YIELD_4,CD @ 5%,ear_height_cm,4,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0000704,DOC03,yield,YIELD_4,CD @ 5%,plant_stand_000_per_ha,4,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0000705,DOC03,yield,YIELD_4,CD @ 5%,shelling_pct,4,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0000706,DOC03,yield,YIELD_4,CD @ 5%,yield_t_per_ha,4,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0000707,DOC03,yield,YIELD_4,CV (%),days_50_pollen_shedding,4,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0000708,DOC03,yield,YIELD_4,CV (%),days_50_silking,4,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0000709,DOC03,yield,YIELD_4,CV (%),days_75_dry_husk,4,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0000710,DOC03,yield,YIELD_4,CV (%),plant_height_cm,4,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0000711,DOC03,yield,YIELD_4,CV (%),ear_height_cm,4,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0000712,DOC03,yield,YIELD_4,CV (%),plant_stand_000_per_ha,4,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0000713,DOC03,yield,YIELD_4,CV (%),shelling_pct,4,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0000714,DOC03,yield,YIELD_4,CV (%),yield_t_per_ha,4,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0000771,DOC03,yield,YIELD_5,Bio 9544 (C),status_note,4,GF_GERMINATION_FAILURE,Germination failure marker,review
+R0000780,DOC03,yield,YIELD_5,General mean,days_50_pollen_shedding,4,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0000781,DOC03,yield,YIELD_5,General mean,days_50_silking,4,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0000782,DOC03,yield,YIELD_5,General mean,days_75_dry_husk,4,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0000783,DOC03,yield,YIELD_5,General mean,plant_height_cm,4,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0000784,DOC03,yield,YIELD_5,General mean,ear_height_cm,4,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0000785,DOC03,yield,YIELD_5,General mean,plant_stand_000_per_ha,4,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0000786,DOC03,yield,YIELD_5,General mean,shelling_pct,4,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0000787,DOC03,yield,YIELD_5,General mean,yield_t_per_ha,4,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0000788,DOC03,yield,YIELD_5,CD @ 5%,days_50_pollen_shedding,4,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0000789,DOC03,yield,YIELD_5,CD @ 5%,days_50_silking,4,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0000790,DOC03,yield,YIELD_5,CD @ 5%,days_75_dry_husk,4,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0000791,DOC03,yield,YIELD_5,CD @ 5%,plant_height_cm,4,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0000792,DOC03,yield,YIELD_5,CD @ 5%,ear_height_cm,4,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0000793,DOC03,yield,YIELD_5,CD @ 5%,plant_stand_000_per_ha,4,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0000794,DOC03,yield,YIELD_5,CD @ 5%,shelling_pct,4,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0000795,DOC03,yield,YIELD_5,CD @ 5%,yield_t_per_ha,4,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0000796,DOC03,yield,YIELD_5,CV (%),days_50_pollen_shedding,4,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0000797,DOC03,yield,YIELD_5,CV (%),days_50_silking,4,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0000798,DOC03,yield,YIELD_5,CV (%),days_75_dry_husk,4,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0000799,DOC03,yield,YIELD_5,CV (%),plant_height_cm,4,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0000800,DOC03,yield,YIELD_5,CV (%),ear_height_cm,4,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0000801,DOC03,yield,YIELD_5,CV (%),plant_stand_000_per_ha,4,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0000802,DOC03,yield,YIELD_5,CV (%),shelling_pct,4,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0000803,DOC03,yield,YIELD_5,CV (%),yield_t_per_ha,4,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0000860,DOC03,yield,YIELD_6,General mean,days_50_pollen_shedding,5,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0000861,DOC03,yield,YIELD_6,General mean,days_50_silking,5,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0000862,DOC03,yield,YIELD_6,General mean,days_75_dry_husk,5,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0000863,DOC03,yield,YIELD_6,General mean,plant_height_cm,5,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0000864,DOC03,yield,YIELD_6,General mean,ear_height_cm,5,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0000865,DOC03,yield,YIELD_6,General mean,plant_stand_000_per_ha,5,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0000866,DOC03,yield,YIELD_6,General mean,shelling_pct,5,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0000867,DOC03,yield,YIELD_6,General mean,yield_t_per_ha,5,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0000868,DOC03,yield,YIELD_6,CD @ 5%,days_50_pollen_shedding,5,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0000869,DOC03,yield,YIELD_6,CD @ 5%,days_50_silking,5,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0000870,DOC03,yield,YIELD_6,CD @ 5%,days_75_dry_husk,5,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0000871,DOC03,yield,YIELD_6,CD @ 5%,plant_height_cm,5,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0000872,DOC03,yield,YIELD_6,CD @ 5%,ear_height_cm,5,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0000873,DOC03,yield,YIELD_6,CD @ 5%,plant_stand_000_per_ha,5,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0000874,DOC03,yield,YIELD_6,CD @ 5%,shelling_pct,5,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0000875,DOC03,yield,YIELD_6,CD @ 5%,yield_t_per_ha,5,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0000876,DOC03,yield,YIELD_6,CV (%),days_50_pollen_shedding,5,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0000877,DOC03,yield,YIELD_6,CV (%),days_50_silking,5,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0000878,DOC03,yield,YIELD_6,CV (%),days_75_dry_husk,5,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0000879,DOC03,yield,YIELD_6,CV (%),plant_height_cm,5,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0000880,DOC03,yield,YIELD_6,CV (%),ear_height_cm,5,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0000881,DOC03,yield,YIELD_6,CV (%),plant_stand_000_per_ha,5,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0000882,DOC03,yield,YIELD_6,CV (%),shelling_pct,5,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0000883,DOC03,yield,YIELD_6,CV (%),yield_t_per_ha,5,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0000948,DOC03,yield,YIELD_7,General Mean,days_50_pollen_shedding,6,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0000949,DOC03,yield,YIELD_7,General Mean,days_50_silking,6,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0000950,DOC03,yield,YIELD_7,General Mean,plant_stand_per_ha,6,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0000951,DOC03,yield,YIELD_7,General Mean,tss_pct,6,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0000952,DOC03,yield,YIELD_7,General Mean,plant_height_cm,6,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0000953,DOC03,yield,YIELD_7,General Mean,ear_height_cm,6,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0000954,DOC03,yield,YIELD_7,General Mean,green_cob_yield_without_husk_kg_per_ha,6,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0000955,DOC03,yield,YIELD_7,General Mean,green_cob_yield_with_husk_kg_per_ha,6,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0000956,DOC03,yield,YIELD_7,C.D @ (5%),days_50_pollen_shedding,6,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0000957,DOC03,yield,YIELD_7,C.D @ (5%),days_50_silking,6,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0000958,DOC03,yield,YIELD_7,C.D @ (5%),plant_stand_per_ha,6,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0000959,DOC03,yield,YIELD_7,C.D @ (5%),tss_pct,6,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0000960,DOC03,yield,YIELD_7,C.D @ (5%),plant_height_cm,6,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0000961,DOC03,yield,YIELD_7,C.D @ (5%),ear_height_cm,6,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0000962,DOC03,yield,YIELD_7,C.D @ (5%),green_cob_yield_without_husk_kg_per_ha,6,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0000963,DOC03,yield,YIELD_7,C.D @ (5%),green_cob_yield_with_husk_kg_per_ha,6,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0000964,DOC03,yield,YIELD_7,C.V (%),days_50_pollen_shedding,6,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0000965,DOC03,yield,YIELD_7,C.V (%),days_50_silking,6,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0000966,DOC03,yield,YIELD_7,C.V (%),plant_stand_per_ha,6,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0000967,DOC03,yield,YIELD_7,C.V (%),tss_pct,6,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0000968,DOC03,yield,YIELD_7,C.V (%),plant_height_cm,6,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0000969,DOC03,yield,YIELD_7,C.V (%),ear_height_cm,6,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0000970,DOC03,yield,YIELD_7,C.V (%),green_cob_yield_without_husk_kg_per_ha,6,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0000971,DOC03,yield,YIELD_7,C.V (%),green_cob_yield_with_husk_kg_per_ha,6,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0001028,DOC03,yield,YIELD_8,HQPM 1 (Check),status_note,6,GF_GERMINATION_FAILURE,Germination failure marker,review
+R0001061,DOC03,yield,YIELD_8,General Mean,days_50_pollen_shedding,6,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0001062,DOC03,yield,YIELD_8,General Mean,days_50_silking,6,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0001063,DOC03,yield,YIELD_8,General Mean,days_75_dry_husk,6,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0001064,DOC03,yield,YIELD_8,General Mean,plant_height_cm,6,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0001065,DOC03,yield,YIELD_8,General Mean,ear_height_cm,6,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0001066,DOC03,yield,YIELD_8,General Mean,plant_stand_000_per_ha,6,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0001067,DOC03,yield,YIELD_8,General Mean,shelling_pct,6,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0001068,DOC03,yield,YIELD_8,General Mean,yield_t_per_ha,6,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0001069,DOC03,yield,YIELD_8,C.D @ (5%),days_50_pollen_shedding,6,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0001070,DOC03,yield,YIELD_8,C.D @ (5%),days_50_silking,6,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0001071,DOC03,yield,YIELD_8,C.D @ (5%),days_75_dry_husk,6,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0001072,DOC03,yield,YIELD_8,C.D @ (5%),plant_height_cm,6,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0001073,DOC03,yield,YIELD_8,C.D @ (5%),ear_height_cm,6,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0001074,DOC03,yield,YIELD_8,C.D @ (5%),plant_stand_000_per_ha,6,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0001075,DOC03,yield,YIELD_8,C.D @ (5%),shelling_pct,6,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0001076,DOC03,yield,YIELD_8,C.D @ (5%),yield_t_per_ha,6,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0001077,DOC03,yield,YIELD_8,C.V (%),days_50_pollen_shedding,6,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0001078,DOC03,yield,YIELD_8,C.V (%),days_50_silking,6,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0001079,DOC03,yield,YIELD_8,C.V (%),days_75_dry_husk,6,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0001080,DOC03,yield,YIELD_8,C.V (%),plant_height_cm,6,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0001081,DOC03,yield,YIELD_8,C.V (%),ear_height_cm,6,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0001082,DOC03,yield,YIELD_8,C.V (%),plant_stand_000_per_ha,6,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0001083,DOC03,yield,YIELD_8,C.V (%),shelling_pct,6,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0001084,DOC03,yield,YIELD_8,C.V (%),yield_t_per_ha,6,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0001121,DOC03,yield,YIELD_9,CHCP 2207,status_note,7,GF_GERMINATION_FAILURE,Germination failure marker,review
+R0001131,DOC03,yield,YIELD_9,HPC 5,status_note,7,GF_GERMINATION_FAILURE,Germination failure marker,review
+R0001213,DOC03,yield,YIELD_9,Location Mean,days_50_pollen_shedding,7,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0001214,DOC03,yield,YIELD_9,Location Mean,days_50_silking,7,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0001215,DOC03,yield,YIELD_9,Location Mean,days_75_dry_husk,7,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0001216,DOC03,yield,YIELD_9,Location Mean,plant_height_cm,7,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0001217,DOC03,yield,YIELD_9,Location Mean,ear_height_cm,7,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0001218,DOC03,yield,YIELD_9,Location Mean,plant_stand_per_ha,7,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0001219,DOC03,yield,YIELD_9,Location Mean,popping_pct,7,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0001220,DOC03,yield,YIELD_9,Location Mean,shelling_pct,7,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0001221,DOC03,yield,YIELD_9,Location Mean,yield_kg_per_ha,7,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0001222,DOC03,yield,YIELD_9,CD @ (5%),yield_kg_per_ha,7,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0001223,DOC03,yield,YIELD_9,CV (%),yield_kg_per_ha,7,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0001230,DOC03,yield,YIELD_10,BAUMH 21-1-1,status_note,8,GF_GERMINATION_FAILURE,Germination failure marker,review
+R0001348,DOC03,yield,YIELD_10,Location Mean,days_50_pollen_shedding,8,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0001349,DOC03,yield,YIELD_10,Location Mean,days_50_silking,8,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0001350,DOC03,yield,YIELD_10,Location Mean,final_plant_value,8,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0001351,DOC03,yield,YIELD_10,Location Mean,ear_height_cm,8,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0001352,DOC03,yield,YIELD_10,Location Mean,plant_height_cm,8,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0001353,DOC03,yield,YIELD_10,Location Mean,baby_corn_length_cm,8,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0001354,DOC03,yield,YIELD_10,Location Mean,baby_corn_diameter_cm,8,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0001355,DOC03,yield,YIELD_10,CD @ (5%),days_50_pollen_shedding,8,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0001356,DOC03,yield,YIELD_10,CD @ (5%),days_50_silking,8,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0001357,DOC03,yield,YIELD_10,CD @ (5%),final_plant_value,8,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0001358,DOC03,yield,YIELD_10,CD @ (5%),ear_height_cm,8,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0001359,DOC03,yield,YIELD_10,CD @ (5%),plant_height_cm,8,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0001360,DOC03,yield,YIELD_10,CD @ (5%),baby_corn_length_cm,8,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0001361,DOC03,yield,YIELD_10,CD @ (5%),baby_corn_diameter_cm,8,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0001362,DOC03,yield,YIELD_10,CV (%),days_50_pollen_shedding,8,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0001363,DOC03,yield,YIELD_10,CV (%),days_50_silking,8,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0001364,DOC03,yield,YIELD_10,CV (%),final_plant_value,8,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0001365,DOC03,yield,YIELD_10,CV (%),ear_height_cm,8,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0001366,DOC03,yield,YIELD_10,CV (%),plant_height_cm,8,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0001367,DOC03,yield,YIELD_10,CV (%),baby_corn_length_cm,8,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0001368,DOC03,yield,YIELD_10,CV (%),baby_corn_diameter_cm,8,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0001369,DOC03,yield,YIELD_10,Location Mean,green_fodder_weight_kg_per_ha,8,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0001370,DOC03,yield,YIELD_10,Location Mean,first_picking_days_after_sowing,8,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0001371,DOC03,yield,YIELD_10,Location Mean,last_picking_days_after_sowing,8,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0001372,DOC03,yield,YIELD_10,Location Mean,duration_picking_days,8,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0001373,DOC03,yield,YIELD_10,Location Mean,baby_corn_weight_with_husk_kg_per_ha,8,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0001374,DOC03,yield,YIELD_10,Location Mean,green_ear_weight_with_husk_kg_per_ha,8,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0001375,DOC03,yield,YIELD_10,CD @ (5%),green_fodder_weight_kg_per_ha,8,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0001376,DOC03,yield,YIELD_10,CD @ (5%),first_picking_days_after_sowing,8,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0001377,DOC03,yield,YIELD_10,CD @ (5%),last_picking_days_after_sowing,8,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0001378,DOC03,yield,YIELD_10,CD @ (5%),duration_picking_days,8,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0001379,DOC03,yield,YIELD_10,CD @ (5%),baby_corn_weight_with_husk_kg_per_ha,8,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0001380,DOC03,yield,YIELD_10,CD @ (5%),green_ear_weight_with_husk_kg_per_ha,8,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0001381,DOC03,yield,YIELD_10,CV (%),green_fodder_weight_kg_per_ha,8,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0001382,DOC03,yield,YIELD_10,CV (%),first_picking_days_after_sowing,8,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0001383,DOC03,yield,YIELD_10,CV (%),last_picking_days_after_sowing,8,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0001384,DOC03,yield,YIELD_10,CV (%),duration_picking_days,8,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0001385,DOC03,yield,YIELD_10,CV (%),baby_corn_weight_with_husk_kg_per_ha,8,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0001386,DOC03,yield,YIELD_10,CV (%),green_ear_weight_with_husk_kg_per_ha,8,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0001427,DOC03,yield,YIELD_11,General mean,days_50_pollen_shedding,9,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0001428,DOC03,yield,YIELD_11,General mean,days_50_silking,9,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0001429,DOC03,yield,YIELD_11,General mean,days_75_dry_husk,9,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0001430,DOC03,yield,YIELD_11,General mean,plant_height_cm,9,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0001431,DOC03,yield,YIELD_11,General mean,ear_height_cm,9,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0001432,DOC03,yield,YIELD_11,General mean,shelling_pct,9,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0001433,DOC03,yield,YIELD_11,General mean,no_rows_per_cob,9,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0001434,DOC03,yield,YIELD_11,General mean,no_grains_per_row,9,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0001435,DOC03,yield,YIELD_11,General mean,grain_yield_kg_per_ha,9,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0001436,DOC03,yield,YIELD_11,CD @ 5%,grain_yield_kg_per_ha,9,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0001437,DOC03,yield,YIELD_11,CV (%),grain_yield_kg_per_ha,9,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0001467,DOC03,yield,YIELD_12,General mean,days_50_pollen_shedding,10,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0001468,DOC03,yield,YIELD_12,General mean,days_50_silking,10,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0001469,DOC03,yield,YIELD_12,General mean,days_75_dry_husk,10,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0001470,DOC03,yield,YIELD_12,General mean,plant_height_cm,10,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0001471,DOC03,yield,YIELD_12,General mean,ear_height_cm,10,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0001472,DOC03,yield,YIELD_12,General mean,shelling_pct,10,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0001473,DOC03,yield,YIELD_12,General mean,no_rows_per_cob,10,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0001474,DOC03,yield,YIELD_12,General mean,no_grains_per_row,10,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0001475,DOC03,yield,YIELD_12,General mean,grain_yield_kg_per_ha,10,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0001476,DOC03,yield,YIELD_12,CD @ 5%,grain_yield_kg_per_ha,10,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0001477,DOC03,yield,YIELD_12,CV (%),grain_yield_kg_per_ha,10,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0001551,DOC03,yield,YIELD_13,MAH-22-80,ear_height_cm,10,YIELD_TRAIT_PLAUSIBILITY_REVIEW,ear_height_cm 182.0 outside screening range 60-180,review
+R0001868,DOC03,yield,YIELD_14,General Mean,days_50_flowering,12,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0001869,DOC03,yield,YIELD_14,General Mean,days_50_silking,12,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0001870,DOC03,yield,YIELD_14,General Mean,days_75_dry_husk,12,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0001871,DOC03,yield,YIELD_14,General Mean,plant_height_cm,12,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0001872,DOC03,yield,YIELD_14,General Mean,ear_height_cm,12,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0001873,DOC03,yield,YIELD_14,General Mean,shelling_pct,12,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0001874,DOC03,yield,YIELD_14,General Mean,no_rows_per_cob,12,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0001875,DOC03,yield,YIELD_14,General Mean,no_grains_per_row,12,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0001876,DOC03,yield,YIELD_14,General Mean,cob_length_cm,12,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0001877,DOC03,yield,YIELD_14,General Mean,cob_girth_cm,12,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0001878,DOC03,yield,YIELD_14,General Mean,test_weight_g,12,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0001879,DOC03,yield,YIELD_14,General Mean,grain_yield_kg_per_ha,12,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0001880,DOC03,yield,YIELD_14,C.D @ 5%,grain_yield_kg_per_ha,12,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0001881,DOC03,yield,YIELD_14,C.V (%),grain_yield_kg_per_ha,12,SUMMARY_OR_STATISTIC_ROW,Not a genotype observation,review
+R0002488,DOC02,SDM,SDM_Station Inbred,MAI-12,sdm_pdi,4-5,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL2488,review
+R0002489,DOC02,SDM,SDM_Station Inbred,MAI-12,sdm_reaction,4-5,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL2489,review
+R0002492,DOC02,SDM,SDM_Station Inbred,MAI-12,sdm_pdi,4-5,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL2488,review
+R0002493,DOC02,SDM,SDM_Station Inbred,MAI-12,sdm_reaction,4-5,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL2489,review
+R0002498,DOC02,SDM,SDM_Station Inbred,NAI 204-1,sdm_pdi,4-5,MISSING_VALUE,Value is blank in master,review
+R0002499,DOC02,SDM,SDM_Station Inbred,NAI 204-1,sdm_reaction,4-5,NG_NOT_GERMINATED,Not germinated marker,review
+R0002528,DOC02,SDM,SDM_Station Inbred,V-496-7,sdm_pdi,4-5,MISSING_VALUE,Value is blank in master,review
+R0002529,DOC02,SDM,SDM_Station Inbred,V-496-7,sdm_reaction,4-5,NG_NOT_GERMINATED,Not germinated marker,review
+R0002558,DOC02,SDM,SDM_Station Hybrids and Parents,NAH-1137,sdm_pdi,5-6,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL2556,review
+R0002559,DOC02,SDM,SDM_Station Hybrids and Parents,NAH-1137,sdm_reaction,5-6,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL2557,review
+R0002596,DOC02,SDM,SDM_Station Hybrids and Parents,NAH-1137,sdm_pdi,5-6,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL2556,review
+R0002597,DOC02,SDM,SDM_Station Hybrids and Parents,NAH-1137,sdm_reaction,5-6,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL2557,review
+R0002892,DOC02,SDM,SDM_CRPAB,791,sdm_pdi,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL2888,review
+R0002893,DOC02,SDM,SDM_CRPAB,791,sdm_reaction,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL2889,review
+R0002894,DOC02,SDM,SDM_CRPAB,171,sdm_pdi,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL2890,review
+R0002895,DOC02,SDM,SDM_CRPAB,171,sdm_reaction,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL2891,review
+R0002896,DOC02,SDM,SDM_CRPAB,822,sdm_pdi,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL2892,review
+R0002897,DOC02,SDM,SDM_CRPAB,822,sdm_reaction,9-11,EXACT_DUPLICATE_GROUP,Exact duplicate group DUP2897,review
+R0002898,DOC02,SDM,SDM_CRPAB,91,sdm_pdi,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL2894,review
+R0002899,DOC02,SDM,SDM_CRPAB,91,sdm_reaction,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL2895,review
+R0002900,DOC02,SDM,SDM_CRPAB,516,sdm_pdi,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL2896,review
+R0002901,DOC02,SDM,SDM_CRPAB,516,sdm_reaction,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL2897,review
+R0002902,DOC02,SDM,SDM_CRPAB,950,sdm_pdi,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL2898,review
+R0002903,DOC02,SDM,SDM_CRPAB,950,sdm_reaction,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL2899,review
+R0002904,DOC02,SDM,SDM_CRPAB,187,sdm_pdi,9-11,EXACT_DUPLICATE_GROUP,Exact duplicate group DUP2904,review
+R0002905,DOC02,SDM,SDM_CRPAB,187,sdm_reaction,9-11,EXACT_DUPLICATE_GROUP,Exact duplicate group DUP2905,review
+R0002906,DOC02,SDM,SDM_CRPAB,829,sdm_pdi,9-11,EXACT_DUPLICATE_GROUP,Exact duplicate group DUP2906,review
+R0002907,DOC02,SDM,SDM_CRPAB,829,sdm_reaction,9-11,EXACT_DUPLICATE_GROUP,Exact duplicate group DUP2907,review
+R0002908,DOC02,SDM,SDM_CRPAB,835,sdm_pdi,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL2904,review
+R0002909,DOC02,SDM,SDM_CRPAB,835,sdm_reaction,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL2905,review
+R0002910,DOC02,SDM,SDM_CRPAB,412,sdm_pdi,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL2906,review
+R0002911,DOC02,SDM,SDM_CRPAB,412,sdm_reaction,9-11,EXACT_DUPLICATE_GROUP,Exact duplicate group DUP2911,review
+R0002912,DOC02,SDM,SDM_CRPAB,586,sdm_pdi,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL2908,review
+R0002913,DOC02,SDM,SDM_CRPAB,586,sdm_reaction,9-11,EXACT_DUPLICATE_GROUP,Exact duplicate group DUP2913,review
+R0002914,DOC02,SDM,SDM_CRPAB,53,sdm_pdi,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL2910,review
+R0002915,DOC02,SDM,SDM_CRPAB,53,sdm_reaction,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL2911,review
+R0002916,DOC02,SDM,SDM_CRPAB,772,sdm_pdi,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL2912,review
+R0002917,DOC02,SDM,SDM_CRPAB,772,sdm_reaction,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL2913,review
+R0002918,DOC02,SDM,SDM_CRPAB,717,sdm_pdi,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL2914,review
+R0002919,DOC02,SDM,SDM_CRPAB,717,sdm_reaction,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL2915,review
+R0002920,DOC02,SDM,SDM_CRPAB,37,sdm_pdi,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL2916,review
+R0002921,DOC02,SDM,SDM_CRPAB,37,sdm_reaction,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL2917,review
+R0002922,DOC02,SDM,SDM_CRPAB,842,sdm_pdi,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL2918,review
+R0002923,DOC02,SDM,SDM_CRPAB,842,sdm_reaction,9-11,EXACT_DUPLICATE_GROUP,Exact duplicate group DUP2923,review
+R0002924,DOC02,SDM,SDM_CRPAB,395,sdm_pdi,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL2920,review
+R0002925,DOC02,SDM,SDM_CRPAB,395,sdm_reaction,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL2921,review
+R0002926,DOC02,SDM,SDM_CRPAB,17,sdm_pdi,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL2922,review
+R0002927,DOC02,SDM,SDM_CRPAB,17,sdm_reaction,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL2923,review
+R0002928,DOC02,SDM,SDM_CRPAB,553,sdm_pdi,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL2924,review
+R0002929,DOC02,SDM,SDM_CRPAB,553,sdm_reaction,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL2925,review
+R0002930,DOC02,SDM,SDM_CRPAB,1033,sdm_pdi,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL2926,review
+R0002931,DOC02,SDM,SDM_CRPAB,1033,sdm_reaction,9-11,EXACT_DUPLICATE_GROUP,Exact duplicate group DUP2931,review
+R0002932,DOC02,SDM,SDM_CRPAB,485,sdm_pdi,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL2928,review
+R0002933,DOC02,SDM,SDM_CRPAB,485,sdm_reaction,9-11,EXACT_DUPLICATE_GROUP,Exact duplicate group DUP2933,review
+R0002934,DOC02,SDM,SDM_CRPAB,569,sdm_pdi,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL2930,review
+R0002935,DOC02,SDM,SDM_CRPAB,569,sdm_reaction,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL2931,review
+R0002936,DOC02,SDM,SDM_CRPAB,723,sdm_pdi,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL2932,review
+R0002937,DOC02,SDM,SDM_CRPAB,723,sdm_reaction,9-11,EXACT_DUPLICATE_GROUP,Exact duplicate group DUP2937,review
+R0002938,DOC02,SDM,SDM_CRPAB,334,sdm_pdi,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL2934,review
+R0002939,DOC02,SDM,SDM_CRPAB,334,sdm_reaction,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL2935,review
+R0002940,DOC02,SDM,SDM_CRPAB,411,sdm_pdi,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL2936,review
+R0002941,DOC02,SDM,SDM_CRPAB,411,sdm_reaction,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL2937,review
+R0002942,DOC02,SDM,SDM_CRPAB,643,sdm_pdi,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL2938,review
+R0002943,DOC02,SDM,SDM_CRPAB,643,sdm_reaction,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL2939,review
+R0002944,DOC02,SDM,SDM_CRPAB,1030,sdm_pdi,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL2940,review
+R0002945,DOC02,SDM,SDM_CRPAB,1030,sdm_reaction,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL2941,review
+R0002946,DOC02,SDM,SDM_CRPAB,323,sdm_pdi,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL2942,review
+R0002947,DOC02,SDM,SDM_CRPAB,323,sdm_reaction,9-11,EXACT_DUPLICATE_GROUP,Exact duplicate group DUP2947,review
+R0002948,DOC02,SDM,SDM_CRPAB,52,sdm_pdi,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL2944,review
+R0002949,DOC02,SDM,SDM_CRPAB,52,sdm_reaction,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL2945,review
+R0002950,DOC02,SDM,SDM_CRPAB,1005,sdm_pdi,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL2946,review
+R0002951,DOC02,SDM,SDM_CRPAB,1005,sdm_reaction,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL2947,review
+R0002952,DOC02,SDM,SDM_CRPAB,346,sdm_pdi,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL2948,review
+R0002953,DOC02,SDM,SDM_CRPAB,346,sdm_reaction,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL2949,review
+R0002954,DOC02,SDM,SDM_CRPAB,929,sdm_pdi,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL2950,review
+R0002955,DOC02,SDM,SDM_CRPAB,929,sdm_reaction,9-11,EXACT_DUPLICATE_GROUP,Exact duplicate group DUP2955,review
+R0002956,DOC02,SDM,SDM_CRPAB,654,sdm_pdi,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL2952,review
+R0002957,DOC02,SDM,SDM_CRPAB,654,sdm_reaction,9-11,EXACT_DUPLICATE_GROUP,Exact duplicate group DUP2957,review
+R0002958,DOC02,SDM,SDM_CRPAB,870,sdm_pdi,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL2954,review
+R0002959,DOC02,SDM,SDM_CRPAB,870,sdm_reaction,9-11,EXACT_DUPLICATE_GROUP,Exact duplicate group DUP2959,review
+R0002960,DOC02,SDM,SDM_CRPAB,935,sdm_pdi,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL2956,review
+R0002961,DOC02,SDM,SDM_CRPAB,935,sdm_reaction,9-11,EXACT_DUPLICATE_GROUP,Exact duplicate group DUP2961,review
+R0002962,DOC02,SDM,SDM_CRPAB,130,sdm_pdi,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL2958,review
+R0002963,DOC02,SDM,SDM_CRPAB,130,sdm_reaction,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL2959,review
+R0002964,DOC02,SDM,SDM_CRPAB,981,sdm_pdi,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL2960,review
+R0002965,DOC02,SDM,SDM_CRPAB,981,sdm_reaction,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL2961,review
+R0002966,DOC02,SDM,SDM_CRPAB,895,sdm_pdi,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL2962,review
+R0002967,DOC02,SDM,SDM_CRPAB,895,sdm_reaction,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL2963,review
+R0002968,DOC02,SDM,SDM_CRPAB,832,sdm_pdi,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL2964,review
+R0002969,DOC02,SDM,SDM_CRPAB,832,sdm_reaction,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL2965,review
+R0002970,DOC02,SDM,SDM_CRPAB,856,sdm_pdi,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL2966,review
+R0002971,DOC02,SDM,SDM_CRPAB,856,sdm_reaction,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL2967,review
+R0002972,DOC02,SDM,SDM_CRPAB,769,sdm_pdi,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL2968,review
+R0002973,DOC02,SDM,SDM_CRPAB,769,sdm_reaction,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL2969,review
+R0002976,DOC02,SDM,SDM_CRPAB,293,sdm_pdi,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL2972,review
+R0002977,DOC02,SDM,SDM_CRPAB,293,sdm_reaction,9-11,EXACT_DUPLICATE_GROUP,Exact duplicate group DUP2977,review
+R0002978,DOC02,SDM,SDM_CRPAB,112,sdm_pdi,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL2974,review
+R0002979,DOC02,SDM,SDM_CRPAB,112,sdm_reaction,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL2975,review
+R0002980,DOC02,SDM,SDM_CRPAB,543,sdm_pdi,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL2976,review
+R0002981,DOC02,SDM,SDM_CRPAB,543,sdm_reaction,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL2977,review
+R0002982,DOC02,SDM,SDM_CRPAB,510,sdm_pdi,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL2978,review
+R0002983,DOC02,SDM,SDM_CRPAB,510,sdm_reaction,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL2979,review
+R0002984,DOC02,SDM,SDM_CRPAB,413,sdm_pdi,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL2980,review
+R0002985,DOC02,SDM,SDM_CRPAB,413,sdm_reaction,9-11,EXACT_DUPLICATE_GROUP,Exact duplicate group DUP2985,review
+R0002986,DOC02,SDM,SDM_CRPAB,813,sdm_pdi,9-11,EXACT_DUPLICATE_GROUP,Exact duplicate group DUP2986,review
+R0002987,DOC02,SDM,SDM_CRPAB,813,sdm_reaction,9-11,EXACT_DUPLICATE_GROUP,Exact duplicate group DUP2987,review
+R0002988,DOC02,SDM,SDM_CRPAB,457,sdm_pdi,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL2984,review
+R0002989,DOC02,SDM,SDM_CRPAB,457,sdm_reaction,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL2985,review
+R0002990,DOC02,SDM,SDM_CRPAB,178,sdm_pdi,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL2986,review
+R0002991,DOC02,SDM,SDM_CRPAB,178,sdm_reaction,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL2987,review
+R0002992,DOC02,SDM,SDM_CRPAB,443,sdm_pdi,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL2988,review
+R0002993,DOC02,SDM,SDM_CRPAB,443,sdm_reaction,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL2989,review
+R0002994,DOC02,SDM,SDM_CRPAB,997,sdm_pdi,9-11,EXACT_DUPLICATE_GROUP,Exact duplicate group DUP2994,review
+R0002995,DOC02,SDM,SDM_CRPAB,997,sdm_reaction,9-11,EXACT_DUPLICATE_GROUP,Exact duplicate group DUP2995,review
+R0002996,DOC02,SDM,SDM_CRPAB,488,sdm_pdi,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL2992,review
+R0002997,DOC02,SDM,SDM_CRPAB,488,sdm_reaction,9-11,EXACT_DUPLICATE_GROUP,Exact duplicate group DUP2997,review
+R0002998,DOC02,SDM,SDM_CRPAB,82,sdm_pdi,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL2994,review
+R0002999,DOC02,SDM,SDM_CRPAB,82,sdm_reaction,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL2995,review
+R0003000,DOC02,SDM,SDM_CRPAB,655,sdm_pdi,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL2996,review
+R0003001,DOC02,SDM,SDM_CRPAB,655,sdm_reaction,9-11,EXACT_DUPLICATE_GROUP,Exact duplicate group DUP3001,review
+R0003002,DOC02,SDM,SDM_CRPAB,70,sdm_pdi,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL2998,review
+R0003003,DOC02,SDM,SDM_CRPAB,70,sdm_reaction,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL2999,review
+R0003004,DOC02,SDM,SDM_CRPAB,465,sdm_pdi,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL3000,review
+R0003005,DOC02,SDM,SDM_CRPAB,465,sdm_reaction,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL3001,review
+R0003006,DOC02,SDM,SDM_CRPAB,1028,sdm_pdi,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL3002,review
+R0003007,DOC02,SDM,SDM_CRPAB,1028,sdm_reaction,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL3003,review
+R0003008,DOC02,SDM,SDM_CRPAB,812,sdm_pdi,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL3004,review
+R0003009,DOC02,SDM,SDM_CRPAB,812,sdm_reaction,9-11,EXACT_DUPLICATE_GROUP,Exact duplicate group DUP3009,review
+R0003010,DOC02,SDM,SDM_CRPAB,674,sdm_pdi,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL3006,review
+R0003011,DOC02,SDM,SDM_CRPAB,674,sdm_reaction,9-11,EXACT_DUPLICATE_GROUP,Exact duplicate group DUP3011,review
+R0003012,DOC02,SDM,SDM_CRPAB,862,sdm_pdi,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL3008,review
+R0003013,DOC02,SDM,SDM_CRPAB,862,sdm_reaction,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL3009,review
+R0003014,DOC02,SDM,SDM_CRPAB,855,sdm_pdi,9-11,EXACT_DUPLICATE_GROUP,Exact duplicate group DUP3014,review
+R0003015,DOC02,SDM,SDM_CRPAB,855,sdm_reaction,9-11,EXACT_DUPLICATE_GROUP,Exact duplicate group DUP3015,review
+R0003016,DOC02,SDM,SDM_CRPAB,987,sdm_pdi,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL3012,review
+R0003017,DOC02,SDM,SDM_CRPAB,987,sdm_reaction,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL3013,review
+R0003018,DOC02,SDM,SDM_CRPAB,734,sdm_pdi,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL3014,review
+R0003019,DOC02,SDM,SDM_CRPAB,734,sdm_reaction,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL3015,review
+R0003020,DOC02,SDM,SDM_CRPAB,548,sdm_pdi,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL3016,review
+R0003021,DOC02,SDM,SDM_CRPAB,548,sdm_reaction,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL3017,review
+R0003022,DOC02,SDM,SDM_CRPAB,815,sdm_pdi,9-11,EXACT_DUPLICATE_GROUP,Exact duplicate group DUP3022,review
+R0003023,DOC02,SDM,SDM_CRPAB,815,sdm_reaction,9-11,EXACT_DUPLICATE_GROUP,Exact duplicate group DUP3023,review
+R0003026,DOC02,SDM,SDM_CRPAB,13,sdm_pdi,9-11,EXACT_DUPLICATE_GROUP,Exact duplicate group DUP3026,review
+R0003027,DOC02,SDM,SDM_CRPAB,13,sdm_reaction,9-11,EXACT_DUPLICATE_GROUP,Exact duplicate group DUP3027,review
+R0003028,DOC02,SDM,SDM_CRPAB,787,sdm_pdi,9-11,EXACT_DUPLICATE_GROUP,Exact duplicate group DUP3028,review
+R0003029,DOC02,SDM,SDM_CRPAB,787,sdm_reaction,9-11,EXACT_DUPLICATE_GROUP,Exact duplicate group DUP3029,review
+R0003030,DOC02,SDM,SDM_CRPAB,634,sdm_pdi,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL3026,review
+R0003031,DOC02,SDM,SDM_CRPAB,634,sdm_reaction,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL3027,review
+R0003032,DOC02,SDM,SDM_CRPAB,789,sdm_pdi,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL3028,review
+R0003033,DOC02,SDM,SDM_CRPAB,789,sdm_reaction,9-11,EXACT_DUPLICATE_GROUP,Exact duplicate group DUP3033,review
+R0003034,DOC02,SDM,SDM_CRPAB,467,sdm_pdi,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL3030,review
+R0003035,DOC02,SDM,SDM_CRPAB,467,sdm_reaction,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL3031,review
+R0003036,DOC02,SDM,SDM_CRPAB,43,sdm_pdi,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL3032,review
+R0003037,DOC02,SDM,SDM_CRPAB,43,sdm_reaction,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL3033,review
+R0003038,DOC02,SDM,SDM_CRPAB,711,sdm_pdi,9-11,EXACT_DUPLICATE_GROUP,Exact duplicate group DUP3038,review
+R0003039,DOC02,SDM,SDM_CRPAB,711,sdm_reaction,9-11,EXACT_DUPLICATE_GROUP,Exact duplicate group DUP3039,review
+R0003040,DOC02,SDM,SDM_CRPAB,689,sdm_pdi,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL3036,review
+R0003041,DOC02,SDM,SDM_CRPAB,689,sdm_reaction,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL3037,review
+R0003042,DOC02,SDM,SDM_CRPAB,1017,sdm_pdi,9-11,EXACT_DUPLICATE_GROUP,Exact duplicate group DUP3042,review
+R0003043,DOC02,SDM,SDM_CRPAB,1017,sdm_reaction,9-11,EXACT_DUPLICATE_GROUP,Exact duplicate group DUP3043,review
+R0003044,DOC02,SDM,SDM_CRPAB,846,sdm_pdi,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL3040,review
+R0003045,DOC02,SDM,SDM_CRPAB,846,sdm_reaction,9-11,EXACT_DUPLICATE_GROUP,Exact duplicate group DUP3045,review
+R0003046,DOC02,SDM,SDM_CRPAB,839,sdm_pdi,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL3042,review
+R0003047,DOC02,SDM,SDM_CRPAB,839,sdm_reaction,9-11,EXACT_DUPLICATE_GROUP,Exact duplicate group DUP3047,review
+R0003048,DOC02,SDM,SDM_CRPAB,867,sdm_pdi,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL3044,review
+R0003049,DOC02,SDM,SDM_CRPAB,867,sdm_reaction,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL3045,review
+R0003050,DOC02,SDM,SDM_CRPAB,86,sdm_pdi,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL3046,review
+R0003051,DOC02,SDM,SDM_CRPAB,86,sdm_reaction,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL3047,review
+R0003052,DOC02,SDM,SDM_CRPAB,19,sdm_pdi,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL3048,review
+R0003053,DOC02,SDM,SDM_CRPAB,19,sdm_reaction,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL3049,review
+R0003056,DOC02,SDM,SDM_CRPAB,336,sdm_pdi,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL3052,review
+R0003057,DOC02,SDM,SDM_CRPAB,336,sdm_reaction,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL3053,review
+R0003058,DOC02,SDM,SDM_CRPAB,713,sdm_pdi,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL3054,review
+R0003059,DOC02,SDM,SDM_CRPAB,713,sdm_reaction,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL3055,review
+R0003060,DOC02,SDM,SDM_CRPAB,241,sdm_pdi,9-11,EXACT_DUPLICATE_GROUP,Exact duplicate group DUP3060,review
+R0003061,DOC02,SDM,SDM_CRPAB,241,sdm_reaction,9-11,EXACT_DUPLICATE_GROUP,Exact duplicate group DUP3061,review
+R0003062,DOC02,SDM,SDM_CRPAB,993,sdm_pdi,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL3058,review
+R0003063,DOC02,SDM,SDM_CRPAB,993,sdm_reaction,9-11,EXACT_DUPLICATE_GROUP,Exact duplicate group DUP3063,review
+R0003064,DOC02,SDM,SDM_CRPAB,557,sdm_pdi,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL3060,review
+R0003065,DOC02,SDM,SDM_CRPAB,557,sdm_reaction,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL3061,review
+R0003066,DOC02,SDM,SDM_CRPAB,393,sdm_pdi,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL3062,review
+R0003067,DOC02,SDM,SDM_CRPAB,393,sdm_reaction,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL3063,review
+R0003068,DOC02,SDM,SDM_CRPAB,508,sdm_pdi,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL3064,review
+R0003069,DOC02,SDM,SDM_CRPAB,508,sdm_reaction,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL3065,review
+R0003070,DOC02,SDM,SDM_CRPAB,831,sdm_pdi,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL3066,review
+R0003071,DOC02,SDM,SDM_CRPAB,831,sdm_reaction,9-11,EXACT_DUPLICATE_GROUP,Exact duplicate group DUP3071,review
+R0003072,DOC02,SDM,SDM_CRPAB,1039,sdm_pdi,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL3068,review
+R0003073,DOC02,SDM,SDM_CRPAB,1039,sdm_reaction,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL3069,review
+R0003074,DOC02,SDM,SDM_CRPAB,696,sdm_pdi,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL3070,review
+R0003075,DOC02,SDM,SDM_CRPAB,696,sdm_reaction,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL3071,review
+R0003076,DOC02,SDM,SDM_CRPAB,798,sdm_pdi,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL3072,review
+R0003077,DOC02,SDM,SDM_CRPAB,798,sdm_reaction,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL3073,review
+R0003078,DOC02,SDM,SDM_CRPAB,125,sdm_pdi,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL3074,review
+R0003079,DOC02,SDM,SDM_CRPAB,125,sdm_reaction,9-11,EXACT_DUPLICATE_GROUP,Exact duplicate group DUP3079,review
+R0003080,DOC02,SDM,SDM_CRPAB,684,sdm_pdi,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL3076,review
+R0003081,DOC02,SDM,SDM_CRPAB,684,sdm_reaction,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL3077,review
+R0003082,DOC02,SDM,SDM_CRPAB,746,sdm_pdi,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL3078,review
+R0003083,DOC02,SDM,SDM_CRPAB,746,sdm_reaction,9-11,EXACT_DUPLICATE_GROUP,Exact duplicate group DUP3083,review
+R0003084,DOC02,SDM,SDM_CRPAB,316,sdm_pdi,9-11,EXACT_DUPLICATE_GROUP,Exact duplicate group DUP3084,review
+R0003085,DOC02,SDM,SDM_CRPAB,316,sdm_reaction,9-11,EXACT_DUPLICATE_GROUP,Exact duplicate group DUP3085,review
+R0003086,DOC02,SDM,SDM_CRPAB,470,sdm_pdi,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL3082,review
+R0003087,DOC02,SDM,SDM_CRPAB,470,sdm_reaction,9-11,EXACT_DUPLICATE_GROUP,Exact duplicate group DUP3087,review
+R0003088,DOC02,SDM,SDM_CRPAB,271,sdm_pdi,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL3084,review
+R0003089,DOC02,SDM,SDM_CRPAB,271,sdm_reaction,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL3085,review
+R0003090,DOC02,SDM,SDM_CRPAB,634,sdm_pdi,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL3026,review
+R0003091,DOC02,SDM,SDM_CRPAB,634,sdm_reaction,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL3027,review
+R0003092,DOC02,SDM,SDM_CRPAB,316,sdm_pdi,9-11,EXACT_DUPLICATE_GROUP,Exact duplicate group DUP3084,review
+R0003092,DOC02,SDM,SDM_CRPAB,316,sdm_pdi,9-11,EXACT_DUPLICATE_REMOVE_FROM_CLEAN,Later occurrence of exact duplicate,review
+R0003093,DOC02,SDM,SDM_CRPAB,316,sdm_reaction,9-11,EXACT_DUPLICATE_GROUP,Exact duplicate group DUP3085,review
+R0003093,DOC02,SDM,SDM_CRPAB,316,sdm_reaction,9-11,EXACT_DUPLICATE_REMOVE_FROM_CLEAN,Later occurrence of exact duplicate,review
+R0003094,DOC02,SDM,SDM_CRPAB,465,sdm_pdi,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL3000,review
+R0003095,DOC02,SDM,SDM_CRPAB,465,sdm_reaction,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL3001,review
+R0003096,DOC02,SDM,SDM_CRPAB,413,sdm_pdi,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL2980,review
+R0003097,DOC02,SDM,SDM_CRPAB,413,sdm_reaction,9-11,EXACT_DUPLICATE_GROUP,Exact duplicate group DUP2985,review
+R0003097,DOC02,SDM,SDM_CRPAB,413,sdm_reaction,9-11,EXACT_DUPLICATE_REMOVE_FROM_CLEAN,Later occurrence of exact duplicate,review
+R0003098,DOC02,SDM,SDM_CRPAB,241,sdm_pdi,9-11,EXACT_DUPLICATE_GROUP,Exact duplicate group DUP3060,review
+R0003098,DOC02,SDM,SDM_CRPAB,241,sdm_pdi,9-11,EXACT_DUPLICATE_REMOVE_FROM_CLEAN,Later occurrence of exact duplicate,review
+R0003099,DOC02,SDM,SDM_CRPAB,241,sdm_reaction,9-11,EXACT_DUPLICATE_GROUP,Exact duplicate group DUP3061,review
+R0003099,DOC02,SDM,SDM_CRPAB,241,sdm_reaction,9-11,EXACT_DUPLICATE_REMOVE_FROM_CLEAN,Later occurrence of exact duplicate,review
+R0003100,DOC02,SDM,SDM_CRPAB,856,sdm_pdi,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL2966,review
+R0003101,DOC02,SDM,SDM_CRPAB,856,sdm_reaction,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL2967,review
+R0003102,DOC02,SDM,SDM_CRPAB,569,sdm_pdi,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL2930,review
+R0003103,DOC02,SDM,SDM_CRPAB,569,sdm_reaction,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL2931,review
+R0003104,DOC02,SDM,SDM_CRPAB,689,sdm_pdi,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL3036,review
+R0003105,DOC02,SDM,SDM_CRPAB,689,sdm_reaction,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL3037,review
+R0003106,DOC02,SDM,SDM_CRPAB,835,sdm_pdi,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL2904,review
+R0003107,DOC02,SDM,SDM_CRPAB,835,sdm_reaction,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL2905,review
+R0003108,DOC02,SDM,SDM_CRPAB,293,sdm_pdi,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL2972,review
+R0003109,DOC02,SDM,SDM_CRPAB,293,sdm_reaction,9-11,EXACT_DUPLICATE_GROUP,Exact duplicate group DUP2977,review
+R0003109,DOC02,SDM,SDM_CRPAB,293,sdm_reaction,9-11,EXACT_DUPLICATE_REMOVE_FROM_CLEAN,Later occurrence of exact duplicate,review
+R0003110,DOC02,SDM,SDM_CRPAB,846,sdm_pdi,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL3040,review
+R0003111,DOC02,SDM,SDM_CRPAB,846,sdm_reaction,9-11,EXACT_DUPLICATE_GROUP,Exact duplicate group DUP3045,review
+R0003111,DOC02,SDM,SDM_CRPAB,846,sdm_reaction,9-11,EXACT_DUPLICATE_REMOVE_FROM_CLEAN,Later occurrence of exact duplicate,review
+R0003112,DOC02,SDM,SDM_CRPAB,870,sdm_pdi,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL2954,review
+R0003113,DOC02,SDM,SDM_CRPAB,870,sdm_reaction,9-11,EXACT_DUPLICATE_GROUP,Exact duplicate group DUP2959,review
+R0003113,DOC02,SDM,SDM_CRPAB,870,sdm_reaction,9-11,EXACT_DUPLICATE_REMOVE_FROM_CLEAN,Later occurrence of exact duplicate,review
+R0003114,DOC02,SDM,SDM_CRPAB,457,sdm_pdi,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL2984,review
+R0003115,DOC02,SDM,SDM_CRPAB,457,sdm_reaction,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL2985,review
+R0003116,DOC02,SDM,SDM_CRPAB,1033,sdm_pdi,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL2926,review
+R0003117,DOC02,SDM,SDM_CRPAB,1033,sdm_reaction,9-11,EXACT_DUPLICATE_GROUP,Exact duplicate group DUP2931,review
+R0003117,DOC02,SDM,SDM_CRPAB,1033,sdm_reaction,9-11,EXACT_DUPLICATE_REMOVE_FROM_CLEAN,Later occurrence of exact duplicate,review
+R0003118,DOC02,SDM,SDM_CRPAB,586,sdm_pdi,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL2908,review
+R0003119,DOC02,SDM,SDM_CRPAB,586,sdm_reaction,9-11,EXACT_DUPLICATE_GROUP,Exact duplicate group DUP2913,review
+R0003119,DOC02,SDM,SDM_CRPAB,586,sdm_reaction,9-11,EXACT_DUPLICATE_REMOVE_FROM_CLEAN,Later occurrence of exact duplicate,review
+R0003120,DOC02,SDM,SDM_CRPAB,798,sdm_pdi,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL3072,review
+R0003121,DOC02,SDM,SDM_CRPAB,798,sdm_reaction,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL3073,review
+R0003122,DOC02,SDM,SDM_CRPAB,993,sdm_pdi,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL3058,review
+R0003123,DOC02,SDM,SDM_CRPAB,993,sdm_reaction,9-11,EXACT_DUPLICATE_GROUP,Exact duplicate group DUP3063,review
+R0003123,DOC02,SDM,SDM_CRPAB,993,sdm_reaction,9-11,EXACT_DUPLICATE_REMOVE_FROM_CLEAN,Later occurrence of exact duplicate,review
+R0003124,DOC02,SDM,SDM_CRPAB,815,sdm_pdi,9-11,EXACT_DUPLICATE_GROUP,Exact duplicate group DUP3022,review
+R0003124,DOC02,SDM,SDM_CRPAB,815,sdm_pdi,9-11,EXACT_DUPLICATE_REMOVE_FROM_CLEAN,Later occurrence of exact duplicate,review
+R0003125,DOC02,SDM,SDM_CRPAB,815,sdm_reaction,9-11,EXACT_DUPLICATE_GROUP,Exact duplicate group DUP3023,review
+R0003125,DOC02,SDM,SDM_CRPAB,815,sdm_reaction,9-11,EXACT_DUPLICATE_REMOVE_FROM_CLEAN,Later occurrence of exact duplicate,review
+R0003126,DOC02,SDM,SDM_CRPAB,334,sdm_pdi,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL2934,review
+R0003127,DOC02,SDM,SDM_CRPAB,334,sdm_reaction,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL2935,review
+R0003128,DOC02,SDM,SDM_CRPAB,271,sdm_pdi,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL3084,review
+R0003129,DOC02,SDM,SDM_CRPAB,271,sdm_reaction,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL3085,review
+R0003130,DOC02,SDM,SDM_CRPAB,1017,sdm_pdi,9-11,EXACT_DUPLICATE_GROUP,Exact duplicate group DUP3042,review
+R0003130,DOC02,SDM,SDM_CRPAB,1017,sdm_pdi,9-11,EXACT_DUPLICATE_REMOVE_FROM_CLEAN,Later occurrence of exact duplicate,review
+R0003131,DOC02,SDM,SDM_CRPAB,1017,sdm_reaction,9-11,EXACT_DUPLICATE_GROUP,Exact duplicate group DUP3043,review
+R0003131,DOC02,SDM,SDM_CRPAB,1017,sdm_reaction,9-11,EXACT_DUPLICATE_REMOVE_FROM_CLEAN,Later occurrence of exact duplicate,review
+R0003132,DOC02,SDM,SDM_CRPAB,655,sdm_pdi,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL2996,review
+R0003133,DOC02,SDM,SDM_CRPAB,655,sdm_reaction,9-11,EXACT_DUPLICATE_GROUP,Exact duplicate group DUP3001,review
+R0003133,DOC02,SDM,SDM_CRPAB,655,sdm_reaction,9-11,EXACT_DUPLICATE_REMOVE_FROM_CLEAN,Later occurrence of exact duplicate,review
+R0003134,DOC02,SDM,SDM_CRPAB,346,sdm_pdi,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL2948,review
+R0003135,DOC02,SDM,SDM_CRPAB,346,sdm_reaction,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL2949,review
+R0003136,DOC02,SDM,SDM_CRPAB,82,sdm_pdi,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL2994,review
+R0003137,DOC02,SDM,SDM_CRPAB,82,sdm_reaction,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL2995,review
+R0003138,DOC02,SDM,SDM_CRPAB,789,sdm_pdi,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL3028,review
+R0003139,DOC02,SDM,SDM_CRPAB,789,sdm_reaction,9-11,EXACT_DUPLICATE_GROUP,Exact duplicate group DUP3033,review
+R0003139,DOC02,SDM,SDM_CRPAB,789,sdm_reaction,9-11,EXACT_DUPLICATE_REMOVE_FROM_CLEAN,Later occurrence of exact duplicate,review
+R0003140,DOC02,SDM,SDM_CRPAB,508,sdm_pdi,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL3064,review
+R0003141,DOC02,SDM,SDM_CRPAB,508,sdm_reaction,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL3065,review
+R0003142,DOC02,SDM,SDM_CRPAB,822,sdm_pdi,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL2892,review
+R0003143,DOC02,SDM,SDM_CRPAB,822,sdm_reaction,9-11,EXACT_DUPLICATE_GROUP,Exact duplicate group DUP2897,review
+R0003143,DOC02,SDM,SDM_CRPAB,822,sdm_reaction,9-11,EXACT_DUPLICATE_REMOVE_FROM_CLEAN,Later occurrence of exact duplicate,review
+R0003144,DOC02,SDM,SDM_CRPAB,393,sdm_pdi,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL3062,review
+R0003145,DOC02,SDM,SDM_CRPAB,393,sdm_reaction,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL3063,review
+R0003146,DOC02,SDM,SDM_CRPAB,772,sdm_pdi,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL2912,review
+R0003147,DOC02,SDM,SDM_CRPAB,772,sdm_reaction,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL2913,review
+R0003148,DOC02,SDM,SDM_CRPAB,787,sdm_pdi,9-11,EXACT_DUPLICATE_GROUP,Exact duplicate group DUP3028,review
+R0003148,DOC02,SDM,SDM_CRPAB,787,sdm_pdi,9-11,EXACT_DUPLICATE_REMOVE_FROM_CLEAN,Later occurrence of exact duplicate,review
+R0003149,DOC02,SDM,SDM_CRPAB,787,sdm_reaction,9-11,EXACT_DUPLICATE_GROUP,Exact duplicate group DUP3029,review
+R0003149,DOC02,SDM,SDM_CRPAB,787,sdm_reaction,9-11,EXACT_DUPLICATE_REMOVE_FROM_CLEAN,Later occurrence of exact duplicate,review
+R0003150,DOC02,SDM,SDM_CRPAB,43,sdm_pdi,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL3032,review
+R0003151,DOC02,SDM,SDM_CRPAB,43,sdm_reaction,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL3033,review
+R0003152,DOC02,SDM,SDM_CRPAB,411,sdm_pdi,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL2936,review
+R0003153,DOC02,SDM,SDM_CRPAB,411,sdm_reaction,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL2937,review
+R0003154,DOC02,SDM,SDM_CRPAB,829,sdm_pdi,9-11,EXACT_DUPLICATE_GROUP,Exact duplicate group DUP2906,review
+R0003154,DOC02,SDM,SDM_CRPAB,829,sdm_pdi,9-11,EXACT_DUPLICATE_REMOVE_FROM_CLEAN,Later occurrence of exact duplicate,review
+R0003155,DOC02,SDM,SDM_CRPAB,829,sdm_reaction,9-11,EXACT_DUPLICATE_GROUP,Exact duplicate group DUP2907,review
+R0003155,DOC02,SDM,SDM_CRPAB,829,sdm_reaction,9-11,EXACT_DUPLICATE_REMOVE_FROM_CLEAN,Later occurrence of exact duplicate,review
+R0003156,DOC02,SDM,SDM_CRPAB,813,sdm_pdi,9-11,EXACT_DUPLICATE_GROUP,Exact duplicate group DUP2986,review
+R0003156,DOC02,SDM,SDM_CRPAB,813,sdm_pdi,9-11,EXACT_DUPLICATE_REMOVE_FROM_CLEAN,Later occurrence of exact duplicate,review
+R0003157,DOC02,SDM,SDM_CRPAB,813,sdm_reaction,9-11,EXACT_DUPLICATE_GROUP,Exact duplicate group DUP2987,review
+R0003157,DOC02,SDM,SDM_CRPAB,813,sdm_reaction,9-11,EXACT_DUPLICATE_REMOVE_FROM_CLEAN,Later occurrence of exact duplicate,review
+R0003158,DOC02,SDM,SDM_CRPAB,935,sdm_pdi,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL2956,review
+R0003159,DOC02,SDM,SDM_CRPAB,935,sdm_reaction,9-11,EXACT_DUPLICATE_GROUP,Exact duplicate group DUP2961,review
+R0003159,DOC02,SDM,SDM_CRPAB,935,sdm_reaction,9-11,EXACT_DUPLICATE_REMOVE_FROM_CLEAN,Later occurrence of exact duplicate,review
+R0003160,DOC02,SDM,SDM_CRPAB,812,sdm_pdi,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL3004,review
+R0003161,DOC02,SDM,SDM_CRPAB,812,sdm_reaction,9-11,EXACT_DUPLICATE_GROUP,Exact duplicate group DUP3009,review
+R0003161,DOC02,SDM,SDM_CRPAB,812,sdm_reaction,9-11,EXACT_DUPLICATE_REMOVE_FROM_CLEAN,Later occurrence of exact duplicate,review
+R0003162,DOC02,SDM,SDM_CRPAB,17,sdm_pdi,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL2922,review
+R0003163,DOC02,SDM,SDM_CRPAB,17,sdm_reaction,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL2923,review
+R0003164,DOC02,SDM,SDM_CRPAB,323,sdm_pdi,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL2942,review
+R0003165,DOC02,SDM,SDM_CRPAB,323,sdm_reaction,9-11,EXACT_DUPLICATE_GROUP,Exact duplicate group DUP2947,review
+R0003165,DOC02,SDM,SDM_CRPAB,323,sdm_reaction,9-11,EXACT_DUPLICATE_REMOVE_FROM_CLEAN,Later occurrence of exact duplicate,review
+R0003166,DOC02,SDM,SDM_CRPAB,467,sdm_pdi,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL3030,review
+R0003167,DOC02,SDM,SDM_CRPAB,467,sdm_reaction,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL3031,review
+R0003168,DOC02,SDM,SDM_CRPAB,557,sdm_pdi,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL3060,review
+R0003169,DOC02,SDM,SDM_CRPAB,557,sdm_reaction,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL3061,review
+R0003170,DOC02,SDM,SDM_CRPAB,543,sdm_pdi,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL2976,review
+R0003171,DOC02,SDM,SDM_CRPAB,543,sdm_reaction,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL2977,review
+R0003172,DOC02,SDM,SDM_CRPAB,443,sdm_pdi,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL2988,review
+R0003173,DOC02,SDM,SDM_CRPAB,443,sdm_reaction,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL2989,review
+R0003174,DOC02,SDM,SDM_CRPAB,125,sdm_pdi,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL3074,review
+R0003175,DOC02,SDM,SDM_CRPAB,125,sdm_reaction,9-11,EXACT_DUPLICATE_GROUP,Exact duplicate group DUP3079,review
+R0003175,DOC02,SDM,SDM_CRPAB,125,sdm_reaction,9-11,EXACT_DUPLICATE_REMOVE_FROM_CLEAN,Later occurrence of exact duplicate,review
+R0003176,DOC02,SDM,SDM_CRPAB,485,sdm_pdi,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL2928,review
+R0003177,DOC02,SDM,SDM_CRPAB,485,sdm_reaction,9-11,EXACT_DUPLICATE_GROUP,Exact duplicate group DUP2933,review
+R0003177,DOC02,SDM,SDM_CRPAB,485,sdm_reaction,9-11,EXACT_DUPLICATE_REMOVE_FROM_CLEAN,Later occurrence of exact duplicate,review
+R0003178,DOC02,SDM,SDM_CRPAB,734,sdm_pdi,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL3014,review
+R0003179,DOC02,SDM,SDM_CRPAB,734,sdm_reaction,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL3015,review
+R0003180,DOC02,SDM,SDM_CRPAB,336,sdm_pdi,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL3052,review
+R0003181,DOC02,SDM,SDM_CRPAB,336,sdm_reaction,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL3053,review
+R0003182,DOC02,SDM,SDM_CRPAB,178,sdm_pdi,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL2986,review
+R0003183,DOC02,SDM,SDM_CRPAB,178,sdm_reaction,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL2987,review
+R0003184,DOC02,SDM,SDM_CRPAB,855,sdm_pdi,9-11,EXACT_DUPLICATE_GROUP,Exact duplicate group DUP3014,review
+R0003184,DOC02,SDM,SDM_CRPAB,855,sdm_pdi,9-11,EXACT_DUPLICATE_REMOVE_FROM_CLEAN,Later occurrence of exact duplicate,review
+R0003185,DOC02,SDM,SDM_CRPAB,855,sdm_reaction,9-11,EXACT_DUPLICATE_GROUP,Exact duplicate group DUP3015,review
+R0003185,DOC02,SDM,SDM_CRPAB,855,sdm_reaction,9-11,EXACT_DUPLICATE_REMOVE_FROM_CLEAN,Later occurrence of exact duplicate,review
+R0003186,DOC02,SDM,SDM_CRPAB,769,sdm_pdi,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL2968,review
+R0003187,DOC02,SDM,SDM_CRPAB,769,sdm_reaction,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL2969,review
+R0003188,DOC02,SDM,SDM_CRPAB,950,sdm_pdi,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL2898,review
+R0003189,DOC02,SDM,SDM_CRPAB,950,sdm_reaction,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL2899,review
+R0003190,DOC02,SDM,SDM_CRPAB,717,sdm_pdi,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL2914,review
+R0003191,DOC02,SDM,SDM_CRPAB,717,sdm_reaction,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL2915,review
+R0003192,DOC02,SDM,SDM_CRPAB,19,sdm_pdi,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL3048,review
+R0003193,DOC02,SDM,SDM_CRPAB,19,sdm_reaction,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL3049,review
+R0003194,DOC02,SDM,SDM_CRPAB,470,sdm_pdi,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL3082,review
+R0003195,DOC02,SDM,SDM_CRPAB,470,sdm_reaction,9-11,EXACT_DUPLICATE_GROUP,Exact duplicate group DUP3087,review
+R0003195,DOC02,SDM,SDM_CRPAB,470,sdm_reaction,9-11,EXACT_DUPLICATE_REMOVE_FROM_CLEAN,Later occurrence of exact duplicate,review
+R0003196,DOC02,SDM,SDM_CRPAB,981,sdm_pdi,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL2960,review
+R0003197,DOC02,SDM,SDM_CRPAB,981,sdm_reaction,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL2961,review
+R0003198,DOC02,SDM,SDM_CRPAB,516,sdm_pdi,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL2896,review
+R0003199,DOC02,SDM,SDM_CRPAB,516,sdm_reaction,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL2897,review
+R0003200,DOC02,SDM,SDM_CRPAB,713,sdm_pdi,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL3054,review
+R0003201,DOC02,SDM,SDM_CRPAB,713,sdm_reaction,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL3055,review
+R0003204,DOC02,SDM,SDM_CRPAB,70,sdm_pdi,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL2998,review
+R0003205,DOC02,SDM,SDM_CRPAB,70,sdm_reaction,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL2999,review
+R0003206,DOC02,SDM,SDM_CRPAB,37,sdm_pdi,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL2916,review
+R0003207,DOC02,SDM,SDM_CRPAB,37,sdm_reaction,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL2917,review
+R0003208,DOC02,SDM,SDM_CRPAB,867,sdm_pdi,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL3044,review
+R0003209,DOC02,SDM,SDM_CRPAB,867,sdm_reaction,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL3045,review
+R0003210,DOC02,SDM,SDM_CRPAB,723,sdm_pdi,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL2932,review
+R0003211,DOC02,SDM,SDM_CRPAB,723,sdm_reaction,9-11,EXACT_DUPLICATE_GROUP,Exact duplicate group DUP2937,review
+R0003211,DOC02,SDM,SDM_CRPAB,723,sdm_reaction,9-11,EXACT_DUPLICATE_REMOVE_FROM_CLEAN,Later occurrence of exact duplicate,review
+R0003212,DOC02,SDM,SDM_CRPAB,654,sdm_pdi,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL2952,review
+R0003213,DOC02,SDM,SDM_CRPAB,654,sdm_reaction,9-11,EXACT_DUPLICATE_GROUP,Exact duplicate group DUP2957,review
+R0003213,DOC02,SDM,SDM_CRPAB,654,sdm_reaction,9-11,EXACT_DUPLICATE_REMOVE_FROM_CLEAN,Later occurrence of exact duplicate,review
+R0003214,DOC02,SDM,SDM_CRPAB,842,sdm_pdi,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL2918,review
+R0003215,DOC02,SDM,SDM_CRPAB,842,sdm_reaction,9-11,EXACT_DUPLICATE_GROUP,Exact duplicate group DUP2923,review
+R0003215,DOC02,SDM,SDM_CRPAB,842,sdm_reaction,9-11,EXACT_DUPLICATE_REMOVE_FROM_CLEAN,Later occurrence of exact duplicate,review
+R0003216,DOC02,SDM,SDM_CRPAB,791,sdm_pdi,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL2888,review
+R0003217,DOC02,SDM,SDM_CRPAB,791,sdm_reaction,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL2889,review
+R0003218,DOC02,SDM,SDM_CRPAB,839,sdm_pdi,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL3042,review
+R0003219,DOC02,SDM,SDM_CRPAB,839,sdm_reaction,9-11,EXACT_DUPLICATE_GROUP,Exact duplicate group DUP3047,review
+R0003219,DOC02,SDM,SDM_CRPAB,839,sdm_reaction,9-11,EXACT_DUPLICATE_REMOVE_FROM_CLEAN,Later occurrence of exact duplicate,review
+R0003220,DOC02,SDM,SDM_CRPAB,488,sdm_pdi,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL2992,review
+R0003221,DOC02,SDM,SDM_CRPAB,488,sdm_reaction,9-11,EXACT_DUPLICATE_GROUP,Exact duplicate group DUP2997,review
+R0003221,DOC02,SDM,SDM_CRPAB,488,sdm_reaction,9-11,EXACT_DUPLICATE_REMOVE_FROM_CLEAN,Later occurrence of exact duplicate,review
+R0003222,DOC02,SDM,SDM_CRPAB,130,sdm_pdi,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL2958,review
+R0003223,DOC02,SDM,SDM_CRPAB,130,sdm_reaction,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL2959,review
+R0003224,DOC02,SDM,SDM_CRPAB,548,sdm_pdi,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL3016,review
+R0003225,DOC02,SDM,SDM_CRPAB,548,sdm_reaction,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL3017,review
+R0003226,DOC02,SDM,SDM_CRPAB,1030,sdm_pdi,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL2940,review
+R0003227,DOC02,SDM,SDM_CRPAB,1030,sdm_reaction,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL2941,review
+R0003228,DOC02,SDM,SDM_CRPAB,1039,sdm_pdi,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL3068,review
+R0003229,DOC02,SDM,SDM_CRPAB,1039,sdm_reaction,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL3069,review
+R0003230,DOC02,SDM,SDM_CRPAB,987,sdm_pdi,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL3012,review
+R0003231,DOC02,SDM,SDM_CRPAB,987,sdm_reaction,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL3013,review
+R0003232,DOC02,SDM,SDM_CRPAB,1028,sdm_pdi,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL3002,review
+R0003233,DOC02,SDM,SDM_CRPAB,1028,sdm_reaction,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL3003,review
+R0003234,DOC02,SDM,SDM_CRPAB,997,sdm_pdi,9-11,EXACT_DUPLICATE_GROUP,Exact duplicate group DUP2994,review
+R0003234,DOC02,SDM,SDM_CRPAB,997,sdm_pdi,9-11,EXACT_DUPLICATE_REMOVE_FROM_CLEAN,Later occurrence of exact duplicate,review
+R0003235,DOC02,SDM,SDM_CRPAB,997,sdm_reaction,9-11,EXACT_DUPLICATE_GROUP,Exact duplicate group DUP2995,review
+R0003235,DOC02,SDM,SDM_CRPAB,997,sdm_reaction,9-11,EXACT_DUPLICATE_REMOVE_FROM_CLEAN,Later occurrence of exact duplicate,review
+R0003236,DOC02,SDM,SDM_CRPAB,696,sdm_pdi,9-11,MISSING_VALUE,Value is blank in master,review
+R0003236,DOC02,SDM,SDM_CRPAB,696,sdm_pdi,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL3070,review
+R0003237,DOC02,SDM,SDM_CRPAB,696,sdm_reaction,9-11,NG_NOT_GERMINATED,Not germinated marker,review
+R0003237,DOC02,SDM,SDM_CRPAB,696,sdm_reaction,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL3071,review
+R0003238,DOC02,SDM,SDM_CRPAB,52,sdm_pdi,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL2944,review
+R0003239,DOC02,SDM,SDM_CRPAB,52,sdm_reaction,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL2945,review
+R0003240,DOC02,SDM,SDM_CRPAB,895,sdm_pdi,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL2962,review
+R0003241,DOC02,SDM,SDM_CRPAB,895,sdm_reaction,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL2963,review
+R0003242,DOC02,SDM,SDM_CRPAB,13,sdm_pdi,9-11,EXACT_DUPLICATE_GROUP,Exact duplicate group DUP3026,review
+R0003242,DOC02,SDM,SDM_CRPAB,13,sdm_pdi,9-11,EXACT_DUPLICATE_REMOVE_FROM_CLEAN,Later occurrence of exact duplicate,review
+R0003243,DOC02,SDM,SDM_CRPAB,13,sdm_reaction,9-11,EXACT_DUPLICATE_GROUP,Exact duplicate group DUP3027,review
+R0003243,DOC02,SDM,SDM_CRPAB,13,sdm_reaction,9-11,EXACT_DUPLICATE_REMOVE_FROM_CLEAN,Later occurrence of exact duplicate,review
+R0003244,DOC02,SDM,SDM_CRPAB,643,sdm_pdi,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL2938,review
+R0003245,DOC02,SDM,SDM_CRPAB,643,sdm_reaction,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL2939,review
+R0003246,DOC02,SDM,SDM_CRPAB,395,sdm_pdi,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL2920,review
+R0003247,DOC02,SDM,SDM_CRPAB,395,sdm_reaction,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL2921,review
+R0003248,DOC02,SDM,SDM_CRPAB,91,sdm_pdi,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL2894,review
+R0003249,DOC02,SDM,SDM_CRPAB,91,sdm_reaction,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL2895,review
+R0003252,DOC02,SDM,SDM_CRPAB,929,sdm_pdi,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL2950,review
+R0003253,DOC02,SDM,SDM_CRPAB,929,sdm_reaction,9-11,EXACT_DUPLICATE_GROUP,Exact duplicate group DUP2955,review
+R0003253,DOC02,SDM,SDM_CRPAB,929,sdm_reaction,9-11,EXACT_DUPLICATE_REMOVE_FROM_CLEAN,Later occurrence of exact duplicate,review
+R0003254,DOC02,SDM,SDM_CRPAB,53,sdm_pdi,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL2910,review
+R0003255,DOC02,SDM,SDM_CRPAB,53,sdm_reaction,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL2911,review
+R0003256,DOC02,SDM,SDM_CRPAB,86,sdm_pdi,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL3046,review
+R0003257,DOC02,SDM,SDM_CRPAB,86,sdm_reaction,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL3047,review
+R0003258,DOC02,SDM,SDM_CRPAB,187,sdm_pdi,9-11,EXACT_DUPLICATE_GROUP,Exact duplicate group DUP2904,review
+R0003258,DOC02,SDM,SDM_CRPAB,187,sdm_pdi,9-11,EXACT_DUPLICATE_REMOVE_FROM_CLEAN,Later occurrence of exact duplicate,review
+R0003259,DOC02,SDM,SDM_CRPAB,187,sdm_reaction,9-11,EXACT_DUPLICATE_GROUP,Exact duplicate group DUP2905,review
+R0003259,DOC02,SDM,SDM_CRPAB,187,sdm_reaction,9-11,EXACT_DUPLICATE_REMOVE_FROM_CLEAN,Later occurrence of exact duplicate,review
+R0003260,DOC02,SDM,SDM_CRPAB,510,sdm_pdi,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL2978,review
+R0003261,DOC02,SDM,SDM_CRPAB,510,sdm_reaction,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL2979,review
+R0003262,DOC02,SDM,SDM_CRPAB,684,sdm_pdi,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL3076,review
+R0003263,DOC02,SDM,SDM_CRPAB,684,sdm_reaction,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL3077,review
+R0003264,DOC02,SDM,SDM_CRPAB,112,sdm_pdi,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL2974,review
+R0003265,DOC02,SDM,SDM_CRPAB,112,sdm_reaction,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL2975,review
+R0003266,DOC02,SDM,SDM_CRPAB,862,sdm_pdi,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL3008,review
+R0003267,DOC02,SDM,SDM_CRPAB,862,sdm_reaction,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL3009,review
+R0003268,DOC02,SDM,SDM_CRPAB,831,sdm_pdi,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL3066,review
+R0003269,DOC02,SDM,SDM_CRPAB,831,sdm_reaction,9-11,EXACT_DUPLICATE_GROUP,Exact duplicate group DUP3071,review
+R0003269,DOC02,SDM,SDM_CRPAB,831,sdm_reaction,9-11,EXACT_DUPLICATE_REMOVE_FROM_CLEAN,Later occurrence of exact duplicate,review
+R0003270,DOC02,SDM,SDM_CRPAB,711,sdm_pdi,9-11,EXACT_DUPLICATE_GROUP,Exact duplicate group DUP3038,review
+R0003270,DOC02,SDM,SDM_CRPAB,711,sdm_pdi,9-11,EXACT_DUPLICATE_REMOVE_FROM_CLEAN,Later occurrence of exact duplicate,review
+R0003271,DOC02,SDM,SDM_CRPAB,711,sdm_reaction,9-11,EXACT_DUPLICATE_GROUP,Exact duplicate group DUP3039,review
+R0003271,DOC02,SDM,SDM_CRPAB,711,sdm_reaction,9-11,EXACT_DUPLICATE_REMOVE_FROM_CLEAN,Later occurrence of exact duplicate,review
+R0003272,DOC02,SDM,SDM_CRPAB,1005,sdm_pdi,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL2946,review
+R0003273,DOC02,SDM,SDM_CRPAB,1005,sdm_reaction,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL2947,review
+R0003274,DOC02,SDM,SDM_CRPAB,674,sdm_pdi,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL3006,review
+R0003275,DOC02,SDM,SDM_CRPAB,674,sdm_reaction,9-11,EXACT_DUPLICATE_GROUP,Exact duplicate group DUP3011,review
+R0003275,DOC02,SDM,SDM_CRPAB,674,sdm_reaction,9-11,EXACT_DUPLICATE_REMOVE_FROM_CLEAN,Later occurrence of exact duplicate,review
+R0003276,DOC02,SDM,SDM_CRPAB,412,sdm_pdi,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL2906,review
+R0003277,DOC02,SDM,SDM_CRPAB,412,sdm_reaction,9-11,EXACT_DUPLICATE_GROUP,Exact duplicate group DUP2911,review
+R0003277,DOC02,SDM,SDM_CRPAB,412,sdm_reaction,9-11,EXACT_DUPLICATE_REMOVE_FROM_CLEAN,Later occurrence of exact duplicate,review
+R0003278,DOC02,SDM,SDM_CRPAB,171,sdm_pdi,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL2890,review
+R0003279,DOC02,SDM,SDM_CRPAB,171,sdm_reaction,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL2891,review
+R0003280,DOC02,SDM,SDM_CRPAB,832,sdm_pdi,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL2964,review
+R0003281,DOC02,SDM,SDM_CRPAB,832,sdm_reaction,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL2965,review
+R0003282,DOC02,SDM,SDM_CRPAB,746,sdm_pdi,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL3078,review
+R0003283,DOC02,SDM,SDM_CRPAB,746,sdm_reaction,9-11,EXACT_DUPLICATE_GROUP,Exact duplicate group DUP3083,review
+R0003283,DOC02,SDM,SDM_CRPAB,746,sdm_reaction,9-11,EXACT_DUPLICATE_REMOVE_FROM_CLEAN,Later occurrence of exact duplicate,review
+R0003284,DOC02,SDM,SDM_CRPAB,553,sdm_pdi,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL2924,review
+R0003285,DOC02,SDM,SDM_CRPAB,553,sdm_reaction,9-11,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL2925,review
+R0003644,DOC04,annual_report,,Total,sanctioned,9,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL3448,review
+R0003645,DOC04,annual_report,,Total,released,9,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL3449,review
+R0003646,DOC04,annual_report,,Total,utilized_percent,9,MISSING_VALUE,Value is blank in master,review
+R0003646,DOC04,annual_report,,Total,utilized_percent,9,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL3450,review
+R0003650,DOC04,annual_report,,Rabi 2023-24,sanctioned,9,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL3454,review
+R0003651,DOC04,annual_report,,Rabi 2023-24,released,9,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL3455,review
+R0003652,DOC04,annual_report,,Rabi 2023-24,utilized_percent,9,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL3456,review
+R0003653,DOC04,annual_report,,Total,sanctioned,9,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL3448,review
+R0003654,DOC04,annual_report,,Total,released,9,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL3449,review
+R0003655,DOC04,annual_report,,Total,utilized_percent,9,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL3450,review
+R0003659,DOC04,annual_report,,Rabi 2023-24,sanctioned,9,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL3454,review
+R0003660,DOC04,annual_report,,Rabi 2023-24,released,9,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL3455,review
+R0003661,DOC04,annual_report,,Rabi 2023-24,utilized_percent,9,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL3456,review
+R0003910,DOC04,budget,,Regular Budget,sanctioned_rs,9,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL3708,review
+R0003911,DOC04,budget,,Regular Budget,released_rs,9,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL3709,review
+R0003912,DOC04,budget,,Regular Budget,utilized_percent_reported,9,EXACT_DUPLICATE_GROUP,Exact duplicate group DUP3862,review
+R0003913,DOC04,budget,,Regular Budget,sanctioned_rs,9,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL3708,review
+R0003914,DOC04,budget,,Regular Budget,released_rs,9,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL3709,review
+R0003915,DOC04,budget,,Regular Budget,utilized_percent_reported,9,EXACT_DUPLICATE_GROUP,Exact duplicate group DUP3862,review
+R0003915,DOC04,budget,,Regular Budget,utilized_percent_reported,9,EXACT_DUPLICATE_REMOVE_FROM_CLEAN,Later occurrence of exact duplicate,review
+R0003916,DOC04,budget,,Regular Budget,sanctioned_rs,9,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL3708,review
+R0003917,DOC04,budget,,Regular Budget,released_rs,9,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL3709,review
+R0003918,DOC04,budget,,IIMR testing fee,sanctioned_rs,9,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL3711,review
+R0003919,DOC04,budget,,IIMR testing fee,released_rs,9,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL3712,review
+R0003920,DOC04,budget,,IIMR testing fee,utilized_percent_reported,9,EXACT_DUPLICATE_GROUP,Exact duplicate group DUP3869,review
+R0003921,DOC04,budget,,IIMR testing fee,sanctioned_rs,9,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL3711,review
+R0003922,DOC04,budget,,IIMR testing fee,released_rs,9,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL3712,review
+R0003923,DOC04,budget,,IIMR testing fee,utilized_percent_reported,9,EXACT_DUPLICATE_GROUP,Exact duplicate group DUP3869,review
+R0003923,DOC04,budget,,IIMR testing fee,utilized_percent_reported,9,EXACT_DUPLICATE_REMOVE_FROM_CLEAN,Later occurrence of exact duplicate,review
+R0003924,DOC04,budget,,IIMR testing fee,sanctioned_rs,9,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL3711,review
+R0003925,DOC04,budget,,IIMR testing fee,released_rs,9,REPEATED_ENTITY_CONFLICT_REVIEW,Conflicting observations in COL3712,review
+R0003926,DOC04,budget,,IIMR testing fee,utilized_percent_reported,9,EXACT_DUPLICATE_GROUP,Exact duplicate group DUP3869,review
+R0003926,DOC04,budget,,IIMR testing fee,utilized_percent_reported,9,EXACT_DUPLICATE_REMOVE_FROM_CLEAN,Later occurrence of exact duplicate,review
+,DOC04,source_document,,,annual_actual_rainfall,7,SOURCE_DISCREPANCY_ALREADY_IDENTIFIED,Table total = 524.4 mm; figure label says 542.4 mm.,review
+,DOC04,source_document,,,2019-20,4,SOURCE_DISCREPANCY_ALREADY_IDENTIFIED,Area total 13.97 does not equal Kharif+Rabi 15.420000000000002.,review
+,DOC04,source_document,,,2019-20,4,SOURCE_DISCREPANCY_ALREADY_IDENTIFIED,Production total 47.68 does not equal Kharif+Rabi 46.61.,review
+,DOC04,source_document,,,2020-21,4,SOURCE_DISCREPANCY_ALREADY_IDENTIFIED,Area total 17.27 does not equal Kharif+Rabi 16.81.,review
+,DOC04,source_document,,,2020-21,4,SOURCE_DISCREPANCY_ALREADY_IDENTIFIED,Production total 63.72 does not equal Kharif+Rabi 62.23.,review
+,DOC04,source_document,,,2021-22,4,SOURCE_DISCREPANCY_ALREADY_IDENTIFIED,Area total 16.42 does not equal Kharif+Rabi 16.08.,review
+,DOC04,source_document,,,2021-22,4,SOURCE_DISCREPANCY_ALREADY_IDENTIFIED,Production total 53.38 does not equal Kharif+Rabi 52.13.,review
+,DOC04,source_document,,,2023-24*,4,SOURCE_DISCREPANCY_ALREADY_IDENTIFIED,Area total 19.4 does not equal Kharif+Rabi 19.11.,review
+,DOC04,source_document,,,2023-24*,4,SOURCE_DISCREPANCY_ALREADY_IDENTIFIED,Production total 54.91 does not equal Kharif+Rabi 53.900000000000006.,review

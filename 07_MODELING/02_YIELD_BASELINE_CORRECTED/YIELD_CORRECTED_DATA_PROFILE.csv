@@ -1,0 +1,11 @@
+metric,value
+rows_before,191.0
+summary_rows_removed,33.0
+rows_after,158.0
+genotype_groups,140.0
+target_min_kg_ha,3330.0
+target_median_kg_ha,9741.5
+target_max_kg_ha,19710.0
+feature_missing_pollen_pct,0.08227848101265822
+feature_missing_dry_husk_pct,0.13291139240506328
+feature_missing_stand_pct,0.25949367088607594

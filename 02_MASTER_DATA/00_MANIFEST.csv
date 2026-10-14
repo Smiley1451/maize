@@ -1,0 +1,14 @@
+﻿file_name,rows,purpose
+01_documents_master.csv,4,source document registry
+02_experiments_master.csv,25,one row per experiment
+03_observations_long_master.csv,3289,primary model/analysis long format
+04_observations_wide_master.csv,886,experiment-level wide tables
+05_genotype_master.csv,507,genotype entity registry
+06_annual_report_facts.csv,376,structured annual report facts and narrative facts
+07_weather_monthly_2023.csv,12,monthly weather table
+08_karnataka_maize_5year.csv,5,Karnataka maize state 5-year table
+09_drought_district_master.csv,23,district drought table
+10_staff_position_master.csv,7,staff table
+11_budget_and_program_utilization.csv,10,budget/program tables
+12_source_text_by_page_all_pdfs.csv,2714,full text preservation by page
+13_data_quality_flags.csv,24,known and detected data-quality review items

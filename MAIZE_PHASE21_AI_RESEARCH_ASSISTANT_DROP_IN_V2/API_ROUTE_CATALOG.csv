@@ -1,0 +1,10 @@
+method,path,purpose
+GET,/health,assistant health
+GET,/api/v1/assistant/status,index and LLM status
+POST,/api/v1/assistant/chat,grounded AI chat
+POST,/api/v1/assistant/search,semantic project search
+POST,/api/v1/assistant/refresh-index,rebuild project knowledge index
+GET,/api/v1/assistant/sources,search project files
+GET,/api/v1/assistant/tools,available assistant tools
+GET,/api/v1/assistant/models,model artifact inventory
+POST,/api/v1/assistant/predict,direct model prediction through Phase 18/19 compatible model loader

@@ -1,0 +1,514 @@
+genotype_id_candidate,raw_name,core_name,normalized_key,raw_name_count_in_candidate_group,source_domains,source_categories,mapping_status,mapping_rule
+G0477D720AD,1005,1005,1005,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G4DD260501D,1017,1017,1017,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+GD9935E84BD,1028,1028,1028,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G5410535EBA,1030,1030,1030,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+GE0F05ED4FD,1033,1033,1033,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+GDFF17A997C,1039,1039,1039,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G361D964418,109463,109463,109463,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+GA8AB7BBC51,109466,109466,109466,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G249AD0C607,109473,109473,109473,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+GA8E59134B9,109484,109484,109484,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G9935351411,109493,109493,109493,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+GC706D907D6,109497,109497,109497,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G791D02ACBD,109514,109514,109514,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+GAD30D4C40A,109526,109526,109526,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G2CB74C5665,109530,109530,109530,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G58611E6162,109533,109533,109533,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+GC532CE6195,109534,109534,109534,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G4C81739002,109544,109544,109544,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G171434F7C6,109550,109550,109550,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G0F406B6E80,109580,109580,109580,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G436C802806,109583,109583,109583,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G8031E570C6,109614,109614,109614,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G6FC00272EB,109619,109619,109619,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G20FB6B3EFA,109642,109642,109642,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G91C2689BC8,109646,109646,109646,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+GFBC67ED5FE,109654,109654,109654,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G922D6FC43F,109657,109657,109657,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G9ECBE15F00,109659,109659,109659,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G3AA8FC5D52,109661,109661,109661,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G02D3D38B38,109667,109667,109667,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G0254F2379B,109688,109688,109688,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G8E69F399F6,109690,109690,109690,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+GCC0734E0F3,109702,109702,109702,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+GB93A6457A2,109710,109710,109710,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+GD91B30EDF3,109712,109712,109712,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G1ABDB0AA68,109715,109715,109715,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G8726A7B16A,109718,109718,109718,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+GE8F4438576,109719,109719,109719,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G23091CCA17,109726,109726,109726,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+GB2B888DC15,109727,109727,109727,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G6FBC4AE892,109728,109728,109728,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G25A05F23B0,109729,109729,109729,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G5D4B7B50FE,109732,109732,109732,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G1BA9DE1E79,109736,109736,109736,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G47AF274517,109743,109743,109743,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G2A21936970,109747,109747,109747,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+GD6175EAEA3,109753,109753,109753,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G2CB0FB821F,109754,109754,109754,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G6957EC9E3D,109761,109761,109761,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G20DBCA6C20,109765,109765,109765,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+GE910558548,109773,109773,109773,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G12A3E76117,109774,109774,109774,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G4C2DA9F252,109775,109775,109775,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G8D3D5187A7,109824,109824,109824,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G34446AF722,109844,109844,109844,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G2EB5F30C91,109845,109845,109845,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+GBBBE5A9126,109850,109850,109850,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+GC71C3CB9C1,109860,109860,109860,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G070B55801C,109864,109864,109864,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+GDCDDBBEF98,109866,109866,109866,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+GCF6118DB86,109868,109868,109868,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+GB1DA54724E,109869,109869,109869,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+GDA95793FB5,109870,109870,109870,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+GF9DC2C2112,109872,109872,109872,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G3D09F2A733,109876,109876,109876,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G79E993CA7A,109879,109879,109879,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G5FAB5F9AEF,109880,109880,109880,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G1971DDEFD6,109888,109888,109888,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G442AC9BCFB,109910,109910,109910,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G37D070F06B,109924,109924,109924,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G8ECCCD2138,109934,109934,109934,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+GA4D3F017B6,109935,109935,109935,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G9EB4DD2E8F,109936,109936,109936,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G61CB789576,109937,109937,109937,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+GD6CF0E00F8,109939,109939,109939,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G3E0675C953,109940,109940,109940,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G5287473913,109942,109942,109942,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G54104795E5,109947,109947,109947,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G43987E7CC7,109948,109948,109948,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G8BDA880922,109952,109952,109952,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G3E43592BA5,109954,109954,109954,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+GE85807B3A2,109964,109964,109964,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G2C18602A55,109971,109971,109971,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G13A1471C11,109992,109992,109992,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G23AA3C5DB5,109994,109994,109994,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G1F9CF69A6A,109996,109996,109996,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G02FB071D5D,109998,109998,109998,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G7DDF0FF210,110001,110001,110001,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G3BD7EF16FB,110007,110007,110007,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G0134D24D68,110008,110008,110008,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G93EB191E1A,110012,110012,110012,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G5E234988EA,110013,110013,110013,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+GC9A32D261E,110014,110014,110014,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G86063EF508,110020,110020,110020,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G925CFD0C68,110064,110064,110064,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G77837FDE5B,110065,110065,110065,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G6AE49C2788,110067,110067,110067,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G655241467A,110071,110071,110071,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G887B59FCB1,110076,110076,110076,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G7E2E68D97A,110114,110114,110114,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G47028C37C8,110130,110130,110130,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+GBA06689274,110134,110134,110134,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+GE37FB75477,110137,110137,110137,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G1D6F2CB8F2,110141,110141,110141,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+GE37958C63E,110154,110154,110154,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G601CA99D55,112,112,112,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G0CA9277F91,125,125,125,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+GED6938A0E4,1298,1298,1298,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+GBD307A3EC3,13,13,13,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G2A7541BABB,130,130,130,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+GE2748D183A,140977,140977,140977,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G0716D9708D,17,17,17,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G94940E534A,171,171,171,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G25293F2761,178,178,178,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+GF67462663A,187,187,187,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+GB3F0C7F6BB,19,19,19,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G9FFD1AE121,241,241,241,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G3464DC1150,246,246,246,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+GEF7DE0B7DE,271,271,271,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G05580CAED3,293,293,293,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G81C6921288,316,316,316,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G5E3DCCF82E,32129,32129,32129,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+GCB4DD52770,323,323,323,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+GFFFB8E8579,334,334,334,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G9C882D5C6A,336,336,336,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G41F448AFC8,346,346,346,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+GCB7A1D775E,37,37,37,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+GB0C68924AC,393,393,393,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G86CF294A07,395,395,395,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+GCE05292603,40402,40402,40402,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G83FDC3407C,411,411,411,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G6E9B99384F,412,412,412,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G5715AA02DE,413,413,413,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G0286DD552C,43,43,43,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+GAC3E7B007D,443,443,443,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+GD36550FC44,457,457,457,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+GF8B5F622DC,465,465,465,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+GEC2B67D546,467,467,467,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G264C3F3470,470,470,470,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G3B69DF951B,485,485,485,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+GEE16EE0FA7,488,488,488,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G07A85BD180,508,508,508,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G2D3FBCFFE8,510,510,510,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+GB903EA6300,516,516,516,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+GA9334987EC,52,52,52,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G208B9CC87A,52067,52067,52067,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+GD7BD9BA297,52336,52336,52336,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+GC5B76DA3E6,53,53,53,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+GF0483F255E,543,543,543,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G916F5B10FE,548,548,548,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G53E56691FE,553,553,553,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G859371C786,557,557,557,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+GFC8D9E6E58,569,569,569,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G4088F87E6E,586,586,586,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G08EC2EFCF0,634,634,634,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+GDCD7D0E3F3,643,643,643,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+GDB00E4FDC8,654,654,654,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G4DCEE7F85D,655,655,655,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+GEE49886656,674,674,674,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+GA79E9A409B,684,684,684,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G53C53C5D2B,689,689,689,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G4C87E5E9FC,696,696,696,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+GB7103CA278,70,70,70,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G7919AE519F,711,711,711,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G84B0B57750,713,713,713,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+GE1C1BFEBAB,717,717,717,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+GF5354C576B,723,723,723,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G6229D31868,734,734,734,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G9B3AA2709C,746,746,746,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G1382AC8C66,760,760,760,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G98079D38AB,769,769,769,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+GD04D500332,772,772,772,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+GE00988F42F,787,787,787,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+GFC1200C7A7,789,789,789,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G7325068E80,791,791,791,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G0C0266790A,798,798,798,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G872A319EE7,812,812,812,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G90B9305857,813,813,813,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+GD528EDAA45,815,815,815,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+GF022DA4E40,816,816,816,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G76546F9A64,82,82,82,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+GF4904FFC38,822,822,822,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G459B50197F,829,829,829,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G3741D59112,831,831,831,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+GE6C790B5C2,832,832,832,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+GD449B25B8D,835,835,835,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G706A957062,839,839,839,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G62362FBF88,842,842,842,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G8D163D76C5,846,846,846,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+GEBCAB2A931,855,855,855,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+GEFE76DEBC0,856,856,856,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G3C26DFFC8A,86,86,86,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G5753AB09DC,862,862,862,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G1B75F1A8FF,867,867,867,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+GC43D770FBA,870,870,870,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+GF1C6FEB7A3,895,895,895,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G4EF47A459E,896,896,896,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G4CD66DFABB,91,91,91,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+GE29F7B5C09,929,929,929,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G991E279C93,935,935,935,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+GB63C6A708F,950,950,950,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G5AF8EC20D4,960,960,960,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G32F9E6523B,981,981,981,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G8ABCDA2DBA,987,987,987,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G2C82513E25,993,993,993,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G4A839F86B1,997,997,997,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G4E5523C2F6,ABSH-1 (Check),ABSH-1,ABSH1,2,yield,check,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+G4E5523C2F6,ABSH-1(C),ABSH-1,ABSH1,2,SDM|TLB,Genotype|test_entry,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+G76D642231F,ADV 7126,ADV 7126,ADV7126,1,SDM|TLB|yield,Genotype|test|test_entry,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+G45EAE3C39F,ADV 7251,ADV 7251,ADV7251,1,SDM|TLB|yield,Genotype|test|test_entry,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+G31CE7B7FA4,ADV 7415,ADV 7415,ADV7415,1,SDM|TLB|yield,Genotype|test|test_entry,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+G35D2E898CC,ADV 7559,ADV 7559,ADV7559,1,SDM|TLB|yield,Genotype|test|test_entry,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+G9DA76FE8FA,ADV 7733,ADV 7733,ADV7733,1,SDM|TLB|yield,Genotype|test|test_entry,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+G45F617CBDB,African Tall,African Tall,AFRICANTALL,4,SDM,susceptible_check,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+G45F617CBDB,African Tall (C),African Tall,AFRICANTALL,4,SDM|TLB,Genotype|test_entry,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+G45F617CBDB,African Tall(C),African Tall,AFRICANTALL,4,SDM|TLB,Genotype|test_entry,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+G45F617CBDB,African Tall(c),African Tall,AFRICANTALL,4,TLB,Genotype,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+G7F8361E3C2,AH 4672,AH 4672,AH4672,1,SDM|TLB|yield,Genotype|test|test_entry,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+GCD15DBD481,AH 4682,AH 4682,AH4682,1,SDM|TLB|yield,Genotype|test|test_entry,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+GCD15FAEB9E,AH 7043 (Check),AH 7043,AH7043,2,yield,check,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+GCD15FAEB9E,AH 7043(C),AH 7043,AH7043,2,SDM|TLB,Genotype|test_entry,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+G681033C658,AH 8194,AH 8194,AH8194,1,SDM|TLB|yield,Genotype|test|test_entry,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+G436FF285B1,AH 8245,AH 8245,AH8245,1,SDM|TLB,Genotype|test_entry,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+GA08B3FCD4B,AH 8728,AH 8728,AH8728,1,SDM|TLB|yield,Genotype|test|test_entry,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+G49A8270349,AHD 2065,AHD 2065,AHD2065,1,SDM|TLB|yield,Genotype|test|test_entry,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+G6722555829,AHD 8721,AHD 8721,AHD8721,1,SDM|TLB|yield,Genotype|test|test_entry,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+G44F0CF41FE,AHD 8722,AHD 8722,AHD8722,1,SDM|TLB|yield,Genotype|test|test_entry,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+G6F9C92E780,APCH 4,APCH 4,APCH4,1,SDM|TLB|yield,Genotype|test|test_entry,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+G7DD6F3F23D,APQH1,APQH1,APQH1,1,SDM|TLB|yield,Genotype|test|test_entry,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+G0125FB3CBB,APQH5,APQH5,APQH5,1,SDM|TLB|yield,Genotype|test|test_entry,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+G0E3C46DF7B,APQH7,APQH7,APQH7,1,SDM|TLB|yield,Genotype|test|test_entry,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+G58B55F5C29,ASKH 4 (Check),ASKH 4,ASKH4,2,yield,check,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+G58B55F5C29,ASKH 4(C),ASKH 4,ASKH4,2,SDM|TLB,Genotype|test_entry,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+GC82E30B71B,BAUMH 21-1,BAUMH 21-1,BAUMH211,1,SDM|TLB|yield,Genotype|test|test_entry,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+GF422887390,BAUMH 21-1-1,BAUMH 21-1-1,BAUMH2111,1,SDM|TLB|yield,Genotype|test|test_entry,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+GE07F3D7017,BAUMH 21-3,BAUMH 21-3,BAUMH213,1,SDM|TLB|yield,Genotype|test|test_entry,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+G287B00F8D2,BAUMH 21-4,BAUMH 21-4,BAUMH214,2,SDM|yield,test|test_entry,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+G287B00F8D2,BAUMH21-4,BAUMH21-4,BAUMH214,2,TLB,Genotype,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+G91D218B01F,BAUMH 21-8,BAUMH 21-8,BAUMH218,1,SDM|TLB|yield,Genotype|test|test_entry,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+GCB4FF63C08,BH 417157,BH 417157,BH417157,1,SDM|TLB|yield,Genotype|test|test_entry,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+G50010BD6F9,BH 417167,BH 417167,BH417167,1,SDM|TLB|yield,Genotype|test|test_entry,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+GB86713F91C,BH 417182,BH 417182,BH417182,1,SDM|TLB|yield,Genotype|test|test_entry,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+G344CAE2AF0,BH 417193,BH 417193,BH417193,1,SDM|TLB|yield,Genotype|test|test_entry,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+G7CB4EFC4AC,BH 417206,BH 417206,BH417206,1,SDM|TLB|yield,Genotype|test|test_entry,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+G1F58713428,BIO 9544 (C),BIO 9544,BIO9544,6,SDM|TLB,Genotype|test_entry,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+G1F58713428,BIO 9544(C),BIO 9544,BIO9544,6,SDM|TLB,Genotype|test_entry,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+G1F58713428,BIO-9544 (NC),BIO-9544,BIO9544,6,yield,NC,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+G1F58713428,Bio 9544 (Check),Bio 9544,BIO9544,6,yield,check,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+G1F58713428,Bio-9544,Bio-9544,BIO9544,6,yield,NC,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+G1F58713428,Bio-9544 (NC),Bio-9544,BIO9544,6,yield,NC,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+GC3F7BD178C,BMH 18-2,BMH 18-2,BMH182,2,yield,test,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+GC3F7BD178C,BMH-18-2,BMH-18-2,BMH182,2,SDM|TLB,Genotype|test_entry,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+G2E25A73C87,BPCH 6 (Check),BPCH 6,BPCH6,2,yield,check,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+G2E25A73C87,BPCH6 (C),BPCH6,BPCH6,2,SDM|TLB,Genotype|test_entry,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+GA6E634F4BF,BRM 19-1,BRM 19-1,BRM191,2,yield,test,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+GA6E634F4BF,BRM19-1,BRM19-1,BRM191,2,SDM|TLB,Genotype|test_entry,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+G9314FD4F45,BRM 19-2,BRM 19-2,BRM192,1,SDM|TLB|yield,Genotype|test|test_entry,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+G6292C3FBDC,BS 650,BS 650,BS650,1,SDM|TLB|yield,Genotype|test|test_entry,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+G1D5B585A0D,BS 652,BS 652,BS652,1,SDM|TLB|yield,Genotype|test|test_entry,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+G2E2533C37A,BSCH 418184,BSCH 418184,BSCH418184,1,SDM|TLB|yield,Genotype|test|test_entry,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+G17F5D14698,CAL-1443,CAL-1443,CAL1443,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G71A1851F06,C.D @ (5%),C.D @ (5%),CD5,4,yield,,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+G71A1851F06,C.D @ 5%,C.D @ 5%,CD5,4,yield,,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+G71A1851F06,CD @ (5%),CD @ (5%),CD5,4,yield,,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+G71A1851F06,CD @ 5%,CD @ 5%,CD5,4,yield,,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+G1E0A78229C,CHCP 2204,CHCP 2204,CHCP2204,1,SDM|TLB|yield,Genotype|test|test_entry,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+G0C0ACBE875,CHCP 2205,CHCP 2205,CHCP2205,1,SDM|TLB|yield,Genotype|test|test_entry,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+G839B216F34,CHCP 2206,CHCP 2206,CHCP2206,1,SDM|TLB|yield,Genotype|test|test_entry,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+G44BB5FD8E6,CHCP 2207,CHCP 2207,CHCP2207,1,SDM|TLB,Genotype|test_entry,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+G11E5FF5984,CM - 202,CM - 202,CM202,2,TLB,SC,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+G11E5FF5984,CM-202,CM-202,CM202,2,TLB,SC,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+GEED8B63708,CM 600 (C),CM 600,CM600,2,SDM|TLB,Genotype|test_entry,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+GEED8B63708,CM 600(C),CM 600,CM600,2,SDM|TLB,Genotype|test_entry,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+GACE84D95F5,CMH 08-282 (filler),CMH 08-282,CMH08282,1,yield,filler,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+GF0E77A7D0B,CML-451,CML-451,CML451,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+GE7B21E2495,CML-581,CML-581,CML581,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G1EB7DE4D9A,CML-582,CML-582,CML582,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+GEEDDD2B948,CMVL Baby corn 1 (check),CMVL Baby corn 1,CMVLBABYCORN1,2,yield,check,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+GEEDDD2B948,CMVL Baby corn 1(C),CMVL Baby corn 1,CMVLBABYCORN1,2,SDM|TLB,Genotype|test_entry,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+G313CB61AC9,CP -201,CP -201,CP201,1,yield,test,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G9136303879,CP -202,CP -202,CP202,1,yield,test,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G8963B0F409,C.V (%),C.V (%),CV,2,yield,,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+G8963B0F409,CV (%),CV (%),CV,2,yield,,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+G4D91E5D668,DHM 117 (Check),DHM 117,DHM117,4,yield,check,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+G4D91E5D668,DHM 117 (check),DHM 117,DHM117,4,yield,check,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+G4D91E5D668,DHM 117(C),DHM 117,DHM117,4,SDM|TLB,Genotype|test_entry,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+G4D91E5D668,DHM 117(Filler),DHM 117,DHM117,4,SDM|TLB,Genotype|test_entry,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+G740DC5ABD5,DKC 8225,DKC 8225,DKC8225,1,SDM|TLB|yield,Genotype|test|test_entry,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+G6D0DECE7F8,DM 9445,DM 9445,DM9445,1,SDM|TLB|yield,Genotype|test|test_entry,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+G73B125328B,DMH 117 (C),DMH 117,DMH117,1,yield,check,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+GF97CFCC6F4,DMRHP 1402 (Check),DMRHP 1402,DMRHP1402,2,yield,check,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+GF97CFCC6F4,DMRHP 1402(C),DMRHP 1402,DMRHP1402,2,SDM|TLB,Genotype|test_entry,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+GA2FFAB41C2,Ellora Commando 1112,Ellora Commando 1112,ELLORACOMMANDO1112,2,yield,test,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+GA2FFAB41C2,Ellora Commando1112,Ellora Commando1112,ELLORACOMMANDO1112,2,SDM,test_entry,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+G5A85BA7D9A,Ellora Commando112,Ellora Commando112,ELLORACOMMANDO112,1,TLB,Genotype,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G7EB9A53B26,Ellora Virat-12,Ellora Virat-12,ELLORAVIRAT12,1,SDM|TLB|yield,Genotype|test|test_entry,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+G6DEDC70C5F,General Mean,General Mean,GENERALMEAN,2,yield,,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+G6DEDC70C5F,General mean,General mean,GENERALMEAN,2,yield,,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+G40BB4F8A07,HI BRIX 33,HI BRIX 33,HIBRIX33,1,SDM|TLB|yield,Genotype|test|test_entry,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+G362C139EA5,HI BRIX 59,HI BRIX 59,HIBRIX59,1,SDM|TLB|yield,Genotype|test|test_entry,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+G31ACB72649,HI BRIX 81,HI BRIX 81,HIBRIX81,2,SDM|yield,test|test_entry,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+G31ACB72649,HI BRIX81,HI BRIX81,HIBRIX81,2,TLB,Genotype,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+G91934C20BA,HPC 4,HPC 4,HPC4,1,SDM|TLB|yield,Genotype|test|test_entry,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+G3BA247DF81,HPC 5,HPC 5,HPC5,1,SDM|TLB,Genotype|test_entry,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+GC9ED8B88CF,HQPM1 (C),HQPM1,HQPM1,2,SDM,test_entry,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+GC9ED8B88CF,HQPM1(C),HQPM1,HQPM1,2,TLB,Genotype,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+GBA0DE32140,HQPM-5 (Check),HQPM-5,HQPM5,2,yield,check,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+GBA0DE32140,HQPM-5(C),HQPM-5,HQPM5,2,SDM|TLB,Genotype|test_entry,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+G1AB93EB621,HQPM-7 (Check),HQPM-7,HQPM7,2,yield,check,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+G1AB93EB621,HQPM-7(C),HQPM-7,HQPM7,2,SDM|TLB,Genotype|test_entry,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+G7E14DF8CF9,IBH 9-224,IBH 9-224,IBH9224,1,SDM|TLB|yield,Genotype|test|test_entry,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+G8FEB4DFBF9,IBH9-225,IBH9-225,IBH9225,1,SDM|TLB|yield,Genotype|test|test_entry,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+G71AADAA2C4,IIVRBCH 1613,IIVRBCH 1613,IIVRBCH1613,2,yield,test,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+G71AADAA2C4,IIVRBCH-1613,IIVRBCH-1613,IIVRBCH1613,2,SDM|TLB,Genotype|test_entry,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+G57985DC2E6,IMH 2-22R-1,IMH 2-22R-1,IMH222R1,1,SDM|TLB|yield,Genotype|test|test_entry,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+GC830634712,IMH 2-22R-10,IMH 2-22R-10,IMH222R10,1,SDM|TLB|yield,Genotype|test|test_entry,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+GEF20B2C218,IMH 2-22R-11,IMH 2-22R-11,IMH222R11,1,SDM|TLB|yield,Genotype|test|test_entry,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+G22AAFC242A,IMH 2-22R-12,IMH 2-22R-12,IMH222R12,1,SDM|TLB|yield,Genotype|test|test_entry,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+G3FFE5C8C4E,IMH 2-22R-2,IMH 2-22R-2,IMH222R2,1,SDM|TLB|yield,Genotype|test|test_entry,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+G952F24B710,IMH 2-22R-3,IMH 2-22R-3,IMH222R3,1,SDM|TLB|yield,Genotype|test|test_entry,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+G204D93421A,IMH 2-22R-4,IMH 2-22R-4,IMH222R4,1,SDM|TLB|yield,Genotype|test|test_entry,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+G9298904CFD,IMH 2-22R-5,IMH 2-22R-5,IMH222R5,1,SDM|TLB|yield,Genotype|test|test_entry,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+G297AF6EF0B,IMH 2-22R-6,IMH 2-22R-6,IMH222R6,1,SDM|TLB|yield,Genotype|test|test_entry,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+GCAB27499AE,IMH 2-22R-7,IMH 2-22R-7,IMH222R7,1,SDM|TLB|yield,Genotype|test|test_entry,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+G4A38CAF768,IMH 2-22R-8,IMH 2-22R-8,IMH222R8,1,SDM|TLB|yield,Genotype|test|test_entry,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+GCCEEAF617F,IMH 2-22R-9,IMH 2-22R-9,IMH222R9,1,SDM|TLB|yield,Genotype|test|test_entry,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+G3BE2884F08,IMHP 2101,IMHP 2101,IMHP2101,1,SDM|TLB|yield,Genotype|test|test_entry,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+G167319775B,IMHSB 20R-10,IMHSB 20R-10,IMHSB20R10,1,SDM|TLB|yield,Genotype|test|test_entry,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+G9042595B54,IMHSB 20R-11,IMHSB 20R-11,IMHSB20R11,1,SDM|TLB|yield,Genotype|test|test_entry,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+G47CB0367C0,IMHSB 20R-3,IMHSB 20R-3,IMHSB20R3,1,SDM|TLB|yield,Genotype|test|test_entry,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+G666F738DC9,IMHSB 20R-6,IMHSB 20R-6,IMHSB20R6,1,SDM|TLB|yield,Genotype|test|test_entry,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+G50C9372CC6,IMHSB 21R-7,IMHSB 21R-7,IMHSB21R7,1,SDM|TLB|yield,Genotype|test|test_entry,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+G8355E8AED4,IPH 2-22R-1,IPH 2-22R-1,IPH222R1,1,SDM|TLB|yield,Genotype|test|test_entry,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+G3990E2BB8C,IQH7-215,IQH7-215,IQH7215,1,SDM|TLB|yield,Genotype|test|test_entry,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+G9B6EE0C5D8,IQH7-219,IQH7-219,IQH7219,1,SDM|TLB|yield,Genotype|test|test_entry,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+G47D2EE0FE4,KHM 25K45 (C),KHM 25K45,KHM25K45,2,yield,check,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+G47D2EE0FE4,KHM 25K45(C),KHM 25K45,KHM25K45,2,SDM|TLB,Genotype|test_entry,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+G1E419F27F6,KMH 22-5,KMH 22-5,KMH225,1,SDM|TLB|yield,Genotype|test|test_entry,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+G98A8A2590D,KMH25K45 (Check),KMH25K45,KMH25K45,1,yield,check,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G3C914AF8CF,KMH 8333,KMH 8333,KMH8333,1,SDM|TLB|yield,Genotype|test|test_entry,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+GE4E695E2F7,KMH 8543,KMH 8543,KMH8543,1,SDM|TLB|yield,Genotype|test|test_entry,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+GAB6789E860,KMH 8585,KMH 8585,KMH8585,1,SDM|TLB|yield,Genotype|test|test_entry,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+G5B504931C2,Location Mean,Location Mean,LOCATIONMEAN,1,yield,,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+GB335894EB1,LPCH 3 (Check),LPCH 3,LPCH3,2,yield,check,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+GB335894EB1,LPCH3 (C),LPCH3,LPCH3,2,SDM|TLB,Genotype|test_entry,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+G9EB950E9F5,LQMH1 (Check),LQMH1,LQMH1,2,yield,check,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+G9EB950E9F5,LQMH1(C),LQMH1,LQMH1,2,SDM|TLB,Genotype|test_entry,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+G8B8311C784,MAH 14-138,MAH 14-138,MAH14138,2,yield,test,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+G8B8311C784,MAH-14-138,MAH-14-138,MAH14138,2,SDM|yield,test|test_entry,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+GB9DF289F3B,MAH 14-5,MAH 14-5,MAH145,3,yield,LC,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+GB9DF289F3B,MAH-14-5,MAH-14-5,MAH145,3,SDM|TLB,RC|test_entry,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+GB9DF289F3B,MAH-14-5 (LC),MAH-14-5,MAH145,3,yield,LC,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+GC7A3F5574C,MAH 15-84,MAH 15-84,MAH1584,2,yield,test,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+GC7A3F5574C,MAH-15-84,MAH-15-84,MAH1584,2,yield,test,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+GD01952E182,MAH 19-2,MAH 19-2,MAH192,2,yield,test,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+GD01952E182,MAH-19-2,MAH-19-2,MAH192,2,SDM|yield,test|test_entry,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+G3232DF7B48,MAH-21-501,MAH-21-501,MAH21501,1,yield,test,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G871258ABF0,MAH-22-1,MAH-22-1,MAH221,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G8FF0C3B5D2,MAH-22-107,MAH-22-107,MAH22107,1,yield,test,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G6D0FD1D7C1,MAH-22-11,MAH-22-11,MAH2211,1,yield,test,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G8D45D95CF9,MAH-22-113,MAH-22-113,MAH22113,1,yield,test,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G7C9FBC7A1E,MAH-22-12,MAH-22-12,MAH2212,1,yield,test,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G964278009D,MAH-22-16,MAH-22-16,MAH2216,1,yield,test,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G048C1EC921,MAH-22-17,MAH-22-17,MAH2217,1,yield,test,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+GD868DFEE66,MAH-22-2,MAH-22-2,MAH222,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G4D778EF688,MAH-22-21,MAH-22-21,MAH2221,1,yield,test,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G9F5874CCAF,MAH-22-22,MAH-22-22,MAH2222,1,yield,test,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+GAE0FA11304,MAH-22-23,MAH-22-23,MAH2223,1,yield,test,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G44DF87097C,MAH-22-28,MAH-22-28,MAH2228,1,yield,test,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G821DDA42F7,MAH-22-3,MAH-22-3,MAH223,1,SDM|yield,test|test_entry,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+G06E9D075B7,MAH-22-32,MAH-22-32,MAH2232,1,yield,test,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+GF59275A765,MAH-22-33,MAH-22-33,MAH2233,1,yield,test,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G8DF28D12A8,MAH-22-4,MAH-22-4,MAH224,1,SDM|yield,test|test_entry,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+G8FE32A97EC,MAH-22-46,MAH-22-46,MAH2246,1,yield,test,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G0B5DCC0F23,MAH-22-5,MAH-22-5,MAH225,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+GB234050DA1,MAH-22-55,MAH-22-55,MAH2255,1,yield,test,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+GBBE44326D3,MAH-22-80,MAH-22-80,MAH2280,1,yield,test,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G6962FFE47D,MAH-22-83,MAH-22-83,MAH2283,1,yield,test,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G92BF00DC63,MAH-22-9,MAH-22-9,MAH229,1,yield,test,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+GD0411851C6,MAI-1,MAI-1,MAI1,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G92C0B5CD61,MAI-10,MAI-10,MAI10,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G33B0B0BB78,MAI-10-1,MAI-10-1,MAI101,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+GB324289EFB,MAI-105,MAI-105,MAI105,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G0C3F440B22,MAI-12,MAI-12,MAI12,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+GDAD97FC373,MAI-13,MAI-13,MAI13,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G664AE2A7B1,MAI-142,MAI-142,MAI142,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G512FC7D442,MAI-2,MAI-2,MAI2,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+GBA0EFFF7CB,MAI-20,MAI-20,MAI20,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G543B2AA052,MAI-204-1,MAI-204-1,MAI2041,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+GA41C23C958,MAI-215,MAI-215,MAI215,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G3F2C3CFEE0,MAI-215-1,MAI-215-1,MAI2151,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G955705A090,MAI-224,MAI-224,MAI224,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+GA316250D6F,MAI 276,MAI 276,MAI276,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G25BA7EA542,MAI-3,MAI-3,MAI3,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+GDDA78DED45,MAI-7,MAI-7,MAI7,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G9940D605B9,MAI-729,MAI-729,MAI729,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G88083EB8B5,MAI 753,MAI 753,MAI753,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G53C4294A2F,MAI 755,MAI 755,MAI755,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+GDCCF5F1C8F,MAI-8,MAI-8,MAI8,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G06DC31CB17,MBC 21-10,MBC 21-10,MBC2110,1,SDM|TLB|yield,Genotype|test|test_entry,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+G59D884BE29,MBC 22-32,MBC 22-32,MBC2232,1,SDM|TLB|yield,Genotype|test|test_entry,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+GA386CEB5A9,MISHTI (Check),MISHTI,MISHTI,2,yield,check,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+GA386CEB5A9,MISHTI(C),MISHTI,MISHTI,2,SDM|TLB,Genotype|test_entry,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+G46DE995060,MMH 22-45,MMH 22-45,MMH2245,1,SDM|TLB|yield,Genotype|test|test_entry,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+G4CB085E19B,MMH 22-52,MMH 22-52,MMH2252,1,SDM|TLB|yield,Genotype|test|test_entry,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+G4E1C3E8A27,MMH 22-62,MMH 22-62,MMH2262,1,SDM|TLB|yield,Genotype|test|test_entry,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+G0E858CF075,MMH 22-67,MMH 22-67,MMH2267,1,SDM|TLB|yield,Genotype|test|test_entry,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+G70EC4AC87E,MPC 2141,MPC 2141,MPC2141,1,SDM|TLB|yield,Genotype|test|test_entry,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+GFCCEB0DC83,MPCH 22-22,MPCH 22-22,MPCH2222,1,SDM|TLB|yield,Genotype|test|test_entry,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+G4525E77A5D,MQH 21-51,MQH 21-51,MQH2151,1,SDM|TLB|yield,Genotype|test|test_entry,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+GE529419982,MSCH 22- 28,MSCH 22- 28,MSCH2228,2,SDM|TLB,Genotype|test_entry,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+GE529419982,MSCH 22-28,MSCH 22-28,MSCH2228,2,yield,test,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+G65D7039C60,NAH 1137,NAH 1137,NAH1137,2,SDM,resistant_check,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+G65D7039C60,NAH-1137,NAH-1137,NAH1137,2,SDM,resistant_check|test_entry,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+G85BCAF7C0E,NAH-2049-1,NAH-2049-1,NAH20491,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+GB40DE7E415,NAH-2049 - I,NAH-2049 - I,NAH2049I,1,yield,test,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G2FEBBFBC20,NAH- 2049 II,NAH- 2049 II,NAH2049II,2,SDM,test_entry,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+G2FEBBFBC20,NAH-2049 -II,NAH-2049 -II,NAH2049II,2,yield,test,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+G4867218336,NAI-137,NAI-137,NAI137,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G32971515DD,NAI-137-6,NAI-137-6,NAI1376,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+GBD76D8A02D,NAI-137-7,NAI-137-7,NAI1377,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+GDD135F2E20,NAI 204-1,NAI 204-1,NAI2041,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+GF4661A113C,NMH 713 (C),NMH 713,NMH713,3,yield,check,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+GF4661A113C,NMH 713 (Check),NMH 713,NMH713,3,yield,check,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+GF4661A113C,NMH 713(C),NMH 713,NMH713,3,SDM|TLB,Genotype|test_entry,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+G3773972FE7,OMH 22R-2,OMH 22R-2,OMH22R2,1,SDM|TLB|yield,Genotype|test|test_entry,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+G59C9407662,P 3522 (C),P 3522,P3522,2,SDM|TLB|yield,Genotype|check|test_entry,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+G59C9407662,P 3522 (Check),P 3522,P3522,2,yield,check,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+GAE07F56B94,PM20205L,PM20205L,PM20205L,1,SDM|yield,test|test_entry,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+G5248E6BA78,PM2020SL,PM2020SL,PM2020SL,1,TLB,Genotype,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+GE4139919C5,PM21204L,PM21204L,PM21204L,1,SDM|TLB|yield,Genotype|test|test_entry,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+GAFECF995E0,PM21207L,PM21207L,PM21207L,1,SDM|TLB|yield,Genotype|test|test_entry,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+GB8EF6C6997,PM 22201L,PM 22201L,PM22201L,1,SDM|TLB|yield,Genotype|test|test_entry,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+G325C23E117,PM 22202L,PM 22202L,PM22202L,1,SDM|TLB|yield,Genotype|test|test_entry,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+G2E8E38822B,PM 22203L,PM 22203L,PM22203L,1,SDM|TLB|yield,Genotype|test|test_entry,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+GFE62121474,PM 22204L,PM 22204L,PM22204L,1,SDM|TLB|yield,Genotype|test|test_entry,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+G81FDF9BE59,PM 22205L,PM 22205L,PM22205L,1,SDM|TLB|yield,Genotype|test|test_entry,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+G7DED04BC15,PM 22206L,PM 22206L,PM22206L,1,SDM|TLB|yield,Genotype|test|test_entry,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+GE6C44474CF,PM 22207L,PM 22207L,PM22207L,1,SDM|TLB|yield,Genotype|test|test_entry,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+GAB559330EC,PM 22208L,PM 22208L,PM22208L,1,SDM|TLB|yield,Genotype|test|test_entry,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+GD22DB789AC,PP 09,PP 09,PP09,1,SDM|TLB|yield,Genotype|test|test_entry,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+G3B3928AA84,PP II,PP II,PPII,1,SDM|TLB|yield,Genotype|test|test_entry,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+GFFC11E7493,PUSA BIOFORTIFIED MAIZE HYBRID-1,PUSA BIOFORTIFIED MAIZE HYBRID-1,PUSABIOFORTIFIEDMAIZEHYBRID1,2,yield,check,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+GFFC11E7493,PUSA BIOFORTIFIED MAIZE HYBRID-1(C),PUSA BIOFORTIFIED MAIZE HYBRID-1,PUSABIOFORTIFIEDMAIZEHYBRID1,2,SDM|TLB,Genotype|test_entry,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+G58D1ADF674,QPM 25,QPM 25,QPM25,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G06630CC3A8,QPM 26,QPM 26,QPM26,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G58EE251C18,QPM 26-1,QPM 26-1,QPM261,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G96E30E22C3,QPMMH 22-35,QPMMH 22-35,QPMMH2235,1,SDM|TLB|yield,Genotype|test|test_entry,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+GADF0B55463,Rank (1M),Rank (1M),RANK1M,1,yield,test,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G218B30C673,SKV 50,SKV 50,SKV50,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G39EF37BD3A,SKV-50-6,SKV-50-6,SKV506,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+GE13E713E08,SKV-50 TALL,SKV-50 TALL,SKV50TALL,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+GABE11D4B83,SMH 6222,SMH 6222,SMH6222,1,SDM|TLB|yield,Genotype|test|test_entry,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+G1DBD4B1C0D,SMH 6333,SMH 6333,SMH6333,1,SDM|TLB|yield,Genotype|test|test_entry,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+GC7883CBFFA,SNL-172494,SNL-172494,SNL172494,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+GDDA69957E4,SNL-18965,SNL-18965,SNL18965,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+GA478FE41E3,SNL-191172,SNL-191172,SNL191172,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+GF369B47153,SNL-19123,SNL-19123,SNL19123,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G46865F370D,SNL-191l161,SNL-191l161,SNL191L161,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G9DF9EB1BDD,SNL-19388,SNL-19388,SNL19388,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G83C309C3F2,SNL-20158,SNL-20158,SNL20158,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G43649A36DE,SNL-20640,SNL-20640,SNL20640,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+GEA20DE7BFB,SURYA (C),SURYA,SURYA,2,SDM|TLB,Genotype|test_entry,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+GEA20DE7BFB,Surya (C),Surya,SURYA,2,SDM|TLB,Genotype|test_entry,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+GC80C1C1A8F,SYN207660,SYN207660,SYN207660,1,SDM|TLB|yield,Genotype|test|test_entry,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+G828087BF0E,SYN207884,SYN207884,SYN207884,1,SDM|TLB|yield,Genotype|test|test_entry,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+G3D32604AB5,SYN217806,SYN217806,SYN217806,1,SDM|TLB|yield,Genotype|test|test_entry,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+G538877F201,SYN 227 705,SYN 227 705,SYN227705,2,yield,test,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+G538877F201,SYN 227705,SYN 227705,SYN227705,2,SDM|TLB,Genotype|test_entry,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+GCF40E858DD,SYN 227808,SYN 227808,SYN227808,1,SDM|TLB|yield,Genotype|test|test_entry,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+G77B43159BF,SYN 227809,SYN 227809,SYN227809,1,SDM|TLB|yield,Genotype|test|test_entry,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+G4972156344,TMMH 2845,TMMH 2845,TMMH2845,1,SDM|TLB|yield,Genotype|test|test_entry,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+G780A6EBD4A,TMMH 2882,TMMH 2882,TMMH2882,1,SDM|TLB|yield,Genotype|test|test_entry,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+G7E3B99E2D5,V-496-7,V-496-7,V4967,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G7DE7E3FE69,V-940-31,V-940-31,V94031,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G6F65E25FBE,VAH 20001,VAH 20001,VAH20001,1,SDM|TLB|yield,Genotype|test|test_entry,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+GC933DCC53F,VL-1110501,VL-1110501,VL1110501,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G4DCE94E883,VL-133728,VL-133728,VL133728,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+GC37AA3151D,VL-181418,VL-181418,VL181418,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+GD9494EBBE0,VL-181520,VL-181520,VL181520,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G82CCB5058D,VL-181545,VL-181545,VL181545,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G96E822378A,VL-181763,VL-181763,VL181763,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G9AA2116026,VL-18260,VL-18260,VL18260,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+GEDEEB0CF9B,VL-183003,VL-183003,VL183003,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G1C8669720B,VL-18322,VL-18322,VL18322,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G1C8477297E,VL-184578,VL-184578,VL184578,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G192EF6DE7E,VL-185586,VL-185586,VL185586,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G4BBF3764CD,VL-18560,VL-18560,VL18560,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G44A4261927,VL-18708,VL-18708,VL18708,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+GA639594966,VL-18722,VL-18722,VL18722,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G2DA08C023C,VL-18726,VL-18726,VL18726,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+GF4EC1BAE64,VL-18730,VL-18730,VL18730,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G0F484A9283,VL-191001,VL-191001,VL191001,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G90987B0193,VL-191073,VL-191073,VL191073,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G9EFC655E8A,VL-19957,VL-19957,VL19957,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G856020E641,VL-19978,VL-19978,VL19978,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+GDA87184898,VL-20227,VL-20227,VL20227,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+GFED5287A8D,VL-21927,VL-21927,VL21927,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G596CB5FAA4,VL-21966,VL-21966,VL21966,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G3B6C6EF380,VL-21986,VL-21986,VL21986,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G484359D0CF,VL-21988,VL-21988,VL21988,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G9D564201E2,VL-22294,VL-22294,VL22294,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G7D0815D263,VL-22302,VL-22302,VL22302,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+GF1F61D9081,VL-22308,VL-22308,VL22308,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+GB1B590268C,VL-22327,VL-22327,VL22327,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G5877C5C3C2,VL-22435,VL-22435,VL22435,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+GC34C8E6F33,VL-22452,VL-22452,VL22452,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G7849DFF108,VL-22461,VL-22461,VL22461,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G3F0B1A4B6A,VL Sweet Corn (check),VL Sweet Corn,VLSWEETCORN,2,yield,check,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+G3F0B1A4B6A,VL Sweet Corn(C),VL Sweet Corn,VLSWEETCORN,2,SDM|TLB,Genotype|test_entry,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+G872AF726D2,VNR 4597,VNR 4597,VNR4597,1,SDM|TLB|yield,Genotype|test|test_entry,UNVERIFIED,strip_check_qualifier + normalize spaces/punctuation/case
+GA9FE4D3A53,ZL-17578,ZL-17578,ZL17578,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case
+G507AAD3DB0,ZL-18869,ZL-18869,ZL18869,1,SDM,test_entry,SAFE_UNIQUE,strip_check_qualifier + normalize spaces/punctuation/case

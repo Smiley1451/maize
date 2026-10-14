@@ -1,0 +1,2 @@
+stage,status,weather_rows,disease_month_or_day_target_rows,reason
+weather_risk,BLOCKED_PENDING_LINKAGE,12,0,"Monthly weather exists, but no verified date/location aligned disease outcome table was supplied. Use config/WEATHER_DISEASE_LINKED_TEMPLATE.csv as the required schema."

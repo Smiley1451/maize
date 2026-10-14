@@ -1,0 +1,10 @@
+﻿{
+    "state":  "DONE",
+    "current":  13,
+    "completed":  [
+                      "10",
+                      "11",
+                      "12"
+                  ],
+    "last_failed":  0
+}

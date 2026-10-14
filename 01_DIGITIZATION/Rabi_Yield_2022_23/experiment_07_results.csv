@@ -1,0 +1,12 @@
+﻿sl_no,genotype,row_type,entry_role,status_note,days_50_pollen_shedding,days_50_silking,plant_stand_per_ha,tss_pct,plant_height_cm,ear_height_cm,green_cob_yield_without_husk_kg_per_ha,green_cob_yield_with_husk_kg_per_ha
+1,BSCH 418184,entry,test,,64,66,60764,14.7,167,77,16875,20556
+2,HI BRIX 33,entry,test,,70,72,40972,12.6,180,80,12188,18021
+3,HI BRIX 59,entry,test,,70,72,43750,14.3,176,82,16319,20208
+4,HI BRIX 81,entry,test,,71,73,54861,13.9,201,102,20139,25000
+5,MSCH 22-28,entry,test,,64,66,41667,16.6,170,89,8993,11983
+6,ASKH 4 (Check),check,check,,66,68,56944,16.3,200,103,12014,15035
+7,MISHTI (Check),check,check,,65,67,62500,14.7,164,75,18299,21667
+8,VL Sweet Corn (check),check,check,,63,65,60764,15.5,170,72,10590,12431
+,General Mean,summary,,general_mean,66.7,68.5,52777.8,14.8,178.5,85.0,14427.1,18112.41
+,C.D @ (5%),summary,,cd_5pct,1.75,2.21,12910.4,5.98,19.16,14.6,3237.3,4429.79
+,C.V (%),summary,,cv_pct,1.5,1.84,13.97,1.55,6.13,9.8,12.81,13.97
